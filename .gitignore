@@ -1,0 +1,7 @@
+# Private strategy docs
+STRATEGY-*.md
+CLAUDE-CODE-INSTRUCTIONS.md
+AgentFinder-Concept-V2.docx
+
+# OS files
+.DS_Store

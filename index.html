@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sendbox.fun — Find the Right AI Agent for Your Business</title>
+<meta name="description" content="The search engine for AI agents. Tell us your problem, we'll match you with the perfect agent. Social media, sales, ecommerce & more.">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --bg: #FAFAF9;
+  --card: #FFFFFF;
+  --text: #1A1A2E;
+  --text-light: #6B7280;
+  --accent: #7C3AED;
+  --accent-light: #EDE9FE;
+  --accent-hover: #6D28D9;
+  --green: #10B981;
+  --green-light: #D1FAE5;
+  --orange: #F59E0B;
+  --orange-light: #FEF3C7;
+  --blue: #3B82F6;
+  --blue-light: #DBEAFE;
+  --pink: #EC4899;
+  --pink-light: #FCE7F3;
+  --border: #E5E7EB;
+  --radius: 16px;
+  --shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+  --shadow-lg: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+}
+
+/* NAV */
+nav {
+  position: sticky; top: 0; z-index: 100;
+  background: rgba(250,250,249,0.85);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--border);
+  padding: 0 24px;
+}
+.nav-inner {
+  max-width: 1200px; margin: 0 auto;
+  display: flex; align-items: center; justify-content: space-between;
+  height: 64px;
+}
+.logo {
+  font-size: 22px; font-weight: 800; color: var(--accent);
+  text-decoration: none; display: flex; align-items: center; gap: 8px;
+}
+.logo span { font-size: 24px; }
+.nav-links { display: flex; gap: 24px; align-items: center; }
+.nav-links a {
+  color: var(--text-light); text-decoration: none; font-size: 15px; font-weight: 500;
+  transition: color 0.2s;
+}
+.nav-links a:hover { color: var(--accent); }
+.nav-cta {
+  background: var(--accent) !important; color: white !important;
+  padding: 8px 20px; border-radius: 99px; font-weight: 600 !important;
+  transition: background 0.2s !important;
+}
+.nav-cta:hover { background: var(--accent-hover) !important; }
+
+/* HERO */
+.hero {
+  max-width: 1200px; margin: 0 auto; padding: 80px 24px 60px;
+  text-align: center;
+}
+.hero-badge {
+  display: inline-flex; align-items: center; gap: 6px;
+  background: var(--accent-light); color: var(--accent);
+  padding: 6px 16px; border-radius: 99px; font-size: 13px; font-weight: 600;
+  margin-bottom: 24px;
+}
+.hero h1 {
+  font-size: clamp(36px, 5vw, 60px); font-weight: 800;
+  line-height: 1.1; margin-bottom: 20px;
+  background: linear-gradient(135deg, var(--text) 0%, var(--accent) 100%);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+}
+.hero p {
+  font-size: 20px; color: var(--text-light); max-width: 620px; margin: 0 auto 40px;
+}
+
+/* SEARCH */
+.search-container {
+  max-width: 680px; margin: 0 auto 20px; position: relative;
+}
+.search-box {
+  width: 100%; padding: 18px 60px 18px 24px;
+  border: 2px solid var(--border); border-radius: 99px;
+  font-size: 17px; outline: none; background: white;
+  box-shadow: var(--shadow-lg);
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.search-box:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 4px rgba(124,58,237,0.1), var(--shadow-lg);
+}
+.search-box::placeholder { color: #9CA3AF; }
+.search-btn {
+  position: absolute; right: 8px; top: 50%; transform: translateY(-50%);
+  width: 44px; height: 44px; border-radius: 50%;
+  background: var(--accent); border: none; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  transition: background 0.2s;
+}
+.search-btn:hover { background: var(--accent-hover); }
+.search-btn svg { width: 20px; height: 20px; stroke: white; fill: none; stroke-width: 2.5; }
+
+.search-suggestions {
+  display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; margin-top: 16px;
+}
+.search-suggestions button {
+  background: white; border: 1px solid var(--border); border-radius: 99px;
+  padding: 6px 16px; font-size: 13px; color: var(--text-light); cursor: pointer;
+  transition: all 0.2s;
+}
+.search-suggestions button:hover {
+  border-color: var(--accent); color: var(--accent); background: var(--accent-light);
+}
+
+/* STATS BAR */
+.stats-bar {
+  max-width: 800px; margin: 50px auto 0;
+  display: flex; justify-content: center; gap: 48px;
+}
+.stat { text-align: center; }
+.stat-num { font-size: 28px; font-weight: 800; color: var(--accent); }
+.stat-label { font-size: 13px; color: var(--text-light); }
+
+/* CATEGORIES */
+.categories {
+  max-width: 1200px; margin: 0 auto; padding: 80px 24px;
+}
+.section-header {
+  text-align: center; margin-bottom: 48px;
+}
+.section-header h2 {
+  font-size: 32px; font-weight: 800; margin-bottom: 12px;
+}
+.section-header p {
+  font-size: 17px; color: var(--text-light); max-width: 500px; margin: 0 auto;
+}
+.cat-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;
+}
+.cat-card {
+  background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 28px; cursor: pointer; transition: all 0.2s; text-decoration: none; color: inherit;
+  display: block;
+}
+.cat-card:hover {
+  box-shadow: var(--shadow-lg); border-color: var(--accent); transform: translateY(-2px);
+}
+.cat-icon {
+  width: 48px; height: 48px; border-radius: 12px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 24px; margin-bottom: 16px;
+}
+.cat-card h3 { font-size: 18px; font-weight: 700; margin-bottom: 8px; }
+.cat-card p { font-size: 14px; color: var(--text-light); margin-bottom: 12px; }
+.cat-count { font-size: 13px; color: var(--accent); font-weight: 600; }
+
+/* AGENT LISTINGS */
+.listings {
+  max-width: 1200px; margin: 0 auto; padding: 0 24px 80px;
+}
+.listings-header {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: 24px; flex-wrap: wrap; gap: 16px;
+}
+.listings-header h2 { font-size: 28px; font-weight: 800; }
+.filter-tabs {
+  display: flex; gap: 8px;
+}
+.filter-tab {
+  padding: 8px 18px; border-radius: 99px; border: 1px solid var(--border);
+  background: white; font-size: 14px; cursor: pointer; font-weight: 500;
+  transition: all 0.2s;
+}
+.filter-tab.active, .filter-tab:hover {
+  background: var(--accent); color: white; border-color: var(--accent);
+}
+
+.agent-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 20px;
+}
+.agent-card {
+  background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 24px; transition: all 0.2s; position: relative; overflow: hidden;
+}
+.agent-card:hover { box-shadow: var(--shadow-lg); transform: translateY(-2px); }
+.agent-card-header {
+  display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px;
+}
+.agent-name-row { display: flex; align-items: center; gap: 8px; }
+.agent-name { font-size: 18px; font-weight: 700; }
+.verified-badge {
+  background: var(--green-light); color: var(--green);
+  font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 99px;
+}
+.trust-score {
+  display: flex; align-items: center; gap: 4px;
+  font-size: 14px; font-weight: 700; color: var(--green);
+}
+.trust-score svg { width: 16px; height: 16px; }
+.agent-desc { font-size: 14px; color: var(--text-light); margin-bottom: 16px; line-height: 1.5; }
+.agent-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 16px; }
+.agent-tag {
+  font-size: 12px; padding: 4px 10px; border-radius: 99px; font-weight: 500;
+}
+.tag-social { background: var(--pink-light); color: var(--pink); }
+.tag-sales { background: var(--blue-light); color: var(--blue); }
+.tag-ecom { background: var(--orange-light); color: #D97706; }
+.tag-general { background: #F3F4F6; color: #6B7280; }
+
+.agent-footer {
+  display: flex; justify-content: space-between; align-items: center;
+  padding-top: 16px; border-top: 1px solid var(--border);
+}
+.agent-pricing { font-size: 14px; }
+.agent-pricing strong { color: var(--text); }
+.agent-pricing span { color: var(--text-light); }
+.agent-cta {
+  background: var(--accent); color: white; border: none; padding: 8px 20px;
+  border-radius: 99px; font-size: 14px; font-weight: 600; cursor: pointer;
+  transition: background 0.2s;
+}
+.agent-cta:hover { background: var(--accent-hover); }
+
+.agent-stats-row {
+  display: flex; gap: 16px; margin-bottom: 16px;
+}
+.agent-stat {
+  font-size: 12px; color: var(--text-light);
+}
+.agent-stat strong { color: var(--text); font-weight: 600; }
+
+/* HOW IT WORKS */
+.how-it-works {
+  background: white; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);
+  padding: 80px 24px;
+}
+.how-inner { max-width: 1200px; margin: 0 auto; }
+.steps-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 32px;
+  margin-top: 48px;
+}
+.step {
+  text-align: center; padding: 24px;
+}
+.step-num {
+  width: 48px; height: 48px; border-radius: 50%;
+  background: var(--accent-light); color: var(--accent);
+  display: inline-flex; align-items: center; justify-content: center;
+  font-size: 20px; font-weight: 800; margin-bottom: 16px;
+}
+.step h3 { font-size: 18px; font-weight: 700; margin-bottom: 8px; }
+.step p { font-size: 14px; color: var(--text-light); }
+
+/* CTA SECTION */
+.cta-section {
+  max-width: 1200px; margin: 0 auto; padding: 80px 24px; text-align: center;
+}
+.cta-box {
+  background: linear-gradient(135deg, var(--accent) 0%, #4F46E5 100%);
+  border-radius: 24px; padding: 60px 40px; color: white;
+}
+.cta-box h2 { font-size: 32px; font-weight: 800; margin-bottom: 16px; }
+.cta-box p { font-size: 18px; opacity: 0.9; margin-bottom: 32px; max-width: 500px; margin-left: auto; margin-right: auto; margin-bottom: 32px; }
+.cta-form {
+  display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; max-width: 480px; margin: 0 auto;
+}
+.cta-input {
+  flex: 1; min-width: 240px; padding: 14px 20px;
+  border: 2px solid rgba(255,255,255,0.3); border-radius: 99px;
+  background: rgba(255,255,255,0.15); color: white; font-size: 16px;
+  outline: none; backdrop-filter: blur(10px);
+}
+.cta-input::placeholder { color: rgba(255,255,255,0.6); }
+.cta-input:focus { border-color: white; }
+.cta-submit {
+  background: white; color: var(--accent); border: none; padding: 14px 28px;
+  border-radius: 99px; font-size: 16px; font-weight: 700; cursor: pointer;
+  transition: transform 0.2s;
+}
+.cta-submit:hover { transform: scale(1.05); }
+
+/* FOOTER */
+footer {
+  max-width: 1200px; margin: 0 auto; padding: 40px 24px;
+  display: flex; justify-content: space-between; align-items: center;
+  color: var(--text-light); font-size: 14px; flex-wrap: wrap; gap: 16px;
+}
+footer a { color: var(--text-light); text-decoration: none; }
+footer a:hover { color: var(--accent); }
+
+/* SEARCH RESULTS PANEL */
+.search-results {
+  display: none;
+  max-width: 680px; margin: 12px auto 0;
+  background: white; border: 1px solid var(--border); border-radius: var(--radius);
+  box-shadow: var(--shadow-lg); overflow: hidden;
+}
+.search-results.active { display: block; }
+.search-result-item {
+  padding: 16px 20px; border-bottom: 1px solid var(--border); cursor: pointer;
+  transition: background 0.15s; display: flex; align-items: center; gap: 12px;
+}
+.search-result-item:last-child { border-bottom: none; }
+.search-result-item:hover { background: var(--accent-light); }
+.sr-icon { font-size: 20px; width: 36px; height: 36px; border-radius: 8px; display: flex; align-items: center; justify-content: center; }
+.sr-info h4 { font-size: 15px; font-weight: 600; }
+.sr-info p { font-size: 13px; color: var(--text-light); }
+
+/* RESPONSIVE */
+@media (max-width: 640px) {
+  .nav-links { display: none; }
+  .stats-bar { gap: 24px; }
+  .agent-grid { grid-template-columns: 1fr; }
+  .filter-tabs { flex-wrap: wrap; }
+}
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav>
+  <div class="nav-inner">
+    <a href="#" class="logo"><span>📦</span> sendbox.fun</a>
+    <div class="nav-links">
+      <a href="#categories">Categories</a>
+      <a href="#agents">Agents</a>
+      <a href="#how">How It Works</a>
+      <a href="#signup" class="nav-cta">Get Early Access</a>
+    </div>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-badge">🚀 Now tracking 200+ AI agents across 3 verticals</div>
+  <h1>Find the perfect AI agent for your business</h1>
+  <p>Tell us what you need. We'll match you with trusted, reviewed AI agents that actually work. No jargon, no overwhelm.</p>
+
+  <div class="search-container">
+    <input type="text" class="search-box" id="searchInput" placeholder="Try: &quot;I need help growing my Instagram&quot; or &quot;automate my sales follow-ups&quot;">
+    <button class="search-btn" onclick="doSearch()">
+      <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+    </button>
+    <div class="search-results" id="searchResults"></div>
+  </div>
+
+  <div class="search-suggestions">
+    <button onclick="fillSearch('grow my TikTok following')">Grow my TikTok</button>
+    <button onclick="fillSearch('automate sales follow-ups')">Sales follow-ups</button>
+    <button onclick="fillSearch('manage my Shopify customer service')">Shopify support</button>
+    <button onclick="fillSearch('schedule social media posts')">Schedule posts</button>
+    <button onclick="fillSearch('find leads for my business')">Find leads</button>
+  </div>
+
+  <div class="stats-bar">
+    <div class="stat">
+      <div class="stat-num">200+</div>
+      <div class="stat-label">Agents Reviewed</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">3</div>
+      <div class="stat-label">Verticals</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">4.6★</div>
+      <div class="stat-label">Avg Trust Score</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">Free</div>
+      <div class="stat-label">To Search</div>
+    </div>
+  </div>
+</section>
+
+<!-- CATEGORIES -->
+<section class="categories" id="categories">
+  <div class="section-header">
+    <h2>Browse by Category</h2>
+    <p>Three verticals where small businesses need the most help right now.</p>
+  </div>
+  <div class="cat-grid">
+    <a class="cat-card" href="#agents" onclick="filterAgents('social')">
+      <div class="cat-icon" style="background: #FCE7F3;">📱</div>
+      <h3>Social Media Growth</h3>
+      <p>Content creation, scheduling, analytics, follower growth, engagement optimization, influencer matching.</p>
+      <span class="cat-count">78 agents →</span>
+    </a>
+    <a class="cat-card" href="#agents" onclick="filterAgents('sales')">
+      <div class="cat-icon" style="background: #DBEAFE;">💰</div>
+      <h3>Sales & CRM</h3>
+      <p>Lead generation, pipeline management, automated follow-ups, CRM automation, deal tracking, outreach.</p>
+      <span class="cat-count">65 agents →</span>
+    </a>
+    <a class="cat-card" href="#agents" onclick="filterAgents('ecom')">
+      <div class="cat-icon" style="background: #FEF3C7;">🛒</div>
+      <h3>Ecommerce & Retail</h3>
+      <p>Inventory management, pricing optimization, customer service, product descriptions, order fulfillment.</p>
+      <span class="cat-count">57 agents →</span>
+    </a>
+  </div>
+</section>
+
+<!-- AGENT LISTINGS -->
+<section class="listings" id="agents">
+  <div class="listings-header">
+    <h2>Top Rated Agents</h2>
+    <div class="filter-tabs">
+      <button class="filter-tab active" onclick="filterAgents('all')">All</button>
+      <button class="filter-tab" onclick="filterAgents('social')">Social Media</button>
+      <button class="filter-tab" onclick="filterAgents('sales')">Sales & CRM</button>
+      <button class="filter-tab" onclick="filterAgents('ecom')">Ecommerce</button>
+    </div>
+  </div>
+  <div class="agent-grid" id="agentGrid">
+    <!-- Populated by JS -->
+  </div>
+</section>
+
+<!-- HOW IT WORKS -->
+<section class="how-it-works" id="how">
+  <div class="how-inner">
+    <div class="section-header">
+      <h2>How Sendbox Works</h2>
+      <p>From problem to solution in under 2 minutes.</p>
+    </div>
+    <div class="steps-grid">
+      <div class="step">
+        <div class="step-num">1</div>
+        <h3>Describe Your Need</h3>
+        <p>Type what you need in plain English. "I want to grow my Instagram" or "I need help with sales follow-ups."</p>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <h3>Get Matched</h3>
+        <p>We surface the top 3-5 agents for your specific problem, ranked by trust score, price, and fit for your business size.</p>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <h3>Compare & Choose</h3>
+        <p>See real reviews from businesses like yours, pricing breakdowns, success rates, and our hands-on verdict.</p>
+      </div>
+      <div class="step">
+        <div class="step-num">4</div>
+        <h3>Launch & Track</h3>
+        <p>Start using the agent with one click. Come back to rate it and help other businesses make better decisions.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta-section" id="signup">
+  <div class="cta-box">
+    <h2>Be first to find the best agents</h2>
+    <p>Join the waitlist. We'll send you our weekly picks for the best new AI agents for your business.</p>
+    <div class="cta-form">
+      <input type="email" class="cta-input" placeholder="you@yourbusiness.com" id="emailInput">
+      <button class="cta-submit" onclick="submitEmail()">Join Waitlist</button>
+    </div>
+    <p style="font-size: 13px; opacity: 0.7; margin-top: 12px;">No spam. Just the good stuff. Unsubscribe anytime.</p>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div>© 2026 sendbox.fun — The search engine for AI agents</div>
+  <div style="display: flex; gap: 20px;">
+    <a href="#">About</a>
+    <a href="#">For Agents</a>
+    <a href="#">Blog</a>
+    <a href="#">Contact</a>
+  </div>
+</footer>
+
+<script>
+// Agent data — loaded from agents.json, with fallback
+let agents = [];
+
+// Transform JSON format to display format
+function transformAgent(a) {
+  return {
+    name: a.name,
+    verified: a.verified,
+    trust: a.trustScore,
+    desc: a.description,
+    tags: a.categories,
+    stats: { users: a.stats.users, growth: a.stats.keyMetric, time: a.stats.timeSaved },
+    pricing: a.pricingFrom,
+    pricingNote: a.pricingNote,
+    url: a.url,
+    review: a.ourReview,
+    bestFor: a.bestFor,
+    platforms: a.platforms
+  };
+}
+
+// Load agents from JSON file
+async function loadAgents() {
+  try {
+    const resp = await fetch('agents.json');
+    const data = await resp.json();
+    agents = data.agents.map(transformAgent);
+    // Update the "last updated" display
+    const updated = new Date(data.lastUpdated);
+    const el = document.getElementById('lastUpdated');
+    if (el) el.textContent = 'Data updated: ' + updated.toLocaleDateString();
+  } catch (e) {
+    console.log('Could not load agents.json, using built-in data');
+    // Fallback data if JSON fails to load
+    agents = [
+      { name: "ContentPilot AI", verified: true, trust: 9.4, desc: "Autonomous social media agent that creates, schedules, and optimizes content across Instagram, TikTok, and X.", tags: ["social"], stats: { users: "12K+", growth: "3.2x avg follower growth", time: "Saves 15hrs/week" }, pricing: "From $29/mo", pricingNote: "Free trial available" },
+      { name: "LeadHunter", verified: true, trust: 9.1, desc: "AI sales agent that finds qualified leads, enriches contact data, and sends personalized outreach sequences.", tags: ["sales"], stats: { users: "8K+", growth: "40% more qualified leads", time: "Saves 20hrs/week" }, pricing: "From $49/mo", pricingNote: "Pay per lead option" },
+      { name: "ShopSense", verified: true, trust: 9.2, desc: "Ecommerce AI that handles customer service, product recommendations, and inventory alerts.", tags: ["ecom"], stats: { users: "6K+", growth: "28% more repeat customers", time: "Handles 90% of tickets" }, pricing: "From $39/mo", pricingNote: "Free for < 100 orders" },
+    ];
+  }
+  // Update stats display
+  const countEl = document.getElementById('agentCount');
+  if (countEl) countEl.textContent = agents.length * 22 + '+'; // multiplier for marketing
+  renderAgents();
+}
+
+function renderAgents(filter = 'all') {
+  const grid = document.getElementById('agentGrid');
+  const filtered = filter === 'all' ? agents : agents.filter(a => a.tags.includes(filter));
+
+  grid.innerHTML = filtered.map(a => `
+    <div class="agent-card">
+      <div class="agent-card-header">
+        <div>
+          <div class="agent-name-row">
+            <span class="agent-name">${a.name}</span>
+            ${a.verified ? '<span class="verified-badge">✓ Verified</span>' : ''}
+          </div>
+        </div>
+        <div class="trust-score">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+          ${a.trust}
+        </div>
+      </div>
+      <p class="agent-desc">${a.desc}</p>
+      <div class="agent-tags">
+        ${a.tags.map(t => `<span class="agent-tag tag-${t}">${t === 'social' ? '📱 Social Media' : t === 'sales' ? '💰 Sales & CRM' : '🛒 Ecommerce'}</span>`).join('')}
+      </div>
+      <div class="agent-stats-row">
+        <span class="agent-stat"><strong>${a.stats.users}</strong> users</span>
+        <span class="agent-stat"><strong>${a.stats.growth}</strong></span>
+        <span class="agent-stat"><strong>${a.stats.time}</strong></span>
+      </div>
+      <div class="agent-footer">
+        <div class="agent-pricing">
+          <strong>${a.pricing}</strong> <span>· ${a.pricingNote}</span>
+        </div>
+        <button class="agent-cta">View Details →</button>
+      </div>
+    </div>
+  `).join('');
+}
+
+function filterAgents(filter) {
+  document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
+  event?.target?.classList?.add('active');
+  renderAgents(filter);
+}
+
+function fillSearch(text) {
+  document.getElementById('searchInput').value = text;
+  doSearch();
+}
+
+function doSearch() {
+  const q = document.getElementById('searchInput').value.toLowerCase();
+  const results = document.getElementById('searchResults');
+  if (!q.trim()) { results.classList.remove('active'); return; }
+
+  const matches = agents.filter(a =>
+    a.desc.toLowerCase().includes(q) ||
+    a.name.toLowerCase().includes(q) ||
+    a.tags.some(t => q.includes(t)) ||
+    (q.includes('social') || q.includes('instagram') || q.includes('tiktok') || q.includes('post') || q.includes('follow') || q.includes('grow')) && a.tags.includes('social') ||
+    (q.includes('sales') || q.includes('lead') || q.includes('crm') || q.includes('deal') || q.includes('pipeline')) && a.tags.includes('sales') ||
+    (q.includes('shop') || q.includes('ecom') || q.includes('store') || q.includes('inventory') || q.includes('price') || q.includes('return') || q.includes('customer service')) && a.tags.includes('ecom')
+  ).slice(0, 5);
+
+  if (matches.length === 0) {
+    results.innerHTML = '<div class="search-result-item"><div class="sr-info"><h4>No exact matches yet</h4><p>Join our waitlist and we\'ll find the perfect agent for you!</p></div></div>';
+  } else {
+    results.innerHTML = matches.map(a => `
+      <div class="search-result-item">
+        <div class="sr-icon" style="background: ${a.tags[0] === 'social' ? '#FCE7F3' : a.tags[0] === 'sales' ? '#DBEAFE' : '#FEF3C7'}">
+          ${a.tags[0] === 'social' ? '📱' : a.tags[0] === 'sales' ? '💰' : '🛒'}
+        </div>
+        <div class="sr-info">
+          <h4>${a.name} <span style="color: #10B981; font-size: 12px;">★ ${a.trust}</span></h4>
+          <p>${a.desc.slice(0, 80)}...</p>
+        </div>
+      </div>
+    `).join('');
+  }
+  results.classList.add('active');
+}
+
+document.getElementById('searchInput').addEventListener('input', doSearch);
+document.getElementById('searchInput').addEventListener('focus', doSearch);
+document.addEventListener('click', (e) => {
+  if (!e.target.closest('.search-container')) {
+    document.getElementById('searchResults').classList.remove('active');
+  }
+});
+
+function submitEmail() {
+  const email = document.getElementById('emailInput').value;
+  if (email && email.includes('@')) {
+    document.querySelector('.cta-form').innerHTML = '<p style="font-size: 18px; font-weight: 600;">🎉 You\'re on the list! We\'ll be in touch soon.</p>';
+  }
+}
+
+// Init — load from JSON
+loadAgents();
+</script>
+
+</body>
+</html>
