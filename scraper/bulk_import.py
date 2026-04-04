@@ -321,6 +321,185 @@ TOOLS = [
     make_entry("Heap", "https://heap.io", "Digital insights platform with autocapture and AI-powered session replay analysis.", ["analytics"], "Custom pricing", "Free plan available", "freemium", [], ["product-teams"], ["product-analytics", "autocapture"], "2013"),
     make_entry("PostHog", "https://posthog.com", "Open-source product analytics, feature flags, session replay, and A/B testing platform.", ["analytics", "dev-tools"], "$0 (usage-based)", "Free 1M events/mo", "freemium", [], ["developers", "product-teams"], ["product-analytics", "open-source"], "2020"),
     make_entry("FullStory", "https://www.fullstory.com", "Digital experience intelligence with AI-powered session replay and friction analysis.", ["analytics"], "Custom pricing", "14-day free trial", "subscription", [], ["product-teams", "enterprises"], ["session-replay", "experience"], "2014"),
+
+    # ── ENTERPRISE AI AGENT PLATFORMS ─────────────────────
+    make_entry("Salesforce Agentforce", "https://www.salesforce.com/agentforce/", "Salesforce's autonomous AI agent platform managing customer lifecycle across service, sales, and marketing.", ["assistant", "customer-service", "sales"], "$2/conversation", "Demo available", "usage-based", ["Salesforce"], ["enterprises"], ["autonomous-agent", "enterprise"], "2024"),
+    make_entry("Microsoft Copilot", "https://copilot.microsoft.com", "Microsoft's AI assistant integrated across Microsoft 365, Windows, and enterprise tools.", ["assistant", "productivity"], "$30/user/mo", "Free version available", "freemium", ["Microsoft 365", "Windows", "Teams", "Outlook"], ["enterprises", "everyone"], ["ai-assistant", "enterprise"], "2023"),
+    make_entry("Glean", "https://www.glean.com", "Enterprise AI search and work assistant that finds information across all your company's apps.", ["assistant", "research"], "Custom pricing", "Demo available", "subscription", ["Slack", "Google Drive", "Notion", "Jira", "Salesforce"], ["enterprises"], ["enterprise-search", "rag"], "2019"),
+    make_entry("Moveworks", "https://www.moveworks.com", "AI assistant for enterprise employees handling IT, HR, and operations support conversationally.", ["assistant", "customer-service"], "Custom pricing", "Demo available", "subscription", ["Slack", "Teams"], ["enterprises"], ["employee-support", "enterprise"], "2016"),
+    make_entry("Sierra AI", "https://sierra.ai", "AI customer experience platform with conversational agents for enterprise support.", ["customer-service"], "Custom pricing", "Demo available", "subscription", [], ["enterprises"], ["ai-agent", "customer-experience"], "2023"),
+    make_entry("Decagon", "https://decagon.ai", "AI customer service agents with human-level reasoning for enterprise support automation.", ["customer-service"], "Custom pricing", "Demo available", "subscription", ["Zendesk", "Salesforce"], ["enterprises"], ["ai-agent", "customer-service"], "2023"),
+    make_entry("Cognigy", "https://www.cognigy.com", "Enterprise conversational AI platform for voice and chat customer service agents.", ["customer-service"], "Custom pricing", "Demo available", "subscription", [], ["enterprises"], ["voice-ai", "chatbot"], "2016"),
+    make_entry("Aisera", "https://aisera.com", "Agentic AI platform for IT, HR, sales, and customer service automation at enterprise scale.", ["customer-service", "assistant"], "Custom pricing", "Demo available", "subscription", [], ["enterprises"], ["enterprise-ai", "automation"], "2017"),
+    make_entry("Kore.ai", "https://kore.ai", "Enterprise conversational AI platform for deploying agents across voice, chat, and workflows.", ["customer-service", "assistant"], "Custom pricing", "Free tier available", "freemium", [], ["enterprises"], ["conversational-ai", "voice"], "2014"),
+
+    # ── NEW AI AGENT BUILDERS ─────────────────────────────
+    make_entry("Gumloop", "https://www.gumloop.com", "Visual no-code AI agent builder for automating workflows with drag-and-drop nodes.", ["automation", "dev-tools"], "$24/mo", "Free plan available", "freemium", [], ["business-users", "solopreneurs"], ["no-code", "visual-builder"], "2024"),
+    make_entry("Relay.app", "https://www.relay.app", "Human-in-the-loop AI workflow automation with visual builder and app integrations.", ["automation"], "$9/user/mo", "Free plan available", "freemium", [], ["small-teams", "solopreneurs"], ["no-code", "workflow"], "2022"),
+    make_entry("StackAI", "https://www.stack-ai.com", "No-code AI agent platform for building knowledge-based assistants and back-office automations.", ["automation", "dev-tools"], "$199/mo", "Free trial", "subscription", [], ["enterprises", "agencies"], ["no-code", "rag"], "2023"),
+    make_entry("Beam AI", "https://beam.ai", "Agentic AI platform with pre-built agents and custom agent builder for enterprise operations.", ["automation"], "Custom pricing", "Demo available", "subscription", [], ["enterprises"], ["agents", "operations"], "2024"),
+    make_entry("n8n", "https://n8n.io", "Open-source workflow automation with AI nodes, 400+ integrations, and self-hosting option.", ["automation"], "$20/mo", "Free self-hosted", "freemium", [], ["developers", "power-users"], ["workflow-automation", "open-source"], "2019"),
+    make_entry("Tasklet", "https://tasklet.ai", "AI agent that connects to every tool you use and takes real actions — pulling reports, updating CRMs, triaging emails.", ["automation", "productivity"], "Contact sales", "Demo available", "subscription", [], ["small-teams", "solopreneurs"], ["agent", "integrations"], "2024"),
+    make_entry("Userlens", "https://www.userlens.ai", "AI agents monitoring user behavior to catch churn signals months early in SaaS products.", ["analytics", "customer-service"], "Custom pricing", "Demo available", "subscription", [], ["saas-teams"], ["churn-prediction", "analytics"], "2024"),
+    make_entry("Arzule", "https://arzule.com", "Partnership intelligence platform using AI agents to monitor SaaS ecosystem for opportunities.", ["sales"], "Custom pricing", "Demo available", "subscription", [], ["saas-teams"], ["partnerships", "intelligence"], "2024"),
+
+    # ── AUTONOMOUS AGENTS ─────────────────────────────────
+    make_entry("AgentGPT", "https://agentgpt.reworkd.ai", "Browser-based no-code platform for assembling, configuring, and deploying autonomous AI agents.", ["dev-tools"], "$40/mo", "Free tier available", "freemium", [], ["developers", "hobbyists"], ["autonomous-agent", "no-code"], "2023"),
+    make_entry("AutoGPT", "https://agpt.co", "Open-source autonomous AI agent attempting complex goals by breaking them into sub-tasks.", ["dev-tools"], "Free (API costs)", "Open source", "free", ["Python"], ["developers"], ["autonomous-agent", "open-source"], "2023"),
+    make_entry("BabyAGI", "https://github.com/yoheinakajima/babyagi", "Autonomous task management AI that creates, prioritizes, and executes tasks toward objectives.", ["dev-tools"], "Free", "Open source", "free", ["Python"], ["developers"], ["autonomous-agent", "open-source"], "2023"),
+    make_entry("Superagent", "https://www.superagent.sh", "Open-source framework and cloud platform for building AI assistants and agents.", ["dev-tools"], "$20/mo", "Free self-hosted", "freemium", [], ["developers"], ["framework", "open-source"], "2023"),
+    make_entry("Open Interpreter", "https://openinterpreter.com", "Code interpreter letting LLMs execute code locally on your computer for any task.", ["dev-tools", "productivity"], "Free", "Open source", "free", [], ["developers", "power-users"], ["code-interpreter", "open-source"], "2023"),
+    make_entry("HyperWrite Self-Operating Computer", "https://www.hyperwriteai.com/self-operating-computer", "AI agent that operates a computer using mouse and keyboard to complete tasks.", ["dev-tools"], "$19/mo", "Free plan available", "freemium", [], ["developers", "power-users"], ["computer-use", "agent"], "2023"),
+
+    # ── BROWSER & WEB AUTOMATION AGENTS ───────────────────
+    make_entry("Browser Use", "https://browser-use.com", "Open-source library enabling AI to control browsers for web automation tasks.", ["dev-tools", "automation"], "Free", "Open source + cloud", "freemium", ["Playwright"], ["developers"], ["browser-automation", "open-source"], "2024"),
+    make_entry("Skyvern", "https://www.skyvern.com", "AI browser automation using computer vision to understand and interact with any website.", ["automation", "dev-tools"], "$99/mo", "Free tier available", "freemium", [], ["developers", "businesses"], ["browser-automation", "vision"], "2024"),
+    make_entry("Multi-On", "https://www.multion.ai", "Personal AI agent that browses the web and completes tasks on your behalf.", ["productivity"], "$20/mo", "Free trial", "subscription", [], ["consumers", "power-users"], ["browser-agent", "personal-ai"], "2023"),
+    make_entry("Adept ACT-1", "https://www.adept.ai", "AI foundation models for actions that use software like a human would.", ["dev-tools"], "Custom pricing", "Enterprise only", "subscription", [], ["enterprises"], ["action-models", "enterprise"], "2022"),
+    make_entry("Induced AI", "https://www.induced.ai", "AI agent that uses a real browser to automate repetitive workflows for businesses.", ["automation"], "Custom pricing", "Demo available", "subscription", [], ["enterprises"], ["browser-automation"], "2023"),
+
+    # ── VOICE AI AGENTS ───────────────────────────────────
+    make_entry("Vapi", "https://vapi.ai", "Developer platform for building voice AI agents with low-latency speech and any LLM.", ["dev-tools"], "Pay-as-you-go", "Free credits to start", "usage-based", [], ["developers"], ["voice-ai", "api"], "2023"),
+    make_entry("Retell AI", "https://www.retellai.com", "Voice AI platform for building human-like conversational agents for phone calls.", ["dev-tools", "customer-service"], "$0.07/min", "Free credits", "usage-based", [], ["developers", "businesses"], ["voice-ai", "phone"], "2023"),
+    make_entry("Bland AI", "https://www.bland.ai", "AI phone calling platform for building agents that handle inbound and outbound calls.", ["sales", "customer-service"], "$0.09/min", "Free trial", "usage-based", [], ["businesses", "sales-teams"], ["voice-ai", "phone-agents"], "2023"),
+    make_entry("Air AI", "https://www.air.ai", "AI phone agents that hold 10-40 minute conversations for sales and customer service.", ["sales", "customer-service"], "Custom pricing", "Demo available", "subscription", [], ["enterprises", "sales-teams"], ["voice-ai", "phone"], "2023"),
+    make_entry("PolyAI", "https://poly.ai", "Enterprise voice AI platform for customer-led conversations across industries.", ["customer-service"], "Custom pricing", "Demo available", "subscription", [], ["enterprises"], ["voice-ai", "enterprise"], "2017"),
+
+    # ── SEARCH & DISCOVERY ────────────────────────────────
+    make_entry("You.com", "https://you.com", "AI-powered search engine with conversational answers, citations, and customizable modes.", ["assistant", "research"], "$15/mo", "Free plan available", "freemium", [], ["everyone"], ["ai-search"], "2020"),
+    make_entry("Andi Search", "https://andisearch.com", "Ad-free AI search engine that shows answers instead of links with visual results.", ["research"], "Free", "Completely free", "free", [], ["everyone"], ["ai-search"], "2021"),
+    make_entry("Phind", "https://www.phind.com", "AI search engine for developers with code-aware answers and technical documentation.", ["coding", "research"], "$17/mo", "Free plan available", "freemium", [], ["developers"], ["developer-search"], "2022"),
+    make_entry("Metaphor", "https://metaphor.systems", "Neural search engine that finds content by meaning and intent rather than keywords.", ["research", "dev-tools"], "API pricing", "Free credits", "usage-based", [], ["developers", "researchers"], ["semantic-search"], "2022"),
+    make_entry("Kagi", "https://kagi.com", "Premium ad-free search engine with AI assistant integration and customizable results.", ["research"], "$10/mo", "Free trial", "subscription", [], ["power-users"], ["privacy-search"], "2022"),
+
+    # ── PERSONAL KNOWLEDGE & NOTES ────────────────────────
+    make_entry("Mem", "https://get.mem.ai", "AI-powered note-taking app that organizes thoughts, meetings, and ideas automatically.", ["productivity"], "$14.99/mo", "Free trial", "subscription", [], ["knowledge-workers"], ["notes", "ai-organization"], "2019"),
+    make_entry("Reflect Notes", "https://reflect.app", "Note-taking app with GPT-4 integration for backlinking and generating ideas.", ["productivity"], "$10/mo", "Free trial", "subscription", [], ["knowledge-workers"], ["notes", "networked-thought"], "2021"),
+    make_entry("Mymind", "https://mymind.com", "AI-powered bookmark and notes organizer that auto-categorizes everything you save.", ["productivity"], "$12.99/mo", "Free trial", "subscription", [], ["creatives", "researchers"], ["bookmarks", "notes"], "2020"),
+    make_entry("Obsidian", "https://obsidian.md", "Knowledge base on local markdown files with AI plugins for search and generation.", ["productivity"], "$8/mo", "Free for personal use", "freemium", [], ["researchers", "writers"], ["notes", "local-first"], "2020"),
+    make_entry("Supermemory", "https://supermemory.ai", "Your personal AI memory that remembers everything you read, save, or write.", ["productivity", "research"], "$10/mo", "Free tier available", "freemium", [], ["knowledge-workers"], ["personal-memory", "second-brain"], "2024"),
+
+    # ── PROJECT MANAGEMENT ────────────────────────────────
+    make_entry("Asana", "https://asana.com", "Project management platform with AI features for workload prediction, summaries, and automation.", ["productivity"], "$10.99/user/mo", "Free plan available", "freemium", [], ["teams", "enterprises"], ["project-management"], "2008"),
+    make_entry("ClickUp", "https://clickup.com", "All-in-one project management with ClickUp AI for writing, summarizing, and automations.", ["productivity"], "$7/user/mo", "Free plan available", "freemium", [], ["teams"], ["project-management", "all-in-one"], "2017"),
+    make_entry("Linear", "https://linear.app", "Modern issue tracking and project management with AI-powered summaries and automation.", ["productivity"], "$8/user/mo", "Free plan available", "freemium", [], ["software-teams"], ["issue-tracking"], "2019"),
+    make_entry("monday.com", "https://monday.com", "Work management platform with AI assistant for summaries, formulas, and automations.", ["productivity"], "$9/user/mo", "Free plan available", "freemium", [], ["teams", "enterprises"], ["project-management"], "2012"),
+    make_entry("Trello", "https://trello.com", "Visual project management with Butler automation and AI-powered features.", ["productivity"], "$5/user/mo", "Free plan available", "freemium", [], ["small-teams"], ["kanban"], "2011"),
+    make_entry("Height", "https://height.app", "AI-native project management tool that automates task management and standup reports.", ["productivity"], "$6.99/user/mo", "Free plan available", "freemium", [], ["software-teams"], ["project-management", "ai-native"], "2019"),
+
+    # ── DOCUMENT & PDF ────────────────────────────────────
+    make_entry("ChatPDF", "https://www.chatpdf.com", "Chat with any PDF document — ask questions and get instant answers with citations.", ["productivity", "research"], "$5/mo", "Free for small PDFs", "freemium", [], ["students", "researchers"], ["pdf", "chat-with-docs"], "2023"),
+    make_entry("PDF.ai", "https://pdf.ai", "AI tool to chat with PDFs, summarize documents, and extract insights.", ["productivity"], "$15/mo", "Free plan available", "freemium", [], ["researchers", "students"], ["pdf", "document-ai"], "2023"),
+    make_entry("Humata", "https://www.humata.ai", "AI for professional documents — ask questions across multiple PDFs with citations.", ["productivity", "research"], "$9.99/mo", "Free plan available", "freemium", [], ["lawyers", "researchers"], ["document-ai", "citations"], "2022"),
+    make_entry("LightPDF", "https://lightpdf.com/chatdoc", "AI chat tool for PDFs and documents with translation and summarization.", ["productivity"], "$5.99/mo", "Free trial", "subscription", [], ["everyone"], ["pdf", "document-chat"], "2018"),
+
+    # ── DATA & SPREADSHEETS ───────────────────────────────
+    make_entry("Rows", "https://rows.com", "AI-powered spreadsheet with ChatGPT integrated for data analysis and automation.", ["productivity", "analytics"], "$59/mo", "Free plan available", "freemium", [], ["analysts", "business-users"], ["spreadsheets", "ai-data"], "2018"),
+    make_entry("Equals", "https://equals.com", "AI-native spreadsheet with built-in SQL, live data connections, and ChatGPT.", ["productivity", "analytics"], "$99/mo", "Free plan available", "freemium", [], ["analysts", "finance-teams"], ["spreadsheets", "sql"], "2021"),
+    make_entry("Airtable", "https://www.airtable.com", "No-code database platform with AI features for automations and content generation.", ["productivity", "automation"], "$20/user/mo", "Free plan available", "freemium", [], ["teams"], ["database", "no-code"], "2012"),
+    make_entry("Coda", "https://coda.io", "All-in-one doc with tables, AI writing, formulas, and integrations for teams.", ["productivity"], "$10/user/mo", "Free plan available", "freemium", [], ["teams"], ["docs", "database"], "2014"),
+    make_entry("Numerous AI", "https://numerous.ai", "AI for Google Sheets and Excel with writing, classification, and data extraction.", ["productivity"], "$10/mo", "Free trial", "subscription", ["Google Sheets", "Excel"], ["analysts", "business-users"], ["spreadsheets", "ai-formulas"], "2023"),
+    make_entry("Julius AI", "https://julius.ai", "AI data analyst that analyzes your files, creates visualizations, and answers questions.", ["analytics", "research"], "$17.99/mo", "Free plan available", "freemium", [], ["analysts", "researchers"], ["data-analysis", "visualization"], "2023"),
+
+    # ── RECRUITING & HR ───────────────────────────────────
+    make_entry("Ashby", "https://www.ashbyhq.com", "All-in-one recruiting platform with AI sourcing, scheduling, and analytics.", ["productivity"], "Custom pricing", "Demo available", "subscription", [], ["startups", "growing-teams"], ["recruiting", "ats"], "2020"),
+    make_entry("Gem", "https://www.gem.com", "Recruiting CRM with AI sourcing and candidate engagement for talent teams.", ["productivity"], "Custom pricing", "Demo available", "subscription", ["LinkedIn", "Greenhouse"], ["recruiters", "enterprises"], ["recruiting", "sourcing"], "2017"),
+    make_entry("Eightfold AI", "https://eightfold.ai", "Talent intelligence platform using AI for recruiting, retention, and career paths.", ["productivity"], "Custom pricing", "Demo available", "subscription", [], ["enterprises"], ["talent-intelligence"], "2016"),
+    make_entry("Lever", "https://www.lever.co", "ATS and CRM with AI matching, nurture campaigns, and pipeline analytics.", ["productivity"], "Custom pricing", "Demo available", "subscription", [], ["growing-teams", "enterprises"], ["ats", "recruiting-crm"], "2012"),
+
+    # ── FINANCE & ANALYTICS ───────────────────────────────
+    make_entry("Mercury", "https://mercury.com", "Banking for startups with AI insights, spend controls, and automated bookkeeping.", ["productivity"], "Free", "Startup banking", "free", [], ["startups", "founders"], ["banking", "startup-tools"], "2019"),
+    make_entry("Pilot", "https://pilot.com", "Bookkeeping, tax, and CFO services powered by AI for startups and small businesses.", ["productivity"], "$499/mo", "Demo available", "subscription", [], ["startups", "small-businesses"], ["bookkeeping", "accounting"], "2017"),
+    make_entry("Puzzle", "https://puzzle.io", "AI-first accounting software for startups with real-time bookkeeping and insights.", ["productivity", "analytics"], "$200/mo", "Free tier available", "freemium", [], ["startups"], ["accounting", "bookkeeping"], "2020"),
+    make_entry("Bench", "https://bench.co", "Online bookkeeping with AI-assisted categorization and monthly financial reports.", ["productivity"], "$299/mo", "1-month free trial", "subscription", [], ["small-businesses", "solopreneurs"], ["bookkeeping"], "2012"),
+
+    # ── LEGAL ─────────────────────────────────────────────
+    make_entry("Ironclad", "https://ironcladapp.com", "AI contract lifecycle management for legal teams with drafting, negotiation, and signing.", ["productivity"], "Custom pricing", "Demo available", "subscription", [], ["legal-teams", "enterprises"], ["contracts", "legal-ai"], "2014"),
+    make_entry("Lawgeex", "https://www.lawgeex.com", "AI contract review platform that automates approvals for NDAs and sales agreements.", ["productivity"], "Custom pricing", "Demo available", "subscription", [], ["legal-teams", "enterprises"], ["contract-review"], "2014"),
+
+    # ── HEALTHCARE & WELLNESS ─────────────────────────────
+    make_entry("Abridge", "https://www.abridge.com", "AI medical scribe that generates clinical notes from patient conversations.", ["productivity", "customer-service"], "Custom pricing", "Demo available", "subscription", ["Epic", "Cerner"], ["healthcare"], ["medical-scribe", "healthcare-ai"], "2018"),
+    make_entry("Nuance DAX", "https://www.nuance.com/healthcare/ambient-clinical-intelligence.html", "AI ambient clinical documentation from Microsoft that creates notes from conversations.", ["productivity"], "Custom pricing", "Demo available", "subscription", ["Epic", "Cerner"], ["healthcare"], ["medical-scribe", "healthcare-ai"], "2020"),
+
+    # ── EDUCATION ─────────────────────────────────────────
+    make_entry("Khanmigo", "https://www.khanmigo.ai", "AI tutor from Khan Academy for students, teachers, and parents.", ["productivity"], "$4/mo", "Free for teachers", "freemium", [], ["students", "teachers"], ["education", "tutoring"], "2023"),
+    make_entry("Synthesis Tutor", "https://www.synthesis.com/tutor", "AI math tutor for kids that adapts to each student's pace and learning style.", ["productivity"], "$29/mo", "Free trial", "subscription", [], ["parents", "students"], ["education", "math"], "2023"),
+    make_entry("Duolingo Max", "https://www.duolingo.com/max", "AI-powered language learning with Roleplay and Explain My Answer features.", ["productivity"], "$30/mo", "Free tier available", "freemium", [], ["language-learners"], ["language-learning"], "2023"),
+
+    # ── MORE CODING & DEV ─────────────────────────────────
+    make_entry("Warp", "https://www.warp.dev", "AI-powered terminal with natural language commands, autocomplete, and team collaboration.", ["coding", "productivity"], "$15/user/mo", "Free plan available", "freemium", [], ["developers"], ["terminal", "ai-cli"], "2020"),
+    make_entry("Fig", "https://fig.io", "Terminal autocomplete and AI assistant now part of Amazon Q Developer.", ["coding"], "Free", "Part of Amazon Q", "free", [], ["developers"], ["terminal", "autocomplete"], "2020"),
+    make_entry("Zed", "https://zed.dev", "High-performance collaborative code editor with AI assistant from the creators of Atom.", ["coding"], "Free", "Paid team plans", "freemium", [], ["developers"], ["code-editor", "collaboration"], "2021"),
+    make_entry("Cline", "https://cline.bot", "Autonomous coding agent inside VS Code that can create, edit, and execute code.", ["coding"], "Free (API costs)", "Open source", "free", ["VS Code"], ["developers"], ["ai-coding", "autonomous"], "2024"),
+    make_entry("Continue.dev", "https://www.continue.dev", "Open-source AI code assistant for VS Code and JetBrains with customizable models.", ["coding"], "Free (open source)", "Open source", "free", ["VS Code", "JetBrains"], ["developers"], ["ai-coding", "open-source"], "2023"),
+    make_entry("Builder.io", "https://www.builder.io", "Visual development platform with AI that converts Figma designs to production code.", ["coding", "design"], "$19/user/mo", "Free plan available", "freemium", ["Figma"], ["developers", "designers"], ["design-to-code"], "2018"),
+    make_entry("Locofy", "https://www.locofy.ai", "AI tool that converts Figma, Adobe XD, and Sketch designs to React, Next.js, HTML code.", ["coding", "design"], "$24/mo", "Free plan available", "freemium", ["Figma", "Adobe XD"], ["developers", "designers"], ["design-to-code"], "2021"),
+    make_entry("Anima", "https://www.animaapp.com", "Design-to-code platform turning Figma designs into React, Vue, and HTML code.", ["coding", "design"], "$39/mo", "Free plan available", "freemium", ["Figma", "Sketch", "Adobe XD"], ["developers", "designers"], ["design-to-code"], "2017"),
+
+    # ── PROMPT ENGINEERING ────────────────────────────────
+    make_entry("PromptLayer", "https://promptlayer.com", "Prompt management, version control, and analytics for LLM applications.", ["dev-tools"], "$50/mo", "Free tier available", "freemium", [], ["developers"], ["prompt-management"], "2023"),
+    make_entry("PromptPerfect", "https://promptperfect.jina.ai", "AI tool that optimizes your prompts for better results across different models.", ["dev-tools", "productivity"], "$9.99/mo", "Free tier available", "freemium", [], ["developers", "power-users"], ["prompt-optimization"], "2023"),
+    make_entry("Agenta", "https://agenta.ai", "Open-source LLM development platform for prompt engineering, evaluation, and deployment.", ["dev-tools"], "$49/mo", "Free self-hosted", "freemium", [], ["developers"], ["prompt-engineering", "open-source"], "2023"),
+
+    # ── DATA LABELING & TRAINING ──────────────────────────
+    make_entry("Label Studio", "https://labelstud.io", "Open-source data labeling platform for machine learning with multi-type annotation support.", ["dev-tools"], "Free (open source)", "Paid enterprise", "freemium", [], ["ml-teams"], ["data-labeling", "open-source"], "2019"),
+    make_entry("Scale AI", "https://scale.com", "Data platform for AI with labeling, RLHF, and model evaluation services.", ["dev-tools"], "Custom pricing", "Enterprise only", "subscription", [], ["enterprises", "ml-teams"], ["data-labeling", "rlhf"], "2016"),
+    make_entry("Labelbox", "https://labelbox.com", "Training data platform with AI-assisted labeling and model evaluation workflows.", ["dev-tools"], "Custom pricing", "Free tier available", "freemium", [], ["ml-teams", "enterprises"], ["data-labeling"], "2018"),
+
+    # ── MARKETING AUTOMATION ──────────────────────────────
+    make_entry("Marketo", "https://www.marketo.com", "Adobe's marketing automation platform with AI for lead scoring, email, and campaigns.", ["email", "sales"], "Custom pricing", "Demo available", "subscription", ["Salesforce"], ["enterprises", "b2b"], ["marketing-automation"], "2006"),
+    make_entry("Customer.io", "https://customer.io", "Messaging platform for sending personalized emails, push, SMS based on user behavior.", ["email"], "$100/mo", "Free trial", "subscription", [], ["saas-teams"], ["behavioral-messaging"], "2012"),
+    make_entry("Iterable", "https://iterable.com", "Cross-channel marketing automation with AI-powered personalization and send time optimization.", ["email"], "Custom pricing", "Demo available", "subscription", [], ["enterprises"], ["cross-channel", "marketing-automation"], "2013"),
+    make_entry("Braze", "https://www.braze.com", "Customer engagement platform with AI for cross-channel messaging and personalization.", ["email"], "Custom pricing", "Demo available", "subscription", [], ["enterprises"], ["customer-engagement"], "2011"),
+
+    # ── REPUTATION & REVIEWS ──────────────────────────────
+    make_entry("Trustpilot", "https://business.trustpilot.com", "Review management platform with AI-powered sentiment analysis and response tools.", ["customer-service"], "Custom pricing", "Free plan available", "freemium", [], ["businesses", "ecommerce-sellers"], ["reviews", "reputation"], "2007"),
+    make_entry("Birdeye", "https://birdeye.com", "AI-powered reputation, reviews, and customer experience platform for multi-location businesses.", ["customer-service"], "Custom pricing", "Demo available", "subscription", [], ["multi-location"], ["reviews", "reputation"], "2012"),
+    make_entry("Podium", "https://www.podium.com", "Customer interaction platform with AI for reviews, messaging, and payments for local businesses.", ["customer-service"], "$399/mo", "Demo available", "subscription", [], ["local-businesses"], ["messaging", "reviews"], "2014"),
+
+    # ── LANDING PAGE & WEBSITE BUILDERS ───────────────────
+    make_entry("Framer", "https://www.framer.com", "AI website builder that generates sites from prompts with CMS and responsive design.", ["design"], "$5/mo", "Free plan available", "freemium", [], ["designers", "founders"], ["website-builder", "ai-design"], "2014"),
+    make_entry("Webflow", "https://webflow.com", "Visual web design platform with AI content generation and no-code publishing.", ["design"], "$14/mo", "Free plan available", "freemium", [], ["designers", "businesses"], ["website-builder", "no-code"], "2013"),
+    make_entry("Durable", "https://durable.co", "AI website builder that creates a business website in 30 seconds with hosting and CRM.", ["design"], "$15/mo", "Free 30-day trial", "subscription", [], ["solopreneurs", "small-businesses"], ["website-builder", "ai"], "2021"),
+    make_entry("10Web", "https://10web.io", "AI website builder powered by WordPress with automatic generation and optimization.", ["design"], "$10/mo", "Free trial", "subscription", ["WordPress"], ["solopreneurs", "small-businesses"], ["wordpress", "ai-builder"], "2017"),
+    make_entry("Wix", "https://www.wix.com", "Website builder with AI Website Builder (ADI) that creates sites from answers to questions.", ["design"], "$17/mo", "Free plan available", "freemium", [], ["solopreneurs", "small-businesses"], ["website-builder"], "2006"),
+
+    # ── PODCASTING ────────────────────────────────────────
+    make_entry("Riverside", "https://riverside.fm", "Remote podcast and video recording with AI transcription, editing, and show notes.", ["video", "productivity"], "$15/mo", "Free plan available", "freemium", [], ["podcasters", "creators"], ["podcasting", "recording"], "2019"),
+    make_entry("Descript Overdub", "https://www.descript.com/overdub", "AI voice cloning feature in Descript for seamlessly editing podcast audio.", ["video", "content"], "$24/mo", "Part of Descript", "subscription", [], ["podcasters"], ["voice-cloning"], "2020"),
+    make_entry("Podcastle", "https://podcastle.ai", "AI-powered audio recording and editing platform for podcasters with voice cloning.", ["video"], "$14.99/mo", "Free plan available", "freemium", [], ["podcasters"], ["podcasting", "audio-editing"], "2020"),
+
+    # ── COMMUNITY ─────────────────────────────────────────
+    make_entry("Circle", "https://circle.so", "Community platform with AI-powered insights, personalization, and automation.", ["customer-service"], "$49/mo", "14-day free trial", "subscription", [], ["creators", "businesses"], ["community"], "2020"),
+    make_entry("Mighty Networks", "https://www.mightynetworks.com", "Community platform with AI host that guides members to content and connections.", ["customer-service"], "$41/mo", "Free trial", "subscription", [], ["creators"], ["community"], "2017"),
+
+    # ── SUPPORT & TICKETING (MORE) ────────────────────────
+    make_entry("Kustomer", "https://www.kustomer.com", "Customer service CRM with AI for unified customer view and automation.", ["customer-service"], "$89/user/mo", "Demo available", "subscription", [], ["enterprises"], ["crm", "customer-service"], "2015"),
+    make_entry("Front", "https://front.com", "Customer communication platform with AI assist, shared inboxes, and team collaboration.", ["customer-service", "email"], "$19/user/mo", "7-day free trial", "subscription", ["Gmail", "Outlook", "Slack"], ["small-teams"], ["shared-inbox", "email"], "2013"),
+    make_entry("Dixa", "https://www.dixa.com", "Conversational customer service platform with AI agents for voice, chat, and email.", ["customer-service"], "$39/user/mo", "Demo available", "subscription", [], ["growing-teams"], ["conversational-cs"], "2015"),
+
+    # ── PERSONAL FINANCE ──────────────────────────────────
+    make_entry("Copilot Money", "https://copilot.money", "AI personal finance app that categorizes transactions and provides spending insights.", ["productivity"], "$13/mo", "Free trial", "subscription", [], ["consumers"], ["personal-finance"], "2020"),
+    make_entry("Monarch Money", "https://www.monarchmoney.com", "Personal finance platform with AI-powered budgeting and net worth tracking.", ["productivity"], "$14.99/mo", "7-day free trial", "subscription", [], ["consumers"], ["personal-finance"], "2018"),
+
+    # ── MORE PRODUCTIVITY AI TOOLS ────────────────────────
+    make_entry("Shortwave", "https://www.shortwave.com", "Modern AI email client with inbox zero, smart summaries, and AI assistant.", ["email", "productivity"], "$9/mo", "Free plan available", "freemium", ["Gmail"], ["knowledge-workers"], ["email", "ai-client"], "2020"),
+    make_entry("Spike", "https://www.spikenow.com", "Conversational email with AI writing, scheduling, and team collaboration features.", ["email", "productivity"], "$5/user/mo", "Free plan available", "freemium", ["Gmail", "Outlook"], ["teams", "solopreneurs"], ["email", "conversational"], "2014"),
+    make_entry("Krisp", "https://krisp.ai", "AI noise cancellation app for calls with meeting assistant and transcription.", ["productivity"], "$8/mo", "Free plan available", "freemium", ["Zoom", "Google Meet", "Teams"], ["remote-workers"], ["noise-cancellation", "meetings"], "2017"),
+    make_entry("Loom", "https://www.loom.com", "Async video messaging with AI transcripts, chapters, and automated summaries.", ["productivity", "video"], "$15/user/mo", "Free plan available", "freemium", [], ["remote-teams"], ["video-messaging"], "2015"),
+    make_entry("Scribe", "https://scribehow.com", "AI tool that automatically creates step-by-step guides from any web-based process.", ["productivity"], "$29/user/mo", "Free plan available", "freemium", [], ["teams", "operations"], ["documentation", "sop"], "2019"),
+    make_entry("Guidde", "https://www.guidde.com", "AI video documentation tool that creates how-to videos and knowledge bases automatically.", ["productivity", "video"], "$20/user/mo", "Free plan available", "freemium", [], ["teams"], ["video-documentation"], "2021"),
+    make_entry("Read AI", "https://www.read.ai", "AI meeting assistant with engagement scores, summaries, and action items.", ["productivity"], "$19.75/user/mo", "Free plan available", "freemium", ["Zoom", "Google Meet", "Teams"], ["teams"], ["meetings", "engagement"], "2021"),
+
+    # ── AI WRITING TOOLS (MORE) ───────────────────────────
+    make_entry("WriteSmart", "https://writesmart.ai", "AI copywriting assistant for ads, emails, and landing pages with performance tracking.", ["content"], "$19/mo", "Free trial", "subscription", [], ["marketers"], ["copywriting"], "2023"),
+    make_entry("Lex", "https://lex.page", "AI-native writing assistant for long-form content with collaboration and voice dictation.", ["content"], "$12/mo", "Free plan available", "freemium", [], ["writers"], ["long-form-writing"], "2022"),
+    make_entry("AI Writer", "https://ai-writer.com", "AI content generation with accurate citations and research for article drafting.", ["content"], "$29/mo", "Free trial", "subscription", [], ["content-writers"], ["research-writing"], "2020"),
+
+    # ── DATA VISUALIZATION ────────────────────────────────
+    make_entry("Flourish", "https://flourish.studio", "Data visualization and storytelling tool with templates and AI-assisted insights.", ["analytics", "design"], "$69/mo", "Free plan available", "freemium", [], ["journalists", "analysts"], ["data-viz"], "2016"),
+    make_entry("Datawrapper", "https://www.datawrapper.de", "Chart, map, and table builder used by newsrooms and researchers worldwide.", ["analytics"], "$599/mo", "Free plan available", "freemium", [], ["journalists", "analysts"], ["data-viz"], "2012"),
+    make_entry("Observable", "https://observablehq.com", "Collaborative data visualization platform with AI assistance for analysts.", ["analytics", "dev-tools"], "$15/user/mo", "Free plan available", "freemium", [], ["data-teams"], ["data-viz", "notebooks"], "2017"),
 ]
 
 def main():
