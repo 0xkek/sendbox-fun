@@ -266,34 +266,6 @@ nav {
 .step h3 { font-size: 18px; font-weight: 700; margin-bottom: 8px; }
 .step p { font-size: 14px; color: var(--text-light); }
 
-/* CTA SECTION */
-.cta-section {
-  max-width: 1200px; margin: 0 auto; padding: 80px 24px; text-align: center;
-}
-.cta-box {
-  background: linear-gradient(135deg, var(--accent) 0%, #4F46E5 100%);
-  border-radius: 24px; padding: 60px 40px; color: white;
-}
-.cta-box h2 { font-size: 32px; font-weight: 800; margin-bottom: 16px; }
-.cta-box p { font-size: 18px; opacity: 0.9; margin-bottom: 32px; max-width: 500px; margin-left: auto; margin-right: auto; margin-bottom: 32px; }
-.cta-form {
-  display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; max-width: 480px; margin: 0 auto;
-}
-.cta-input {
-  flex: 1; min-width: 240px; padding: 14px 20px;
-  border: 2px solid rgba(255,255,255,0.3); border-radius: 99px;
-  background: rgba(255,255,255,0.15); color: white; font-size: 16px;
-  outline: none; backdrop-filter: blur(10px);
-}
-.cta-input::placeholder { color: rgba(255,255,255,0.6); }
-.cta-input:focus { border-color: white; }
-.cta-submit {
-  background: white; color: var(--accent); border: none; padding: 14px 28px;
-  border-radius: 99px; font-size: 16px; font-weight: 700; cursor: pointer;
-  transition: transform 0.2s;
-}
-.cta-submit:hover { transform: scale(1.05); }
-
 /* FOOTER */
 footer {
   max-width: 1200px; margin: 0 auto; padding: 40px 24px;
@@ -346,7 +318,7 @@ footer a:hover { color: var(--accent); }
 
 <!-- HERO -->
 <section class="hero">
-  <div class="hero-badge">🚀 Now tracking 200+ AI agents across 3 verticals</div>
+  <div class="hero-badge" id="heroBadge">🚀 Curating the best AI agents across 3 verticals</div>
   <h1>Find the perfect AI agent for your business</h1>
   <p>Tell us what you need. We'll match you with trusted, reviewed AI agents that actually work. No jargon, no overwhelm.</p>
 
@@ -368,16 +340,16 @@ footer a:hover { color: var(--accent); }
 
   <div class="stats-bar">
     <div class="stat">
-      <div class="stat-num">200+</div>
-      <div class="stat-label">Agents Reviewed</div>
+      <div class="stat-num" id="agentCount">9</div>
+      <div class="stat-label">Agents Listed</div>
     </div>
     <div class="stat">
       <div class="stat-num">3</div>
       <div class="stat-label">Verticals</div>
     </div>
     <div class="stat">
-      <div class="stat-num">4.6★</div>
-      <div class="stat-label">Avg Trust Score</div>
+      <div class="stat-num">Curated</div>
+      <div class="stat-label">Hand-Picked</div>
     </div>
     <div class="stat">
       <div class="stat-num">Free</div>
@@ -397,19 +369,19 @@ footer a:hover { color: var(--accent); }
       <div class="cat-icon" style="background: #FCE7F3;">📱</div>
       <h3>Social Media Growth</h3>
       <p>Content creation, scheduling, analytics, follower growth, engagement optimization, influencer matching.</p>
-      <span class="cat-count">78 agents →</span>
+      <span class="cat-count" id="countSocial">3 agents →</span>
     </a>
     <a class="cat-card" href="#agents" onclick="filterAgents('sales')">
       <div class="cat-icon" style="background: #DBEAFE;">💰</div>
       <h3>Sales & CRM</h3>
       <p>Lead generation, pipeline management, automated follow-ups, CRM automation, deal tracking, outreach.</p>
-      <span class="cat-count">65 agents →</span>
+      <span class="cat-count" id="countSales">3 agents →</span>
     </a>
     <a class="cat-card" href="#agents" onclick="filterAgents('ecom')">
       <div class="cat-icon" style="background: #FEF3C7;">🛒</div>
       <h3>Ecommerce & Retail</h3>
       <p>Inventory management, pricing optimization, customer service, product descriptions, order fulfillment.</p>
-      <span class="cat-count">57 agents →</span>
+      <span class="cat-count" id="countEcom">3 agents →</span>
     </a>
   </div>
 </section>
@@ -510,15 +482,28 @@ async function loadAgents() {
     console.log('Could not load agents.json, using built-in data');
     // Fallback data if JSON fails to load
     agents = [
-      { name: "ContentPilot AI", verified: true, trust: 9.4, desc: "Autonomous social media agent that creates, schedules, and optimizes content across Instagram, TikTok, and X.", tags: ["social"], stats: { users: "12K+", growth: "3.2x avg follower growth", time: "Saves 15hrs/week" }, pricing: "From $29/mo", pricingNote: "Free trial available" },
-      { name: "LeadHunter", verified: true, trust: 9.1, desc: "AI sales agent that finds qualified leads, enriches contact data, and sends personalized outreach sequences.", tags: ["sales"], stats: { users: "8K+", growth: "40% more qualified leads", time: "Saves 20hrs/week" }, pricing: "From $49/mo", pricingNote: "Pay per lead option" },
-      { name: "ShopSense", verified: true, trust: 9.2, desc: "Ecommerce AI that handles customer service, product recommendations, and inventory alerts.", tags: ["ecom"], stats: { users: "6K+", growth: "28% more repeat customers", time: "Handles 90% of tickets" }, pricing: "From $39/mo", pricingNote: "Free for < 100 orders" },
+      { name: "Buffer", verified: false, trust: 0, desc: "Social media management platform with AI-powered content suggestions, scheduling, and analytics across all major platforms.", tags: ["social"], stats: { users: "140K+", growth: "10+ platforms supported", time: "AI content assistant" }, pricing: "$5/channel/mo", pricingNote: "Free plan for 3 channels" },
+      { name: "Apollo.io", verified: false, trust: 0, desc: "AI sales intelligence platform with a 210M+ contact database, email outreach sequences, lead scoring, and CRM integration.", tags: ["sales"], stats: { users: "N/A", growth: "210M+ contact database", time: "AI email writing" }, pricing: "$49/user/mo", pricingNote: "Free tier available" },
+      { name: "Gorgias", verified: false, trust: 0, desc: "Ecommerce helpdesk built for Shopify, BigCommerce, and Magento. AI agent handles up to 60% of support tickets.", tags: ["ecom"], stats: { users: "N/A", growth: "60% automated resolution", time: "Unlimited agent seats" }, pricing: "$10/mo", pricingNote: "Ticket-based pricing" },
     ];
   }
-  // Update stats display
-  const countEl = document.getElementById('agentCount');
-  if (countEl) countEl.textContent = agents.length * 22 + '+'; // multiplier for marketing
+  // Update stats display dynamically
+  updateStats();
   renderAgents();
+}
+
+function updateStats() {
+  const countEl = document.getElementById('agentCount');
+  if (countEl) countEl.textContent = agents.length;
+  const socialCount = agents.filter(a => a.tags.includes('social')).length;
+  const salesCount = agents.filter(a => a.tags.includes('sales')).length;
+  const ecomCount = agents.filter(a => a.tags.includes('ecom')).length;
+  const cs = document.getElementById('countSocial');
+  const csa = document.getElementById('countSales');
+  const ce = document.getElementById('countEcom');
+  if (cs) cs.textContent = socialCount + ' agent' + (socialCount !== 1 ? 's' : '') + ' →';
+  if (csa) csa.textContent = salesCount + ' agent' + (salesCount !== 1 ? 's' : '') + ' →';
+  if (ce) ce.textContent = ecomCount + ' agent' + (ecomCount !== 1 ? 's' : '') + ' →';
 }
 
 function renderAgents(filter = 'all') {
@@ -534,10 +519,10 @@ function renderAgents(filter = 'all') {
             ${a.verified ? '<span class="verified-badge">✓ Verified</span>' : ''}
           </div>
         </div>
-        <div class="trust-score">
+        ${a.trust > 0 ? `<div class="trust-score">
           <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
           ${a.trust}
-        </div>
+        </div>` : ''}
       </div>
       <p class="agent-desc">${a.desc}</p>
       <div class="agent-tags">
@@ -584,7 +569,7 @@ function doSearch() {
   ).slice(0, 5);
 
   if (matches.length === 0) {
-    results.innerHTML = '<div class="search-result-item"><div class="sr-info"><h4>No exact matches yet</h4><p>Join our waitlist and we\'ll find the perfect agent for you!</p></div></div>';
+    results.innerHTML = '<div class="search-result-item"><div class="sr-info"><h4>No exact matches yet</h4><p>Try different keywords or browse by category below.</p></div></div>';
   } else {
     results.innerHTML = matches.map(a => `
       <div class="search-result-item">
@@ -592,7 +577,7 @@ function doSearch() {
           ${a.tags[0] === 'social' ? '📱' : a.tags[0] === 'sales' ? '💰' : '🛒'}
         </div>
         <div class="sr-info">
-          <h4>${a.name} <span style="color: #10B981; font-size: 12px;">★ ${a.trust}</span></h4>
+          <h4>${a.name}${a.trust > 0 ? ` <span style="color: #10B981; font-size: 12px;">★ ${a.trust}</span>` : ''}</h4>
           <p>${a.desc.slice(0, 80)}...</p>
         </div>
       </div>
