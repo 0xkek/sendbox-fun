@@ -20,13 +20,15 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Run scraper
-        run: python scraper/scrape_agents.py
+        run: python scraper/scrape_agents.py --max-new 200
+
+      - name: Regenerate static pages
+        run: python scraper/generate_pages.py
 
       - name: Commit and push if changed
         run: |
           git config user.name "sendbox-bot"
           git config user.email "bot@sendbox.fun"
-          git add agents.json
-          git diff --staged --quiet || git commit -m "Auto-update agent data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git add agents.json tools/ category/ sitemap.xml robots.txt
+          git diff --staged --quiet || git commit -m "Auto-update agents + regenerate pages $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
-
