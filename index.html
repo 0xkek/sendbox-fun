@@ -625,6 +625,12 @@ document.addEventListener('click', (e) => {
 function submitEmail() {
   const email = document.getElementById('emailInput').value;
   if (email && email.includes('@')) {
+    // Send to Formspree — replace YOUR_FORM_ID with your actual Formspree form ID
+    fetch('https://formspree.io/f/YOUR_FORM_ID', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email: email })
+    }).catch(() => {}); // Still show success even if network fails
     document.querySelector('.cta-form').innerHTML = '<p style="font-size: 18px; font-weight: 600;">🎉 You\'re on the list! We\'ll be in touch soon.</p>';
   }
 }
