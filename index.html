@@ -203,15 +203,6 @@ nav {
 }
 .agent-name-row { display: flex; align-items: center; gap: 8px; }
 .agent-name { font-size: 18px; font-weight: 700; }
-.verified-badge {
-  background: var(--green-light); color: var(--green);
-  font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 99px;
-}
-.trust-score {
-  display: flex; align-items: center; gap: 4px;
-  font-size: 14px; font-weight: 700; color: var(--green);
-}
-.trust-score svg { width: 16px; height: 16px; }
 .agent-desc { font-size: 14px; color: var(--text-light); margin-bottom: 16px; line-height: 1.5; }
 .agent-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 16px; }
 .agent-tag {
@@ -316,7 +307,7 @@ footer a:hover { color: var(--accent); }
 <!-- NAV -->
 <nav>
   <div class="nav-inner">
-    <a href="#" class="logo"><span>📦</span> sendbox.fun</a>
+    <a href="#" class="logo"><img src="logo.png" alt="sendbox" style="height:32px;width:32px;border-radius:8px;"> sendbox.fun</a>
     <div class="nav-links">
       <a href="#categories">Categories</a>
       <a href="#agents">Agents</a>
@@ -355,10 +346,6 @@ footer a:hover { color: var(--accent); }
     <div class="stat">
       <div class="stat-num" id="catCount">12</div>
       <div class="stat-label">Categories</div>
-    </div>
-    <div class="stat">
-      <div class="stat-num">Curated</div>
-      <div class="stat-label">Hand-Picked</div>
     </div>
     <div class="stat">
       <div class="stat-num">Free</div>
@@ -407,17 +394,17 @@ footer a:hover { color: var(--accent); }
       <div class="step">
         <div class="step-num">2</div>
         <h3>Get Matched</h3>
-        <p>We surface the top 3-5 agents for your specific problem, ranked by trust score, price, and fit for your business size.</p>
+        <p>We surface the best tools for your specific problem, filtered by category, pricing, and what they integrate with.</p>
       </div>
       <div class="step">
         <div class="step-num">3</div>
         <h3>Compare & Choose</h3>
-        <p>See real reviews from businesses like yours, pricing breakdowns, success rates, and our hands-on verdict.</p>
+        <p>See pricing breakdowns, platform integrations, and what each tool is best for — side by side.</p>
       </div>
       <div class="step">
         <div class="step-num">4</div>
-        <h3>Launch & Track</h3>
-        <p>Start using the agent with one click. Come back to rate it and help other businesses make better decisions.</p>
+        <h3>Visit & Try</h3>
+        <p>Go directly to the tool's website. Most offer free plans or trials so you can test before you commit.</p>
       </div>
     </div>
   </div>
@@ -455,9 +442,9 @@ const CAT_META = {
 
 function transformAgent(a) {
   return {
-    name: a.name, verified: a.verified, trust: a.trustScore, desc: a.description,
-    tags: a.categories, stats: { users: a.stats.users, growth: a.stats.keyMetric, time: a.stats.timeSaved },
-    pricing: a.pricingFrom, pricingNote: a.pricingNote, url: a.url, review: a.ourReview,
+    name: a.name, desc: a.description, tags: a.categories,
+    stats: { users: a.stats.users, growth: a.stats.keyMetric, time: a.stats.timeSaved },
+    pricing: a.pricingFrom, pricingNote: a.pricingNote, url: a.url,
     bestFor: a.bestFor, platforms: a.platforms
   };
 }
@@ -470,9 +457,9 @@ async function loadAgents() {
   } catch (e) {
     console.log('Could not load agents.json, using fallback');
     agents = [
-      { name: "Buffer", verified: false, trust: 0, desc: "Social media management with AI content suggestions and scheduling.", tags: ["social"], stats: { users: "140K+", growth: "10+ platforms", time: "AI assistant" }, pricing: "$5/channel/mo", pricingNote: "Free plan" },
-      { name: "Apollo.io", verified: false, trust: 0, desc: "AI sales platform with 210M+ contacts and outreach sequences.", tags: ["sales"], stats: { users: "N/A", growth: "210M+ contacts", time: "AI email" }, pricing: "$49/user/mo", pricingNote: "Free tier" },
-      { name: "Gorgias", verified: false, trust: 0, desc: "Ecommerce helpdesk with AI handling 60% of support tickets.", tags: ["ecom"], stats: { users: "N/A", growth: "60% automated", time: "Unlimited seats" }, pricing: "$10/mo", pricingNote: "Ticket-based" },
+      { name: "Buffer", desc: "Social media management with AI content suggestions and scheduling.", tags: ["social"], stats: { users: "140K+", growth: "10+ platforms", time: "AI assistant" }, pricing: "$5/channel/mo", pricingNote: "Free plan" },
+      { name: "Apollo.io", desc: "AI sales platform with 210M+ contacts and outreach sequences.", tags: ["sales"], stats: { users: "N/A", growth: "210M+ contacts", time: "AI email" }, pricing: "$49/user/mo", pricingNote: "Free tier" },
+      { name: "Gorgias", desc: "Ecommerce helpdesk with AI handling 60% of support tickets.", tags: ["ecom"], stats: { users: "N/A", growth: "60% automated", time: "Unlimited seats" }, pricing: "$10/mo", pricingNote: "Ticket-based" },
     ];
   }
   updateStats();
@@ -536,37 +523,34 @@ function renderAgents(filter = 'all') {
   const grid = document.getElementById('agentGrid');
   const filtered = filter === 'all' ? agents : agents.filter(a => a.tags.includes(filter));
 
-  grid.innerHTML = filtered.map(a => `
+  grid.innerHTML = filtered.map(a => {
+    const hasStats = a.stats && (a.stats.users !== 'N/A' || a.stats.growth !== 'N/A' || a.stats.time !== 'N/A');
+    const statItems = [];
+    if (a.stats.users && a.stats.users !== 'N/A') statItems.push(`<span class="agent-stat"><strong>${a.stats.users}</strong> users</span>`);
+    if (a.stats.growth && a.stats.growth !== 'N/A') statItems.push(`<span class="agent-stat"><strong>${a.stats.growth}</strong></span>`);
+    if (a.stats.time && a.stats.time !== 'N/A') statItems.push(`<span class="agent-stat"><strong>${a.stats.time}</strong></span>`);
+    return `
     <div class="agent-card">
       <div class="agent-card-header">
         <div>
           <div class="agent-name-row">
             <span class="agent-name">${a.name}</span>
-            ${a.verified ? '<span class="verified-badge">✓ Verified</span>' : ''}
           </div>
         </div>
-        ${a.trust > 0 ? `<div class="trust-score">
-          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-          ${a.trust}
-        </div>` : ''}
       </div>
       <p class="agent-desc">${a.desc}</p>
       <div class="agent-tags">
         ${a.tags.map(t => `<span class="agent-tag tag-${t}">${tagLabel(t)}</span>`).join('')}
       </div>
-      <div class="agent-stats-row">
-        <span class="agent-stat"><strong>${a.stats.users}</strong> users</span>
-        <span class="agent-stat"><strong>${a.stats.growth}</strong></span>
-        <span class="agent-stat"><strong>${a.stats.time}</strong></span>
-      </div>
+      ${statItems.length > 0 ? `<div class="agent-stats-row">${statItems.join('')}</div>` : ''}
       <div class="agent-footer">
         <div class="agent-pricing">
           <strong>${a.pricing}</strong> <span>· ${a.pricingNote}</span>
         </div>
         <a href="${a.url}" target="_blank" rel="noopener" class="agent-cta">Visit →</a>
       </div>
-    </div>
-  `).join('');
+    </div>`;
+  }).join('');
 }
 
 function filterAgents(filter) {
@@ -600,7 +584,7 @@ function doSearch() {
       return `<div class="search-result-item" onclick="window.open('${a.url}','_blank')">
         <div class="sr-icon" style="background: ${m.color}">${m.icon}</div>
         <div class="sr-info">
-          <h4>${a.name}${a.trust > 0 ? ` <span style="color: #10B981; font-size: 12px;">★ ${a.trust}</span>` : ''}</h4>
+          <h4>${a.name}</h4>
           <p>${a.desc.slice(0, 80)}...</p>
         </div>
       </div>`;
