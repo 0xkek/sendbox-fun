@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T20:41:25.196799+00:00",
+  "lastUpdated": "2026-04-04T20:56:57.059548+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -25813,6 +25813,5606 @@
       "verified": false,
       "trustScore": 0,
       "description": "Empowering Your Applications with AI - MetaMind delivers a comprehensive framework for deploying intelligent agents, managing advanced wor\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "mixtral_8x7b_agent",
+      "name": "Mixtral_8X7B_Agent",
+      "url": "https://github.com/svngoku/Mixtral_8X7B_Agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Deploying an open source AI Agent with Mixtral 8X7B",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "multi-pdfs_chatapp_ai-agent",
+      "name": "Multi-Pdfs_Chatapp_Ai-Agent",
+      "url": "https://github.com/GURPREETKAURJETHRA/Multi-PDFs_ChatApp_AI-Agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Meet MultiPDF \ud83d\udcda Chat AI App! \ud83d\ude80 Chat seamlessly with Multiple PDFs using Langchain, Google Gemini Pro & FAISS Vector DB with Seamless Stre\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "multiagents-infinite-backroom",
+      "name": "Multiagents-Infinite-Backroom",
+      "url": "https://github.com/AGAMPANDEYY/MultiAgents-infinite-backroom",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Claude AI Multi agents having conversations without human intervention. Inspired from The Truth Terminal contains deployed Vercel app and\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "multimodal-llm-agent",
+      "name": "Multimodal-Llm-Agent",
+      "url": "https://github.com/HuHK-Private/multimodal-llm-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Deploy Multimodal-LLM Agent to solve complicated AI tasks with language serving as a generic interface",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "nerosdk",
+      "name": "Nerosdk",
+      "url": "https://github.com/nerobossai/nerosdk",
+      "verified": false,
+      "trustScore": 0,
+      "description": "sdk to build and deploy your own ai agent",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "nest-ai",
+      "name": "Nest-Ai",
+      "url": "https://github.com/thenest-hub/nest-ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A lightweight, open-source framework to deploy Agents. Part of a greater initiative to help AI Agent deployment",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "nl2iac",
+      "name": "Nl2Iac",
+      "url": "https://github.com/ramonbgc/nl2iac",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI agent for IaC deployments",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "onchain-ai-starter",
+      "name": "Onchain-Ai-Starter",
+      "url": "https://github.com/Not-Sarthak/onchain-ai-starter",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Build and deploy onchain AI agents with zero hassle",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "openai-assistants-template",
+      "name": "Openai-Assistants-Template",
+      "url": "https://github.com/pranavgupta2603/OpenAI-Assistants-Template",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Build and deploy AI-driven assistants with our OpenAI Assistants Template. This tutorial provides a hands-on approach to using OpenAI's A\u2026",
+      "ourReview": "",
+      "categories": [
+        "assistant"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "petercat",
+      "name": "Petercat",
+      "url": "https://github.com/petercat-ai/petercat",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A conversational Q&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing \u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "phoneit",
+      "name": "Phoneit",
+      "url": "https://github.com/bhuvanmdev/PhoneIT",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An application that when deployed can establish a call service, where an AI agent can solve any query of the users using a established RA\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "plura",
+      "name": "Plura",
+      "url": "https://github.com/plura-ai/plura",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Plura is a powerful tool for creating, managing, and deploying AI agents. Built with TypeScript, it helps you develop intelligent agents \u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "powerupsai",
+      "name": "Powerups.Ai",
+      "url": "https://github.com/muzetv/powerups.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Deploy AI Agent-Powered APIs in Minutes",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "project-socrates",
+      "name": "Project-S.O.C.R.A.T.E.S.",
+      "url": "https://github.com/Hams-Ollo/Project-S.O.C.R.A.T.E.S",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83e\udd16 Advanced Multi-Agent AI Template - Production-ready system combining Groq's speed with LangChain's flexibility. Features RAG, document p\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "public-agent-framwork",
+      "name": "Public-Agent-Framwork",
+      "url": "https://github.com/aurasgit/public-agent-framwork",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI agent that independently creates, deploys, and optimizes autonomous projects",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "purpaas-llm",
+      "name": "Purpaas-Llm",
+      "url": "https://github.com/dwain-barnes/PurPaaS-LLM",
+      "verified": false,
+      "trustScore": 0,
+      "description": "PurPaaS is an innovative open-source security testing platform that implements purple teaming (combined red and blue team approaches) to \u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "python-agents",
+      "name": "Python-Agents",
+      "url": "https://github.com/clarisseIO/python-agents",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI agent that independently creates, deploys, and optimizes autonomous projects",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "python-aiagent",
+      "name": "Python-Aiagent",
+      "url": "https://github.com/osvaldokalvaitir/python-aiagent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83d\udcc8 Python AIAgent application development, integration with OpenAI's GPT model, use of the CrewAI framework, creation of an agent for cons\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "rag_sap_agent",
+      "name": "Rag_Sap_Agent",
+      "url": "https://github.com/agbackhoff/RAG_SAP_AGENT",
+      "verified": false,
+      "trustScore": 0,
+      "description": "SAP Table Structure Analyzer - AI-powered tool using Google's Gemini 1.5 Pro to extract and analyze SAP HANA S/4 table structures. Feature\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "redbaez-agent-builder-complete",
+      "name": "Redbaez-Agent-Builder-Complete",
+      "url": "https://github.com/tom2tomtomtom/redbaez-agent-builder-complete",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Full-stack AI agent builder with model integration, deployment, and monitoring capabilities",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "sc-helm-app",
+      "name": "Sc-Helm-App",
+      "url": "https://github.com/amsilf/sc-helm-app",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repository contains a simple Helm chart for deploying a \"Hello World\" Nginx application, along with Open Policy Agent (OPA) rules fo\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "scalable-ai-autonomous-agent",
+      "name": "Scalable-Ai--Autonomous-Agent",
+      "url": "https://github.com/Prasannaverse13/Scalable-AI--autonomous-Agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The Scalable AI Platform is a cutting-edge solution designed for creating, deploying, and managing autonomous and semi-autonomous AI agents\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "simple_ai_agent",
+      "name": "Simple_Ai_Agent",
+      "url": "https://github.com/jeya2050/simple_AI_agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This AI agent represents a significant advancement in automated web content analysis, offering organizations the ability to efficiently p\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "slack-ai-assistant-vijay",
+      "name": "Slack-Ai-Assistant-Vijay",
+      "url": "https://github.com/vjvkrm/slack-ai-assistant-vijay",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The Most simple way to deploy AI agent-assitant slack app to your workspace",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "smartcall-ai",
+      "name": "Smartcall-Ai",
+      "url": "https://github.com/shwetd19/SmartCall-Ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Deploy AI voice agents for calls",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "smoothlingua",
+      "name": "Smoothlingua",
+      "url": "https://github.com/Dev-Art-Solutions/SmoothLingua",
+      "verified": false,
+      "trustScore": 0,
+      "description": "SmoothLingua is an open-source conversational AI platform that empowers you to create and deploy intelligent conversational agents. It of\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "snakeai",
+      "name": "Snakeai",
+      "url": "https://github.com/leonardocunha2107/snakeAI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Deploying snake agents near you",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "spacecreateai",
+      "name": "Spacecreateai",
+      "url": "https://github.com/Harbars1234/SpaceCreateAI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repository contains the first Solana agent built with the SEND AI technology https://github.com/sendaifun/solana-agent-kit that auto\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "stocks-ai-agent",
+      "name": "Stocks-Ai-Agent",
+      "url": "https://github.com/muriloguerreiro/stocks-ai-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Deploy",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "superagent-swift-legacy",
+      "name": "Superagent-Swift-Legacy",
+      "url": "https://github.com/simonweniger/superagent-swift-legacy",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Build, deploy, and manage LLM-powered agents on \uf8ff platforms",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "swarmnode-cpp",
+      "name": "Swarmnode-Cpp",
+      "url": "https://github.com/alexcsh0/swarmnode-cpp",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Deploy and orchestrate serverless AI agents in the cloud",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "swarmnode-dotnet",
+      "name": "Swarmnode-Dotnet",
+      "url": "https://github.com/swarmnode-ai/swarmnode-dotnet",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Deploy and orchestrate serverless AI agents in the cloud",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "swarmnode-go",
+      "name": "Swarmnode-Go",
+      "url": "https://github.com/swarmnode-ai/swarmnode-go",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Deploy and orchestrate serverless AI agents in the cloud",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "swarmnode-node",
+      "name": "Swarmnode-Node",
+      "url": "https://github.com/swarmnode-ai/swarmnode-node",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Deploy and orchestrate serverless AI agents in the cloud",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "swarmnode-python",
+      "name": "Swarmnode-Python",
+      "url": "https://github.com/swarmnode-ai/swarmnode-python",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Deploy and orchestrate serverless AI agents in the cloud",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "swarmnode-rust",
+      "name": "Swarmnode-Rust",
+      "url": "https://github.com/swarmnode-ai/swarmnode-rust",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Deploy and orchestrate serverless AI agents in the cloud",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "swarmsxgcp",
+      "name": "Swarmsxgcp",
+      "url": "https://github.com/The-Swarm-Corporation/SwarmsXGCP",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Deploy your agents on Cloud Run!",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "synnex_symphony",
+      "name": "Synnex_Symphony",
+      "url": "https://github.com/Styro13/Synnex_Symphony",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Symphony is an AI-driven software development framework heavily influenced by GPT Pilot, and Microsoft's paper on 'AutoDev' that aims to \u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "team-ai",
+      "name": "Team-Ai",
+      "url": "https://github.com/deployment-io/team-ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI agent orchestration engine written in Go used internally at deployment.io",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "testchatbot",
+      "name": "Testchatbot",
+      "url": "https://github.com/samanway1996/testchatbot",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Database to be deployed for agent in api.ai",
+      "ourReview": "",
+      "categories": [
+        "assistant"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "tiny-agent",
+      "name": "Tiny-Agent",
+      "url": "https://github.com/bombap/tiny-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Tiny-Agent is a lightweight yet extensible AI agent framework that simplifies the creation and deployment of intelligent agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "transform-agents",
+      "name": "Transform-Agents",
+      "url": "https://github.com/transformsen/transform-agents",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Transform-Agents  - A UI for an AI systems - Build, simulate, run, and deploy your agentic AI system at scale",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "upstreet-core",
+      "name": "Upstreet-Core",
+      "url": "https://github.com/UpstreetAI/upstreet-core",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Build and deploy AI Agents, fast",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "vitalhome-chat",
+      "name": "Vitalhome-Chat",
+      "url": "https://github.com/vital-ai/vitalhome-chat",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Ontology for Chat Agents deployed on Chat.ai",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "wolfpack",
+      "name": "Wolfpack",
+      "url": "https://github.com/almogdepaz/wolfpack",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Mobile & desktop PWA command center for controlling AI coding agents (Claude, Codex, Gemini) via tmux sessions across multiple machines, secured by Tailscale. Includes a multi-terminal grid view, mobile touch UI, and Ralph \u2014 an autonomous task runner",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "woodwork-engine",
+      "name": "Woodwork-Engine",
+      "url": "https://github.com/willwoodward/woodwork-engine",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An AI Agent IaC tool that aims to make developing and deploying AI Agents easier",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "writbase",
+      "name": "WritBase",
+      "url": "https://github.com/Writbase/writbase",
+      "verified": false,
+      "trustScore": 0,
+      "description": "MCP-native task management for AI agent fleets",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "xpertagent",
+      "name": "Xpertagent",
+      "url": "https://github.com/rookie-littleblack/XpertAgent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "XpertAgent is an open-source platform for building and deploying AI applications. It combines intelligent workflow orchestration, knowled\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "a4-artificial-intelligence",
+      "name": "A4-Artificial-Intelligence",
+      "url": "https://github.com/AlivadTheImpala/A4-Artificial-Intelligence",
+      "verified": false,
+      "trustScore": 0,
+      "description": "this is a repo regarding the ethics of AI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "adfa2",
+      "name": "Adfa2",
+      "url": "https://github.com/djdprogramming/adfa2",
+      "verified": false,
+      "trustScore": 0,
+      "description": "16. Next-Generation Data Scientists, Hubris, and Ethics - 50 Essential Concepts]",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "advancedaicoursework_2",
+      "name": "Advancedaicoursework_2",
+      "url": "https://github.com/AntoineSebert/AdvancedAICoursework_2",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Essay on Explainable AI and ethics - concerns &, perspectives",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-ethics",
+      "name": "Ai-Ethics",
+      "url": "https://github.com/PARC/ai-ethics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Ethics Committee at PARC",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-ethics-evaluation-report-in-healthcare",
+      "name": "Ai-Ethics-Evaluation-Report-In-Healthcare",
+      "url": "https://github.com/SelenaSongg/AI-Ethics-Evaluation-Report-in-HealthCare",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An evaluation report in healthcare",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-ethics-experiments",
+      "name": "Ai-Ethics-Experiments",
+      "url": "https://github.com/jtrugman/ai-ethics-experiments",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Analyzing AI's Responses To Ethical Dilemmas",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-ethics-fairness-and-bias",
+      "name": "Ai-Ethics-Fairness-And-Bias",
+      "url": "https://github.com/jolares/ai-ethics-fairness-and-bias",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Sample project using IBM's AI Fairness 360 is an open source toolkit for determining, examining, and mitigating discrimination and bias i\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-ethics-framework",
+      "name": "Ai-Ethics-Framework",
+      "url": "https://github.com/benbyford/ai-ethics-framework",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Ethical questions, risks and issues to think about to help create responsible AI products and services",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-ethics-in-ecommerce-apps",
+      "name": "Ai-Ethics-In-Ecommerce-Apps",
+      "url": "https://github.com/Lena9x/AI-ethics-in-ecommerce-apps",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI ethics in ecommerce app report",
+      "ourReview": "",
+      "categories": [
+        "ecom"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-ethics-internship",
+      "name": "Ai-Ethics-Internship",
+      "url": "https://github.com/gicraveiro/AI-Ethics-Internship",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Progress achieved on AI ethics internship at University of Trento under supervision of professor James Brusseau and professor Giuseppe Ri\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-ethics-panel",
+      "name": "Ai-Ethics-Panel",
+      "url": "https://github.com/whatmakeart/ai-ethics-panel",
+      "verified": false,
+      "trustScore": 0,
+      "description": "panel notes",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-ethics-project",
+      "name": "Ai-Ethics-Project",
+      "url": "https://github.com/maharsh3133/ai-ethics-project",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Research Project on \"Data privacy of vulnerablepopulations like teenagers and elderly in Canada",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-ethics-projects",
+      "name": "Ai-Ethics-Projects",
+      "url": "https://github.com/mckenziephagen/AI-Ethics-Projects",
+      "verified": false,
+      "trustScore": 0,
+      "description": "CSE 583 - Ethics in AI final project",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-ethics-resources",
+      "name": "Ai-Ethics-Resources",
+      "url": "https://github.com/gigikenneth/ai-ethics-resources",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Resources on tech and AI ethics",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-ethics-risk-analysis-management-framework",
+      "name": "Ai-Ethics-Risk-Analysis-Management-Framework",
+      "url": "https://github.com/LCromack/AI-Ethics-Risk-Analysis-Management-Framework",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This is my code for my dissertation, in which I was tasked with building a framework that small companies could use to analyse their AI. \u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-ethics-scenarios",
+      "name": "Ai-Ethics-Scenarios",
+      "url": "https://github.com/rharrington31/ai-ethics-scenarios",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Three AI ethics cases",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-ethics-talk",
+      "name": "Ai-Ethics-Talk",
+      "url": "https://github.com/nat-foo/ai-ethics-talk",
+      "verified": false,
+      "trustScore": 0,
+      "description": "In September 2021, I gave a talk at my local university on the topic of whether AI and the Law speak the same language",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-ethics-tool-landscape",
+      "name": "Ai-Ethics-Tool-Landscape",
+      "url": "https://github.com/EdwinWenink/ai-ethics-tool-landscape",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Ethics Tool Landscape",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-ethics-toolkit-for-kenya",
+      "name": "Ai-Ethics-Toolkit-For-Kenya",
+      "url": "https://github.com/tabz-ai/AI-Ethics-Toolkit-for-Kenya",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The AI Ethics Toolkit for Kenya is an open-source project aimed at building a comprehensive set of tools and resources to help stakeholde\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-exchange",
+      "name": "Ai-Exchange",
+      "url": "https://github.com/W4LD3V/AI-Exchange",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Exchange is a web application designed to help users discuss AI Ethics and Governance in a forum based format",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-explainability-and-ethics-on-random-forests",
+      "name": "Ai-Explainability-And-Ethics-On-Random-Forests",
+      "url": "https://github.com/Guillermo-villar/AI-Explainability-and-Ethics-on-Random-Forests",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Explainability and Ethics -- Reports on explainability of Random Forests",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-in-medicine",
+      "name": "Ai-In-Medicine",
+      "url": "https://github.com/kimotarek/AI-in-medicine",
+      "verified": false,
+      "trustScore": 0,
+      "description": "survey paper about the ethics of AI in medicine",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-risk-prettified",
+      "name": "Ai-Risk-Prettified",
+      "url": "https://github.com/Privacy-Engineering-CMU/ai-risk-prettified",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A prettified page for MIT's AI Risk Database",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-safety-ethics",
+      "name": "Ai-Safety-Ethics",
+      "url": "https://github.com/gyevnarb/ai-safety-ethics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A systematic review of papers related to AI safety",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-unexpected-behaviors",
+      "name": "Ai-Unexpected-Behaviors",
+      "url": "https://github.com/saraorsi/ai-unexpected-behaviors",
+      "verified": false,
+      "trustScore": 0,
+      "description": "catalog of unexpected behaviors of ai which can turn out to be failures that compromise the initial objectives, raising questions about u\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-writing-survey",
+      "name": "Ai-Writing-Survey",
+      "url": "https://github.com/ahdediu/AI-Writing-Survey",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repository contains the results of a survey about the use of AI for academic writing. The survey includes responses from 24 particip\u2026",
+      "ourReview": "",
+      "categories": [
+        "research"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai4all",
+      "name": "Ai4All-",
+      "url": "https://github.com/bnam2103/AI4ALL-",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Ethics and Machine Learning",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai6101-introduction-to-ai-ai-ethics",
+      "name": "Ai6101-Introduction-To-Ai-Ai-Ethics",
+      "url": "https://github.com/alfredxtan/AI6101-Introduction-to-AI-AI-Ethics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Core modules for MSAI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai_ethics",
+      "name": "Ai_Ethics",
+      "url": "https://github.com/MoritzCSchmidt/ai_ethics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Slides for AI ethics in Software Engineering",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai_ethics_bookclub",
+      "name": "Ai_Ethics_Bookclub",
+      "url": "https://github.com/ofchurches/AI_ethics_bookclub",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repository has details regarding books read and to be read by the AICN Ethics Bookclub",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai_ethics_final_project",
+      "name": "Ai_Ethics_Final_Project",
+      "url": "https://github.com/Jamey-UCWV/AI_Ethics_Final_Project",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Final Project for MBDA AI Ethics",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai_ethics_society",
+      "name": "Ai_Ethics_Society",
+      "url": "https://github.com/yedeka/AI_Ethics_Society",
+      "verified": false,
+      "trustScore": 0,
+      "description": "OMSCS_Subject",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai_for_efficient_programming",
+      "name": "Ai_For_Efficient_Programming",
+      "url": "https://github.com/fhdsl/AI_for_Efficient_Programming",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This course on AI for software development explores the use of AI large language models (ChatGPT, Bard, etc) and their potential benefits\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai_for_ethics",
+      "name": "Ai_For_Ethics",
+      "url": "https://github.com/Banele252/AI_for_ethics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The impact of utilizing privacy preserving techniques in advanced analytics",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai_gdpr",
+      "name": "Ai_Gdpr",
+      "url": "https://github.com/dimits-ts/ai_gdpr",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A brief report exploring the impact of AI technologies on European citizens and the compliance challenges posed by the General Data Prote\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "aiethics-safety2020",
+      "name": "Aiethics-Safety2020",
+      "url": "https://github.com/tonyteolis/aiethics-safety2020",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This collection of policies, reports, and articles on Ethics and Safety in Artificial Intelligence is the result of a desire to learn the\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "aiethics4science",
+      "name": "Aiethics4Science",
+      "url": "https://github.com/savvy379/aiethics4science",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Ethics education material designed for scientists",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "aiethicsconsulting",
+      "name": "Aiethicsconsulting",
+      "url": "https://github.com/rdmusrname/aiethicsconsulting",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Provides expert consulting services on AI ethics, helping organizations navigate complex ethical issues in AI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ais-ethics-orgs",
+      "name": "Ais-Ethics-Orgs",
+      "url": "https://github.com/fititnt/ais-ethics-orgs",
+      "verified": false,
+      "trustScore": 0,
+      "description": "[work-in-progress] Curated list of organizations related to Ethics in Artificial Intelligence and Autonomous Systems (AI/AS)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ais-ethics-standards",
+      "name": "Ais-Ethics-Standards",
+      "url": "https://github.com/EticaAI/ais-ethics-standards",
+      "verified": false,
+      "trustScore": 0,
+      "description": "[work-in-progress] Curated list of standards related to Ethics of Autonomous and Intelligent Systems (A/IS)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "auto-correct",
+      "name": "Auto-Correct",
+      "url": "https://github.com/mayameme/auto-correct",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A brief background to my research about ML, AI and ethics",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome-ai-ethics",
+      "name": "Awesome-Ai-Ethics",
+      "url": "https://github.com/awesomelistsio/awesome-ai-ethics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A curated list of frameworks, tools, research papers, guidelines, and resources for AI ethics, focusing on fairness, accountability, tran\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome-ml-model-governance",
+      "name": "Awesome-Ml-Model-Governance",
+      "url": "https://github.com/nholuongut/Awesome-ML-Model-Governance",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Model Governance, Ethics, Responsible AI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome-openness-ai",
+      "name": "Awesome-Openness-Ai",
+      "url": "https://github.com/tamaraaPrs/awesome-openness-AI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Curated list of papers or contents about openness in AI, in particular, in the context of AI ethics",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "biasbounty1_humaneintelligence",
+      "name": "Biasbounty1_Humaneintelligence",
+      "url": "https://github.com/KristiArbo/biasbounty1_humaneintelligence",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repo contains my coding notebook for the tutorial series I made for the beginner level bias bounty challenge hosted by Humane Intell\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "blockchain-ethics",
+      "name": "Blockchain-Ethics",
+      "url": "https://github.com/SciEcon/blockchain-ethics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Replication Code for - AI Ethics on Blockchain - Topic Analysis on Twitter Data for Blockchain Security",
+      "ourReview": "",
+      "categories": [
+        "social"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "bucovia",
+      "name": "Bucovia",
+      "url": "https://github.com/JonBarrueco/BucovIA",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Ethics project. This repository gathers all the documents related to the project called \"BucovIA\". This project makes use of machine l\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "calpoly-aiel",
+      "name": "Calpoly-Aiel",
+      "url": "https://github.com/quinthemint/calpoly-aiel",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A site that hosts the Cal Poly AI Ethics Lab",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "corporate_ai_ethics_guideline_analysis",
+      "name": "Corporate_Ai_Ethics_Guideline_Analysis",
+      "url": "https://github.com/Kensuzuki95/Corporate_AI_Ethics_Guideline_Analysis",
+      "verified": false,
+      "trustScore": 0,
+      "description": "corporate AI ethics guidelines analysis",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "credit-risk_ethics_and_ai",
+      "name": "Credit-Risk_Ethics_And_Ai",
+      "url": "https://github.com/olimpiasannucci/Credit-Risk_Ethics_and_AI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "feature importances of credit risks and ethics",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "csc2541-f19",
+      "name": "Csc2541-F19",
+      "url": "https://github.com/ecreager/csc2541-f19",
+      "verified": false,
+      "trustScore": 0,
+      "description": "CSC 2541F - AI and Ethics - Mathematical Foundations and Algorithms Fall, 2019",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "cse582-final-project",
+      "name": "Cse582-Final-Project",
+      "url": "https://github.com/andre-ye/cse582-final-project",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Code for CSE 582 - AI Ethics final project - Representing the Discursive Construction of Morality",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "csi5195-ethicsinai-finalreport",
+      "name": "Csi5195-Ethicsinai-Finalreport",
+      "url": "https://github.com/SharuGitHubSpace/CSI5195-EthicsinAI-FinalReport",
+      "verified": false,
+      "trustScore": 0,
+      "description": "CSI 5195 - Ethics in Artificial intelligence - Final report - Supporting Document 1",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "dall-e2-cartography-ethics",
+      "name": "Dall-E2-Cartography-Ethics",
+      "url": "https://github.com/GISense/DALL-E2-Cartography-Ethics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An AI-generated map detector to distinguish AI-generated maps and human-designed maps",
+      "ourReview": "",
+      "categories": [
+        "ecom"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "data-and-ai-ethics-governance-and-privacy",
+      "name": "Data-And-Ai-Ethics-Governance-And-Privacy",
+      "url": "https://github.com/TechFaven/Data-and-AI-Ethics-Governance-and-Privacy",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AGI control dilemma",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "data-ethics-and-society-reading-group",
+      "name": "Data-Ethics-And-Society-Reading-Group",
+      "url": "https://github.com/data-ethics-and-society/data-ethics-and-society-reading-group",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Data ethics and society reading group for cross government. We run sessions on books and articles relating to ethics in data science and AI\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "dataethics4allhackathon",
+      "name": "Dataethics4Allhackathon",
+      "url": "https://github.com/DariaAza/DataEthics4AllHackathon",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI in Criminal Justice",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "debiasing-community-detection",
+      "name": "Debiasing-Community-Detection",
+      "url": "https://github.com/sasibhushan3/Debiasing-Community-Detection",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Ethics Term Project",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "derai",
+      "name": "Derai",
+      "url": "https://github.com/Prat-ikea/DERAI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Our Digital Ethics and Responsible AI code reorganizes information in predictions and user behavior to prioritize explainability. Our mul\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "dilemmasearcher",
+      "name": "Dilemmasearcher",
+      "url": "https://github.com/eddiman/DilemmaSearcher",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Project in INFO381 - Advanced Topics in Artificial Intelligence - Moral and Ethics in AI, Spring 2017",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ds_517_ai_ethics",
+      "name": "Ds_517_Ai_Ethics",
+      "url": "https://github.com/shobharanip/DS_517_AI_Ethics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "DS_517_AI_Ethics",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethicai",
+      "name": "Ethicai",
+      "url": "https://github.com/harslash/EthicAI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An interactive educational platform designed to make learning Artificial Intelligence (AI) ethics fun and easily accessible for universit\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethical-ai-courses",
+      "name": "Ethical-Ai-Courses",
+      "url": "https://github.com/snehilsanyal/ethical-ai-courses",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A list of courses on Ethics in AI for self-learning",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethics",
+      "name": "Ethics",
+      "url": "https://github.com/zulrich91/Ethics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The repository contains a number of interesting resources on ethics in general, ethics of AI and the ethical concerns of AI in medecine",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethics-regulation-law-for-intelligentsystems",
+      "name": "Ethics--Regulation--Law-For-Intelligentsystems",
+      "url": "https://github.com/pranigopu/ethics--regulation--law-for-intelligentSystems",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A record of my work in the course \"Ethics, Regulation and Law in Advanced Digital Information Processing and Decision Making\" in my MSc. AI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethics-aixeoxrs",
+      "name": "Ethics-Aixeoxrs",
+      "url": "https://github.com/JohMast/Ethics-AIxEOxRS",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Ethics AIxEOxRS",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethics-and-ai",
+      "name": "Ethics-And-Ai",
+      "url": "https://github.com/herogrl/ethics-and-ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Articulate Rise tabs intraction on Ethics and AI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethics-education",
+      "name": "Ethics-Education",
+      "url": "https://github.com/huggingface/ethics-education",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Ethics educational material \ud83e\udd17",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethics-fairness-and-explanation-in-ai",
+      "name": "Ethics-Fairness-And-Explanation-In-Ai",
+      "url": "https://github.com/Zhangzl0304/Ethics-Fairness-and-Explanation-in-AI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Coursework at Imperial College London",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethics-for-design-robotics-and-ai",
+      "name": "Ethics-For-Design-Robotics-And-Ai",
+      "url": "https://github.com/Masoomeh-akbari/Ethics-for-Design-Robotics-and-AI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "ethics for designing robots",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethics-in-ai",
+      "name": "Ethics-In-Ai",
+      "url": "https://github.com/NavaneethanRajasekaran/Ethics-in-AI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This Essay is about my thoughts on using AI for recruitment",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethics-in-ai-and-intelligent-interfaces",
+      "name": "Ethics-In-Ai-And-Intelligent-Interfaces",
+      "url": "https://github.com/mbar0075/Ethics-in-AI-and-Intelligent-Interfaces",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Deliverables relating to the Ethics in Artificial Intelligence & Intelligent Interfaces University Units",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethics-in-ai-cnns-for-lung-disease",
+      "name": "Ethics-In-Ai-Cnns-For-Lung-Disease",
+      "url": "https://github.com/matthewivan/Ethics-in-AI-CNNs-for-Lung-Disease",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Exploring CNNs and autoencoders for lung disease detection, with a focus on ethical implications in medical applications, including COVID\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethics-in-artificial-intelligence",
+      "name": "Ethics-In-Artificial-Intelligence",
+      "url": "https://github.com/cartabinaria/ethics-in-artificial-intelligence",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A collection of resources for the Ethics in Artificial Intelligence (91257) course of the Master in Artificial Intelligence",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethics-professional",
+      "name": "Ethics-Professional",
+      "url": "https://github.com/Ethics-Professionals-Game-Corporation/Ethics-Professional",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This is the ai based model that runs the chat based interface on both our companies website, our companies internal use, and native to th\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethics-simulation-server-client",
+      "name": "Ethics-Simulation-Server-Client",
+      "url": "https://github.com/mlund2k/Ethics-Simulation-Server-Client",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Project Assets for academic project simulating an AI ethics problem using object oriented programming, and json servers",
+      "ourReview": "",
+      "categories": [
+        "research"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethics-tree",
+      "name": "Ethics-Tree",
+      "url": "https://github.com/Thilo-Hagendorff/ethics-tree",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Mapping the Ethics of Generative AI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethics_and_policy_resources_for_pennaitech",
+      "name": "Ethics_And_Policy_Resources_For_Pennaitech",
+      "url": "https://github.com/PennShenLab/Ethics_and_Policy_Resources_for_PennAITech",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This collection of resources offers a comprehensive overview of key policies, initiatives, and literature resources related to various aspects of aging, dementia, and Alzheimer's disease",
+      "ourReview": "",
+      "categories": [
+        "research"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethics_in_ai",
+      "name": "Ethics_In_Ai",
+      "url": "https://github.com/heathervant/ethics_in_AI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This is reflection piece on Michal Kosinski's talk https://www.youtube.com/watch?v=NesTWiKfpD0 and a discussion of the state of privacy a\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethicsai",
+      "name": "Ethicsai",
+      "url": "https://github.com/prodp/EthicsAI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A Study on the Ethics of AI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethicscore",
+      "name": "Ethicscore",
+      "url": "https://github.com/natalia-moral/ethicscore",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Ethics-by-design AI applications evaluator and enabler",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethicsforais",
+      "name": "Ethicsforais",
+      "url": "https://github.com/Wowo51/EthicsForAIs",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Here are ethical principles for AI's to read",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethicsinai",
+      "name": "Ethicsinai",
+      "url": "https://github.com/kiragptassist/EthicsinAI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Research on the impact of ethics on AI technologies throughout history and present day",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ethiquest-ai-dilemma-game",
+      "name": "Ethiquest-Ai-Dilemma-Game",
+      "url": "https://github.com/EthiQuest/EthiQuest-AI-Dilemma-Game",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The AI Ethics Dilemma Game is an interactive, educational tool designed to help IT professionals and leaders navigate complex ethical sce\u2026",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "face-recognition",
+      "name": "Face-Recognition",
+      "url": "https://github.com/AishPadmanabha/face-recognition",
+      "verified": false,
+      "trustScore": 0,
+      "description": "When I did this project (over 3 years ago), my intentions were to use it to nab criminals. With awareness of ethics in AI with the underl\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "fairness-in-translation",
+      "name": "Fairness-In-Translation",
+      "url": "https://github.com/greenmonn/fairness-in-translation",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Team project investigating fairness problem on machine translation (AI Ethics Lecture in KAIST)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "fake_news_detection",
+      "name": "Fake_News_Detection",
+      "url": "https://github.com/divss98/Fake_News_Detection",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Code for Fake News Detection using NLP and Neural Networks for the scientific article AI Ethics - An Evaluation of Modern World Technologi\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "fate-in-ai",
+      "name": "Fate-In-Ai",
+      "url": "https://github.com/ijdutse/fate-in-ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Relevant information about the project on Fairness, Accountability, Transparency and Ethics in Artificial Intelligence (FATE in AI)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "formal-ethics-ontology",
+      "name": "Formal-Ethics-Ontology",
+      "url": "https://github.com/zariuq/Formal-Ethics-Ontology",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Notes on the formalization of ethical theory, which should help with analyses and reasoning about AI safety and ethics",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "generativeaiethicsplaybook",
+      "name": "Generativeaiethicsplaybook",
+      "url": "https://github.com/jesmith14/GenerativeAIEthicsPlaybook",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This is the color-coded pdf version of the Generative AI Ethics Playbook",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "global-ai-dynamics-mapping-the-ai-utilization-across-nations",
+      "name": "Global-Ai-Dynamics-Mapping-The-Ai-Utilization-Across-Nations-",
+      "url": "https://github.com/eevamehra/Global-AI-Dynamics-Mapping-the-AI-Utilization-across-Nations-",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Analyzing AI across nations - Investment, Policies, Industry Adoption, Talent Development, Tech Advancements, Ethics, and Collaboration of\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "global_ai_ethics_conference_official_website-dubai",
+      "name": "Global_Ai_Ethics_Conference_Official_Website--Dubai",
+      "url": "https://github.com/mokshadewmini/Global_AI_Ethics_Conference_Official_Website--Dubai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repository contains the source code for the official website of the Global AI Ethics Conference 2024, held in Dubai",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "goal",
+      "name": "Goal",
+      "url": "https://github.com/schizyfos/Goal",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Creating a community for turning Valiant's and R\u00e9nyi's vision into an AI model",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "h6_4c_ethics_in_ai",
+      "name": "H6_4C_Ethics_In_Ai",
+      "url": "https://github.com/hsma-programme/h6_4c_ethics_in_ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Materials for HSMA 6 Session 4C",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "hamid",
+      "name": "Hamid",
+      "url": "https://github.com/HamidurRahmanBd/Hamid",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Ethics for Future",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "healthy-ui",
+      "name": "Healthy-Ui",
+      "url": "https://github.com/stanley-utf8/healthy-ui",
+      "verified": false,
+      "trustScore": 0,
+      "description": "McGill AI Ethics Lab Research - work includes identifying & dispelling negative effects of recommender systems",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "humor-offensiveness-detection",
+      "name": "Humor-Offensiveness-Detection",
+      "url": "https://github.com/Mahnazshamissa/Humor-Offensiveness-detection",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This is a shared project as part of the AI ethics course at Asigmo, where an algorithm that detects humor and offensiveness is created wi\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "integral-force",
+      "name": "Integral-Force",
+      "url": "https://github.com/abdulsalamamtech/integral-force",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Integral Force is an AI and Blockchain platform using AI and Blockchain to revolutionize education by creating personalized, transparent \u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "internintelligence_ai_ethics_and_bias_evaluation",
+      "name": "Internintelligence_Ai_Ethics_And_Bias_Evaluation",
+      "url": "https://github.com/Abedini81/InternIntelligence_AI_Ethics_and_Bias_Evaluation",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This project evaluates the fairness of a machine learning model trained on the Adult Income Dataset to predict income. Using metrics like\u2026",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "intro-to-ai-ethics-free-course-kaggle",
+      "name": "Intro-To-Ai-Ethics-Free-Course-Kaggle",
+      "url": "https://github.com/afondiel/Intro-to-AI-Ethics-Free-Course-Kaggle",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Explore practical tools to guide the moral design of AI systems",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "introtoaiethics-kaggle",
+      "name": "Introtoaiethics-Kaggle",
+      "url": "https://github.com/mariammarques/IntroToAIEthics-Kaggle",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Notebooks developed during the Intro to AI Ethics course, offered by Kaggle (https://www.kaggle.com/learn/intro-to-ai-ethics)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "kaggle-courses-intro-to-ai-ethics",
+      "name": "Kaggle-Courses-Intro-To-Ai-Ethics",
+      "url": "https://github.com/grapestone5321/Kaggle-Courses-Intro-to-AI-Ethics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Kaggle-Courses-Intro-to-AI-Ethics",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "law-and-ethics-in-ai",
+      "name": "Law-And-Ethics-In-Ai",
+      "url": "https://github.com/DarioTortorici/Law-and-Ethics-in-AI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "My personal selection of key concepts in the course of Law and Ethics in Artificial Intelligence at the University of Trento, non-attenda\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "lifeaintfair",
+      "name": "Lifeaintfair",
+      "url": "https://github.com/elizabethayalamojica/lifeaintfair",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A digital board game and text-base adventure exploring the consequences and ethics of AI implementation in all stages of our lives",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm-detection-challenge",
+      "name": "Llm-Detection-Challenge",
+      "url": "https://github.com/SeasonXC/LLM-Detection-Challenge",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This project aims to develop AI models that can differentiate between student-written essays and those generated by Large Language Models\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "mg-3-aiethics",
+      "name": "Mg-3-Aiethics",
+      "url": "https://github.com/empower-lab-dartmouth/mg-3-AIEthics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Ethics - AI Learning Mini-Game 3",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "nak-aiethics",
+      "name": "Nak-Aiethics",
+      "url": "https://github.com/TilBlechschmidt/NAK-AIEthics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Science paper that does a meta-study on AI ethics to determine whether or not significant research has been done in this area",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "nft-2023",
+      "name": "Nft-2023",
+      "url": "https://github.com/HCI-Blockchain/NFT-2023",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Replication Code for - On the Mechanics of NFT Valuation - AI Ethics and Social Media",
+      "ourReview": "",
+      "categories": [
+        "social"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "nottsai-meetup-june4-2019",
+      "name": "Nottsai-Meetup-June4-2019",
+      "url": "https://github.com/Lazymindz/nottsai-meetup-june4-2019",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Ethics Guidelines for Trustworthy AI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ntu_msai_ai6101_introdution",
+      "name": "Ntu_Msai_Ai6101_Introdution",
+      "url": "https://github.com/AccSrd/NTU_MSAI_AI6101_Introdution",
+      "verified": false,
+      "trustScore": 0,
+      "description": "[AI6101] Introduction to AI & AI Ethics is a core course of MSAI, SCSE, NTU, Singapore. The repository corresponds to the AI6101 of Semes\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "operationalizingaiethics",
+      "name": "Operationalizingaiethics",
+      "url": "https://github.com/stephaniekelley/operationalizingAIethics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "IVADO Fin-ML Workshop - Operationalizing AI Ethics in the Modeling Process",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "paper-reviews",
+      "name": "Paper-Reviews",
+      "url": "https://github.com/rayruchira/Paper-Reviews",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Reviews of papers related to robot learning, computer vision, audio , NLP and AI Ethics",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "philosophical_ai_chatbot",
+      "name": "Philosophical_Ai_Chatbot",
+      "url": "https://github.com/namkidong98/Philosophical_AI_ChatBot",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Sogang Univ, 2023_1st semester, PHI4061, Artificial Intelligence and Ethics Practice",
+      "ourReview": "",
+      "categories": [
+        "assistant"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "philosophy-and-ethics",
+      "name": "Philosophy-And-Ethics",
+      "url": "https://github.com/Aryia-Behroziuan/Philosophy-and-ethics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This section should include only a brief summary of another article. See Wikipedia:Summary style for information on how to properly incor\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "pimeyesdataethics",
+      "name": "Pimeyesdataethics",
+      "url": "https://github.com/christianmcb/PimEyesDataEthics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Group report on data ethics and governance with relation to AI application PimEyes",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "pittchallenge2023",
+      "name": "Pittchallenge2023",
+      "url": "https://github.com/LoganWarren/PittChallenge2023",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Governance and Ethics in AI - Pitt Challenge",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "project-aru-ethics-in-ai",
+      "name": "Project-Aru-Ethics-In-Ai-",
+      "url": "https://github.com/Siddhant721/Project-ARU-Ethics-In-AI-",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Ethical Considerations in AI and Data Science - Ensuring Responsible Innovation",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "psychological_ai_research",
+      "name": "Psychological_Ai_Research",
+      "url": "https://github.com/the-ethical-ai/Psychological_AI_Research",
+      "verified": false,
+      "trustScore": 0,
+      "description": "[In-Progress] PAIR Project - AI + Machine Learning + Psychology + Ethics = This Project",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "pytexas-ethics-in-ai-shap",
+      "name": "Pytexas-Ethics-In-Ai---Shap",
+      "url": "https://github.com/LioGabriella/PyTexas-Ethics-in-AI---SHAP",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Shapley Values Jupyter Notebook",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "realmofrespect",
+      "name": "Realmofrespect",
+      "url": "https://github.com/riyadhuddin/realmofrespect",
+      "verified": false,
+      "trustScore": 0,
+      "description": "a visionary online platform where ethics, empathy, and digital responsibility reign supreme. We believe in harnessing the power of techn\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "reddit_ai_topic_analysis",
+      "name": "Reddit_Ai_Topic_Analysis",
+      "url": "https://github.com/leah-rtd/Reddit_AI_Topic_Analysis",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Unveiling Trends in AI Ethics - Exploring the Ethical Dimensions of AI, Prepared for SICSS 2023 - Tor Vergata",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "relaieo",
+      "name": "Relaieo",
+      "url": "https://github.com/Audit4SG/RelAIEO",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Relational AI Ethics Ontology",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "research-paper-summary-project",
+      "name": "Research-Paper-Summary-Project",
+      "url": "https://github.com/M-K-Aakash/Research-Paper-Summary-Project",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Generative AI accelerates drug discovery by designing new drugs, repurposing existing ones, and enabling personalized treatments. Despite\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "resources",
+      "name": "Resources",
+      "url": "https://github.com/NeurotechEducationProject/resources",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A collection of open educational resources exploring the intersection of Artificial Intelligence and Neuroscience. This project provides \u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "retrieval-recsys-ai-ethics-regulation-tutorial-sigir22",
+      "name": "Retrieval-Recsys-Ai-Ethics-Regulation-Tutorial-Sigir22",
+      "url": "https://github.com/socialcomplab/Retrieval-RecSys-AI-Ethics-Regulation-Tutorial-SIGIR22",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Tutorial Retrieval and Recommendation Systems at the Crossroads of Artificial Intelligence, Ethics, and Regulation",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "risks-of-narrow-ai",
+      "name": "Risks-Of-Narrow-Ai",
+      "url": "https://github.com/Aryia-Behroziuan/Risks-of-narrow-AI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "research goals to see how AI influences the economy, the laws and ethics that are involved with AI and how to minimize AI security ri\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "sandbox",
+      "name": "Sandbox",
+      "url": "https://github.com/abozaralizadeh/SandBox",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A simulation where AI makes daily high-level decisions for a virtual world, balancing ethics, sustainability, and impact",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "sdm23",
+      "name": "Sdm23",
+      "url": "https://github.com/DATA-Transpose/sdm23",
+      "verified": false,
+      "trustScore": 0,
+      "description": "SDM2023 Tutorial - When Mining Healthcare Data Meets AI Ethics - Towards Privacy-preservation, Fairness and Trustworthy",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "senior-research",
+      "name": "Senior-Research",
+      "url": "https://github.com/chris-junior/Senior-research",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI ethics of ChatGPT",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "sentiment-rating",
+      "name": "Sentiment-Rating",
+      "url": "https://github.com/ai4society/sentiment-rating",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The purpose of this repo is to run sentiment analysis models, test them for their sensitivity to change in gender and race related attrib\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "session-20-ethics-in-data-science",
+      "name": "Session-20-Ethics-In-Data-Science",
+      "url": "https://github.com/AI-Wales/Session-20-Ethics-In-Data-Science",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Steph Locke's talk on Ethics in Data Science and AI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "sociotechnical-transparency-abm",
+      "name": "Sociotechnical-Transparency-Abm",
+      "url": "https://github.com/azgausen/sociotechnical-transparency-abm",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repository contains the core logic for the code used in - Gausen, A., Guo, C. & Luk, W. An approach to sociotechnical transparency of\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "solution_to_ethical_issue_in_ai",
+      "name": "Solution_To_Ethical_Issue_In_Ai",
+      "url": "https://github.com/jiaxuan-oss/Solution_to_Ethical_Issue_in_AI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "FIT1055 A2a-IT professional practice and ethics Assignment 2a Solution to Ethical Issue in AI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "sora",
+      "name": "Sora",
+      "url": "https://github.com/AI-Now/Sora",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Sora is a hypothetical synth, which follows the ethics of the AI Now project",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "startyourjourney",
+      "name": "Startyourjourney",
+      "url": "https://github.com/metaversityfoundation/StartYourJourney",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Starting place to become a Reality Engineer - 3D, XR, AI, Ethics",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "teenytinycastle",
+      "name": "Teenytinycastle",
+      "url": "https://github.com/Nkluge-correa/TeenyTinyCastle",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Educational tools for AI Ethics and Safety research \ud83d\udee0\ufe0f\ud83d\udd2c",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "the-ethics-of-ai-navigating-complex-challenges-and-opportunities",
+      "name": "The-Ethics-Of-Ai-Navigating-Complex-Challenges-And-Opportunities",
+      "url": "https://github.com/ysyk2021/the-ethics-of-ai-navigating-complex-challenges-and-opportunities",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The Ethics of AI - Navigating Complex Challenges and Opportunities",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "tools-from-ai",
+      "name": "Tools-From-Ai",
+      "url": "https://github.com/sb3ly/tools-from-AI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "# This tool is designed to detect whether the email exists on the target site by trying to guess using different methods. # Make sure the\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "towards_certified_ethical_ai",
+      "name": "Towards_Certified_Ethical_Ai",
+      "url": "https://github.com/stuenofotso/Towards_Certified_Ethical_AI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repository is about a proposal to allow the definition of ethical artificial intelligences for which ethics can be certified. The pr\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "transferlearninggithubio",
+      "name": "Transferlearning.Github.Io",
+      "url": "https://github.com/anthonymalumbe/transferlearning.github.io",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This GitHub blog explores the transfer & sharing of knowledge in data & AI. Dive into - Real-world applications of data & AI Communicating\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "trustworthyai",
+      "name": "Trustworthyai",
+      "url": "https://github.com/ocatak/trustworthyai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Trustworthy AI - From Theory to Practice book. Explore the intersection of ethics and technology with 'Trustworthy AI - From Theory to Prac\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "tutorteachai",
+      "name": "Tutorteach.Ai",
+      "url": "https://github.com/JMadhan1/Tutorteach.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "TutorTeach.ai is an AI-powered learning platform offering personalized video lessons, text summaries, assignments, and score predictions.\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "upliftingpoleai_bsc_dissertation",
+      "name": "Upliftingpoleai_Bsc_Dissertation",
+      "url": "https://github.com/oakleighw/upliftingPoleAi_BSc_dissertation",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Contains dissertation code and report for my level 3 BSc Computer Science 'Project' module. I achieved 84% in this assessment, and I am v\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "waterlily",
+      "name": "Waterlily",
+      "url": "https://github.com/Lilypad-Tech/Waterlily",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A project bringing ethics back to AI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "weavesphere-2022-ai-ethics",
+      "name": "Weavesphere-2022-Ai-Ethics",
+      "url": "https://github.com/spackows/WEAVESPHERE-2022-AI-Ethics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Ethics - The Content Design Perspective",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "white-paper-ais-with-internal-ethical-understanding",
+      "name": "White-Paper---Ais-With-Internal-Ethical-Understanding",
+      "url": "https://github.com/me9hanics/White-Paper---AIs-with-Internal-Ethical-Understanding",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A white paper writing for my \"Debates in Social Data Science\" course at the Central European University. The paper argues that the curren\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "worldwide_ai-ethics",
+      "name": "Worldwide_Ai-Ethics",
+      "url": "https://github.com/Nkluge-correa/worldwide_AI-ethics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Worldwide AI Ethics (WAIE) is a systematic literature review done by AIRES researchers at PUCRS",
+      "ourReview": "",
+      "categories": [
+        "research"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "xai-data-science",
+      "name": "Xai-Data-Science",
+      "url": "https://github.com/2002jai/XAI-Data-Science",
+      "verified": false,
+      "trustScore": 0,
+      "description": "XAI-Data-Science - Explore the world of Explainable AI (XAI) through techniques, tools, and applications. Foster transparency, ethics, and\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "yzv103e-intrtoai-dataeng-ethics",
+      "name": "Yzv103E-Intr.Toai-Dataeng-Ethics",
+      "url": "https://github.com/serdarbicici-visualstudio/YZV103E-Intr.toAI-DataEng-Ethics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "YZV 103E Intr. to AI & Data Eng& Ethics materials and team project for \u0130stanbul Technical University",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "8owls-weevolve",
+      "name": "8OWLS / WeEvolve",
+      "url": "https://github.com/aro-brez/weevolve",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Self-evolving AI agent framework with 8 specialized agents, SEED protocol (8-phase recursive self-improvement), knowledge transfer, and MMORPG progression. Supports 15 models across 7 providers.  |",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agent-llm",
+      "name": "Agent-LLM",
+      "url": "https://github.com/Josh-XT/Agent-LLM",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An Artificial Intelligence Automation Platform",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agentdock",
+      "name": "AgentDock",
+      "url": "https://github.com/AgentDock/AgentDock",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Stop wrestling with countless APIs and complex integrations. AgentDock provides the open-source foundation to build, manage, and deploy production-ready AI agents and workflows, frictionlessly",
       "ourReview": "",
       "categories": [
         "dev-tools"
