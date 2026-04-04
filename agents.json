@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T19:50:42.630031+00:00",
+  "lastUpdated": "2026-04-04T20:03:12.038451+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -3489,6 +3489,4188 @@
       },
       "affiliateLink": null,
       "founded": "2018",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "adobe-firefly",
+      "name": "Adobe Firefly",
+      "url": "https://www.adobe.com/products/firefly.html",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Adobe's generative AI for creating images, text effects, and graphics integrated with Creative Cloud.",
+      "ourReview": "",
+      "categories": [
+        "design"
+      ],
+      "subcategories": [
+        "image-generation",
+        "text-effects"
+      ],
+      "bestFor": [
+        "designers",
+        "marketers"
+      ],
+      "platforms": [
+        "Photoshop",
+        "Illustrator",
+        "Express"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "$4.99/mo",
+      "pricingNote": "Free credits monthly",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "midjourney",
+      "name": "Midjourney",
+      "url": "https://www.midjourney.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI image generator known for artistic, high-quality visuals via Discord and web interface.",
+      "ourReview": "",
+      "categories": [
+        "design"
+      ],
+      "subcategories": [
+        "image-generation",
+        "ai-art"
+      ],
+      "bestFor": [
+        "designers",
+        "artists",
+        "marketers"
+      ],
+      "platforms": [
+        "Discord"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "$10/mo",
+      "pricingNote": "Paid only",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2022",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "dall-e-3",
+      "name": "DALL-E 3",
+      "url": "https://openai.com/dall-e-3",
+      "verified": false,
+      "trustScore": 0,
+      "description": "OpenAI's image generation model integrated into ChatGPT for creating images from text prompts.",
+      "ourReview": "",
+      "categories": [
+        "design"
+      ],
+      "subcategories": [
+        "image-generation"
+      ],
+      "bestFor": [
+        "everyone"
+      ],
+      "platforms": [
+        "ChatGPT"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "$20/mo",
+      "pricingNote": "Via ChatGPT Plus",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "leonardoai",
+      "name": "Leonardo.Ai",
+      "url": "https://leonardo.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI image generator for production-quality visual assets, game assets, and concept art.",
+      "ourReview": "",
+      "categories": [
+        "design"
+      ],
+      "subcategories": [
+        "image-generation",
+        "game-assets"
+      ],
+      "bestFor": [
+        "designers",
+        "game-developers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$12/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2022",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "runway",
+      "name": "Runway",
+      "url": "https://runwayml.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI video generation and editing platform with text-to-video, image-to-video, and creative tools.",
+      "ourReview": "",
+      "categories": [
+        "video",
+        "design"
+      ],
+      "subcategories": [
+        "video-generation",
+        "ai-video"
+      ],
+      "bestFor": [
+        "filmmakers",
+        "designers",
+        "creators"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$15/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2018",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "pika",
+      "name": "Pika",
+      "url": "https://pika.art",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI video generator creating short clips from text prompts or images with simple controls.",
+      "ourReview": "",
+      "categories": [
+        "video"
+      ],
+      "subcategories": [
+        "video-generation"
+      ],
+      "bestFor": [
+        "creators",
+        "marketers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$10/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "luma-dream-machine",
+      "name": "Luma Dream Machine",
+      "url": "https://lumalabs.ai/dream-machine",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI video generation model creating realistic cinematic clips from text or image prompts.",
+      "ourReview": "",
+      "categories": [
+        "video"
+      ],
+      "subcategories": [
+        "video-generation"
+      ],
+      "bestFor": [
+        "creators",
+        "filmmakers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$29.99/mo",
+      "pricingNote": "Free tier available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "url": "https://chat.openai.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "OpenAI's flagship conversational AI for writing, coding, analysis, and creative tasks.",
+      "ourReview": "",
+      "categories": [
+        "assistant"
+      ],
+      "subcategories": [
+        "chatbot",
+        "writing",
+        "analysis"
+      ],
+      "bestFor": [
+        "everyone"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$20/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2022",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "url": "https://claude.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Anthropic's AI assistant with long context, strong reasoning, and artifacts for creating content.",
+      "ourReview": "",
+      "categories": [
+        "assistant"
+      ],
+      "subcategories": [
+        "chatbot",
+        "writing",
+        "coding"
+      ],
+      "bestFor": [
+        "everyone",
+        "developers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$20/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "url": "https://gemini.google.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Google's AI assistant integrated with Workspace, search, and multimodal capabilities.",
+      "ourReview": "",
+      "categories": [
+        "assistant"
+      ],
+      "subcategories": [
+        "chatbot",
+        "multimodal"
+      ],
+      "bestFor": [
+        "everyone"
+      ],
+      "platforms": [
+        "Google Workspace"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "$19.99/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "url": "https://www.perplexity.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI-powered search engine that answers questions with cited sources and follow-up queries.",
+      "ourReview": "",
+      "categories": [
+        "assistant",
+        "research"
+      ],
+      "subcategories": [
+        "search",
+        "research",
+        "citations"
+      ],
+      "bestFor": [
+        "researchers",
+        "everyone"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$20/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2022",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "poe",
+      "name": "Poe",
+      "url": "https://poe.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Quora's multi-model AI chat platform with access to GPT-4, Claude, Gemini, and more in one place.",
+      "ourReview": "",
+      "categories": [
+        "assistant"
+      ],
+      "subcategories": [
+        "chatbot",
+        "multi-model"
+      ],
+      "bestFor": [
+        "power-users"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$19.99/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "mistral-le-chat",
+      "name": "Mistral Le Chat",
+      "url": "https://chat.mistral.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "European AI assistant from Mistral with strong reasoning, coding, and multilingual capabilities.",
+      "ourReview": "",
+      "categories": [
+        "assistant"
+      ],
+      "subcategories": [
+        "chatbot",
+        "multilingual"
+      ],
+      "bestFor": [
+        "everyone"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "Free",
+      "pricingNote": "Free tier",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2024",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "grok",
+      "name": "Grok",
+      "url": "https://grok.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "xAI's chatbot with real-time X/Twitter access and a conversational personality.",
+      "ourReview": "",
+      "categories": [
+        "assistant"
+      ],
+      "subcategories": [
+        "chatbot",
+        "real-time"
+      ],
+      "bestFor": [
+        "everyone"
+      ],
+      "platforms": [
+        "X/Twitter"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "$30/mo",
+      "pricingNote": "Via X Premium",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "huggingchat",
+      "name": "HuggingChat",
+      "url": "https://huggingface.co/chat/",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source AI chat from Hugging Face with multiple open models and tool use.",
+      "ourReview": "",
+      "categories": [
+        "assistant"
+      ],
+      "subcategories": [
+        "chatbot",
+        "open-source"
+      ],
+      "bestFor": [
+        "developers",
+        "researchers"
+      ],
+      "platforms": [],
+      "pricingModel": "free",
+      "pricingFrom": "Free",
+      "pricingNote": "Completely free",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "url": "https://cursor.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI-powered code editor built on VS Code with inline editing, codebase understanding, and agent mode.",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [
+        "ai-coding",
+        "ide"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [
+        "VS Code"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "$20/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "github-copilot",
+      "name": "GitHub Copilot",
+      "url": "https://github.com/features/copilot",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI pair programmer from GitHub offering code completions, chat, and PR reviews in your editor.",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [
+        "ai-coding",
+        "completions"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [
+        "VS Code",
+        "JetBrains",
+        "Neovim"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "$10/mo",
+      "pricingNote": "Free for students",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2021",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "windsurf",
+      "name": "Windsurf",
+      "url": "https://windsurf.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI IDE with Cascade agent that understands your entire codebase and makes multi-file edits.",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [
+        "ai-coding",
+        "ide",
+        "agent"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$15/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2024",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "url": "https://www.anthropic.com/claude-code",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Anthropic's CLI coding agent that runs in your terminal with access to your full codebase.",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [
+        "ai-coding",
+        "cli",
+        "agent"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [
+        "Terminal"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "$20/mo",
+      "pricingNote": "Via Claude Pro",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2024",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "aider",
+      "name": "Aider",
+      "url": "https://aider.chat",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source AI pair programming tool that edits code in your terminal with git integration.",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [
+        "ai-coding",
+        "cli",
+        "open-source"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [
+        "Terminal",
+        "Git"
+      ],
+      "pricingModel": "free",
+      "pricingFrom": "Free (API costs)",
+      "pricingNote": "Open source",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "boltnew",
+      "name": "Bolt.new",
+      "url": "https://bolt.new",
+      "verified": false,
+      "trustScore": 0,
+      "description": "StackBlitz AI full-stack web development in the browser \u2014 describe an app and see it built live.",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [
+        "ai-coding",
+        "web-dev"
+      ],
+      "bestFor": [
+        "developers",
+        "solopreneurs"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$20/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2024",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "lovable",
+      "name": "Lovable",
+      "url": "https://lovable.dev",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI app builder that generates full-stack applications from natural language prompts.",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [
+        "ai-coding",
+        "app-builder"
+      ],
+      "bestFor": [
+        "founders",
+        "solopreneurs"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$20/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2024",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "v0",
+      "name": "v0",
+      "url": "https://v0.dev",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Vercel's AI tool for generating React components and UI from text prompts and screenshots.",
+      "ourReview": "",
+      "categories": [
+        "coding",
+        "design"
+      ],
+      "subcategories": [
+        "ui-generation",
+        "react"
+      ],
+      "bestFor": [
+        "developers",
+        "designers"
+      ],
+      "platforms": [
+        "React",
+        "Next.js"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "$20/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "replit-agent",
+      "name": "Replit Agent",
+      "url": "https://replit.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Cloud IDE with AI agent that builds full applications from your description in the browser.",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [
+        "ai-coding",
+        "cloud-ide"
+      ],
+      "bestFor": [
+        "developers",
+        "students"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$25/mo",
+      "pricingNote": "Free tier available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2016",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "tabnine",
+      "name": "Tabnine",
+      "url": "https://www.tabnine.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI code completion tool with privacy-focused, team-trained models for enterprise developers.",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [
+        "ai-coding",
+        "completions"
+      ],
+      "bestFor": [
+        "developers",
+        "enterprises"
+      ],
+      "platforms": [
+        "VS Code",
+        "JetBrains"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "$9/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2013",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "codeium",
+      "name": "Codeium",
+      "url": "https://codeium.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Free AI code autocomplete, chat, and search across 70+ languages and all major IDEs.",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [
+        "ai-coding",
+        "completions"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [
+        "VS Code",
+        "JetBrains",
+        "Neovim"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "Free",
+      "pricingNote": "Free for individuals",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2022",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "sourcegraph-cody",
+      "name": "Sourcegraph Cody",
+      "url": "https://sourcegraph.com/cody",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI coding assistant that reads your entire codebase for context-aware completions and chat.",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [
+        "ai-coding",
+        "codebase-aware"
+      ],
+      "bestFor": [
+        "developers",
+        "enterprises"
+      ],
+      "platforms": [
+        "VS Code",
+        "JetBrains"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "$9/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "supermaven",
+      "name": "Supermaven",
+      "url": "https://supermaven.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Ultra-fast AI code completion with 300K+ token context window and sub-second latency.",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [
+        "ai-coding",
+        "completions"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [
+        "VS Code",
+        "JetBrains",
+        "Neovim"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "$10/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2024",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "devin",
+      "name": "Devin",
+      "url": "https://devin.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Cognition's autonomous AI software engineer that plans, codes, and debugs full projects.",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [
+        "autonomous-agent",
+        "ai-engineer"
+      ],
+      "bestFor": [
+        "enterprises",
+        "teams"
+      ],
+      "platforms": [],
+      "pricingModel": "subscription",
+      "pricingFrom": "$500/mo",
+      "pricingNote": "Team plans",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2024",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "langchain",
+      "name": "LangChain",
+      "url": "https://www.langchain.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Framework for building LLM-powered applications with chains, agents, and memory. Python and JS.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "framework",
+        "llm-apps"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [
+        "Python",
+        "JavaScript"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "Free (open source)",
+      "pricingNote": "Paid LangSmith",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2022",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "llamaindex",
+      "name": "LlamaIndex",
+      "url": "https://www.llamaindex.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Data framework for building LLM applications with RAG, structured data, and agents.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "rag",
+        "framework"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [
+        "Python",
+        "TypeScript"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "Free (open source)",
+      "pricingNote": "Paid cloud",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2022",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "crewai",
+      "name": "CrewAI",
+      "url": "https://www.crewai.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Framework for orchestrating role-playing autonomous AI agents to tackle complex tasks together.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools",
+        "automation"
+      ],
+      "subcategories": [
+        "multi-agent",
+        "framework"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [
+        "Python"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "Free (open source)",
+      "pricingNote": "Paid enterprise",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "autogen",
+      "name": "AutoGen",
+      "url": "https://microsoft.github.io/autogen/",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Microsoft's framework for building multi-agent AI applications with conversation patterns.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "multi-agent",
+        "framework"
+      ],
+      "bestFor": [
+        "developers",
+        "researchers"
+      ],
+      "platforms": [
+        "Python",
+        ".NET"
+      ],
+      "pricingModel": "free",
+      "pricingFrom": "Free",
+      "pricingNote": "Open source",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "langgraph",
+      "name": "LangGraph",
+      "url": "https://www.langchain.com/langgraph",
+      "verified": false,
+      "trustScore": 0,
+      "description": "LangChain's framework for building stateful, multi-actor agent workflows with graphs.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "graph-agents",
+        "framework"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [
+        "Python",
+        "JavaScript"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "Free (open source)",
+      "pricingNote": "Paid cloud",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2024",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "openai-assistants-api",
+      "name": "OpenAI Assistants API",
+      "url": "https://platform.openai.com/docs/assistants/overview",
+      "verified": false,
+      "trustScore": 0,
+      "description": "OpenAI's API for building AI assistants with tools, code interpreter, and file search.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "api",
+        "assistants"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [],
+      "pricingModel": "usage-based",
+      "pricingFrom": "Pay-as-you-go",
+      "pricingNote": "API pricing",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "vercel-ai-sdk",
+      "name": "Vercel AI SDK",
+      "url": "https://sdk.vercel.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "TypeScript toolkit for building AI-powered streaming UIs and agents with any model provider.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "sdk",
+        "streaming-ui"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [
+        "Next.js",
+        "React",
+        "Svelte"
+      ],
+      "pricingModel": "free",
+      "pricingFrom": "Free (open source)",
+      "pricingNote": "Open source",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "mastra",
+      "name": "Mastra",
+      "url": "https://mastra.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "TypeScript AI framework for building agents, workflows, RAG, and evals quickly.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "typescript",
+        "framework"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [
+        "TypeScript"
+      ],
+      "pricingModel": "free",
+      "pricingFrom": "Free (open source)",
+      "pricingNote": "Open source",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2024",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "haystack",
+      "name": "Haystack",
+      "url": "https://haystack.deepset.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source Python framework for building production-ready LLM applications and RAG pipelines.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "rag",
+        "framework"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [
+        "Python"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "Free (open source)",
+      "pricingNote": "Paid cloud",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2020",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "relevance-ai",
+      "name": "Relevance AI",
+      "url": "https://relevanceai.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "No-code platform for building AI agents that automate tasks across sales, marketing, and ops.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools",
+        "automation"
+      ],
+      "subcategories": [
+        "no-code",
+        "agents"
+      ],
+      "bestFor": [
+        "business-users",
+        "developers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$19/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2020",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "dify",
+      "name": "Dify",
+      "url": "https://dify.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source LLM app development platform with visual workflow builder, RAG, and agent orchestration.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "visual-builder",
+        "rag"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$59/mo",
+      "pricingNote": "Free self-hosted",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "flowise",
+      "name": "Flowise",
+      "url": "https://flowiseai.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source low-code tool to build LLM apps with drag-and-drop visual interface.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "visual-builder",
+        "low-code"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$35/mo",
+      "pricingNote": "Free self-hosted",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "pinecone",
+      "name": "Pinecone",
+      "url": "https://www.pinecone.io",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Managed vector database purpose-built for AI applications with similarity search at scale.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "vector-db",
+        "rag"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$70/mo",
+      "pricingNote": "Free tier available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2019",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "weaviate",
+      "name": "Weaviate",
+      "url": "https://weaviate.io",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source vector database with built-in ML models and hybrid search capabilities.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "vector-db",
+        "open-source"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$25/mo",
+      "pricingNote": "Free sandbox",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2019",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "chroma",
+      "name": "Chroma",
+      "url": "https://www.trychroma.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source embedding database designed for AI applications. Python and JavaScript.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "vector-db",
+        "open-source"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [
+        "Python",
+        "JavaScript"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "Free (open source)",
+      "pricingNote": "Paid cloud",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "qdrant",
+      "name": "Qdrant",
+      "url": "https://qdrant.tech",
+      "verified": false,
+      "trustScore": 0,
+      "description": "High-performance vector similarity search engine with Rust-based architecture.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "vector-db",
+        "search"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$25/mo",
+      "pricingNote": "Free tier available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2021",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "openrouter",
+      "name": "OpenRouter",
+      "url": "https://openrouter.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Unified API for 300+ AI models with automatic failover, cost optimization, and analytics.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "api-gateway",
+        "multi-model"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [],
+      "pricingModel": "usage-based",
+      "pricingFrom": "Pay-as-you-go",
+      "pricingNote": "Free to start",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "litellm",
+      "name": "LiteLLM",
+      "url": "https://www.litellm.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source proxy to call 100+ LLM APIs in OpenAI format with load balancing and logging.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "api-gateway",
+        "open-source"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [
+        "Python"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "Free (open source)",
+      "pricingNote": "Paid cloud",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "langsmith",
+      "name": "LangSmith",
+      "url": "https://smith.langchain.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "LangChain's platform for debugging, testing, and monitoring LLM applications.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "observability",
+        "evals"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$39/user/mo",
+      "pricingNote": "Free tier available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "langfuse",
+      "name": "Langfuse",
+      "url": "https://langfuse.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source LLM engineering platform for observability, analytics, and prompt management.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "observability",
+        "open-source"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$29/mo",
+      "pricingNote": "Free self-hosted",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "helicone",
+      "name": "Helicone",
+      "url": "https://www.helicone.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source observability and gateway for LLMs with logging, caching, and rate limiting.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "observability",
+        "api-gateway"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$50/mo",
+      "pricingNote": "Free tier available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "portkey",
+      "name": "Portkey",
+      "url": "https://portkey.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI gateway with 1600+ model integrations, observability, prompt management, and guardrails.",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [
+        "api-gateway",
+        "observability"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$49/mo",
+      "pricingNote": "Free tier available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "notion-ai",
+      "name": "Notion AI",
+      "url": "https://www.notion.so/product/ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI writing assistant built into Notion for drafting, summarizing, and transforming content.",
+      "ourReview": "",
+      "categories": [
+        "content",
+        "productivity"
+      ],
+      "subcategories": [
+        "writing",
+        "summarization"
+      ],
+      "bestFor": [
+        "knowledge-workers",
+        "teams"
+      ],
+      "platforms": [
+        "Notion"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "$10/member/mo",
+      "pricingNote": "Add-on to Notion",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "anyword",
+      "name": "Anyword",
+      "url": "https://anyword.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI copywriting platform with predictive performance scores for marketing content.",
+      "ourReview": "",
+      "categories": [
+        "content"
+      ],
+      "subcategories": [
+        "copywriting",
+        "performance"
+      ],
+      "bestFor": [
+        "marketers"
+      ],
+      "platforms": [],
+      "pricingModel": "subscription",
+      "pricingFrom": "$49/mo",
+      "pricingNote": "Free trial",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2013",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "rytr",
+      "name": "Rytr",
+      "url": "https://rytr.me",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI writing assistant with 40+ use cases and 30+ languages at affordable pricing.",
+      "ourReview": "",
+      "categories": [
+        "content"
+      ],
+      "subcategories": [
+        "copywriting"
+      ],
+      "bestFor": [
+        "solopreneurs",
+        "budget-conscious"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$9/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2021",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "sudowrite",
+      "name": "Sudowrite",
+      "url": "https://www.sudowrite.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI writing assistant built specifically for fiction authors with story development tools.",
+      "ourReview": "",
+      "categories": [
+        "content"
+      ],
+      "subcategories": [
+        "fiction-writing"
+      ],
+      "bestFor": [
+        "fiction-writers",
+        "authors"
+      ],
+      "platforms": [],
+      "pricingModel": "subscription",
+      "pricingFrom": "$19/mo",
+      "pricingNote": "Free trial",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2020",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "quillbot",
+      "name": "QuillBot",
+      "url": "https://quillbot.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI paraphrasing tool with grammar checker, summarizer, and citation generator.",
+      "ourReview": "",
+      "categories": [
+        "content"
+      ],
+      "subcategories": [
+        "paraphrasing",
+        "grammar"
+      ],
+      "bestFor": [
+        "students",
+        "writers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$9.95/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2017",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "otterai",
+      "name": "Otter.ai",
+      "url": "https://otter.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI meeting transcription with summaries, action items, and integrations with Zoom, Meet, and Teams.",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [
+        "transcription",
+        "meetings"
+      ],
+      "bestFor": [
+        "remote-teams",
+        "solopreneurs"
+      ],
+      "platforms": [
+        "Zoom",
+        "Google Meet",
+        "Teams"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "$8.33/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2016",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "firefliesai",
+      "name": "Fireflies.ai",
+      "url": "https://fireflies.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI meeting assistant that records, transcribes, summarizes, and analyzes your meetings.",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [
+        "meetings",
+        "transcription"
+      ],
+      "bestFor": [
+        "remote-teams",
+        "sales-teams"
+      ],
+      "platforms": [
+        "Zoom",
+        "Google Meet",
+        "Teams",
+        "Webex"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "$10/user/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2016",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "fathom",
+      "name": "Fathom",
+      "url": "https://fathom.video",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI meeting assistant that records, transcribes, and summarizes calls with free forever plan.",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [
+        "meetings",
+        "transcription"
+      ],
+      "bestFor": [
+        "remote-teams",
+        "solopreneurs"
+      ],
+      "platforms": [
+        "Zoom",
+        "Google Meet",
+        "Teams"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "Free",
+      "pricingNote": "Paid team plans",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2020",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "granola",
+      "name": "Granola",
+      "url": "https://www.granola.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI note-taker that enhances your raw meeting notes with context and summaries. Mac-first.",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [
+        "meetings",
+        "notes"
+      ],
+      "bestFor": [
+        "knowledge-workers"
+      ],
+      "platforms": [
+        "macOS"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "$10/mo",
+      "pricingNote": "Free 25 notes",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "tl;dv",
+      "name": "tl;dv",
+      "url": "https://tldv.io",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI meeting recorder for Zoom, Meet, and Teams with transcripts, summaries, and timestamps.",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [
+        "meetings",
+        "transcription"
+      ],
+      "bestFor": [
+        "remote-teams"
+      ],
+      "platforms": [
+        "Zoom",
+        "Google Meet",
+        "Teams"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "$18/user/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2020",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "reclaimai",
+      "name": "Reclaim.ai",
+      "url": "https://reclaim.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI calendar assistant that automatically schedules tasks, habits, and meetings around priorities.",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [
+        "calendar",
+        "scheduling"
+      ],
+      "bestFor": [
+        "knowledge-workers"
+      ],
+      "platforms": [
+        "Google Calendar",
+        "Outlook"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "$10/user/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2019",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "motion",
+      "name": "Motion",
+      "url": "https://www.usemotion.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI task manager and calendar that automatically plans your day based on deadlines and meetings.",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [
+        "calendar",
+        "task-management"
+      ],
+      "bestFor": [
+        "solopreneurs",
+        "small-teams"
+      ],
+      "platforms": [
+        "Google Calendar",
+        "Outlook"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "$19/user/mo",
+      "pricingNote": "7-day free trial",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2019",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "superhuman",
+      "name": "Superhuman",
+      "url": "https://superhuman.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Fastest email experience with AI triage, instant replies, and productivity shortcuts.",
+      "ourReview": "",
+      "categories": [
+        "productivity",
+        "email"
+      ],
+      "subcategories": [
+        "email",
+        "productivity"
+      ],
+      "bestFor": [
+        "executives",
+        "power-users"
+      ],
+      "platforms": [
+        "Gmail",
+        "Outlook"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "$30/mo",
+      "pricingNote": "30-day free trial",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2017",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "elicit",
+      "name": "Elicit",
+      "url": "https://elicit.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI research assistant that finds, summarizes, and extracts data from academic papers.",
+      "ourReview": "",
+      "categories": [
+        "research"
+      ],
+      "subcategories": [
+        "academic-research",
+        "literature-review"
+      ],
+      "bestFor": [
+        "researchers",
+        "academics"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$12/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2021",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "url": "https://consensus.app",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI-powered search engine for scientific research with evidence-backed answers from papers.",
+      "ourReview": "",
+      "categories": [
+        "research"
+      ],
+      "subcategories": [
+        "scientific-search"
+      ],
+      "bestFor": [
+        "researchers",
+        "students"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$9/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2022",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "exa",
+      "name": "Exa",
+      "url": "https://exa.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI search engine and API designed for finding specific web content by meaning, not keywords.",
+      "ourReview": "",
+      "categories": [
+        "research",
+        "dev-tools"
+      ],
+      "subcategories": [
+        "search-api",
+        "semantic-search"
+      ],
+      "bestFor": [
+        "developers",
+        "researchers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "Free tier",
+      "pricingNote": "Pay-as-you-go",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "tavily",
+      "name": "Tavily",
+      "url": "https://tavily.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Search API optimized for AI agents with real-time web data, summaries, and citations.",
+      "ourReview": "",
+      "categories": [
+        "research",
+        "dev-tools"
+      ],
+      "subcategories": [
+        "search-api",
+        "agents"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "Pay-as-you-go",
+      "pricingNote": "Free tier available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "browse-ai",
+      "name": "Browse AI",
+      "url": "https://www.browse.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "No-code web scraping and monitoring tool that extracts data from any website.",
+      "ourReview": "",
+      "categories": [
+        "research",
+        "automation"
+      ],
+      "subcategories": [
+        "web-scraping",
+        "monitoring"
+      ],
+      "bestFor": [
+        "solopreneurs",
+        "analysts"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$48.75/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2021",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "apify",
+      "name": "Apify",
+      "url": "https://apify.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Web scraping and automation platform with 2,000+ ready-made actors and custom scraper development.",
+      "ourReview": "",
+      "categories": [
+        "research",
+        "automation",
+        "dev-tools"
+      ],
+      "subcategories": [
+        "web-scraping",
+        "automation"
+      ],
+      "bestFor": [
+        "developers",
+        "data-teams"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$49/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2015",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "firecrawl",
+      "name": "Firecrawl",
+      "url": "https://www.firecrawl.dev",
+      "verified": false,
+      "trustScore": 0,
+      "description": "API that turns websites into LLM-ready markdown data for AI applications.",
+      "ourReview": "",
+      "categories": [
+        "research",
+        "dev-tools"
+      ],
+      "subcategories": [
+        "web-scraping",
+        "llm-data"
+      ],
+      "bestFor": [
+        "developers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$19/mo",
+      "pricingNote": "Free tier available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2024",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "removebg",
+      "name": "Remove.bg",
+      "url": "https://www.remove.bg",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI tool that removes image backgrounds automatically in 5 seconds with high quality.",
+      "ourReview": "",
+      "categories": [
+        "design"
+      ],
+      "subcategories": [
+        "background-removal"
+      ],
+      "bestFor": [
+        "everyone"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$9/mo",
+      "pricingNote": "Free for low-res",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2018",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "photoroom",
+      "name": "Photoroom",
+      "url": "https://www.photoroom.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI photo editor for ecommerce and social with background removal, shadows, and templates.",
+      "ourReview": "",
+      "categories": [
+        "design",
+        "ecom"
+      ],
+      "subcategories": [
+        "photo-editing",
+        "product-photos"
+      ],
+      "bestFor": [
+        "ecommerce-sellers",
+        "content-creators"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$9.99/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2019",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "cleanuppictures",
+      "name": "Cleanup.pictures",
+      "url": "https://cleanup.pictures",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI tool to remove objects, people, text, or defects from photos automatically.",
+      "ourReview": "",
+      "categories": [
+        "design"
+      ],
+      "subcategories": [
+        "photo-editing",
+        "object-removal"
+      ],
+      "bestFor": [
+        "everyone"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$5/mo",
+      "pricingNote": "Free for low-res",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2022",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "upscalemedia",
+      "name": "Upscale.media",
+      "url": "https://www.upscale.media",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI image upscaler that enhances resolution up to 4x without losing quality.",
+      "ourReview": "",
+      "categories": [
+        "design"
+      ],
+      "subcategories": [
+        "image-upscaling"
+      ],
+      "bestFor": [
+        "everyone",
+        "ecommerce-sellers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "Free",
+      "pricingNote": "Paid bulk",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2022",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "topaz-labs",
+      "name": "Topaz Labs",
+      "url": "https://www.topazlabs.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Professional AI image and video enhancement for upscaling, denoising, and sharpening.",
+      "ourReview": "",
+      "categories": [
+        "design",
+        "video"
+      ],
+      "subcategories": [
+        "image-enhancement",
+        "video-enhancement"
+      ],
+      "bestFor": [
+        "photographers",
+        "designers"
+      ],
+      "platforms": [],
+      "pricingModel": "one-time",
+      "pricingFrom": "$99 one-time",
+      "pricingNote": "Free trial",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2005",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "gamma",
+      "name": "Gamma",
+      "url": "https://gamma.app",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI presentation generator that creates beautiful slide decks, docs, and webpages from prompts.",
+      "ourReview": "",
+      "categories": [
+        "content",
+        "design"
+      ],
+      "subcategories": [
+        "presentations",
+        "docs"
+      ],
+      "bestFor": [
+        "solopreneurs",
+        "small-teams"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$8/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2022",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "tome",
+      "name": "Tome",
+      "url": "https://tome.app",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI-powered storytelling platform for generating presentations and pitches from a prompt.",
+      "ourReview": "",
+      "categories": [
+        "content"
+      ],
+      "subcategories": [
+        "presentations",
+        "storytelling"
+      ],
+      "bestFor": [
+        "founders",
+        "marketers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$20/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2022",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "beautifulai",
+      "name": "Beautiful.ai",
+      "url": "https://www.beautiful.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI-powered presentation software with smart templates and design assistance.",
+      "ourReview": "",
+      "categories": [
+        "design"
+      ],
+      "subcategories": [
+        "presentations"
+      ],
+      "bestFor": [
+        "business-users"
+      ],
+      "platforms": [],
+      "pricingModel": "subscription",
+      "pricingFrom": "$12/mo",
+      "pricingNote": "Free trial",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2016",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "pitch",
+      "name": "Pitch",
+      "url": "https://pitch.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Collaborative presentation software with AI slide generation and modern templates.",
+      "ourReview": "",
+      "categories": [
+        "design"
+      ],
+      "subcategories": [
+        "presentations",
+        "collaboration"
+      ],
+      "bestFor": [
+        "startups",
+        "teams"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$10/user/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2018",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "typeform",
+      "name": "Typeform",
+      "url": "https://www.typeform.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Conversational forms and surveys with AI-powered question suggestions and logic.",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [
+        "forms",
+        "surveys"
+      ],
+      "bestFor": [
+        "marketers",
+        "small-teams"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$25/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2012",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "tally",
+      "name": "Tally",
+      "url": "https://tally.so",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Free form builder with unlimited forms, responses, and AI integration.",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [
+        "forms",
+        "surveys"
+      ],
+      "bestFor": [
+        "solopreneurs",
+        "budget-conscious"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$29/mo",
+      "pricingNote": "Free unlimited plan",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2020",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "fillout",
+      "name": "Fillout",
+      "url": "https://www.fillout.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Powerful form builder with conditional logic, payments, and AI-assisted form generation.",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [
+        "forms",
+        "surveys"
+      ],
+      "bestFor": [
+        "small-teams"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$19/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2022",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "deepl",
+      "name": "DeepL",
+      "url": "https://www.deepl.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI translation service known for higher accuracy than Google Translate across 31 languages.",
+      "ourReview": "",
+      "categories": [
+        "content"
+      ],
+      "subcategories": [
+        "translation"
+      ],
+      "bestFor": [
+        "everyone",
+        "translators"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$10.49/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2017",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "lokalise",
+      "name": "Lokalise",
+      "url": "https://lokalise.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Translation management platform with AI-powered suggestions for software and app localization.",
+      "ourReview": "",
+      "categories": [
+        "content",
+        "dev-tools"
+      ],
+      "subcategories": [
+        "localization",
+        "translation"
+      ],
+      "bestFor": [
+        "developers",
+        "product-teams"
+      ],
+      "platforms": [],
+      "pricingModel": "subscription",
+      "pricingFrom": "$140/mo",
+      "pricingNote": "14-day free trial",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2017",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "donotpay",
+      "name": "DoNotPay",
+      "url": "https://donotpay.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI lawyer helping consumers fight corporations, cancel subscriptions, and draft legal documents.",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [
+        "legal",
+        "consumer-rights"
+      ],
+      "bestFor": [
+        "consumers"
+      ],
+      "platforms": [],
+      "pricingModel": "subscription",
+      "pricingFrom": "$36 every 3 months",
+      "pricingNote": "Paid only",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2015",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "spellbook",
+      "name": "Spellbook",
+      "url": "https://www.spellbook.legal",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI contract drafting and review for lawyers built on GPT-4 with Word integration.",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [
+        "legal",
+        "contracts"
+      ],
+      "bestFor": [
+        "lawyers"
+      ],
+      "platforms": [
+        "Microsoft Word"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "Custom pricing",
+      "pricingNote": "Demo available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2022",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "harvey",
+      "name": "Harvey",
+      "url": "https://www.harvey.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI platform for elite law firms with research, drafting, and analysis tailored for legal work.",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [
+        "legal",
+        "research"
+      ],
+      "bestFor": [
+        "law-firms",
+        "enterprises"
+      ],
+      "platforms": [],
+      "pricingModel": "subscription",
+      "pricingFrom": "Custom pricing",
+      "pricingNote": "Enterprise only",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2022",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "hirevue",
+      "name": "HireVue",
+      "url": "https://www.hirevue.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI-powered video interviewing and hiring platform with assessments and scheduling.",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [
+        "recruiting",
+        "interviews"
+      ],
+      "bestFor": [
+        "enterprises",
+        "recruiters"
+      ],
+      "platforms": [],
+      "pricingModel": "subscription",
+      "pricingFrom": "Custom pricing",
+      "pricingNote": "Demo available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2004",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "paradox-olivia",
+      "name": "Paradox Olivia",
+      "url": "https://www.paradox.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Conversational AI recruiter that screens candidates, schedules interviews, and answers questions.",
+      "ourReview": "",
+      "categories": [
+        "productivity",
+        "customer-service"
+      ],
+      "subcategories": [
+        "recruiting",
+        "chatbot"
+      ],
+      "bestFor": [
+        "enterprises"
+      ],
+      "platforms": [],
+      "pricingModel": "subscription",
+      "pricingFrom": "Custom pricing",
+      "pricingNote": "Demo available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2016",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "ramp",
+      "name": "Ramp",
+      "url": "https://ramp.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Corporate card and spend management with AI expense categorization and reporting.",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [
+        "expense-management",
+        "corporate-cards"
+      ],
+      "bestFor": [
+        "startups",
+        "small-teams"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "Free",
+      "pricingNote": "Paid Plus plan",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2019",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "brex",
+      "name": "Brex",
+      "url": "https://www.brex.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI-powered spend management platform with cards, expenses, and accounting automation.",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [
+        "spend-management"
+      ],
+      "bestFor": [
+        "startups",
+        "enterprises"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "Free",
+      "pricingNote": "Paid plans available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2017",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "typefully",
+      "name": "Typefully",
+      "url": "https://typefully.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI-powered writing and scheduling tool for X/Twitter and LinkedIn with analytics.",
+      "ourReview": "",
+      "categories": [
+        "social"
+      ],
+      "subcategories": [
+        "writing",
+        "scheduling"
+      ],
+      "bestFor": [
+        "content-creators",
+        "solopreneurs"
+      ],
+      "platforms": [
+        "X/Twitter",
+        "LinkedIn"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "$12/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2021",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "hypefury",
+      "name": "Hypefury",
+      "url": "https://hypefury.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "X/Twitter and LinkedIn growth tool with auto-scheduling, threads, and AI content generation.",
+      "ourReview": "",
+      "categories": [
+        "social"
+      ],
+      "subcategories": [
+        "growth",
+        "scheduling"
+      ],
+      "bestFor": [
+        "content-creators"
+      ],
+      "platforms": [
+        "X/Twitter",
+        "LinkedIn"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "$19/mo",
+      "pricingNote": "Free trial",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2020",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "tweet-hunter",
+      "name": "Tweet Hunter",
+      "url": "https://tweethunter.io",
+      "verified": false,
+      "trustScore": 0,
+      "description": "X/Twitter growth platform with content ideas, scheduling, and AI tweet generation.",
+      "ourReview": "",
+      "categories": [
+        "social"
+      ],
+      "subcategories": [
+        "twitter",
+        "growth"
+      ],
+      "bestFor": [
+        "content-creators"
+      ],
+      "platforms": [
+        "X/Twitter"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "$49/mo",
+      "pricingNote": "Free trial",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2021",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "publer",
+      "name": "Publer",
+      "url": "https://publer.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Social media scheduling tool for 13+ networks with AI caption generation.",
+      "ourReview": "",
+      "categories": [
+        "social"
+      ],
+      "subcategories": [
+        "scheduling",
+        "analytics"
+      ],
+      "bestFor": [
+        "solopreneurs",
+        "small-teams"
+      ],
+      "platforms": [
+        "Instagram",
+        "TikTok",
+        "X/Twitter",
+        "Facebook",
+        "LinkedIn",
+        "YouTube",
+        "Pinterest",
+        "Threads"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "$9.60/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2016",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "taplio",
+      "name": "Taplio",
+      "url": "https://taplio.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "LinkedIn growth tool with viral post library, AI content generation, and scheduling.",
+      "ourReview": "",
+      "categories": [
+        "social"
+      ],
+      "subcategories": [
+        "linkedin",
+        "growth"
+      ],
+      "bestFor": [
+        "b2b-professionals",
+        "solopreneurs"
+      ],
+      "platforms": [
+        "LinkedIn"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "$49/mo",
+      "pricingNote": "Free trial",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2022",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "outreach",
+      "name": "Outreach",
+      "url": "https://www.outreach.io",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Sales execution platform with AI-powered sequences, forecasting, and deal intelligence.",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [
+        "outreach",
+        "forecasting"
+      ],
+      "bestFor": [
+        "enterprises",
+        "growing-teams"
+      ],
+      "platforms": [
+        "Salesforce",
+        "HubSpot"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "Custom pricing",
+      "pricingNote": "Demo available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2011",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "salesloft",
+      "name": "Salesloft",
+      "url": "https://salesloft.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI sales engagement platform with cadences, conversation intelligence, and forecasting.",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [
+        "sales-engagement",
+        "cadences"
+      ],
+      "bestFor": [
+        "enterprises"
+      ],
+      "platforms": [
+        "Salesforce",
+        "HubSpot"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "Custom pricing",
+      "pricingNote": "Demo available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2011",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "gong",
+      "name": "Gong",
+      "url": "https://www.gong.io",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Revenue intelligence platform that captures and analyzes sales calls with AI insights.",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [
+        "conversation-intelligence"
+      ],
+      "bestFor": [
+        "enterprises",
+        "growing-teams"
+      ],
+      "platforms": [
+        "Salesforce",
+        "HubSpot"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "Custom pricing",
+      "pricingNote": "Demo available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2015",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "chorus",
+      "name": "Chorus",
+      "url": "https://www.zoominfo.com/chorus",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Conversation intelligence from ZoomInfo for recording and analyzing sales calls.",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [
+        "conversation-intelligence"
+      ],
+      "bestFor": [
+        "enterprises"
+      ],
+      "platforms": [
+        "Salesforce"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "Custom pricing",
+      "pricingNote": "Demo available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2015",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "cognism",
+      "name": "Cognism",
+      "url": "https://www.cognism.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "B2B sales intelligence with GDPR-compliant contact data and AI prospecting tools.",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [
+        "lead-gen",
+        "data"
+      ],
+      "bestFor": [
+        "b2b-sales",
+        "enterprises"
+      ],
+      "platforms": [
+        "Salesforce",
+        "HubSpot"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "Custom pricing",
+      "pricingNote": "Demo available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2015",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "zoominfo",
+      "name": "ZoomInfo",
+      "url": "https://www.zoominfo.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "B2B contact database and sales intelligence platform with 100M+ professional profiles.",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [
+        "lead-gen",
+        "data"
+      ],
+      "bestFor": [
+        "enterprises",
+        "b2b-sales"
+      ],
+      "platforms": [
+        "Salesforce",
+        "HubSpot"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "Custom pricing",
+      "pricingNote": "Demo available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2007",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "lavender",
+      "name": "Lavender",
+      "url": "https://www.lavender.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI email coach that scores your sales emails and suggests improvements in real-time.",
+      "ourReview": "",
+      "categories": [
+        "sales",
+        "email"
+      ],
+      "subcategories": [
+        "email-coaching"
+      ],
+      "bestFor": [
+        "sales-teams"
+      ],
+      "platforms": [
+        "Gmail",
+        "Outlook"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "$29/user/mo",
+      "pricingNote": "7-day free trial",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2020",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "regieai",
+      "name": "Regie.ai",
+      "url": "https://www.regie.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI sales sequence generator creating personalized multi-channel outbound campaigns.",
+      "ourReview": "",
+      "categories": [
+        "sales",
+        "email"
+      ],
+      "subcategories": [
+        "sequences",
+        "personalization"
+      ],
+      "bestFor": [
+        "sales-teams"
+      ],
+      "platforms": [
+        "Salesforce",
+        "Outreach"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "Custom pricing",
+      "pricingNote": "Demo available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2020",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "shopify-magic",
+      "name": "Shopify Magic",
+      "url": "https://www.shopify.com/magic",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Shopify's built-in AI for product descriptions, email subject lines, and customer support.",
+      "ourReview": "",
+      "categories": [
+        "ecom",
+        "content"
+      ],
+      "subcategories": [
+        "product-descriptions",
+        "ai-assistant"
+      ],
+      "bestFor": [
+        "shopify-stores"
+      ],
+      "platforms": [
+        "Shopify"
+      ],
+      "pricingModel": "included",
+      "pricingFrom": "Included with Shopify",
+      "pricingNote": "Free with plan",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2023",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "vendoo",
+      "name": "Vendoo",
+      "url": "https://vendoo.co",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Multi-channel crosslisting tool for resellers with AI descriptions and inventory sync.",
+      "ourReview": "",
+      "categories": [
+        "ecom"
+      ],
+      "subcategories": [
+        "crosslisting",
+        "inventory"
+      ],
+      "bestFor": [
+        "resellers",
+        "solopreneurs"
+      ],
+      "platforms": [
+        "eBay",
+        "Poshmark",
+        "Mercari",
+        "Depop",
+        "Etsy"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "$9.99/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2019",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "triple-whale",
+      "name": "Triple Whale",
+      "url": "https://www.triplewhale.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Ecommerce analytics and AI-powered insights for Shopify stores across ads, CAC, and LTV.",
+      "ourReview": "",
+      "categories": [
+        "ecom",
+        "analytics"
+      ],
+      "subcategories": [
+        "ecom-analytics",
+        "attribution"
+      ],
+      "bestFor": [
+        "ecommerce-sellers"
+      ],
+      "platforms": [
+        "Shopify"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "$150/mo",
+      "pricingNote": "15-day free trial",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2021",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "octane-ai",
+      "name": "Octane AI",
+      "url": "https://www.octaneai.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Shopify quiz and AI personalization platform for product recommendations and email capture.",
+      "ourReview": "",
+      "categories": [
+        "ecom"
+      ],
+      "subcategories": [
+        "quizzes",
+        "personalization"
+      ],
+      "bestFor": [
+        "shopify-stores"
+      ],
+      "platforms": [
+        "Shopify"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "$50/mo",
+      "pricingNote": "Free trial",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2018",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "manychat",
+      "name": "ManyChat",
+      "url": "https://manychat.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Chat marketing platform for Instagram, WhatsApp, Messenger with AI automation flows.",
+      "ourReview": "",
+      "categories": [
+        "customer-service",
+        "social"
+      ],
+      "subcategories": [
+        "chatbot",
+        "marketing"
+      ],
+      "bestFor": [
+        "small-businesses",
+        "ecommerce-sellers"
+      ],
+      "platforms": [
+        "Instagram",
+        "WhatsApp",
+        "Facebook Messenger",
+        "SMS"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "$15/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2015",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "chatfuel",
+      "name": "Chatfuel",
+      "url": "https://chatfuel.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "No-code AI chatbot builder for WhatsApp, Instagram, and Facebook with GPT-powered responses.",
+      "ourReview": "",
+      "categories": [
+        "customer-service"
+      ],
+      "subcategories": [
+        "chatbot",
+        "no-code"
+      ],
+      "bestFor": [
+        "small-businesses"
+      ],
+      "platforms": [
+        "WhatsApp",
+        "Instagram",
+        "Facebook"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "$29.99/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2015",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "botpress",
+      "name": "Botpress",
+      "url": "https://botpress.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source AI chatbot platform with visual flow builder and LLM integration.",
+      "ourReview": "",
+      "categories": [
+        "customer-service",
+        "dev-tools"
+      ],
+      "subcategories": [
+        "chatbot",
+        "open-source"
+      ],
+      "bestFor": [
+        "developers",
+        "small-teams"
+      ],
+      "platforms": [
+        "WhatsApp",
+        "Slack",
+        "Telegram",
+        "Web"
+      ],
+      "pricingModel": "freemium",
+      "pricingFrom": "$89/mo",
+      "pricingNote": "Free tier available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2017",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "voiceflow",
+      "name": "Voiceflow",
+      "url": "https://www.voiceflow.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI agent and chatbot platform for collaborative design and deployment at scale.",
+      "ourReview": "",
+      "categories": [
+        "customer-service",
+        "dev-tools"
+      ],
+      "subcategories": [
+        "chatbot",
+        "voice"
+      ],
+      "bestFor": [
+        "product-teams",
+        "developers"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$50/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2018",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "ada",
+      "name": "Ada",
+      "url": "https://www.ada.cx",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI customer service platform that automates up to 83% of support interactions.",
+      "ourReview": "",
+      "categories": [
+        "customer-service"
+      ],
+      "subcategories": [
+        "ai-chatbot",
+        "automation"
+      ],
+      "bestFor": [
+        "enterprises"
+      ],
+      "platforms": [
+        "Shopify",
+        "Salesforce",
+        "Zendesk"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "Custom pricing",
+      "pricingNote": "Demo available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2016",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "forethought",
+      "name": "Forethought",
+      "url": "https://forethought.ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Generative AI customer support platform with intent prediction and agent assistance.",
+      "ourReview": "",
+      "categories": [
+        "customer-service"
+      ],
+      "subcategories": [
+        "ai-support",
+        "agent-assist"
+      ],
+      "bestFor": [
+        "enterprises"
+      ],
+      "platforms": [
+        "Zendesk",
+        "Salesforce",
+        "Intercom"
+      ],
+      "pricingModel": "subscription",
+      "pricingFrom": "Custom pricing",
+      "pricingNote": "Demo available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2017",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "amplitude",
+      "name": "Amplitude",
+      "url": "https://amplitude.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Product analytics with AI-powered insights, experimentation, and customer data platform.",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [
+        "product-analytics",
+        "experimentation"
+      ],
+      "bestFor": [
+        "product-teams",
+        "growth-teams"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$61/mo",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2012",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "heap",
+      "name": "Heap",
+      "url": "https://heap.io",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Digital insights platform with autocapture and AI-powered session replay analysis.",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [
+        "product-analytics",
+        "autocapture"
+      ],
+      "bestFor": [
+        "product-teams"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "Custom pricing",
+      "pricingNote": "Free plan available",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2013",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "posthog",
+      "name": "PostHog",
+      "url": "https://posthog.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source product analytics, feature flags, session replay, and A/B testing platform.",
+      "ourReview": "",
+      "categories": [
+        "analytics",
+        "dev-tools"
+      ],
+      "subcategories": [
+        "product-analytics",
+        "open-source"
+      ],
+      "bestFor": [
+        "developers",
+        "product-teams"
+      ],
+      "platforms": [],
+      "pricingModel": "freemium",
+      "pricingFrom": "$0 (usage-based)",
+      "pricingNote": "Free 1M events/mo",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2020",
+      "addedDate": "2026-04-04",
+      "lastChecked": "2026-04-04",
+      "source": "bulk-import"
+    },
+    {
+      "id": "fullstory",
+      "name": "FullStory",
+      "url": "https://www.fullstory.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Digital experience intelligence with AI-powered session replay and friction analysis.",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [
+        "session-replay",
+        "experience"
+      ],
+      "bestFor": [
+        "product-teams",
+        "enterprises"
+      ],
+      "platforms": [],
+      "pricingModel": "subscription",
+      "pricingFrom": "Custom pricing",
+      "pricingNote": "14-day free trial",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "2014",
       "addedDate": "2026-04-04",
       "lastChecked": "2026-04-04",
       "source": "bulk-import"

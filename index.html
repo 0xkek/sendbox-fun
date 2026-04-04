@@ -48,7 +48,7 @@ nav {
 .nav-inner {
   max-width: 1200px; margin: 0 auto;
   display: flex; align-items: center; justify-content: space-between;
-  height: 64px;
+  height: 72px;
 }
 .logo {
   font-size: 22px; font-weight: 800; color: var(--accent);
@@ -220,6 +220,11 @@ nav {
 .tag-analytics { background: #F3E8FF; color: #7E22CE; }
 .tag-ads { background: #FFEDD5; color: #C2410C; }
 .tag-design { background: #CCFBF1; color: #0D9488; }
+.tag-assistant { background: #EDE9FE; color: #7C3AED; }
+.tag-coding { background: #DBEAFE; color: #2563EB; }
+.tag-dev-tools { background: #E0E7FF; color: #4338CA; }
+.tag-productivity { background: #D1FAE5; color: #059669; }
+.tag-research { background: #F3E8FF; color: #7E22CE; }
 .tag-general { background: #F3F4F6; color: #6B7280; }
 
 .agent-footer {
@@ -307,7 +312,7 @@ footer a:hover { color: var(--accent); }
 <!-- NAV -->
 <nav>
   <div class="nav-inner">
-    <a href="#" class="logo"><img src="logo.png" alt="sendbox" style="height:32px;width:32px;border-radius:8px;"> sendbox.fun</a>
+    <a href="#" class="logo"><img src="logo.png" alt="sendbox" style="height:48px;width:48px;border-radius:10px;"> sendbox.fun</a>
     <div class="nav-links">
       <a href="#categories">Categories</a>
       <a href="#agents">Agents</a>
@@ -318,9 +323,9 @@ footer a:hover { color: var(--accent); }
 
 <!-- HERO -->
 <section class="hero">
-  <div class="hero-badge" id="heroBadge">🚀 Curating the best AI tools across 12 categories</div>
+  <div class="hero-badge" id="heroBadge">🚀 Curating the best AI tools for your business</div>
   <h1>Find the perfect AI agent for your business</h1>
-  <p>Search 90+ AI tools across 12 categories. Find exactly what your business needs — no jargon, no overwhelm.</p>
+  <p>Search 200+ AI tools across 17 categories. Find exactly what your business needs — no jargon, no overwhelm.</p>
 
   <div class="search-container">
     <input type="text" class="search-box" id="searchInput" placeholder="Try: &quot;I need help growing my Instagram&quot; or &quot;automate my sales follow-ups&quot;">
@@ -438,6 +443,11 @@ const CAT_META = {
   analytics: { icon: '📊', label: 'Analytics', color: '#F3E8FF', desc: 'Web analytics, reporting, heatmaps, and insights.' },
   ads: { icon: '📣', label: 'Ads', color: '#FFEDD5', desc: 'Ad management, optimization, and attribution.' },
   design: { icon: '🎨', label: 'Design', color: '#CCFBF1', desc: 'Graphic design, logos, and creative tools.' },
+  assistant: { icon: '🤖', label: 'AI Assistants', color: '#EDE9FE', desc: 'General-purpose chatbots like ChatGPT, Claude, and Gemini.' },
+  coding: { icon: '💻', label: 'AI Coding', color: '#DBEAFE', desc: 'AI code editors, copilots, and autonomous engineering agents.' },
+  'dev-tools': { icon: '🛠️', label: 'Dev Tools', color: '#E0E7FF', desc: 'Agent frameworks, vector DBs, LLM gateways, observability.' },
+  productivity: { icon: '✅', label: 'Productivity', color: '#D1FAE5', desc: 'Note-taking, meetings, scheduling, tasks, and email.' },
+  research: { icon: '🔬', label: 'Research', color: '#F3E8FF', desc: 'Web research, academic search, and data extraction.' },
 };
 
 function transformAgent(a) {
