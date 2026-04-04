@@ -340,7 +340,6 @@ footer a:hover { color: var(--accent); }
       <a href="#categories">Categories</a>
       <a href="#agents">Agents</a>
       <a href="#how">How It Works</a>
-      <a href="#signup" class="nav-cta">Get Early Access</a>
     </div>
   </div>
 </nav>
@@ -463,18 +462,6 @@ footer a:hover { color: var(--accent); }
   </div>
 </section>
 
-<!-- CTA -->
-<section class="cta-section" id="signup">
-  <div class="cta-box">
-    <h2>Be first to find the best agents</h2>
-    <p>Join the waitlist. We'll send you our weekly picks for the best new AI agents for your business.</p>
-    <div class="cta-form">
-      <input type="email" class="cta-input" placeholder="you@yourbusiness.com" id="emailInput">
-      <button class="cta-submit" onclick="submitEmail()">Join Waitlist</button>
-    </div>
-    <p style="font-size: 13px; opacity: 0.7; margin-top: 12px;">No spam. Just the good stuff. Unsubscribe anytime.</p>
-  </div>
-</section>
 
 <!-- FOOTER -->
 <footer>
@@ -621,19 +608,6 @@ document.addEventListener('click', (e) => {
     document.getElementById('searchResults').classList.remove('active');
   }
 });
-
-function submitEmail() {
-  const email = document.getElementById('emailInput').value;
-  if (email && email.includes('@')) {
-    // Send to Formspree — replace YOUR_FORM_ID with your actual Formspree form ID
-    fetch('https://formspree.io/f/mjgppyvr', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ email: email })
-    }).catch(() => {}); // Still show success even if network fails
-    document.querySelector('.cta-form').innerHTML = '<p style="font-size: 18px; font-weight: 600;">🎉 You\'re on the list! We\'ll be in touch soon.</p>';
-  }
-}
 
 // Init — load from JSON
 loadAgents();
