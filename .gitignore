@@ -6,3 +6,6 @@ AgentFinder-Concept-V2.docx
 # OS files
 .DS_Store
 .vercel
+
+# Source assets (logo.png is the deployed copy)
+Friendly robot peeking from box.png

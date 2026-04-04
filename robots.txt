@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /.vercel/
+Disallow: /.git/
+Disallow: /.github/
+Disallow: /scraper/
+
+Sitemap: https://sendbox.fun/sitemap.xml
