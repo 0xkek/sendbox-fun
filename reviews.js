@@ -4,9 +4,9 @@
 const SUPABASE_URL = 'https://vadwseqcxwaucfuryyao.supabase.co';
 const SUPABASE_ANON_KEY = 'sb_publishable_2IWtWSi5gvMYWyTYrI3fUw_oMVazwQm';
 
-// Load Supabase JS from CDN
+// Load Supabase JS from CDN (UMD build exposes window.supabase)
 const supabaseScript = document.createElement('script');
-supabaseScript.src = 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2';
+supabaseScript.src = 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js';
 supabaseScript.onload = initReviews;
 document.head.appendChild(supabaseScript);
 
