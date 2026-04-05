@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T06:35:05.267587+00:00",
+  "lastUpdated": "2026-04-05T12:19:54.165825+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -42613,6 +42613,5606 @@
       "verified": false,
       "trustScore": 0,
       "description": "AI-Powered Text-To-Speech Video Generator This web application uses AI to generate captivating and informative video scripts based on use\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "aitranslate",
+      "name": "Aitranslate",
+      "url": "https://github.com/pmacro/AITranslate",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A tool to translate Xcode xcstrings files using ChatGPT AI/LLM",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "aivideochat",
+      "name": "Aivideochat",
+      "url": "https://github.com/messingliu/AIVideoChat",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This is an AI video chat tool with anybody (your girlfriend, your idol etc) you want using LLM",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "aix",
+      "name": "Aix",
+      "url": "https://github.com/projectdiscovery/aix",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AIx is a cli tool to interact with Large Language Models (LLM) APIs",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "are-copilots-local-yet",
+      "name": "Are-Copilots-Local-Yet",
+      "url": "https://github.com/ErikBjare/are-copilots-local-yet",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Are Copilots Local Yet? The frontier of local LLM Copilots for code completion, project generation, shell assistance, and more. Find tools \u2026",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "arxivrag",
+      "name": "Arxivrag",
+      "url": "https://github.com/phitrann/arXivRAG",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A comprehensive tool designed to enhance the retrieval and generation of academic content from the arXiv database, leveraging advanced Re\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "attention-viewer",
+      "name": "Attention-Viewer",
+      "url": "https://github.com/wln20/Attention-Viewer",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A tool for visualizing attention-score heatmap in generative LLMs",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "autogenbook",
+      "name": "Autogenbook",
+      "url": "https://github.com/hooked-on-mas/AutoGenBook",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83e\udd16 \ud83d\udcd2 AutoGenBook is a Python-based tool that automatically generates books using LLMs. It creates chapters, sections, and subsections recu\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome-ai-llms-in-radiology",
+      "name": "Awesome-Ai-Llms-In-Radiology",
+      "url": "https://github.com/openlifescience-ai/Awesome-AI-LLMs-in-Radiology",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A curated list of awesome resources, papers, datasets, and tools related to AI in radiology. This repository aims to provide a comprehens\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome-ai-tools",
+      "name": "Awesome-Ai-Tools",
+      "url": "https://github.com/eudk/awesome-ai-tools",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83d\udd34 VERY LARGE AI TOOL LIST! \ud83d\udd34 Curated list of AI Tools - Updated December 2024",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome-aitools",
+      "name": "Awesome-Aitools",
+      "url": "https://github.com/ikaijua/Awesome-AITools",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Collection of AI-related utilities. Welcome to submit issues and pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4issues \u6216\u8005pull requests",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome-langchain",
+      "name": "Awesome-Langchain",
+      "url": "https://github.com/kyrolabs/awesome-langchain",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83d\ude0e Awesome list of tools and projects with the awesome LangChain framework",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome-llm-compression",
+      "name": "Awesome-Llm-Compression",
+      "url": "https://github.com/HuangOwen/Awesome-LLM-Compression",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Awesome LLM compression research papers and tools",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome-llm-json",
+      "name": "Awesome-Llm-Json",
+      "url": "https://github.com/imaurer/awesome-llm-json",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome-llm-os",
+      "name": "Awesome-Llm-Os",
+      "url": "https://github.com/bilalonur/awesome-llm-os",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A curated list of awesome resources, tools, research papers, and projects related to the concept of Large Language Model Operating Systems (",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome-llm-security",
+      "name": "Awesome-Llm-Security",
+      "url": "https://github.com/corca-ai/awesome-llm-security",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A curation of awesome tools, documents and projects about LLM Security",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome-llm4security",
+      "name": "Awesome-Llm4Security",
+      "url": "https://github.com/liu673/Awesome-LLM4Security",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This project aims to consolidate and share high-quality resources and tools across the cybersecurity domain",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome-llm4tool",
+      "name": "Awesome-Llm4Tool",
+      "url": "https://github.com/OpenGVLab/Awesome-LLM4Tool",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A curated list of the papers, repositories, tutorials, and anythings related to the large language models for tools",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome-llmops",
+      "name": "Awesome-Llmops",
+      "url": "https://github.com/tensorchord/Awesome-LLMOps",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An awesome & curated list of best LLMOps tools for developers",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome-local-llm",
+      "name": "Awesome-Local-Llm",
+      "url": "https://github.com/WaterPistolAI/Awesome-Local-LLM",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A curated list of resources, libraries, tools, and communities for working with Local Large Language Models (LLMs)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome-mlsecops",
+      "name": "Awesome-Mlsecops",
+      "url": "https://github.com/RiccardoBiosas/awesome-MLSecOps",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A curated list of MLSecOps tools, articles and other resources on security applied to Machine Learning and MLOps systems",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome-rust-llm",
+      "name": "Awesome-Rust-Llm",
+      "url": "https://github.com/jondot/awesome-rust-llm",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83e\udd80 A curated list of Rust tools, libraries, and frameworks for working with LLMs, GPT, AI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome_ai_for_programmers",
+      "name": "Awesome_Ai_For_Programmers",
+      "url": "https://github.com/rodion-m/awesome_ai_for_programmers",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\u0421\u0431\u043e\u0440\u043d\u0438\u043a AI-\u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432, \u043a\u0435\u0439\u0441\u043e\u0432 \u0438 \u0432\u0441\u044f\u043a\u0438\u0445 \u0434\u0440\u0443\u0433\u0438\u0445 \u043f\u043e\u043b\u0435\u0437\u043d\u043e\u0441\u0442\u0435\u0439 \u0434\u043b\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442\u043e\u0432",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesomellmapps",
+      "name": "Awesomellmapps",
+      "url": "https://github.com/Abhishek-yadv/AwesomeLLMApps",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A curated collection of awesome applications and tools that utilize large language models (LLMs) with retrieval-augmented generation (RAG\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "bgpt-mcp",
+      "name": "Bgpt-Mcp",
+      "url": "https://github.com/connerlambden/bgpt-mcp",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Hosted MCP server for searching scientific papers with full-text experimental data. SSE + Streamable HTTP. 50 free searches",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "blockoli",
+      "name": "Blockoli",
+      "url": "https://github.com/getAsterisk/blockoli",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Blockoli is a high-performance tool for code indexing, embedding generation and semantic search tool for use with LLMs",
+      "ourReview": "",
+      "categories": [
+        "research"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "blueprints",
+      "name": "Blueprints",
+      "url": "https://github.com/sublayerapp/blueprints",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Blueprints is an open-source tool that integrates with your text editor to help you generate code with an LLM based on patterns you alrea\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "botsh",
+      "name": "Botsh",
+      "url": "https://github.com/jamsocket/botsh",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An LLM-based agent that will install the tools it needs",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "brahmasumm-community-edition",
+      "name": "Brahmasumm-Community-Edition",
+      "url": "https://github.com/balajivis/BrahmaSumm-Community-Edition",
+      "verified": false,
+      "trustScore": 0,
+      "description": "BrahmaSumm is an advanced document summarization and visualization tool designed to streamline document management, knowledge base creati\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "bubbln_network-automation",
+      "name": "Bubbln_Network-Automation",
+      "url": "https://github.com/olasupo/bubbln_network-automation",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An AI-driven network automation tool",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ceo-agentic-ai-framework",
+      "name": "Ceo-Agentic-Ai-Framework",
+      "url": "https://github.com/vortezwohl/CEO-Agentic-AI-Framework",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An ultra-lightweight Agentic AI framework based on the ReAct paradigm, supporting mainstream LLMs and is stronger than Swarm",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "chatspatial",
+      "name": "ChatSpatial",
+      "url": "https://github.com/cafferychen777/ChatSpatial",
+      "verified": false,
+      "trustScore": 0,
+      "description": "MCP server enabling spatial transcriptomics analysis via natural language. Integrates 60+ methods for spatial domains, deconvolution, cell communication, and trajectory analysis",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "claude-powered-study-assistant",
+      "name": "Claude-Powered-Study-Assistant",
+      "url": "https://github.com/g-hano/Claude-Powered-Study-Assistant",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A study assistant powered by Claude Opus. It provides various tools to assist with different tasks, such as researching,coding,note-takin\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "claudesync",
+      "name": "Claudesync",
+      "url": "https://github.com/jahwag/ClaudeSync",
+      "verified": false,
+      "trustScore": 0,
+      "description": "ClaudeSync is a Python tool that automates the synchronization of local files with Claude.ai Projects",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "code-interpreter-api",
+      "name": "Code-Interpreter-Api",
+      "url": "https://github.com/leezhuuuuu/Code-Interpreter-Api",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Committed to being the best code interpreter in the world",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "comfyui-llm-tools",
+      "name": "Comfyui-Llm-Tools",
+      "url": "https://github.com/pridkett/ComfyUI-llm-tools",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Helpful nodes for working with LLMs inside of ComfyUI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "companion",
+      "name": "Companion",
+      "url": "https://github.com/rapmd73/Companion",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An AI-powered Discord bot blending playful conversation with smart moderation tools, adding charm and order to your server",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "conversational-agent-with-qa-tool",
+      "name": "Conversational-Agent-With-Qa-Tool",
+      "url": "https://github.com/CharlesSQ/conversational-agent-with-QA-tool",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A custom chat agent implemented using Langchain, gpt-3.5 and Pinecone. Implements memory management for context, a custom prompt template\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "cuesubplot",
+      "name": "Cuesubplot",
+      "url": "https://github.com/kleer001/cuesubplot",
+      "verified": false,
+      "trustScore": 0,
+      "description": "procedural ai prompts and results",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "curategpt",
+      "name": "Curategpt",
+      "url": "https://github.com/monarch-initiative/curategpt",
+      "verified": false,
+      "trustScore": 0,
+      "description": "LLM-driven curation assist tool",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "dbt-llm-tools",
+      "name": "Dbt-Llm-Tools",
+      "url": "https://github.com/pragunbhutani/dbt-llm-tools",
+      "verified": false,
+      "trustScore": 0,
+      "description": "RAG based LLM chatbot for dbt projects",
+      "ourReview": "",
+      "categories": [
+        "assistant"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "demogpt",
+      "name": "Demogpt",
+      "url": "https://github.com/melih-unsal/DemoGPT",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83e\udd16 Everything you need to create an LLM Agent\u2014tools, prompts, frameworks, and models\u2014all in one place",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "androidmeda",
+      "name": "Androidmeda",
+      "url": "https://github.com/In3tinct/deobfuscate-android-app",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI tool to deobfuscate and find any potential vulnerabilities in android apps",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "dingo",
+      "name": "Dingo",
+      "url": "https://github.com/DataEval/dingo",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Dingo - A Comprehensive Data Quality Evaluation Tool",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "discovai-crawl",
+      "name": "Discovai-Crawl",
+      "url": "https://github.com/DiscovAI/DiscovAI-crawl",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83d\udd77\ufe0f DiscovAI Crawl API(\ud83d\udea7 Work in Progress \ud83d\udea7) - A powerful web scraping solution for AI tools and vector databases. Extract clean HTML, gene\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "docgenie",
+      "name": "Docgenie",
+      "url": "https://github.com/we-festify/docgenie",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Docgenie is a command-line tool that leverages the power of large language models (LLMs) to automatically generate comprehensive document\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "draft",
+      "name": "Draft",
+      "url": "https://github.com/quchangle1/DRAFT",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The implementation for the paper - From Exploration to Mastery - Enabling LLMs to Master Tools via Self-Driven Interactions",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ds-llm-webui",
+      "name": "Ds-Llm-Webui",
+      "url": "https://github.com/DocShotgun/ds-llm-webui",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A simple tool-use assistant for local LLMs powered by TabbyAPI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ducky",
+      "name": "Ducky",
+      "url": "https://github.com/ParthSareen/ducky",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Local AI pair programming tool",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "emergent",
+      "name": "Emergent",
+      "url": "https://github.com/kyb3r/emergent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An implementation of long term memory and external tools for LLMs",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "erag",
+      "name": "Erag",
+      "url": "https://github.com/EdwardDali/erag",
+      "verified": false,
+      "trustScore": 0,
+      "description": "an AI interaction tool with RAG hybrid search, conversation context, web content processing and structured data analysis with LLM / GPT",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "flotorch",
+      "name": "Flotorch",
+      "url": "https://github.com/FissionAI/FloTorch",
+      "verified": false,
+      "trustScore": 0,
+      "description": "FloTorch is an open-source tool for optimizing Generative AI workloads on AWS. It automates RAG proof-of-concept development with feature\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "flux",
+      "name": "Flux",
+      "url": "https://github.com/paradigmxyz/flux",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Graph-based LLM power tool for exploring many completions in parallel",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "formfill",
+      "name": "Formfill",
+      "url": "https://github.com/wdhorton/formfill",
+      "verified": false,
+      "trustScore": 0,
+      "description": "FormFill is a CLI tool that uses LLMs to automatically fill out PDF forms",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "funclip",
+      "name": "Funclip",
+      "url": "https://github.com/modelscope/FunClip",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "function-python-ai-langchain",
+      "name": "Function-Python-Ai-Langchain",
+      "url": "https://github.com/Azure-Samples/function-python-ai-langchain",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Simple starting point function to host LangChains with LLMs and other tools in an Azure Function",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "functionary",
+      "name": "Functionary",
+      "url": "https://github.com/MeetKai/functionary",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Chat language model that can use tools and interpret the results",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "functions-tools-and-agents-with-langchain",
+      "name": "Functions-Tools-And-Agents-With-Langchain",
+      "url": "https://github.com/Ryota-Kawamura/Functions-Tools-and-Agents-with-LangChain",
+      "verified": false,
+      "trustScore": 0,
+      "description": "You\u2019ll explore new advancements like ChatGPT\u2019s function calling capability, and build a conversational agent using a new syntax called La\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "gguf-tools",
+      "name": "Gguf-Tools",
+      "url": "https://github.com/KerfuffleV2/gguf-tools",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Some random tools for working with the GGUF file format",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "gorilla",
+      "name": "Gorilla",
+      "url": "https://github.com/ShishirPatil/gorilla",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Gorilla - Training and Evaluating LLMs for Function Calls (Tool Calls)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "gpt4-programming-assistant",
+      "name": "Gpt4-Programming-Assistant",
+      "url": "https://github.com/petermartens98/GPT4-Programming-Assistant",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Streamlit web app utilizing OpenAI (GPT-4) and LangChain LLM tools. Application includes an SQLite DB for login/authentication and messag\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "graphrag-visualizer",
+      "name": "Graphrag-Visualizer",
+      "url": "https://github.com/noworneverev/graphrag-visualizer",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A web-based tool for visualizing and exploring artifacts from Microsoft's GraphRAG",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "harbor",
+      "name": "Harbor",
+      "url": "https://github.com/av/harbor",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Effortlessly run LLM backends, APIs, frontends, and services with one command",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "heb-gen-ai",
+      "name": "Heb-Gen-Ai",
+      "url": "https://github.com/TovTechOrg/Heb-Gen-AI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Tools, examples, and resources to assist in the development of Gen-AI (Generative Artificial Intelligence) applications in Hebrew, with a\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "howtofinetunellama31",
+      "name": "Howtofinetunellama3.1",
+      "url": "https://github.com/Rs-py/HowToFineTuneLlama3.1",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Quick tutorial showing how to fine-tune Llama3.1 with nothing but free tools and text data. All code included in ipynb. For a step by ste\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "humanizer-pro",
+      "name": "Humanizer PRO",
+      "url": "https://texthumanizer.pro",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI-powered text humanization tool with 3 modes (Stealth, Academic, SEO), AI detection scanner, MCP integration for ChatGPT/Claude, and RESTful API access  |  |",
+      "ourReview": "",
+      "categories": [
+        "seo"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "icodes",
+      "name": "Icodes",
+      "url": "https://github.com/a115/iCODES",
+      "verified": false,
+      "trustScore": 0,
+      "description": "LLM-powered Git archeology tool (a.k.a. Intelligent Commit Ontology Distiller and Enhanced Search)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "indie-hacker-tools-plus",
+      "name": "Indie-Hacker-Tools-Plus",
+      "url": "https://github.com/XiaomingX/indie-hacker-tools-plus",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\u4e3a\u72ec\u7acb\u5f00\u53d1\u8005\u51c6\u5907\u7684\u7cbe\u9009\u6280\u672f\u6808\u548c\u5de5\u5177\u4ed3\u5e93\u6765\u4e86\uff01\u8fd9\u91cc\u6709\u4f60\u6700\u9700\u8981\u7684\u5de5\u5177\uff0c\u5e2e\u4f60\u63d0\u5347\u5f00\u53d1\u6548\u7387\u3001\u8282\u7ea6\u6210\u672c\uff0c\u6700\u91cd\u8981\u7684\u662f\u2014\u2014\u8fd9\u4e9b\u5de5\u5177\u90fd\u662f\u5e02\u573a\u4e0a\u70ed\u95e8\u7684\uff0c\u7ecf\u8fc7\u9a8c\u8bc1\u7684\u3002\ud83d\ude80A curated collection of tech stacks and tools tailored for inde\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "intellichunk",
+      "name": "Intellichunk",
+      "url": "https://github.com/cckalen/intellichunk",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Go Based Lightweight RAG / LLM Tool with CLI + API",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "job-webscraper",
+      "name": "Job-Webscraper",
+      "url": "https://github.com/Prvargas/job-webscraper",
+      "verified": false,
+      "trustScore": 0,
+      "description": "LLM API-Powered Job Listings Data Cleaning Tool - Showcase for Data Scientists",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "just-eval",
+      "name": "Just-Eval",
+      "url": "https://github.com/Re-Align/just-eval",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A simple GPT-based evaluation tool for multi-aspect, interpretable assessment of LLMs",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "labs-ai-tools-for-devs",
+      "name": "Labs-Ai-Tools-For-Devs",
+      "url": "https://github.com/docker/labs-ai-tools-for-devs",
+      "verified": false,
+      "trustScore": 0,
+      "description": "[Now with MCP Support] AI For Devs - Build, Share & Run agentic workflows. Just Docker. Just Markdown. BYO LLM",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "lang-tools-llm-powered",
+      "name": "Lang-Tools-Llm-Powered",
+      "url": "https://github.com/odedwolff/lang-tools-LLM-powered",
+      "verified": false,
+      "trustScore": 0,
+      "description": "language learning tools utilizing LLM APIs among others",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "langchain-llm-pdf-qa",
+      "name": "Langchain-Llm-Pdf-Qa",
+      "url": "https://github.com/Ayyodeji/Langchain-LLM-PDF-QA",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This open-source project leverages cutting-edge tools and methods to enable seamless interaction with PDF documents. Powered by Langchain\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "langkit",
+      "name": "Langkit",
+      "url": "https://github.com/whylabs/langkit",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83d\udd0d LangKit - An open-source toolkit for monitoring Large Language Models (LLMs). \ud83d\udcda Extracts signals from prompts & responses, ensuring safe\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llama-pruning",
+      "name": "Llama-Pruning",
+      "url": "https://github.com/MedITSolutionsKurman/llama-pruning",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This project provides tools to load and prune large language models using a structured pruning method",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm",
+      "name": "Llm",
+      "url": "https://github.com/MHaggis/LLM",
+      "verified": false,
+      "trustScore": 0,
+      "description": "LLM tools and toys",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm-as-function",
+      "name": "Llm-As-Function",
+      "url": "https://github.com/gusye1234/llm-as-function",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Embed your LLM into a python function",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm-deployment-tools-llmops",
+      "name": "Llm-Deployment-Tools-Llmops",
+      "url": "https://github.com/Zamr77/LLM-Deployment-Tools-LLMOps",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This project empirically studies the challenges and prospects of deploying large language models (LLMs) in real-world applications using \u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm-fuzzx",
+      "name": "Llm-Fuzzx",
+      "url": "https://github.com/Windy3f3f3f3f/LLM-FuzzX",
+      "verified": false,
+      "trustScore": 0,
+      "description": "LLM-FuzzX is a user-friendly fuzz testing tool for Large Language Models (e.g., GPT, Claude, LLaMA), featuring advanced task-aware mutati\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm-interest",
+      "name": "Llm-Interest",
+      "url": "https://github.com/hamelsmu/llm-interest",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Tool to collect LLM eval topics",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm-s-finetunning",
+      "name": "Llm-S-Finetunning",
+      "url": "https://github.com/Warishayat/LLM-s-Finetunning",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This library offers tools to easily fine-tune large language models (LLMs) on custom datasets. It enhances pre-trained models for specifi\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm-security-101",
+      "name": "Llm-Security-101",
+      "url": "https://github.com/Seezo-io/llm-security-101",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Delving into the Realm of LLM Security - An Exploration of Offensive and Defensive Tools, Unveiling Their Present Capabilities",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm-slackbot-channels",
+      "name": "Llm-Slackbot-Channels",
+      "url": "https://github.com/Vokturz/LLM-slackbot-channels",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A user-customized bot for your slack channels using LLMs, Tools and Documents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm-term",
+      "name": "Llm-Term",
+      "url": "https://github.com/dh1011/llm-term",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A Rust-based CLI tool that generates and executes terminal commands using OpenAI's language models",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm-toolbox-suite",
+      "name": "Llm-Toolbox-Suite",
+      "url": "https://github.com/SaurabhBadole/llm-toolbox-suite",
+      "verified": false,
+      "trustScore": 0,
+      "description": "LLM Toolbox Suite, a powerful and versatile set of tools designed to harness the capabilities of large language models for various produc\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm-tools",
+      "name": "Llm-Tools",
+      "url": "https://github.com/datacommonsorg/llm-tools",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repo contains client library code for accessing DataGemma, an open model that helps address the challenges of hallucination by grounding LLMs in the vast, real-world statistical data of Google's Data Commons",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm-toolschain",
+      "name": "Llm-Toolschain",
+      "url": "https://github.com/Viagounet/LLM-ToolsChain",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A LangChain-like framework centered around the use of tools and planning. Useful for agents creation",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm-warden",
+      "name": "Llm-Warden",
+      "url": "https://github.com/jackhhao/llm-warden",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A simple jailbreak detection tool for safeguarding LLMs",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llmguts",
+      "name": "Llm.Guts",
+      "url": "https://github.com/Mahdi-s/llm.guts",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A tool to visualize the internal computational graph of distilgpt2 model",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm_agents_devtools",
+      "name": "Llm_Agents_Devtools",
+      "url": "https://github.com/M1n9X/llm_agents_devtools",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A curated list of autonomous agents and developer tools powered by LLM",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm_api_price_comparator_web",
+      "name": "Llm_Api_Price_Comparator_Web",
+      "url": "https://github.com/CookSleep/LLM_API_Price_Comparator_Web",
+      "verified": false,
+      "trustScore": 0,
+      "description": "LLM API Price Comparator Web \u662f\u4e00\u4e2a\u5728\u7ebf\u5de5\u5177\uff0c\u5e2e\u52a9\u7528\u6237\u4fbf\u6377\u5730\u6bd4\u8f83\u4e0d\u540cLLM API\u670d\u52a1\u5546\u5728\u6307\u5b9a\u8f93\u5165\u8f93\u51fa\u4e0b\u8c03\u7528\u540c\u4e00\u79cd\u6a21\u578b\u7684\u4ef7\u683c\u3002 \u5b83\u4f1a\u81ea\u52a8\u83b7\u53d6\u7f8e\u5143/\u4eba\u6c11\u5e01\u6c47\u7387\uff0c\u5141\u8bb8\u7528\u6237\u8f93\u5165\u670d\u52a1\u5546\u7684\u4f59\u989d\u3001\u8c03\u7528\u5b9a\u4ef7\u4fe1\u606f\uff0c\u5e76\u8ba1\u7b97\u3001\u6bd4\u8f83\u76f8\u5bf9\u4e8e\u8f93\u5165\u8f93\u51faToken\u7684\u6210\u672c\u3002 \u8be5\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm_counts",
+      "name": "Llm_Counts",
+      "url": "https://github.com/harleyszhang/llm_counts",
+      "verified": false,
+      "trustScore": 0,
+      "description": "llm theoretical performance analysis tools and support params, flops, memory and latency analysis",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm_surprisal",
+      "name": "Llm_Surprisal",
+      "url": "https://github.com/tmalsburg/llm_surprisal",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Simple tool for generating tokens with open source transformers and/or calculate per-token surprisal",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm_tools",
+      "name": "Llm_Tools",
+      "url": "https://github.com/mavihsrr/LLM_tools",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Productive tools for enhancing and creating LLMs",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm_video_editor",
+      "name": "Llm_Video_Editor",
+      "url": "https://github.com/sanskar9999/llm_video_editor",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This application utilizes Large Language Models (LLM) and FFmpeg to automate video editing tasks based on user instructions. Built with a\u2026",
+      "ourReview": "",
+      "categories": [
+        "video"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llmask",
+      "name": "Llmask",
+      "url": "https://github.com/top-on/llmask",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A command-line tool for masking authorship of text, by changing the writing style with a Large Language Model",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llmcode",
+      "name": "Llmcode",
+      "url": "https://github.com/javierganan99/LLMCode",
+      "verified": false,
+      "trustScore": 0,
+      "description": "LLMCode is a tool designed to streamline code documentation using Language Models (LLMs)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llmcuratorio",
+      "name": "Llmcurator.Io",
+      "url": "https://github.com/pushpankar/LLMCurator.io",
+      "verified": false,
+      "trustScore": 0,
+      "description": "LLM frontend and data curation tool",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llmsmartaudittool",
+      "name": "Llmsmartaudittool",
+      "url": "https://github.com/LLMAudit/LLMSmartAuditTool",
+      "verified": false,
+      "trustScore": 0,
+      "description": "LLM-SmartAudit is a cutting-edge tool designed to revolutionize smart contract auditing using advanced language models",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llmtestforaccessibilitycheck_chatgpt",
+      "name": "Llmtestforaccessibilitycheck_Chatgpt",
+      "url": "https://github.com/AutoBugHunter/LLMTestForAccessibilityCheck_chatgpt",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Checking multiple LLM tools to generate code for a webpage and then prompting the tools to fix the accessibility issues in the webpage",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "localagent",
+      "name": "Localagent",
+      "url": "https://github.com/PrAsAnNaRePo/LocalAgent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "opengpt is a open implementation of GPT agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "macllm",
+      "name": "Macllm",
+      "url": "https://github.com/appenz/macLLM",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Tool to integrate LLM's like GPT-3 with macOS",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "markdown_llm",
+      "name": "Markdown_Llm",
+      "url": "https://github.com/matweldon/markdown_llm",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A tool for interacting with an LLM in a markdown document",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "mastermind",
+      "name": "Mastermind",
+      "url": "https://github.com/theoforger/mastermind",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An LLM-powered CLI tool to help you be a better spymaster in Codenames",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "metorial",
+      "name": "Metorial",
+      "url": "https://github.com/metorial/metorial",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Connect AI agents to 600+ integrations with a single interface - OAuth, scaling, and monitoring included",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "mcp-go",
+      "name": "Mcp-Go",
+      "url": "https://github.com/mark3labs/mcp-go",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "modelready",
+      "name": "Modelready",
+      "url": "https://github.com/suparious/ModelReady",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Collection of tools for creating and running llama.cpp compatible LLMs",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "monadic-chat",
+      "name": "Monadic-Chat",
+      "url": "https://github.com/yohasebe/monadic-chat",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83e\udd16 + \ud83d\udc33 + \ud83d\udc27 Monadic Chat is a locally hosted web app for creating intelligent chatbots, available for Mac, Windows, and Linux. It offers a \u2026",
+      "ourReview": "",
+      "categories": [
+        "assistant"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "monocle",
+      "name": "Monocle",
+      "url": "https://github.com/arphanetx/Monocle",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Tooling backed by an LLM for performing natural language searches against compiled target binaries. Search for encryption code, password \u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "mql",
+      "name": "Mql",
+      "url": "https://github.com/shurutech/mql",
+      "verified": false,
+      "trustScore": 0,
+      "description": "MQL tool is designed to generate SQL queries directly from natural language inputs",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "nano-bots",
+      "name": "Nano-Bots",
+      "url": "https://github.com/icebaker/nano-bots",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Repository for Nano Bots' Cartridges - small, AI-powered bots that can be easily shared as a single file, designed to support multiple pro\u2026",
+      "ourReview": "",
+      "categories": [
+        "ecom"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "nano-bots-api",
+      "name": "Nano-Bots-Api",
+      "url": "https://github.com/icebaker/nano-bots-api",
+      "verified": false,
+      "trustScore": 0,
+      "description": "HTTP API for Nano Bots - small, AI-powered bots that can be easily shared as a single file, designed to support multiple providers such as\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "notiongpt",
+      "name": "Notiongpt",
+      "url": "https://github.com/Suiwan/notionGPT",
+      "verified": false,
+      "trustScore": 0,
+      "description": "NotionGPT, a practical tool built on top of ChatGPT large language model, make it your note-taking assistant!",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ollama-mcp-bridge",
+      "name": "Ollama-Mcp-Bridge",
+      "url": "https://github.com/patruff/ollama-mcp-bridge",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Bridge between Ollama and MCP servers, enabling local LLMs to use Model Context Protocol tools",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "open-webui-tools",
+      "name": "Open-Webui-Tools",
+      "url": "https://github.com/Haervwe/open-webui-tools",
+      "verified": false,
+      "trustScore": 0,
+      "description": "a Repository of Open-WebUI tools to use with your favourite LLMs",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "openai-tools",
+      "name": "Openai-Tools",
+      "url": "https://github.com/tipani86/OpenAI-Tools",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Toolkit to get the most out of your OpenAI Account",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "pathology_llm",
+      "name": "Pathology_Llm",
+      "url": "https://github.com/JaesikKim/pathology_llm",
+      "verified": false,
+      "trustScore": 0,
+      "description": "GPT-4 as decision support tool in oncology",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "pentestgpt",
+      "name": "Pentestgpt",
+      "url": "https://github.com/GreyDGL/PentestGPT",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A GPT-empowered penetration testing tool",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "plasmate",
+      "name": "Plasmate",
+      "url": "https://github.com/plasmate-labs/plasmate",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A browser engine built for AI agents that compiles HTML into a Semantic Object Model (SOM), providing 10x token compression vs raw HTML. V8 JS rendering, CDP compatibility, authenticated browsing, MCP server  |",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "prelude",
+      "name": "Prelude",
+      "url": "https://github.com/aerugo/prelude",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A very simple tool to build LLM prompts from your code repositories",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "prophetfuzz",
+      "name": "Prophetfuzz",
+      "url": "https://github.com/NASP-THU/ProphetFuzz",
+      "verified": false,
+      "trustScore": 0,
+      "description": "[CCS'24] An LLM-based, fully automated fuzzing tool for option combination testing",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "purplellama",
+      "name": "Purplellama",
+      "url": "https://github.com/meta-llama/PurpleLlama",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Set of tools to assess and improve LLM security",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "qlora-llm",
+      "name": "Qlora-Llm",
+      "url": "https://github.com/michaelnny/QLoRA-LLM",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A simple custom QLoRA implementation for fine-tuning a language model (LLM) with basic tools such as PyTorch and Bitsandbytes, completely\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "rag-on-gcp-with-vertexai",
+      "name": "Rag-On-Gcp-With-Vertexai",
+      "url": "https://github.com/BastinFlorian/RAG-on-GCP-with-VertexAI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Create a Chatbot app on your own data with GCP tools",
+      "ourReview": "",
+      "categories": [
+        "assistant"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ragelo",
+      "name": "Ragelo",
+      "url": "https://github.com/zetaalphavector/RAGElo",
+      "verified": false,
+      "trustScore": 0,
+      "description": "RAGElo is a set of tools that helps you selecting the best RAG-based LLM agents by using an Elo ranker",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "rageval",
+      "name": "Rageval",
+      "url": "https://github.com/gomate-community/rageval",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Evaluation tools for Retrieval-augmented Generation (RAG) methods",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "recruitpilot",
+      "name": "Recruitpilot",
+      "url": "https://github.com/jaredkirby/RecruitPilot",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A set of AI tools to automate resume scoring and generate interview questions",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "redlite",
+      "name": "Redlite",
+      "url": "https://github.com/innodatalabs/redlite",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Opinionated tool for benchmarking Conversational Language Models",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "remarkable-2-llm",
+      "name": "Remarkable-2-Llm",
+      "url": "https://github.com/99x-incubator/remarkable-2-llm",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Integrating LLMs into reMarkable could unlock transformative features like auto-completion, grammar/style corrections, contextual suggest\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "repo-to-text",
+      "name": "Repo-To-Text",
+      "url": "https://github.com/kirill-markin/repo-to-text",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Convert a repository structure and its contents into a single text file, including the tree output and file contents in markdown code blo\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "resume_render_from_job_description",
+      "name": "Resume_Render_From_Job_Description",
+      "url": "https://github.com/AIHawk-FOSS/resume_render_from_job_description",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Resume_Builder_AIHawk is a powerful Python tool that allows you to automatically customize your resume based on a job URL, ensuring it pe\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "rome-llm",
+      "name": "Rome-Llm",
+      "url": "https://github.com/ajn313/ROME-LLM",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Tools for Recurrent Optimization via Machine Editing and related benchmarks",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "selenium-agent",
+      "name": "Selenium-Agent",
+      "url": "https://github.com/ahmadrosid/selenium-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "LLM agent using selenium as a tool. Have fun!",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "simple-llm-exporter",
+      "name": "Simple-Llm-Exporter",
+      "url": "https://github.com/realityinspector/simple-llm-exporter",
+      "verified": false,
+      "trustScore": 0,
+      "description": "a tool to export entire scripts to a text file with a file tree and description, for exporting to llm's",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "skilllite",
+      "name": "SkillLite",
+      "url": "https://github.com/EXboys/skilllite",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A lightweight, zero-dependency runtime for the agentsskills protocol that enables AI agents to securely execute portable skills locally. Written in Rust with native OS sandboxing, millisecond cold starts, single binary deployment",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "smart_fault_injector_llm",
+      "name": "Smart_Fault_Injector_Llm",
+      "url": "https://github.com/JiaHuann/Smart_Fault_Injector_LLM",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Intelligent kernel error injection/testing tool based on large model and eBPF.(\u57fa\u4e8e\u5927\u6a21\u578b\u548ceBPF\u7684\u667a\u80fd\u5316kernel\u9519\u8bef\u6ce8\u5165\u3001\u6d4b\u8bd5\u5de5\u5177)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "speech-to-code",
+      "name": "Speech-To-Code",
+      "url": "https://github.com/dharllc/speech-to-code",
+      "verified": false,
+      "trustScore": 0,
+      "description": "llm assisted development tools",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "speechless",
+      "name": "Speechless",
+      "url": "https://github.com/uukuguy/speechless",
+      "verified": false,
+      "trustScore": 0,
+      "description": "LLM based agents with proactive interactions, long-term memory, external tool integration, and local deployment capabilities",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "splaa",
+      "name": "Splaa",
+      "url": "https://github.com/cp3249/splaa",
+      "verified": false,
+      "trustScore": 0,
+      "description": "SPLAA is an AI assistant framework that utilizes voice recognition, text-to-speech, and tool-calling capabilities to provide a conversati\u2026",
+      "ourReview": "",
+      "categories": [
+        "assistant"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "stan",
+      "name": "Stan",
+      "url": "https://github.com/kaifcoder/Stan",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Develop and deploy a Large Language Model (LLM) based tool for generating human like responses to natural language inputs for network not\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "stock-analysis-with-llm",
+      "name": "Stock-Analysis-With-Llm",
+      "url": "https://github.com/bauer-jan/stock-analysis-with-llm",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repository provides tools and workflows for stock analysis using large language models (LLMs). It combines financial data processing\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "structgenius",
+      "name": "Structgenius",
+      "url": "https://github.com/jaadbarg/StructGenius",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Download boilerplate file structure of any tree diagram you give",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "tapir",
+      "name": "Tapir",
+      "url": "https://github.com/ephes/tapir",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Some llm tools",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "textcloak",
+      "name": "Textcloak",
+      "url": "https://github.com/umutcamliyurt/TextCloak",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A tool for concealing writing style using LLM",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "thoughtloom",
+      "name": "Thoughtloom",
+      "url": "https://github.com/tbiehn/thoughtloom",
+      "verified": false,
+      "trustScore": 0,
+      "description": "ThoughtLoom is a powerful tool designed to foster creativity and enhance productivity through the use of LLMs directly from the command l\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "tiger",
+      "name": "Tiger",
+      "url": "https://github.com/Upsonic/Tiger",
+      "verified": false,
+      "trustScore": 0,
+      "description": "No Crypto - Scam alarm - This project is not releated with any crypto currencies. | Neuralink for your AI Agents - LangChain - Autogen - \u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "toolcommander",
+      "name": "Toolcommander",
+      "url": "https://github.com/NicerWang/ToolCommander",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Official implementation of \"From Allies to Adversaries - Manipulating LLM Tool Scheduling through Adversarial Injection",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "toolla",
+      "name": "Toolla",
+      "url": "https://github.com/foomprep/toolla",
+      "verified": false,
+      "trustScore": 0,
+      "description": "High level tool use for LLMs",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "toolplanner",
+      "name": "Toolplanner",
+      "url": "https://github.com/XiaoMi/toolplanner",
+      "verified": false,
+      "trustScore": 0,
+      "description": "ToolPlanner - A Tool Augmented LLM for Multi Granularity Instructions with Path Planning and Feedback",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "toolqa",
+      "name": "Toolqa",
+      "url": "https://github.com/night-chen/ToolQA",
+      "verified": false,
+      "trustScore": 0,
+      "description": "ToolQA, a new dataset to evaluate the capabilities of LLMs in answering challenging questions with external tools. It offers two levels \u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "tools",
+      "name": "Tools",
+      "url": "https://github.com/buildownai/tools",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Monorepository of LLM based t AI ools provided by BuildOwn.AI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "tora",
+      "name": "Tora",
+      "url": "https://github.com/microsoft/ToRA",
+      "verified": false,
+      "trustScore": 0,
+      "description": "ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with \u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "trafilatura",
+      "name": "Trafilatura",
+      "url": "https://github.com/adbar/trafilatura",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Python & Command-line tool to gather text and metadata on the Web - Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "unchained",
+      "name": "Unchained",
+      "url": "https://github.com/aaronamelgar/unchained",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A Django-based tool for prompt engineering and LLM system evaluation",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "useful-generativeai-tools-repo",
+      "name": "Useful-Generativeai-Tools-Repo",
+      "url": "https://github.com/anishsingh20/Useful-GenerativeAI-Tools-Repo",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repository has useful prompts for LLM and Generative AI models like Bard and ChatGPT",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "visuallm",
+      "name": "Visuallm",
+      "url": "https://github.com/gortibaldik/visuallm",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Visualization tool for various generation tasks on Language Models",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "wfgy",
+      "name": "WFGY",
+      "url": "https://github.com/onestardao/WFGY",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An open-source framework for debugging and stress testing LLMs under long-horizon, high-tension text scenarios. Includes a TXT-based debugging app for structured sequences to identify where reasoning breaks and retrieval fails",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "whitebox-code-gpt",
+      "name": "Whitebox-Code-Gpt",
+      "url": "https://github.com/Decron/Whitebox-Code-GPT",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Repository of instructions for Programming-specific GPT models",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "widemem-ai",
+      "name": "Widemem-Ai",
+      "url": "https://github.com/remete618/widemem-ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Lightweight Python memory layer for LLM agents with importance scoring, temporal decay, 3-tier hierarchical memory, YMYL prioritization, and batch conflict resolution. Local-first with SQLite + FAISS.  |  |",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "wildguard",
+      "name": "Wildguard",
+      "url": "https://github.com/allenai/wildguard",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "wxflows",
+      "name": "Wxflows",
+      "url": "https://github.com/IBM/wxflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Examples and tutorials for building AI applications with watsonx.ai Flows Engine",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "xemantic-ai-tool-schema",
+      "name": "Xemantic-Ai-Tool-Schema",
+      "url": "https://github.com/xemantic/xemantic-ai-tool-schema",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Kotlin multiplatform AI/LLM tool use (function calling) JSON Schema generator",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "yahoo-finance-llm-agent",
+      "name": "Yahoo-Finance-Llm-Agent",
+      "url": "https://github.com/ojasskapre/yahoo-finance-llm-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The Yahoo Finance Agent is an application that combines OpenAI's LLMs, the Yahoo Finance Python library, and LangChain's tools to provide\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "zahara-litellm",
+      "name": "Zahara-Litellm",
+      "url": "https://github.com/LiquidAdTech/Zahara-LiteLLM",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Gen AI tools",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "abc-classroom",
+      "name": "Abc-Classroom",
+      "url": "https://github.com/earthlab/abc-classroom",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Tools to automate github classroom and autograding workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "actions",
+      "name": "Actions",
+      "url": "https://github.com/Azure/actions",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Author and use Azure Actions to automate your GitHub workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "actions-workflow-samples",
+      "name": "Actions-Workflow-Samples",
+      "url": "https://github.com/Azure/actions-workflow-samples",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Help developers to easily get started with GitHub Action workflows to deploy to Azure",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "activepieces",
+      "name": "Activepieces",
+      "url": "https://github.com/activepieces/activepieces",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Your friendliest open source AI automation tool \u2728 Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alterna\u2026",
+      "ourReview": "",
+      "categories": [
+        "automation"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "advanced-gpts",
+      "name": "Advanced-Gpts",
+      "url": "https://github.com/nerority/Advanced-GPTs",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Custom GPT Showcase, featuring advanced workflows and operational logic",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "airflow",
+      "name": "Airflow",
+      "url": "https://github.com/apache/airflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "airflow-cookbook",
+      "name": "Airflow-Cookbook",
+      "url": "https://github.com/bahchis/airflow-cookbook",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Airflow workflow management platform chef cookbook",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "alfred-calculate-anything",
+      "name": "Alfred-Calculate-Anything",
+      "url": "https://github.com/biati-digital/alfred-calculate-anything",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Alfred Workflow to calculate anything with natural language",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "alfred-github-workflow",
+      "name": "Alfred-Github-Workflow",
+      "url": "https://github.com/gharlan/alfred-github-workflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "GitHub Workflow for Alfred",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "alfred-pinboard-rs",
+      "name": "Alfred-Pinboard-Rs",
+      "url": "https://github.com/spamwax/alfred-pinboard-rs",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Alfred Workflow for Pinboard (Rust)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "alfred-terminalfinder",
+      "name": "Alfred-Terminalfinder",
+      "url": "https://github.com/LeEnno/alfred-terminalfinder",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Alfred workflow to open current Finder window in Terminal/iTerm and vice versa",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "alfred-workflow",
+      "name": "Alfred-Workflow",
+      "url": "https://github.com/joetannenbaum/alfred-workflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "PHP helper library for Alfred Workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "alfred-workflow-todoist",
+      "name": "Alfred-Workflow-Todoist",
+      "url": "https://github.com/moranje/alfred-workflow-todoist",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An Alfred workflow for managing tasks in Todoist",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "alfred-workflows",
+      "name": "Alfred-Workflows",
+      "url": "https://github.com/zenorocha/alfred-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83e\udd18 A collection of Alfred 3 and 4 workflows that will rock your world",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "alfred-workflows-scientific",
+      "name": "Alfred-Workflows-Scientific",
+      "url": "https://github.com/andrewning/alfred-workflows-scientific",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A collection of Alfred workflows targeting scientific applications",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "alfred2-ruby-template",
+      "name": "Alfred2-Ruby-Template",
+      "url": "https://github.com/zhaocai/alfred2-ruby-template",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Alfred 2 Workflow Ruby Template",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "alfredworkflowcom",
+      "name": "Alfredworkflow.Com",
+      "url": "https://github.com/hzlzh/AlfredWorkflow.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A public Collection of Alfred Workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "alfy",
+      "name": "Alfy",
+      "url": "https://github.com/sindresorhus/alfy",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Create Alfred workflows with ease",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "amazon-mwaa-examples",
+      "name": "Amazon-Mwaa-Examples",
+      "url": "https://github.com/aws-samples/amazon-mwaa-examples",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Amazon Managed Workflows for Apache Airflow (MWAA) Examples repository contains example DAGs, requirements.txt, plugins, and CloudFormati\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ambrose",
+      "name": "Ambrose",
+      "url": "https://github.com/twitter-archive/ambrose",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A platform for visualization and real-time monitoring of data workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "argo-python-dsl",
+      "name": "Argo-Python-Dsl",
+      "url": "https://github.com/argoproj-labs/argo-python-dsl",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Python DSL for Argo Workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "argo-workflows",
+      "name": "Argo-Workflows",
+      "url": "https://github.com/argoproj/argo-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Workflow Engine for Kubernetes",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "argo-workflows-demo",
+      "name": "Argo-Workflows-Demo",
+      "url": "https://github.com/vfarcic/argo-workflows-demo",
+      "verified": false,
+      "trustScore": 0,
+      "description": "argo workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "arrow-user2022",
+      "name": "Arrow-User2022",
+      "url": "https://github.com/djnavarro/arrow-user2022",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Larger-Than-Memory Data Workflows with Apache Arrow",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "astro-sdk",
+      "name": "Astro-Sdk",
+      "url": "https://github.com/astronomer/astro-sdk",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Astro SDK allows rapid and clean development of {Extract, Load, Transform} workflows using Python and SQL, powered by Apache Airflow",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "atomate2",
+      "name": "Atomate2",
+      "url": "https://github.com/materialsproject/atomate2",
+      "verified": false,
+      "trustScore": 0,
+      "description": "atomate2 is a library of computational materials science workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "autopr",
+      "name": "Autopr",
+      "url": "https://github.com/irgolic/AutoPR",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Run AI-powered workflows over your codebase",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "awesome-alfred-workflows",
+      "name": "Awesome-Alfred-Workflows",
+      "url": "https://github.com/alfred-workflows/awesome-alfred-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A curated list of awesome alfred workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "aws-ddk",
+      "name": "Aws-Ddk",
+      "url": "https://github.com/awslabs/aws-ddk",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An open source development framework to help you build data workflows and modern data architecture on AWS",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "aws-genomics-workflows",
+      "name": "Aws-Genomics-Workflows",
+      "url": "https://github.com/aws-samples/aws-genomics-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Genomics Workflows on AWS",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "aws-lambda-fsm-workflows",
+      "name": "Aws-Lambda-Fsm-Workflows",
+      "url": "https://github.com/Workiva/aws-lambda-fsm-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A Python framework for developing finite state machine-based workflows on AWS Lambda",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "aws-mwaa-local-runner",
+      "name": "Aws-Mwaa-Local-Runner",
+      "url": "https://github.com/aws/aws-mwaa-local-runner",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) env\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "aws-swf-flow-library",
+      "name": "Aws-Swf-Flow-Library",
+      "url": "https://github.com/aws/aws-swf-flow-library",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AWS Simple Workflow Flow framework library",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "azkaban",
+      "name": "Azkaban",
+      "url": "https://github.com/azkaban/azkaban",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Azkaban workflow manager",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "backbone-boilerplate",
+      "name": "Backbone-Boilerplate",
+      "url": "https://github.com/tbranyen/backbone-boilerplate",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A workflow for building Backbone applications",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "biobakery_workflows",
+      "name": "Biobakery_Workflows",
+      "url": "https://github.com/biobakery/biobakery_workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "bioBakery workflows is a collection of workflows and tasks for executing common microbial community analyses using standardized, validate\u2026",
       "ourReview": "",
       "categories": [
         "dev-tools"
