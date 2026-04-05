@@ -435,6 +435,14 @@ def generate_sitemap(agents):
             if f.stem == "index":
                 continue
             urls.append({"loc": f"{BASE_URL}/compare/{f.stem}", "changefreq": "monthly", "priority": "0.7"})
+    # Blog posts
+    blog_dir = ROOT / "blog"
+    if blog_dir.exists():
+        urls.append({"loc": f"{BASE_URL}/blog/", "changefreq": "weekly", "priority": "0.7"})
+        for f in blog_dir.glob("*.html"):
+            if f.stem == "index":
+                continue
+            urls.append({"loc": f"{BASE_URL}/blog/{f.stem}", "changefreq": "monthly", "priority": "0.6"})
 
     xml_lines = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for u in urls:
@@ -512,6 +520,14 @@ def main():
     try:
         import generate_compare
         generate_compare.main()
+    except Exception as e:
+        print(f"  (skipped: {e})")
+
+    # Generate blog posts
+    print("\nRunning blog generator...")
+    try:
+        import generate_blog
+        generate_blog.main()
     except Exception as e:
         print(f"  (skipped: {e})")
 
