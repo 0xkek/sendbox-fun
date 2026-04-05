@@ -273,7 +273,11 @@ def tool_page_html(agent, all_agents):
 <meta property="og:description" content="{esc(meta_desc)}">
 <meta property="og:url" content="{canonical}">
 <meta property="og:site_name" content="sendbox.fun">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="https://sendbox.fun/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://sendbox.fun/og-image.png">
 <meta name="twitter:title" content="{esc(title)}">
 <meta name="twitter:description" content="{esc(meta_desc)}">
 <script type="application/ld+json">{json.dumps(structured)}</script>
@@ -379,7 +383,11 @@ def category_page_html(cat, agents_in_cat):
 <meta property="og:description" content="{esc(meta_desc)}">
 <meta property="og:url" content="{canonical}">
 <meta property="og:site_name" content="sendbox.fun">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="https://sendbox.fun/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://sendbox.fun/og-image.png">
 <meta name="twitter:title" content="{esc(title)}">
 <meta name="twitter:description" content="{esc(meta_desc)}">
 <script type="application/ld+json">{json.dumps(breadcrumb_schema)}</script>
