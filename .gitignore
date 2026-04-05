@@ -16,3 +16,6 @@ __pycache__/
 
 # OG template (og-image.png is the deployed copy)
 og-image-template.html
+
+# Local admin tools (not deployed)
+dashboard.html

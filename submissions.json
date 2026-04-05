@@ -1,0 +1,111 @@
+{
+  "site": {
+    "name": "sendbox.fun",
+    "url": "https://sendbox.fun",
+    "tagline": "The search engine for 1,500+ AI agents across 17 categories.",
+    "short_desc": "Free search engine and directory for AI tools. Search 1,500+ curated AI agents by category, price, or popularity. Every tool has its own page with ratings, reviews, pricing, and integrations.",
+    "long_desc": "sendbox.fun is a free AI tool directory and search engine. Discover 1,500+ curated AI agents across 17 categories — social media, sales & CRM, ecommerce, content creation, coding, automation, and more. Each tool has a dedicated page with pricing, integrations, community ratings, and reviews. Filter by price slider, age, or sort by popularity. Built for small businesses, solopreneurs, and AI enthusiasts looking to find the right tool fast.",
+    "category": "AI Tool Directory / Aggregator",
+    "pricing": "Free",
+    "logo_url": "https://sendbox.fun/logo.png",
+    "og_image": "https://sendbox.fun/og-image.png"
+  },
+  "directories": [
+    {
+      "id": "futurepedia",
+      "name": "Futurepedia",
+      "submit_url": "https://www.futurepedia.io/submit-tool",
+      "status": "not_submitted",
+      "submitted_date": null,
+      "notes": "One of the biggest AI directories. High authority backlink."
+    },
+    {
+      "id": "futuretools",
+      "name": "FutureTools.io",
+      "submit_url": "https://www.futuretools.io/submit-a-tool",
+      "status": "not_submitted",
+      "submitted_date": null,
+      "notes": "Matt Wolfe's directory. 230k+ newsletter subscribers."
+    },
+    {
+      "id": "theresanaiforthat",
+      "name": "There's An AI For That",
+      "submit_url": "https://theresanaiforthat.com/submit-ai/",
+      "status": "not_submitted",
+      "submitted_date": null,
+      "notes": "The #1 AI directory by traffic."
+    },
+    {
+      "id": "toolify",
+      "name": "Toolify",
+      "submit_url": "https://www.toolify.ai/submit",
+      "status": "not_submitted",
+      "submitted_date": null,
+      "notes": "26k+ tools indexed. Large traffic."
+    },
+    {
+      "id": "aitools-fyi",
+      "name": "AITools.fyi",
+      "submit_url": "https://aitools.fyi/submit",
+      "status": "not_submitted",
+      "submitted_date": null,
+      "notes": "Free submission."
+    },
+    {
+      "id": "opentools",
+      "name": "OpenTools",
+      "submit_url": "https://opentools.ai/submit",
+      "status": "not_submitted",
+      "submitted_date": null,
+      "notes": "Free submission."
+    },
+    {
+      "id": "aixploria",
+      "name": "Aixploria",
+      "submit_url": "https://www.aixploria.com/en/submit-ai/",
+      "status": "not_submitted",
+      "submitted_date": null,
+      "notes": "European AI directory."
+    },
+    {
+      "id": "alternativeto",
+      "name": "AlternativeTo",
+      "submit_url": "https://alternativeto.net/software/new/",
+      "status": "not_submitted",
+      "submitted_date": null,
+      "notes": "List as alternative to Futurepedia, TAAFT, FutureTools."
+    },
+    {
+      "id": "insidr",
+      "name": "Insidr.ai",
+      "submit_url": "https://www.insidr.ai/submit-tool/",
+      "status": "not_submitted",
+      "submitted_date": null,
+      "notes": "Free submission."
+    },
+    {
+      "id": "topai-tools",
+      "name": "TopAI.tools",
+      "submit_url": "https://topai.tools/add-tool",
+      "status": "not_submitted",
+      "submitted_date": null,
+      "notes": "Free submission."
+    },
+    {
+      "id": "ai-scout",
+      "name": "AI Scout",
+      "submit_url": "https://aiscout.net/submit",
+      "status": "not_submitted",
+      "submitted_date": null,
+      "notes": "Growing AI directory."
+    },
+    {
+      "id": "supertools",
+      "name": "Supertools (The Rundown)",
+      "submit_url": "https://supertools.therundown.ai/submit",
+      "status": "not_submitted",
+      "submitted_date": null,
+      "notes": "Associated with The Rundown AI newsletter."
+    }
+  ]
+}
