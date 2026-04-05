@@ -62,6 +62,11 @@ h2 { font-size: 24px; font-weight: 700; margin: 40px 0 20px; }
 .card h3 { font-size: 17px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
 .card p { font-size: 14px; color: var(--text-light); line-height: 1.5; }
 .card .card-meta { font-size: 12px; color: var(--text-light); margin-top: 12px; }
+.card-head { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 8px; }
+.card-logo { width: 40px; height: 40px; border-radius: 8px; flex-shrink: 0; background: #F3F4F6; }
+.card-title-wrap { flex: 1; min-width: 0; }
+.card-rating { display: inline-block; margin-left: 8px; font-size: 13px; color: #F59E0B; }
+.tool-logo-hero { width: 64px; height: 64px; border-radius: 12px; margin-bottom: 16px; background: #F3F4F6; }
 .intro-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; margin-bottom: 32px; }
 .intro-box p { color: var(--text-light); font-size: 16px; line-height: 1.6; }
 .reviews-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
@@ -101,6 +106,7 @@ footer a:hover { color: var(--accent); }
   </div>
   <div class="tool-header">
     <div class="tool-main">
+      <img src="https://icons.duckduckgo.com/ip3/convertkit.com.ico" alt="" class="tool-logo-hero" loading="lazy" onerror="this.style.visibility='hidden'">
       <h1>ConvertKit</h1>
       <div class="tags"><a href="/category/email" class="tag">📧 Email Marketing</a></div>
       <p class="tool-desc">Email marketing platform built for creators with visual automations, landing pages, and subscriber tagging.</p>
@@ -123,27 +129,27 @@ footer a:hover { color: var(--accent); }
   </section>
   <h2>Related tools</h2>
 <div class="grid"><a href="/tools/instantly" class="card">
-  <h3>Instantly</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/instantly.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Instantly</h3></div></div>
   <p>Cold email platform with unlimited sending accounts, AI personalization, warmup, and deliverability tools.</p>
   <div class="card-meta">Sales &amp; CRM · $30/mo</div>
 </a><a href="/tools/lemlist" class="card">
-  <h3>Lemlist</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/lemlist.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Lemlist</h3></div></div>
   <p>Cold outreach automation platform with AI-powered email personalization, multichannel sequences, and deliverability.</p>
   <div class="card-meta">Sales &amp; CRM · $32/mo</div>
 </a><a href="/tools/klaviyo" class="card">
-  <h3>Klaviyo</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/klaviyo.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Klaviyo</h3></div></div>
   <p>Email and SMS marketing platform built for ecommerce with AI-powered segmentation, predictive analytics, and automation.</p>
   <div class="card-meta">Ecommerce · $20/mo</div>
 </a><a href="/tools/mailchimp" class="card">
-  <h3>Mailchimp</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/mailchimp.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Mailchimp</h3></div></div>
   <p>All-in-one email marketing platform with AI-powered content suggestions, automation, and audience segmentation.</p>
   <div class="card-meta">Email Marketing · $13/mo</div>
 </a><a href="/tools/beehiiv" class="card">
-  <h3>Beehiiv</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/beehiiv.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Beehiiv</h3></div></div>
   <p>Newsletter platform with built-in growth tools, monetization, and AI writing assistant for creators and publishers.</p>
   <div class="card-meta">Email Marketing · $39/mo</div>
 </a><a href="/tools/activecampaign" class="card">
-  <h3>ActiveCampaign</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/activecampaign.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>ActiveCampaign</h3></div></div>
   <p>Email marketing and CRM platform with AI-powered automation, predictive sending, and customer journey mapping.</p>
   <div class="card-meta">Email Marketing · $15/mo</div>
 </a></div>

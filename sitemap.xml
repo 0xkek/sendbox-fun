@@ -3589,24 +3589,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/foundations-of-prompt-engineering-by-amazon-web-services-aws</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/introduction-to-agentic-memory</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/langgraph-mastery-develop-llm-agents-with-langgraph</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/multi-agent-system-building-with-crewai</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -3709,12 +3691,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/goodai-ltm-benchmark</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/hosting-7b-llm-on-google-cloud</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -3757,12 +3733,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/llm-agent-benchmark-list</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/llm_scavengerhunt</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -3794,12 +3764,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/tools/mobilebench</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/multiagent-collab-scenario-benchmark</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3889,19 +3853,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/tiny-llm-benchmark</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/unixagentbench</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/usability-benchmarking-framework-project</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3919,37 +3871,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/aart-ai-safety-dataset</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/abstractive-summarizer-on-cnn_dailymail-dataset</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/airline-review-llm-chatbot</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/alpaca-chinese-dataset</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/awesome-chatgpt-dataset</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/awesome-datasets-for-llms</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3962,24 +3884,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/tools/awesome-instruction-selector</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/awesome-llm-human-preference-datasets</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/awesome-medical-healthcare-dataset-for-llm</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/book-dataset</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -4010,48 +3914,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/tools/datacooker</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/dataset-creator-server</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/dataset-error-reduction</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/dataset-generator-for-llm-finetuning</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/dataset-translator</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/dataset_for_llm</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/datasetgpt</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/datasette-enrichments-llm</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -4093,12 +3955,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/fl_llm_benchmark_dataset</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/ftdatagen</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -4129,18 +3985,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/instruct-qna-fine-tuning-google-flan-t5-large-llm-qlora-peft-open-orca-dataset</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/instructions-tuning-across-various-llms-with-alpaca-dataset</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/kaggle-llm-detect_ai_generated_text</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -4148,18 +3992,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/tools/kg-llm-prompting</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/langchaindatasetforge</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/lex-fridman-dataset-llm</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -4177,18 +4009,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/llm-audio-dataset-process</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/llm-benchmarks</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/llm-chatbot</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -4196,24 +4016,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/tools/llm-content-mod</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/llm-dataset-converter-examples</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/llm-dataset-gen</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/llm-derived-tvshowguess-dataset</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -4256,30 +4058,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/tools/llm4vv</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/llm_benchmarks</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/llm_bxn_dataset</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/llm_cybersecurity_datasets_uss_2025</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/llm_datasets_generators</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -4363,18 +4141,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/parsee-datasets</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/pdf_to_llm_datasetpy</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/pixel-agi</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -4393,12 +4159,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/rag_llm-on-customdataset</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/reap-llm-problem-solving</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -4406,18 +4166,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/tools/refuel-sdk</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/sdp-llm-dataset</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/seqtoseq-dataset-creator</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -4436,12 +4184,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/tools/skin-cancer-specialist-llm</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/smart-contracts-dataset-generation</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -4477,12 +4219,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/universal-dataset-chatbot-with-llm</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/upar5iv</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -4490,24 +4226,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/tools/vlm_databuilder</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/voice-datasets</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/zero-shot-automatic-annotation-using-llm-generated-datasets</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/accident-simulation</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -5377,12 +5095,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/advancedaicoursework_2</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/ai-ethics</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -5527,12 +5239,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/ai6101-introduction-to-ai-ai-ethics</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/ai_ethics</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -5570,12 +5276,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/tools/ai_gdpr</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/aiethics-safety2020</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -5665,19 +5365,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/csc2541-f19</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/cse582-final-project</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/csi5195-ethicsinai-finalreport</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -5732,12 +5420,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/tools/ethicai</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/ethical-ai-courses</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -5810,12 +5492,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/tools/ethics-professional</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/ethics-simulation-server-client</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -5905,18 +5581,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/global-ai-dynamics-mapping-the-ai-utilization-across-nations</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/global_ai_ethics_conference_official_website-dubai</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/goal</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -5959,19 +5623,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/intro-to-ai-ethics-free-course-kaggle</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/introtoaiethics-kaggle</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/kaggle-courses-intro-to-ai-ethics</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -6002,24 +5654,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/tools/nak-aiethics</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/nft-2023</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/nottsai-meetup-june4-2019</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/ntu_msai_ai6101_introdution</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -6181,19 +5815,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/the-ethics-of-ai-navigating-complex-challenges-and-opportunities</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/tools-from-ai</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/towards_certified_ethical_ai</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -6217,19 +5839,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/upliftingpoleai_bsc_dissertation</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/waterlily</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/weavesphere-2022-ai-ethics</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -6488,12 +6098,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/tools/awesome-azure-openai-llm</loc>
-    <lastmod>2026-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/awesome-deep-learning-papers-for-search-recommendation-advertising</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -6794,12 +6398,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/tools/llm-claude-3</loc>
-    <lastmod>2026-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/llm-datasets</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -7159,19 +6757,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/yet-another-applied-llm-benchmark</loc>
-    <lastmod>2026-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/zeus-llm-trainer</loc>
-    <lastmod>2026-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/advanced-prompt-engineering-techniques-3817061</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -7208,12 +6794,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/tools/automated-prompt-engineering-from-scratch</loc>
-    <lastmod>2026-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/awesome-ai-art-image-synthesis</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -7597,12 +7177,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/udemy-prompt-engineering-course</loc>
-    <lastmod>2026-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/yival</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -7693,19 +7267,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/airportagentsimulation-security</loc>
-    <lastmod>2026-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/cartlis</loc>
-    <lastmod>2026-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/cognitive-security-ai-powered-threat-agent-evaluation-for-impact-on-assets</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -8659,12 +8221,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/tools/ai-conference-deadline</loc>
-    <lastmod>2026-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/tools/ai-game-devtools</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -8696,12 +8252,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/tools/are-copilots-local-yet</loc>
-    <lastmod>2026-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/arxivrag</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -9794,12 +9344,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/tools/argo-workflows-demo</loc>
-    <lastmod>2026-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/tools/arrow-user2022</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

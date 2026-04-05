@@ -62,8 +62,24 @@ h2 { font-size: 24px; font-weight: 700; margin: 40px 0 20px; }
 .card h3 { font-size: 17px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
 .card p { font-size: 14px; color: var(--text-light); line-height: 1.5; }
 .card .card-meta { font-size: 12px; color: var(--text-light); margin-top: 12px; }
+.card-head { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 8px; }
+.card-logo { width: 40px; height: 40px; border-radius: 8px; flex-shrink: 0; background: #F3F4F6; }
+.card-title-wrap { flex: 1; min-width: 0; }
+.card-rating { display: inline-block; margin-left: 8px; font-size: 13px; color: #F59E0B; }
+.tool-logo-hero { width: 64px; height: 64px; border-radius: 12px; margin-bottom: 16px; background: #F3F4F6; }
 .intro-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; margin-bottom: 32px; }
 .intro-box p { color: var(--text-light); font-size: 16px; line-height: 1.6; }
+.reviews-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
+.reviews-section h2 { font-size: 24px; font-weight: 700; margin-bottom: 8px; }
+.rating-summary { margin: 12px 0 32px; font-size: 16px; }
+.review-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 24px; margin-bottom: 24px; }
+.review-box h3 { font-size: 18px; font-weight: 700; margin-bottom: 8px; }
+.reviews-list { display: flex; flex-direction: column; gap: 16px; }
+.review-item { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 16px 20px; }
+.review-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; font-size: 14px; }
+.review-stars { color: #F59E0B; font-size: 16px; }
+.review-meta { color: var(--text-light); font-size: 13px; }
+.review-text { color: var(--text); font-size: 14px; line-height: 1.5; margin: 0; }
 footer { border-top: 1px solid var(--border); padding: 32px 24px; max-width: 1200px; margin: 48px auto 0; color: var(--text-light); font-size: 14px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16px; }
 footer a { color: var(--text-light); text-decoration: none; }
 footer a:hover { color: var(--accent); }
@@ -90,6 +106,7 @@ footer a:hover { color: var(--accent); }
   </div>
   <div class="tool-header">
     <div class="tool-main">
+      <img src="https://icons.duckduckgo.com/ip3/github.com.ico" alt="" class="tool-logo-hero" loading="lazy" onerror="this.style.visibility='hidden'">
       <h1>Cartlis</h1>
       <div class="tags"><a href="/category/ecom" class="tag">🛒 Ecommerce</a></div>
       <p class="tool-desc">The AI-Powered API Governance Agent enforces rules in real-time, seamlessly integrating with infrastructures and auto-patching violations…</p>
@@ -104,29 +121,35 @@ footer a:hover { color: var(--accent); }
       <a href="https://github.com/Theneo-Inc/Cartlis" target="_blank" rel="noopener nofollow" class="btn-primary">Visit website →</a>
     </aside>
   </div>
+  <section class="reviews-section">
+    <h2>Ratings & Reviews</h2>
+    <div id="rating-summary" class="rating-summary"><span style="color:var(--text-light);font-size:14px;">Loading...</span></div>
+    <div id="review-box" class="review-box"></div>
+    <div id="reviews-list" class="reviews-list"></div>
+  </section>
   <h2>Related tools</h2>
 <div class="grid"><a href="/tools/gorgias" class="card">
-  <h3>Gorgias</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/gorgias.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Gorgias</h3></div></div>
   <p>Ecommerce helpdesk built for Shopify, BigCommerce, and Magento. AI agent handles up to 60% of support tickets, processes...</p>
   <div class="card-meta">Ecommerce · $10/mo</div>
 </a><a href="/tools/tidio" class="card">
-  <h3>Tidio</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/tidio.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Tidio</h3></div></div>
   <p>Live chat and AI chatbot platform for ecommerce. Lyro AI handles product questions, recommends items, and checks order s...</p>
   <div class="card-meta">Ecommerce · $29/mo</div>
 </a><a href="/tools/privy" class="card">
-  <h3>Privy</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/privy.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Privy</h3></div></div>
   <p>Ecommerce-focused email and SMS marketing with popups, cart abandonment flows, and conversion optimization. Built specif...</p>
   <div class="card-meta">Ecommerce · $24/mo</div>
 </a><a href="/tools/klaviyo" class="card">
-  <h3>Klaviyo</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/klaviyo.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Klaviyo</h3></div></div>
   <p>Email and SMS marketing platform built for ecommerce with AI-powered segmentation, predictive analytics, and automation.</p>
   <div class="card-meta">Ecommerce · $20/mo</div>
 </a><a href="/tools/nosto" class="card">
-  <h3>Nosto</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/nosto.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Nosto</h3></div></div>
   <p>Ecommerce personalization platform delivering AI-powered product recommendations, content personalization, and merchandi...</p>
   <div class="card-meta">Ecommerce · Custom pricing</div>
 </a><a href="/tools/prisync" class="card">
-  <h3>Prisync</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/prisync.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Prisync</h3></div></div>
   <p>Competitor price tracking and dynamic repricing engine for ecommerce stores that syncs prices automatically.</p>
   <div class="card-meta">Ecommerce · $99/mo</div>
 </a></div>
@@ -139,5 +162,6 @@ footer a:hover { color: var(--accent); }
     <a href="/sitemap.xml">Sitemap</a>
   </div>
 </footer>
+<script src="/reviews.js"></script>
 </body>
 </html>

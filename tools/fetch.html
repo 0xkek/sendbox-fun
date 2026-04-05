@@ -62,6 +62,11 @@ h2 { font-size: 24px; font-weight: 700; margin: 40px 0 20px; }
 .card h3 { font-size: 17px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
 .card p { font-size: 14px; color: var(--text-light); line-height: 1.5; }
 .card .card-meta { font-size: 12px; color: var(--text-light); margin-top: 12px; }
+.card-head { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 8px; }
+.card-logo { width: 40px; height: 40px; border-radius: 8px; flex-shrink: 0; background: #F3F4F6; }
+.card-title-wrap { flex: 1; min-width: 0; }
+.card-rating { display: inline-block; margin-left: 8px; font-size: 13px; color: #F59E0B; }
+.tool-logo-hero { width: 64px; height: 64px; border-radius: 12px; margin-bottom: 16px; background: #F3F4F6; }
 .intro-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; margin-bottom: 32px; }
 .intro-box p { color: var(--text-light); font-size: 16px; line-height: 1.6; }
 .reviews-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
@@ -101,6 +106,7 @@ footer a:hover { color: var(--accent); }
   </div>
   <div class="tool-header">
     <div class="tool-main">
+      <img src="https://icons.duckduckgo.com/ip3/fetch.ai.ico" alt="" class="tool-logo-hero" loading="lazy" onerror="this.style.visibility='hidden'">
       <h1>Fetch</h1>
       <div class="tags"><a href="/category/analytics" class="tag">📊 Analytics</a></div>
       <p class="tool-desc">Fetch by Fetch AI offers a platform for launching AI apps and services, including agent hosting, analytics, IoT gateways, and a Web3-based open network, alongside an open network for AI Agents that allows for connectivity, transactions, and the formation of dynamic marketplaces, facilitating the ...</p>
@@ -123,27 +129,27 @@ footer a:hover { color: var(--accent); }
   </section>
   <h2>Related tools</h2>
 <div class="grid"><a href="/tools/brandwatch" class="card">
-  <h3>Brandwatch</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/brandwatch.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Brandwatch</h3></div></div>
   <p>AI-powered social media analytics, listening, and management platform for understanding audiences and trends.</p>
   <div class="card-meta">Social Media · $108/mo</div>
 </a><a href="/tools/brand24" class="card">
-  <h3>Brand24</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/brand24.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Brand24</h3></div></div>
   <p>Social listening tool that monitors online mentions across social media, news, blogs, and forums in real-time.</p>
   <div class="card-meta">Social Media · $49/mo</div>
 </a><a href="/tools/semrush" class="card">
-  <h3>Semrush</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/semrush.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Semrush</h3></div></div>
   <p>All-in-one SEO and marketing toolkit with keyword research, site audits, rank tracking, and competitor analysis.</p>
   <div class="card-meta">SEO · $119.95/mo</div>
 </a><a href="/tools/google-analytics" class="card">
-  <h3>Google Analytics</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/analytics.google.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Google Analytics</h3></div></div>
   <p>Free web analytics platform with AI-powered insights, audience analysis, and conversion tracking.</p>
   <div class="card-meta">Analytics · Free</div>
 </a><a href="/tools/hotjar" class="card">
-  <h3>Hotjar</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/hotjar.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Hotjar</h3></div></div>
   <p>Behavior analytics platform with heatmaps, session recordings, and AI-powered surveys for understanding users.</p>
   <div class="card-meta">Analytics · $32/mo</div>
 </a><a href="/tools/mixpanel" class="card">
-  <h3>Mixpanel</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/mixpanel.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Mixpanel</h3></div></div>
   <p>Product analytics platform with AI-powered insights, funnel analysis, and user segmentation.</p>
   <div class="card-meta">Analytics · $20/mo</div>
 </a></div>

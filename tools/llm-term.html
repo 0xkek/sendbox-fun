@@ -62,8 +62,24 @@ h2 { font-size: 24px; font-weight: 700; margin: 40px 0 20px; }
 .card h3 { font-size: 17px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
 .card p { font-size: 14px; color: var(--text-light); line-height: 1.5; }
 .card .card-meta { font-size: 12px; color: var(--text-light); margin-top: 12px; }
+.card-head { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 8px; }
+.card-logo { width: 40px; height: 40px; border-radius: 8px; flex-shrink: 0; background: #F3F4F6; }
+.card-title-wrap { flex: 1; min-width: 0; }
+.card-rating { display: inline-block; margin-left: 8px; font-size: 13px; color: #F59E0B; }
+.tool-logo-hero { width: 64px; height: 64px; border-radius: 12px; margin-bottom: 16px; background: #F3F4F6; }
 .intro-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; margin-bottom: 32px; }
 .intro-box p { color: var(--text-light); font-size: 16px; line-height: 1.6; }
+.reviews-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
+.reviews-section h2 { font-size: 24px; font-weight: 700; margin-bottom: 8px; }
+.rating-summary { margin: 12px 0 32px; font-size: 16px; }
+.review-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 24px; margin-bottom: 24px; }
+.review-box h3 { font-size: 18px; font-weight: 700; margin-bottom: 8px; }
+.reviews-list { display: flex; flex-direction: column; gap: 16px; }
+.review-item { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 16px 20px; }
+.review-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; font-size: 14px; }
+.review-stars { color: #F59E0B; font-size: 16px; }
+.review-meta { color: var(--text-light); font-size: 13px; }
+.review-text { color: var(--text); font-size: 14px; line-height: 1.5; margin: 0; }
 footer { border-top: 1px solid var(--border); padding: 32px 24px; max-width: 1200px; margin: 48px auto 0; color: var(--text-light); font-size: 14px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16px; }
 footer a { color: var(--text-light); text-decoration: none; }
 footer a:hover { color: var(--accent); }
@@ -90,6 +106,7 @@ footer a:hover { color: var(--accent); }
   </div>
   <div class="tool-header">
     <div class="tool-main">
+      <img src="https://icons.duckduckgo.com/ip3/github.com.ico" alt="" class="tool-logo-hero" loading="lazy" onerror="this.style.visibility='hidden'">
       <h1>Llm-Term</h1>
       <div class="tags"><a href="/category/dev-tools" class="tag">🛠️ Developer Tools</a></div>
       <p class="tool-desc">A Rust-based CLI tool that generates and executes terminal commands using OpenAI&#x27;s language models</p>
@@ -104,29 +121,35 @@ footer a:hover { color: var(--accent); }
       <a href="https://github.com/dh1011/llm-term" target="_blank" rel="noopener nofollow" class="btn-primary">Visit website →</a>
     </aside>
   </div>
+  <section class="reviews-section">
+    <h2>Ratings & Reviews</h2>
+    <div id="rating-summary" class="rating-summary"><span style="color:var(--text-light);font-size:14px;">Loading...</span></div>
+    <div id="review-box" class="review-box"></div>
+    <div id="reviews-list" class="reviews-list"></div>
+  </section>
   <h2>Related tools</h2>
 <div class="grid"><a href="/tools/langchain" class="card">
-  <h3>LangChain</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/langchain.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>LangChain</h3></div></div>
   <p>Framework for building LLM-powered applications with chains, agents, and memory. Python and JS.</p>
   <div class="card-meta">Developer Tools · Free (open source)</div>
 </a><a href="/tools/llamaindex" class="card">
-  <h3>LlamaIndex</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/llamaindex.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>LlamaIndex</h3></div></div>
   <p>Data framework for building LLM applications with RAG, structured data, and agents.</p>
   <div class="card-meta">Developer Tools · Free (open source)</div>
 </a><a href="/tools/crewai" class="card">
-  <h3>CrewAI</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/crewai.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>CrewAI</h3></div></div>
   <p>Framework for orchestrating role-playing autonomous AI agents to tackle complex tasks together.</p>
   <div class="card-meta">Developer Tools · Free (open source)</div>
 </a><a href="/tools/autogen" class="card">
-  <h3>AutoGen</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/microsoft.github.io.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>AutoGen</h3></div></div>
   <p>Microsoft&#x27;s framework for building multi-agent AI applications with conversation patterns.</p>
   <div class="card-meta">Developer Tools · Free</div>
 </a><a href="/tools/langgraph" class="card">
-  <h3>LangGraph</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/langchain.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>LangGraph</h3></div></div>
   <p>LangChain&#x27;s framework for building stateful, multi-actor agent workflows with graphs.</p>
   <div class="card-meta">Developer Tools · Free (open source)</div>
 </a><a href="/tools/openai-assistants-api" class="card">
-  <h3>OpenAI Assistants API</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/platform.openai.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>OpenAI Assistants API</h3></div></div>
   <p>OpenAI&#x27;s API for building AI assistants with tools, code interpreter, and file search.</p>
   <div class="card-meta">Developer Tools · Pay-as-you-go</div>
 </a></div>
@@ -139,5 +162,6 @@ footer a:hover { color: var(--accent); }
     <a href="/sitemap.xml">Sitemap</a>
   </div>
 </footer>
+<script src="/reviews.js"></script>
 </body>
 </html>

@@ -62,6 +62,11 @@ h2 { font-size: 24px; font-weight: 700; margin: 40px 0 20px; }
 .card h3 { font-size: 17px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
 .card p { font-size: 14px; color: var(--text-light); line-height: 1.5; }
 .card .card-meta { font-size: 12px; color: var(--text-light); margin-top: 12px; }
+.card-head { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 8px; }
+.card-logo { width: 40px; height: 40px; border-radius: 8px; flex-shrink: 0; background: #F3F4F6; }
+.card-title-wrap { flex: 1; min-width: 0; }
+.card-rating { display: inline-block; margin-left: 8px; font-size: 13px; color: #F59E0B; }
+.tool-logo-hero { width: 64px; height: 64px; border-radius: 12px; margin-bottom: 16px; background: #F3F4F6; }
 .intro-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; margin-bottom: 32px; }
 .intro-box p { color: var(--text-light); font-size: 16px; line-height: 1.6; }
 .reviews-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
@@ -101,6 +106,7 @@ footer a:hover { color: var(--accent); }
   </div>
   <div class="tool-header">
     <div class="tool-main">
+      <img src="https://icons.duckduckgo.com/ip3/brandwatch.com.ico" alt="" class="tool-logo-hero" loading="lazy" onerror="this.style.visibility='hidden'">
       <h1>Brandwatch</h1>
       <div class="tags"><a href="/category/social" class="tag">📱 Social Media</a><a href="/category/analytics" class="tag">📊 Analytics</a></div>
       <p class="tool-desc">AI-powered social media analytics, listening, and management platform for understanding audiences and trends.</p>
@@ -123,27 +129,27 @@ footer a:hover { color: var(--accent); }
   </section>
   <h2>Related tools</h2>
 <div class="grid"><a href="/tools/buffer" class="card">
-  <h3>Buffer</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/buffer.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Buffer</h3></div></div>
   <p>Social media management platform with AI-powered content suggestions, scheduling, and analytics across all major platfor...</p>
   <div class="card-meta">Social Media · $5/channel/mo</div>
 </a><a href="/tools/feedhive" class="card">
-  <h3>FeedHive</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/feedhive.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>FeedHive</h3></div></div>
   <p>AI-powered social media management with content creation at scale, performance predictions, hashtag generation, and a so...</p>
   <div class="card-meta">Social Media · $19/mo</div>
 </a><a href="/tools/metricool" class="card">
-  <h3>Metricool</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/metricool.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Metricool</h3></div></div>
   <p>All-in-one social media management with AI-powered content suggestions, optimal timing, hashtag research, and competitor...</p>
   <div class="card-meta">Social Media · $20/mo</div>
 </a><a href="/tools/socialbee" class="card">
-  <h3>SocialBee</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/socialbee.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>SocialBee</h3></div></div>
   <p>Social media management platform with AI Copilot that builds strategies and generates custom content for all channels.</p>
   <div class="card-meta">Social Media · $24/mo</div>
 </a><a href="/tools/agorapulse" class="card">
-  <h3>Agorapulse</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/agorapulse.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Agorapulse</h3></div></div>
   <p>Social media management with scheduling, social inbox, analytics, and ROI tracking. Built for teams and agencies.</p>
   <div class="card-meta">Social Media · $49/mo</div>
 </a><a href="/tools/postwise" class="card">
-  <h3>Postwise</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/postwise.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Postwise</h3></div></div>
   <p>AI-powered tool that converts ideas into viral social media posts with smart scheduling and growth tools.</p>
   <div class="card-meta">Social Media · $29/mo</div>
 </a></div>

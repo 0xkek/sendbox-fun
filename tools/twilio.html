@@ -62,6 +62,11 @@ h2 { font-size: 24px; font-weight: 700; margin: 40px 0 20px; }
 .card h3 { font-size: 17px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
 .card p { font-size: 14px; color: var(--text-light); line-height: 1.5; }
 .card .card-meta { font-size: 12px; color: var(--text-light); margin-top: 12px; }
+.card-head { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 8px; }
+.card-logo { width: 40px; height: 40px; border-radius: 8px; flex-shrink: 0; background: #F3F4F6; }
+.card-title-wrap { flex: 1; min-width: 0; }
+.card-rating { display: inline-block; margin-left: 8px; font-size: 13px; color: #F59E0B; }
+.tool-logo-hero { width: 64px; height: 64px; border-radius: 12px; margin-bottom: 16px; background: #F3F4F6; }
 .intro-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; margin-bottom: 32px; }
 .intro-box p { color: var(--text-light); font-size: 16px; line-height: 1.6; }
 .reviews-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
@@ -101,6 +106,7 @@ footer a:hover { color: var(--accent); }
   </div>
   <div class="tool-header">
     <div class="tool-main">
+      <img src="https://icons.duckduckgo.com/ip3/twilio.com.ico" alt="" class="tool-logo-hero" loading="lazy" onerror="this.style.visibility='hidden'">
       <h1>Twilio</h1>
       <div class="tags"><a href="/category/dev-tools" class="tag">🛠️ Developer Tools</a></div>
       <p class="tool-desc">Twilio is a cloud communications platform that enables developers to programmatically make phone calls, send and receive text messages, and integrate other communication features into their applications using its web APIs</p>
@@ -123,27 +129,27 @@ footer a:hover { color: var(--accent); }
   </section>
   <h2>Related tools</h2>
 <div class="grid"><a href="/tools/langchain" class="card">
-  <h3>LangChain</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/langchain.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>LangChain</h3></div></div>
   <p>Framework for building LLM-powered applications with chains, agents, and memory. Python and JS.</p>
   <div class="card-meta">Developer Tools · Free (open source)</div>
 </a><a href="/tools/llamaindex" class="card">
-  <h3>LlamaIndex</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/llamaindex.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>LlamaIndex</h3></div></div>
   <p>Data framework for building LLM applications with RAG, structured data, and agents.</p>
   <div class="card-meta">Developer Tools · Free (open source)</div>
 </a><a href="/tools/crewai" class="card">
-  <h3>CrewAI</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/crewai.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>CrewAI</h3></div></div>
   <p>Framework for orchestrating role-playing autonomous AI agents to tackle complex tasks together.</p>
   <div class="card-meta">Developer Tools · Free (open source)</div>
 </a><a href="/tools/autogen" class="card">
-  <h3>AutoGen</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/microsoft.github.io.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>AutoGen</h3></div></div>
   <p>Microsoft&#x27;s framework for building multi-agent AI applications with conversation patterns.</p>
   <div class="card-meta">Developer Tools · Free</div>
 </a><a href="/tools/langgraph" class="card">
-  <h3>LangGraph</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/langchain.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>LangGraph</h3></div></div>
   <p>LangChain&#x27;s framework for building stateful, multi-actor agent workflows with graphs.</p>
   <div class="card-meta">Developer Tools · Free (open source)</div>
 </a><a href="/tools/openai-assistants-api" class="card">
-  <h3>OpenAI Assistants API</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/platform.openai.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>OpenAI Assistants API</h3></div></div>
   <p>OpenAI&#x27;s API for building AI assistants with tools, code interpreter, and file search.</p>
   <div class="card-meta">Developer Tools · Pay-as-you-go</div>
 </a></div>

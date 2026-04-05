@@ -165,6 +165,11 @@ def extract_links_from_markdown(markdown_text, source_name):
         'e2b.dev/blog', '/blog/', '/posts/', '/post/', '/news/',
         'pypi.org/project', 'npmjs.com/package', 'crates.io',
         'semanticscholar.org', 'scholar.google', 'researchgate.net',
+        'sites.google.com', 'docs.google.com', 'forms.gle',
+        'neurips.cc', 'iclr.cc', 'icml.cc', 'aclweb.org', 'kaggle.com/datasets',
+        'towardsdatascience.com', 'towardsai.net',
+        '.edu/', '.ac.uk/', '.ac.jp/', 'umich.edu', 'mit.edu', 'stanford.edu',
+        'github.io/courses', 'github.io/lecture', 'github.io/syllabus',
     }
 
     # Name prefixes/patterns that indicate a supporting link, not a product
@@ -215,16 +220,32 @@ def extract_links_from_markdown(markdown_text, source_name):
 
         # Skip junk names
         name_lower = name.lower()
-        if len(name) < 2 or len(name) > 80 or name_lower in BLOCKED_NAMES:
+        if len(name) < 2 or len(name) > 60 or name_lower in BLOCKED_NAMES:
             continue
         if any(name_lower.startswith(p) for p in BLOCKED_NAME_PREFIXES):
             continue
         # Names that are just URLs/punctuation
         if name.startswith(('http://', 'https://', '@', '#')):
             continue
-        # Names with " - " or " : " are usually subtitle/description format, keep only first part
-        # But skip if name contains sentence-like patterns
-        if name.count(' ') > 8:  # too many words = probably a sentence
+        # Sentence-like names = not a product
+        if name.count(' ') > 5:
+            continue
+        # Academic/research/paper/dataset detection
+        academic_terms = ['dataset', 'benchmark', 'paper', 'arxiv', 'ethics of', 'survey of',
+                          'analysis of', 'towards', 'introduction to', 'lecture', 'course',
+                          'thesis', 'dissertation', 'research paper', 'conference',
+                          'workshop', 'symposium', 'journal', 'proceedings',
+                          'simulation', 'evaluation of', 'case study', 'white paper',
+                          'ai ethics', 'ai safety', 'xai ', 'explainable ai',
+                          'chapter', 'part 1', 'part 2', 'module', 'curriculum',
+                          'homework', 'assignment', 'tutorial series']
+        if any(term in name_lower for term in academic_terms):
+            continue
+        # IDs that are pure technical identifiers (all lowercase with underscores, long)
+        if '_' in name and name.islower() and len(name) > 25:
+            continue
+        # Names with dataset/research-style formatting (underscores + dashes + numbers)
+        if re.search(r'\d{4}', name) and ('-' in name or '_' in name):
             continue
 
         # Skip blocked domains (social media, academic, dev infra links)

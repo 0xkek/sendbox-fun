@@ -62,8 +62,24 @@ h2 { font-size: 24px; font-weight: 700; margin: 40px 0 20px; }
 .card h3 { font-size: 17px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
 .card p { font-size: 14px; color: var(--text-light); line-height: 1.5; }
 .card .card-meta { font-size: 12px; color: var(--text-light); margin-top: 12px; }
+.card-head { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 8px; }
+.card-logo { width: 40px; height: 40px; border-radius: 8px; flex-shrink: 0; background: #F3F4F6; }
+.card-title-wrap { flex: 1; min-width: 0; }
+.card-rating { display: inline-block; margin-left: 8px; font-size: 13px; color: #F59E0B; }
+.tool-logo-hero { width: 64px; height: 64px; border-radius: 12px; margin-bottom: 16px; background: #F3F4F6; }
 .intro-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; margin-bottom: 32px; }
 .intro-box p { color: var(--text-light); font-size: 16px; line-height: 1.6; }
+.reviews-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
+.reviews-section h2 { font-size: 24px; font-weight: 700; margin-bottom: 8px; }
+.rating-summary { margin: 12px 0 32px; font-size: 16px; }
+.review-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 24px; margin-bottom: 24px; }
+.review-box h3 { font-size: 18px; font-weight: 700; margin-bottom: 8px; }
+.reviews-list { display: flex; flex-direction: column; gap: 16px; }
+.review-item { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 16px 20px; }
+.review-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; font-size: 14px; }
+.review-stars { color: #F59E0B; font-size: 16px; }
+.review-meta { color: var(--text-light); font-size: 13px; }
+.review-text { color: var(--text); font-size: 14px; line-height: 1.5; margin: 0; }
 footer { border-top: 1px solid var(--border); padding: 32px 24px; max-width: 1200px; margin: 48px auto 0; color: var(--text-light); font-size: 14px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16px; }
 footer a { color: var(--text-light); text-decoration: none; }
 footer a:hover { color: var(--accent); }
@@ -90,6 +106,7 @@ footer a:hover { color: var(--accent); }
   </div>
   <div class="tool-header">
     <div class="tool-main">
+      <img src="https://icons.duckduckgo.com/ip3/github.com.ico" alt="" class="tool-logo-hero" loading="lazy" onerror="this.style.visibility='hidden'">
       <h1>Rag-On-Gcp-With-Vertexai</h1>
       <div class="tags"><a href="/category/assistant" class="tag">🤖 AI Assistants</a></div>
       <p class="tool-desc">Create a Chatbot app on your own data with GCP tools</p>
@@ -104,29 +121,35 @@ footer a:hover { color: var(--accent); }
       <a href="https://github.com/BastinFlorian/RAG-on-GCP-with-VertexAI" target="_blank" rel="noopener nofollow" class="btn-primary">Visit website →</a>
     </aside>
   </div>
+  <section class="reviews-section">
+    <h2>Ratings & Reviews</h2>
+    <div id="rating-summary" class="rating-summary"><span style="color:var(--text-light);font-size:14px;">Loading...</span></div>
+    <div id="review-box" class="review-box"></div>
+    <div id="reviews-list" class="reviews-list"></div>
+  </section>
   <h2>Related tools</h2>
 <div class="grid"><a href="/tools/chatgpt" class="card">
-  <h3>ChatGPT</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/chat.openai.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>ChatGPT</h3></div></div>
   <p>OpenAI&#x27;s flagship conversational AI for writing, coding, analysis, and creative tasks.</p>
   <div class="card-meta">AI Assistants · $20/mo</div>
 </a><a href="/tools/claude" class="card">
-  <h3>Claude</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/claude.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Claude</h3></div></div>
   <p>Anthropic&#x27;s AI assistant with long context, strong reasoning, and artifacts for creating content.</p>
   <div class="card-meta">AI Assistants · $20/mo</div>
 </a><a href="/tools/gemini" class="card">
-  <h3>Gemini</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/gemini.google.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Gemini</h3></div></div>
   <p>Google&#x27;s AI assistant integrated with Workspace, search, and multimodal capabilities.</p>
   <div class="card-meta">AI Assistants · $19.99/mo</div>
 </a><a href="/tools/perplexity" class="card">
-  <h3>Perplexity</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/perplexity.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Perplexity</h3></div></div>
   <p>AI-powered search engine that answers questions with cited sources and follow-up queries.</p>
   <div class="card-meta">AI Assistants · $20/mo</div>
 </a><a href="/tools/poe" class="card">
-  <h3>Poe</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/poe.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Poe</h3></div></div>
   <p>Quora&#x27;s multi-model AI chat platform with access to GPT-4, Claude, Gemini, and more in one place.</p>
   <div class="card-meta">AI Assistants · $19.99/mo</div>
 </a><a href="/tools/mistral-le-chat" class="card">
-  <h3>Mistral Le Chat</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/chat.mistral.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Mistral Le Chat</h3></div></div>
   <p>European AI assistant from Mistral with strong reasoning, coding, and multilingual capabilities.</p>
   <div class="card-meta">AI Assistants · Free</div>
 </a></div>
@@ -139,5 +162,6 @@ footer a:hover { color: var(--accent); }
     <a href="/sitemap.xml">Sitemap</a>
   </div>
 </footer>
+<script src="/reviews.js"></script>
 </body>
 </html>

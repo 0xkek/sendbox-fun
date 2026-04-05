@@ -62,6 +62,11 @@ h2 { font-size: 24px; font-weight: 700; margin: 40px 0 20px; }
 .card h3 { font-size: 17px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
 .card p { font-size: 14px; color: var(--text-light); line-height: 1.5; }
 .card .card-meta { font-size: 12px; color: var(--text-light); margin-top: 12px; }
+.card-head { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 8px; }
+.card-logo { width: 40px; height: 40px; border-radius: 8px; flex-shrink: 0; background: #F3F4F6; }
+.card-title-wrap { flex: 1; min-width: 0; }
+.card-rating { display: inline-block; margin-left: 8px; font-size: 13px; color: #F59E0B; }
+.tool-logo-hero { width: 64px; height: 64px; border-radius: 12px; margin-bottom: 16px; background: #F3F4F6; }
 .intro-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; margin-bottom: 32px; }
 .intro-box p { color: var(--text-light); font-size: 16px; line-height: 1.6; }
 .reviews-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
@@ -101,6 +106,7 @@ footer a:hover { color: var(--accent); }
   </div>
   <div class="tool-header">
     <div class="tool-main">
+      <img src="https://icons.duckduckgo.com/ip3/veed.io.ico" alt="" class="tool-logo-hero" loading="lazy" onerror="this.style.visibility='hidden'">
       <h1>VEED</h1>
       <div class="tags"><a href="/category/video" class="tag">🎬 Video</a></div>
       <p class="tool-desc">Online AI video editor with auto-subtitles, text-to-speech, background removal, and one-click social media formatting.</p>
@@ -123,27 +129,27 @@ footer a:hover { color: var(--accent); }
   </section>
   <h2>Related tools</h2>
 <div class="grid"><a href="/tools/reelup" class="card">
-  <h3>ReelUp</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/reelup.co.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>ReelUp</h3></div></div>
   <p>Shoppable video platform that boosts ecommerce engagement and conversions with interactive product videos.</p>
   <div class="card-meta">Ecommerce · Custom pricing</div>
 </a><a href="/tools/synthesia" class="card">
-  <h3>Synthesia</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/synthesia.io.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Synthesia</h3></div></div>
   <p>AI video generator that creates studio-quality videos from text with realistic AI avatars in 120+ languages.</p>
   <div class="card-meta">Video · $22/mo</div>
 </a><a href="/tools/descript" class="card">
-  <h3>Descript</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/descript.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Descript</h3></div></div>
   <p>All-in-one video and podcast editor that makes editing as easy as editing a document. AI-powered transcription.</p>
   <div class="card-meta">Video · $24/mo</div>
 </a><a href="/tools/opus-clip" class="card">
-  <h3>Opus Clip</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/opus.pro.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Opus Clip</h3></div></div>
   <p>AI-powered tool that turns long videos into viral short clips with smart scene detection and captioning.</p>
   <div class="card-meta">Video · $15/mo</div>
 </a><a href="/tools/heygen" class="card">
-  <h3>HeyGen</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/heygen.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>HeyGen</h3></div></div>
   <p>AI video creation platform with customizable avatars, text-to-video, and video translation in 40+ languages.</p>
   <div class="card-meta">Video · $24/mo</div>
 </a><a href="/tools/fliki" class="card">
-  <h3>Fliki</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/fliki.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Fliki</h3></div></div>
   <p>Turn text into videos with AI voices, stock media, and branded templates in minutes.</p>
   <div class="card-meta">Video · $21/mo</div>
 </a></div>

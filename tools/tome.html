@@ -62,6 +62,11 @@ h2 { font-size: 24px; font-weight: 700; margin: 40px 0 20px; }
 .card h3 { font-size: 17px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
 .card p { font-size: 14px; color: var(--text-light); line-height: 1.5; }
 .card .card-meta { font-size: 12px; color: var(--text-light); margin-top: 12px; }
+.card-head { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 8px; }
+.card-logo { width: 40px; height: 40px; border-radius: 8px; flex-shrink: 0; background: #F3F4F6; }
+.card-title-wrap { flex: 1; min-width: 0; }
+.card-rating { display: inline-block; margin-left: 8px; font-size: 13px; color: #F59E0B; }
+.tool-logo-hero { width: 64px; height: 64px; border-radius: 12px; margin-bottom: 16px; background: #F3F4F6; }
 .intro-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; margin-bottom: 32px; }
 .intro-box p { color: var(--text-light); font-size: 16px; line-height: 1.6; }
 .reviews-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
@@ -101,6 +106,7 @@ footer a:hover { color: var(--accent); }
   </div>
   <div class="tool-header">
     <div class="tool-main">
+      <img src="https://icons.duckduckgo.com/ip3/tome.app.ico" alt="" class="tool-logo-hero" loading="lazy" onerror="this.style.visibility='hidden'">
       <h1>Tome</h1>
       <div class="tags"><a href="/category/content" class="tag">✍️ Content Creation</a></div>
       <p class="tool-desc">AI-powered storytelling platform for generating presentations and pitches from a prompt.</p>
@@ -123,27 +129,27 @@ footer a:hover { color: var(--accent); }
   </section>
   <h2>Related tools</h2>
 <div class="grid"><a href="/tools/jasper" class="card">
-  <h3>Jasper</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/jasper.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Jasper</h3></div></div>
   <p>AI marketing assistant that generates blog posts, ad copy, product descriptions, and social media content at scale.</p>
   <div class="card-meta">Content Creation · $39/mo</div>
 </a><a href="/tools/copyai" class="card">
-  <h3>Copy.ai</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/copy.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Copy.ai</h3></div></div>
   <p>AI-powered platform for go-to-market automation including content generation, outbound prospecting, and lead research.</p>
   <div class="card-meta">Content Creation · $36/mo</div>
 </a><a href="/tools/writesonic" class="card">
-  <h3>Writesonic</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/writesonic.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Writesonic</h3></div></div>
   <p>Full-stack AI marketing platform for researching, creating, optimizing, and publishing content at scale.</p>
   <div class="card-meta">Content Creation · $16/mo</div>
 </a><a href="/tools/grammarly" class="card">
-  <h3>Grammarly</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/grammarly.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Grammarly</h3></div></div>
   <p>AI writing assistant that improves clarity, tone, grammar, and consistency across all written communication.</p>
   <div class="card-meta">Content Creation · $12/mo</div>
 </a><a href="/tools/hypotenuse-ai" class="card">
-  <h3>Hypotenuse AI</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/hypotenuse.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Hypotenuse AI</h3></div></div>
   <p>Ecommerce-trained AI for bulk generation of product descriptions, blog posts, and marketing copy with brand consistency.</p>
   <div class="card-meta">Content Creation · $56/mo</div>
 </a><a href="/tools/frase" class="card">
-  <h3>Frase</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/frase.io.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Frase</h3></div></div>
   <p>AI content research and writing platform that generates SEO-optimized content with competitor analysis built in.</p>
   <div class="card-meta">Content Creation · $15/mo</div>
 </a></div>

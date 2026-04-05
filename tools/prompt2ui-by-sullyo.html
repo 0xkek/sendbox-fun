@@ -62,6 +62,11 @@ h2 { font-size: 24px; font-weight: 700; margin: 40px 0 20px; }
 .card h3 { font-size: 17px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
 .card p { font-size: 14px; color: var(--text-light); line-height: 1.5; }
 .card .card-meta { font-size: 12px; color: var(--text-light); margin-top: 12px; }
+.card-head { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 8px; }
+.card-logo { width: 40px; height: 40px; border-radius: 8px; flex-shrink: 0; background: #F3F4F6; }
+.card-title-wrap { flex: 1; min-width: 0; }
+.card-rating { display: inline-block; margin-left: 8px; font-size: 13px; color: #F59E0B; }
+.tool-logo-hero { width: 64px; height: 64px; border-radius: 12px; margin-bottom: 16px; background: #F3F4F6; }
 .intro-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; margin-bottom: 32px; }
 .intro-box p { color: var(--text-light); font-size: 16px; line-height: 1.6; }
 .reviews-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
@@ -101,6 +106,7 @@ footer a:hover { color: var(--accent); }
   </div>
   <div class="tool-header">
     <div class="tool-main">
+      <img src="https://icons.duckduckgo.com/ip3/github.com.ico" alt="" class="tool-logo-hero" loading="lazy" onerror="this.style.visibility='hidden'">
       <h1>Prompt2UI by sullyo</h1>
       <div class="tags"><a href="/category/productivity" class="tag">✅ Productivity</a></div>
       <p class="tool-desc">An open-source project that converts prompts to user interfaces, demonstrated by creating a basic Google Calendar clone using Claude in about 2 hours, inspired by Claude Artifacts  |</p>
@@ -123,27 +129,27 @@ footer a:hover { color: var(--accent); }
   </section>
   <h2>Related tools</h2>
 <div class="grid"><a href="/tools/notion-ai" class="card">
-  <h3>Notion AI</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/notion.so.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Notion AI</h3></div></div>
   <p>AI writing assistant built into Notion for drafting, summarizing, and transforming content.</p>
   <div class="card-meta">Content Creation · $10/member/mo</div>
 </a><a href="/tools/otterai" class="card">
-  <h3>Otter.ai</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/otter.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Otter.ai</h3></div></div>
   <p>AI meeting transcription with summaries, action items, and integrations with Zoom, Meet, and Teams.</p>
   <div class="card-meta">Productivity · $8.33/mo</div>
 </a><a href="/tools/firefliesai" class="card">
-  <h3>Fireflies.ai</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/fireflies.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Fireflies.ai</h3></div></div>
   <p>AI meeting assistant that records, transcribes, summarizes, and analyzes your meetings.</p>
   <div class="card-meta">Productivity · $10/user/mo</div>
 </a><a href="/tools/fathom" class="card">
-  <h3>Fathom</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/fathom.video.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Fathom</h3></div></div>
   <p>AI meeting assistant that records, transcribes, and summarizes calls with free forever plan.</p>
   <div class="card-meta">Productivity · Free</div>
 </a><a href="/tools/granola" class="card">
-  <h3>Granola</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/granola.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Granola</h3></div></div>
   <p>AI note-taker that enhances your raw meeting notes with context and summaries. Mac-first.</p>
   <div class="card-meta">Productivity · $10/mo</div>
 </a><a href="/tools/tl;dv" class="card">
-  <h3>tl;dv</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/tldv.io.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>tl;dv</h3></div></div>
   <p>AI meeting recorder for Zoom, Meet, and Teams with transcripts, summaries, and timestamps.</p>
   <div class="card-meta">Productivity · $18/user/mo</div>
 </a></div>

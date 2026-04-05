@@ -62,6 +62,11 @@ h2 { font-size: 24px; font-weight: 700; margin: 40px 0 20px; }
 .card h3 { font-size: 17px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
 .card p { font-size: 14px; color: var(--text-light); line-height: 1.5; }
 .card .card-meta { font-size: 12px; color: var(--text-light); margin-top: 12px; }
+.card-head { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 8px; }
+.card-logo { width: 40px; height: 40px; border-radius: 8px; flex-shrink: 0; background: #F3F4F6; }
+.card-title-wrap { flex: 1; min-width: 0; }
+.card-rating { display: inline-block; margin-left: 8px; font-size: 13px; color: #F59E0B; }
+.tool-logo-hero { width: 64px; height: 64px; border-radius: 12px; margin-bottom: 16px; background: #F3F4F6; }
 .intro-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; margin-bottom: 32px; }
 .intro-box p { color: var(--text-light); font-size: 16px; line-height: 1.6; }
 .reviews-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
@@ -101,6 +106,7 @@ footer a:hover { color: var(--accent); }
   </div>
   <div class="tool-header">
     <div class="tool-main">
+      <img src="https://icons.duckduckgo.com/ip3/stack-ai.com.ico" alt="" class="tool-logo-hero" loading="lazy" onerror="this.style.visibility='hidden'">
       <h1>StackAI</h1>
       <div class="tags"><a href="/category/automation" class="tag">⚡ Automation</a><a href="/category/dev-tools" class="tag">🛠️ Developer Tools</a></div>
       <p class="tool-desc">No-code AI agent platform for building knowledge-based assistants and back-office automations.</p>
@@ -123,27 +129,27 @@ footer a:hover { color: var(--accent); }
   </section>
   <h2>Related tools</h2>
 <div class="grid"><a href="/tools/lindyai" class="card">
-  <h3>Lindy.ai</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/lindy.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Lindy.ai</h3></div></div>
   <p>Build custom AI workflows without code. Automate follow-ups, CRM updates, meeting scheduling, and pipeline management.</p>
   <div class="card-meta">Sales &amp; CRM · $49.99/mo</div>
 </a><a href="/tools/zapier" class="card">
-  <h3>Zapier</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/zapier.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Zapier</h3></div></div>
   <p>Connect 6,000+ apps and automate workflows without code. The most popular workflow automation platform.</p>
   <div class="card-meta">Automation · $19.99/mo</div>
 </a><a href="/tools/make" class="card">
-  <h3>Make</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/make.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Make</h3></div></div>
   <p>Visual workflow automation platform (formerly Integromat) connecting apps with powerful logic and data transformation.</p>
   <div class="card-meta">Automation · $9/mo</div>
 </a><a href="/tools/n8n" class="card">
-  <h3>n8n</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/n8n.io.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>n8n</h3></div></div>
   <p>Open-source workflow automation tool with 400+ integrations, AI capabilities, and self-hosting option.</p>
   <div class="card-meta">Automation · $20/mo</div>
 </a><a href="/tools/axiom" class="card">
-  <h3>Axiom</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/axiom.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Axiom</h3></div></div>
   <p>No-code browser automation that records and replays web actions for scraping, form filling, and repetitive tasks.</p>
   <div class="card-meta">Automation · $15/mo</div>
 </a><a href="/tools/bardeen" class="card">
-  <h3>Bardeen</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/bardeen.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Bardeen</h3></div></div>
   <p>AI-powered browser automation that connects apps, scrapes data, and automates repetitive tasks from any website.</p>
   <div class="card-meta">Automation · $10/mo</div>
 </a></div>

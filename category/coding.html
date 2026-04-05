@@ -62,6 +62,11 @@ h2 { font-size: 24px; font-weight: 700; margin: 40px 0 20px; }
 .card h3 { font-size: 17px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
 .card p { font-size: 14px; color: var(--text-light); line-height: 1.5; }
 .card .card-meta { font-size: 12px; color: var(--text-light); margin-top: 12px; }
+.card-head { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 8px; }
+.card-logo { width: 40px; height: 40px; border-radius: 8px; flex-shrink: 0; background: #F3F4F6; }
+.card-title-wrap { flex: 1; min-width: 0; }
+.card-rating { display: inline-block; margin-left: 8px; font-size: 13px; color: #F59E0B; }
+.tool-logo-hero { width: 64px; height: 64px; border-radius: 12px; margin-bottom: 16px; background: #F3F4F6; }
 .intro-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; margin-bottom: 32px; }
 .intro-box p { color: var(--text-light); font-size: 16px; line-height: 1.6; }
 .reviews-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
@@ -103,133 +108,133 @@ footer a:hover { color: var(--accent); }
     <p>AI code editors, copilots, and engineering agents. Browse our curated list of 32 ai coding AI tools — every entry includes pricing, integrations, and a direct link to the product. Updated continuously as new tools launch.</p>
   </div>
   <div class="grid"><a href="/tools/cursor" class="card">
-  <h3>Cursor</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/cursor.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Cursor</h3></div></div>
   <p>AI-powered code editor built on VS Code with inline editing, codebase understanding, and agent mode.</p>
   <div class="card-meta">$20/mo · Free plan available</div>
 </a><a href="/tools/github-copilot" class="card">
-  <h3>GitHub Copilot</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/github.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>GitHub Copilot</h3></div></div>
   <p>AI pair programmer from GitHub offering code completions, chat, and PR reviews in your editor.</p>
   <div class="card-meta">$10/mo · Free for students</div>
 </a><a href="/tools/windsurf" class="card">
-  <h3>Windsurf</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/windsurf.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Windsurf</h3></div></div>
   <p>AI IDE with Cascade agent that understands your entire codebase and makes multi-file edits.</p>
   <div class="card-meta">$15/mo · Free plan available</div>
 </a><a href="/tools/claude-code" class="card">
-  <h3>Claude Code</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/anthropic.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Claude Code</h3></div></div>
   <p>Anthropic&#x27;s CLI coding agent that runs in your terminal with access to your full codebase.</p>
   <div class="card-meta">$20/mo · Via Claude Pro</div>
 </a><a href="/tools/aider" class="card">
-  <h3>Aider</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/aider.chat.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Aider</h3></div></div>
   <p>Open-source AI pair programming tool that edits code in your terminal with git integration.</p>
   <div class="card-meta">Free (API costs) · Open source</div>
 </a><a href="/tools/boltnew" class="card">
-  <h3>Bolt.new</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/bolt.new.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Bolt.new</h3></div></div>
   <p>StackBlitz AI full-stack web development in the browser — describe an app and see it built live.</p>
   <div class="card-meta">$20/mo · Free plan available</div>
 </a><a href="/tools/lovable" class="card">
-  <h3>Lovable</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/lovable.dev.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Lovable</h3></div></div>
   <p>AI app builder that generates full-stack applications from natural language prompts.</p>
   <div class="card-meta">$20/mo · Free plan available</div>
 </a><a href="/tools/v0" class="card">
-  <h3>v0</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/v0.dev.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>v0</h3></div></div>
   <p>Vercel&#x27;s AI tool for generating React components and UI from text prompts and screenshots.</p>
   <div class="card-meta">$20/mo · Free plan available</div>
 </a><a href="/tools/replit-agent" class="card">
-  <h3>Replit Agent</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/replit.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Replit Agent</h3></div></div>
   <p>Cloud IDE with AI agent that builds full applications from your description in the browser.</p>
   <div class="card-meta">$25/mo · Free tier available</div>
 </a><a href="/tools/tabnine" class="card">
-  <h3>Tabnine</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/tabnine.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Tabnine</h3></div></div>
   <p>AI code completion tool with privacy-focused, team-trained models for enterprise developers.</p>
   <div class="card-meta">$9/mo · Free plan available</div>
 </a><a href="/tools/codeium" class="card">
-  <h3>Codeium</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/codeium.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Codeium</h3></div></div>
   <p>Free AI code autocomplete, chat, and search across 70+ languages and all major IDEs.</p>
   <div class="card-meta">Free · Free for individuals</div>
 </a><a href="/tools/sourcegraph-cody" class="card">
-  <h3>Sourcegraph Cody</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/sourcegraph.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Sourcegraph Cody</h3></div></div>
   <p>AI coding assistant that reads your entire codebase for context-aware completions and chat.</p>
   <div class="card-meta">$9/mo · Free plan available</div>
 </a><a href="/tools/supermaven" class="card">
-  <h3>Supermaven</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/supermaven.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Supermaven</h3></div></div>
   <p>Ultra-fast AI code completion with 300K+ token context window and sub-second latency.</p>
   <div class="card-meta">$10/mo · Free plan available</div>
 </a><a href="/tools/devin" class="card">
-  <h3>Devin</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/devin.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Devin</h3></div></div>
   <p>Cognition&#x27;s autonomous AI software engineer that plans, codes, and debugs full projects.</p>
   <div class="card-meta">$500/mo · Team plans</div>
 </a><a href="/tools/phind" class="card">
-  <h3>Phind</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/phind.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Phind</h3></div></div>
   <p>AI search engine for developers with code-aware answers and technical documentation.</p>
   <div class="card-meta">$17/mo · Free plan available</div>
 </a><a href="/tools/warp" class="card">
-  <h3>Warp</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/warp.dev.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Warp</h3></div></div>
   <p>AI-powered terminal with natural language commands, autocomplete, and team collaboration.</p>
   <div class="card-meta">$15/user/mo · Free plan available</div>
 </a><a href="/tools/fig" class="card">
-  <h3>Fig</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/fig.io.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Fig</h3></div></div>
   <p>Terminal autocomplete and AI assistant now part of Amazon Q Developer.</p>
   <div class="card-meta">Free · Part of Amazon Q</div>
 </a><a href="/tools/zed" class="card">
-  <h3>Zed</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/zed.dev.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Zed</h3></div></div>
   <p>High-performance collaborative code editor with AI assistant from the creators of Atom.</p>
   <div class="card-meta">Free · Paid team plans</div>
 </a><a href="/tools/cline" class="card">
-  <h3>Cline</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/cline.bot.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Cline</h3></div></div>
   <p>Autonomous coding agent inside VS Code that can create, edit, and execute code.</p>
   <div class="card-meta">Free (API costs) · Open source</div>
 </a><a href="/tools/continuedev" class="card">
-  <h3>Continue.dev</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/continue.dev.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Continue.dev</h3></div></div>
   <p>Open-source AI code assistant for VS Code and JetBrains with customizable models.</p>
   <div class="card-meta">Free (open source) · Open source</div>
 </a><a href="/tools/builderio" class="card">
-  <h3>Builder.io</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/builder.io.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Builder.io</h3></div></div>
   <p>Visual development platform with AI that converts Figma designs to production code.</p>
   <div class="card-meta">$19/user/mo · Free plan available</div>
 </a><a href="/tools/locofy" class="card">
-  <h3>Locofy</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/locofy.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Locofy</h3></div></div>
   <p>AI tool that converts Figma, Adobe XD, and Sketch designs to React, Next.js, HTML code.</p>
   <div class="card-meta">$24/mo · Free plan available</div>
 </a><a href="/tools/anima" class="card">
-  <h3>Anima</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/animaapp.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Anima</h3></div></div>
   <p>Design-to-code platform turning Figma designs into React, Vue, and HTML code.</p>
   <div class="card-meta">$39/mo · Free plan available</div>
 </a><a href="/tools/plandex" class="card">
-  <h3>Plandex</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/github.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Plandex</h3></div></div>
   <p>An AI coding engine for complex tasks</p>
-  <div class="card-meta">See website · Visit site</div>
+  <div class="card-meta">See website</div>
 </a><a href="/tools/duetgpt" class="card">
-  <h3>DuetGPT</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/github.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>DuetGPT</h3></div></div>
   <p>A conversational semi-autonomous developer assistant, AI pair programming without the copypasta</p>
-  <div class="card-meta">See website · Visit site</div>
+  <div class="card-meta">See website</div>
 </a><a href="/tools/continue" class="card">
-  <h3>Continue</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/github.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Continue</h3></div></div>
   <p>Continue is an open-source autopilot plugin for VS Code and JetBrains, enhancing coding with LLMs through features like task and tab autocom...</p>
-  <div class="card-meta">See website · Visit site</div>
+  <div class="card-meta">See website</div>
 </a><a href="/tools/tabby" class="card">
-  <h3>Tabby</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/github.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Tabby</h3></div></div>
   <p>Tabby is a self-hosted, open-source AI coding assistant similar to GitHub Copilot, featuring a self-contained setup with no DBMS/cloud depen...</p>
-  <div class="card-meta">See website · Visit site</div>
+  <div class="card-meta">See website</div>
 </a><a href="/tools/incredibledev" class="card">
-  <h3>Incredible.Dev</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/github.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Incredible.Dev</h3></div></div>
   <p>Incredible.dev is an AI Coding Co-worker which can code, fix, document, deploy, test your APIs. One agent to rule everything API</p>
-  <div class="card-meta">See website · Visit site</div>
+  <div class="card-meta">See website</div>
 </a><a href="/tools/wolfpack" class="card">
-  <h3>Wolfpack</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/github.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Wolfpack</h3></div></div>
   <p>Mobile &amp; desktop PWA command center for controlling AI coding agents (Claude, Codex, Gemini) via tmux sessions across multiple machines, sec...</p>
-  <div class="card-meta">See website · Visit site</div>
+  <div class="card-meta">See website</div>
 </a><a href="/tools/bernstein" class="card">
-  <h3>Bernstein</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/github.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Bernstein</h3></div></div>
   <p>Deterministic multi-agent orchestrator that spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI) from a single goal, verifi...</p>
-  <div class="card-meta">See website · Visit site</div>
+  <div class="card-meta">See website</div>
 </a><a href="/tools/are-copilots-local-yet" class="card">
-  <h3>Are-Copilots-Local-Yet</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/github.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Are-Copilots-Local-Yet</h3></div></div>
   <p>Are Copilots Local Yet? The frontier of local LLM Copilots for code completion, project generation, shell assistance, and more. Find tools …</p>
-  <div class="card-meta">See website · Visit site</div>
+  <div class="card-meta">See website</div>
 </a><a href="/tools/ducky" class="card">
-  <h3>Ducky</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/github.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Ducky</h3></div></div>
   <p>Local AI pair programming tool</p>
-  <div class="card-meta">See website · Visit site</div>
+  <div class="card-meta">See website</div>
 </a></div>
 </main>
 <footer>

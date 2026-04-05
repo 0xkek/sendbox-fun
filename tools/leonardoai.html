@@ -62,6 +62,11 @@ h2 { font-size: 24px; font-weight: 700; margin: 40px 0 20px; }
 .card h3 { font-size: 17px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
 .card p { font-size: 14px; color: var(--text-light); line-height: 1.5; }
 .card .card-meta { font-size: 12px; color: var(--text-light); margin-top: 12px; }
+.card-head { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 8px; }
+.card-logo { width: 40px; height: 40px; border-radius: 8px; flex-shrink: 0; background: #F3F4F6; }
+.card-title-wrap { flex: 1; min-width: 0; }
+.card-rating { display: inline-block; margin-left: 8px; font-size: 13px; color: #F59E0B; }
+.tool-logo-hero { width: 64px; height: 64px; border-radius: 12px; margin-bottom: 16px; background: #F3F4F6; }
 .intro-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; margin-bottom: 32px; }
 .intro-box p { color: var(--text-light); font-size: 16px; line-height: 1.6; }
 .reviews-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
@@ -101,6 +106,7 @@ footer a:hover { color: var(--accent); }
   </div>
   <div class="tool-header">
     <div class="tool-main">
+      <img src="https://icons.duckduckgo.com/ip3/leonardo.ai.ico" alt="" class="tool-logo-hero" loading="lazy" onerror="this.style.visibility='hidden'">
       <h1>Leonardo.Ai</h1>
       <div class="tags"><a href="/category/design" class="tag">🎨 Design</a></div>
       <p class="tool-desc">AI image generator for production-quality visual assets, game assets, and concept art.</p>
@@ -123,27 +129,27 @@ footer a:hover { color: var(--accent); }
   </section>
   <h2>Related tools</h2>
 <div class="grid"><a href="/tools/canva" class="card">
-  <h3>Canva</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/canva.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Canva</h3></div></div>
   <p>Visual design platform with AI-powered tools for creating social media graphics, presentations, videos, and more.</p>
   <div class="card-meta">Design · $12.99/mo</div>
 </a><a href="/tools/figma" class="card">
-  <h3>Figma</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/figma.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Figma</h3></div></div>
   <p>Collaborative design platform with AI features for interface design, prototyping, and design systems.</p>
   <div class="card-meta">Design · $12/editor/mo</div>
 </a><a href="/tools/looka" class="card">
-  <h3>Looka</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/looka.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Looka</h3></div></div>
   <p>AI-powered logo and brand identity designer that creates professional logos, business cards, and brand kits.</p>
   <div class="card-meta">Design · $20 one-time</div>
 </a><a href="/tools/designsai" class="card">
-  <h3>Designs.ai</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/designs.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Designs.ai</h3></div></div>
   <p>All-in-one AI creative suite for logos, videos, mockups, and social media graphics generation.</p>
   <div class="card-meta">Design · $19/mo</div>
 </a><a href="/tools/adobe-firefly" class="card">
-  <h3>Adobe Firefly</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/adobe.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Adobe Firefly</h3></div></div>
   <p>Adobe&#x27;s generative AI for creating images, text effects, and graphics integrated with Creative Cloud.</p>
   <div class="card-meta">Design · $4.99/mo</div>
 </a><a href="/tools/midjourney" class="card">
-  <h3>Midjourney</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/midjourney.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Midjourney</h3></div></div>
   <p>AI image generator known for artistic, high-quality visuals via Discord and web interface.</p>
   <div class="card-meta">Design · $10/mo</div>
 </a></div>

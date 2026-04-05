@@ -62,6 +62,11 @@ h2 { font-size: 24px; font-weight: 700; margin: 40px 0 20px; }
 .card h3 { font-size: 17px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
 .card p { font-size: 14px; color: var(--text-light); line-height: 1.5; }
 .card .card-meta { font-size: 12px; color: var(--text-light); margin-top: 12px; }
+.card-head { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 8px; }
+.card-logo { width: 40px; height: 40px; border-radius: 8px; flex-shrink: 0; background: #F3F4F6; }
+.card-title-wrap { flex: 1; min-width: 0; }
+.card-rating { display: inline-block; margin-left: 8px; font-size: 13px; color: #F59E0B; }
+.tool-logo-hero { width: 64px; height: 64px; border-radius: 12px; margin-bottom: 16px; background: #F3F4F6; }
 .intro-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; margin-bottom: 32px; }
 .intro-box p { color: var(--text-light); font-size: 16px; line-height: 1.6; }
 .reviews-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
@@ -101,6 +106,7 @@ footer a:hover { color: var(--accent); }
   </div>
   <div class="tool-header">
     <div class="tool-main">
+      <img src="https://icons.duckduckgo.com/ip3/codeium.com.ico" alt="" class="tool-logo-hero" loading="lazy" onerror="this.style.visibility='hidden'">
       <h1>Codeium</h1>
       <div class="tags"><a href="/category/coding" class="tag">💻 AI Coding</a></div>
       <p class="tool-desc">Free AI code autocomplete, chat, and search across 70+ languages and all major IDEs.</p>
@@ -123,27 +129,27 @@ footer a:hover { color: var(--accent); }
   </section>
   <h2>Related tools</h2>
 <div class="grid"><a href="/tools/cursor" class="card">
-  <h3>Cursor</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/cursor.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Cursor</h3></div></div>
   <p>AI-powered code editor built on VS Code with inline editing, codebase understanding, and agent mode.</p>
   <div class="card-meta">AI Coding · $20/mo</div>
 </a><a href="/tools/github-copilot" class="card">
-  <h3>GitHub Copilot</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/github.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>GitHub Copilot</h3></div></div>
   <p>AI pair programmer from GitHub offering code completions, chat, and PR reviews in your editor.</p>
   <div class="card-meta">AI Coding · $10/mo</div>
 </a><a href="/tools/windsurf" class="card">
-  <h3>Windsurf</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/windsurf.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Windsurf</h3></div></div>
   <p>AI IDE with Cascade agent that understands your entire codebase and makes multi-file edits.</p>
   <div class="card-meta">AI Coding · $15/mo</div>
 </a><a href="/tools/claude-code" class="card">
-  <h3>Claude Code</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/anthropic.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Claude Code</h3></div></div>
   <p>Anthropic&#x27;s CLI coding agent that runs in your terminal with access to your full codebase.</p>
   <div class="card-meta">AI Coding · $20/mo</div>
 </a><a href="/tools/aider" class="card">
-  <h3>Aider</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/aider.chat.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Aider</h3></div></div>
   <p>Open-source AI pair programming tool that edits code in your terminal with git integration.</p>
   <div class="card-meta">AI Coding · Free (API costs)</div>
 </a><a href="/tools/boltnew" class="card">
-  <h3>Bolt.new</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/bolt.new.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Bolt.new</h3></div></div>
   <p>StackBlitz AI full-stack web development in the browser — describe an app and see it built live.</p>
   <div class="card-meta">AI Coding · $20/mo</div>
 </a></div>

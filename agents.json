@@ -18891,90 +18891,6 @@
       "source": "scraper-jim"
     },
     {
-      "id": "foundations-of-prompt-engineering-by-amazon-web-services-aws",
-      "name": "Foundations of Prompt Engineering by Amazon Web Services (AWS)",
-      "url": "https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Foundations of Prompt Engineering by Amazon Web Services (AWS) \u2014 AI tool discovered from jim.",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "introduction-to-agentic-memory",
-      "name": "Introduction to Agentic Memory",
-      "url": "https://www.deeplearning.ai/short-courses/llms-as-operating-systems-agent-memory/",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Introduction to Agentic Memory \u2014 AI tool discovered from jim.",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "langgraph-mastery-develop-llm-agents-with-langgraph",
-      "name": "LangGraph Mastery: Develop LLM Agents with LangGraph",
-      "url": "https://www.udemy.com/course/langgraph-mastery-develop-llm-agents-with-langgraph",
-      "verified": false,
-      "trustScore": 0,
-      "description": "LangGraph Mastery: Develop LLM Agents with LangGraph \u2014 AI tool discovered from jim.",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
       "id": "multi-agent-system-building-with-crewai",
       "name": "Multi-Agent system building with CrewAI",
       "url": "https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai",
@@ -19451,34 +19367,6 @@
       "source": "scraper-jim"
     },
     {
-      "id": "goodai-ltm-benchmark",
-      "name": "Goodai-Ltm-Benchmark",
-      "url": "https://github.com/GoodAI/goodai-ltm-benchmark",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A library for benchmarking the Long Term Memory and Continual learning capabilities of LLM based agents. With all the tests and code you \u2026",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
       "id": "hosting-7b-llm-on-google-cloud",
       "name": "Hosting-7B-Llm-On-Google-Cloud",
       "url": "https://github.com/J-sephB-lt-n/hosting-7B-llm-on-google-cloud",
@@ -19675,34 +19563,6 @@
       "source": "scraper-jim"
     },
     {
-      "id": "llm-agent-benchmark-list",
-      "name": "Llm-Agent-Benchmark-List",
-      "url": "https://github.com/zhangxjohn/LLM-Agent-Benchmark-List",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A banchmark list for evaluation of large language models",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
       "id": "llm_scavengerhunt",
       "name": "Llm_Scavengerhunt",
       "url": "https://github.com/Kyunnilee/llm_scavengerhunt",
@@ -19849,34 +19709,6 @@
       "verified": false,
       "trustScore": 0,
       "description": "Mobile-Bench - An Evaluation Benchmark for LLM-based Mobile Agents",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "multiagent-collab-scenario-benchmark",
-      "name": "Multiagent-Collab-Scenario-Benchmark",
-      "url": "https://github.com/aws-samples/multiagent-collab-scenario-benchmark",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Benchmarking data and script used for LLM multi-agent collaboration systems from AWS Bedrock Agents Science team",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -20291,68 +20123,12 @@
       "source": "scraper-jim"
     },
     {
-      "id": "tiny-llm-benchmark",
-      "name": "Tiny-Llm-Benchmark",
-      "url": "https://github.com/Zahidul-Islam/tiny-llm-benchmark",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A cost-effective LLM prompt benchmarking tool that helps AI agent builders choose the best model for optimal cost, performance and accuracy",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
       "id": "unixagentbench",
       "name": "Unixagentbench",
       "url": "https://github.com/kmrasmussen/unixagentbench",
       "verified": false,
       "trustScore": 0,
       "description": "benchmarking LLM-agents performing tasks on Unix",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "usability-benchmarking-framework-project",
-      "name": "Usability-Benchmarking-Framework-Project",
-      "url": "https://github.com/staro190/Usability-Benchmarking-Framework-Project",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Evaluation of Software Manuals Using LLM-Powered GUI Agents - A Usability Benchmarking Framework",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -20431,62 +20207,6 @@
       "source": "scraper-jim"
     },
     {
-      "id": "aart-ai-safety-dataset",
-      "name": "Aart-Ai-Safety-Dataset",
-      "url": "https://github.com/xxxx-dddd/aart-ai-safety-dataset",
-      "verified": false,
-      "trustScore": 0,
-      "description": "AART - AI-Assisted Red-Teaming with Diverse Data Generation for New LLM-powered Applications",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "abstractive-summarizer-on-cnn_dailymail-dataset",
-      "name": "Abstractive-Summarizer-On-Cnn_Dailymail-Dataset.",
-      "url": "https://github.com/pkounoudis/Abstractive-Summarizer-on-cnn_dailymail-dataset",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A small T5 LLM finetuned for text summarization",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
       "id": "airline-review-llm-chatbot",
       "name": "Airline-Review-Llm-Chatbot",
       "url": "https://github.com/rohan-deswal/airline-review-llm-chatbot",
@@ -20496,90 +20216,6 @@
       "ourReview": "",
       "categories": [
         "assistant"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "alpaca-chinese-dataset",
-      "name": "Alpaca-Chinese-Dataset",
-      "url": "https://github.com/carbonz0/alpaca-chinese-dataset",
-      "verified": false,
-      "trustScore": 0,
-      "description": "alpaca\u4e2d\u6587\u6307\u4ee4\u5fae\u8c03\u6570\u636e\u96c6",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "awesome-chatgpt-dataset",
-      "name": "Awesome-Chatgpt-Dataset",
-      "url": "https://github.com/voidful/awesome-chatgpt-dataset",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Unlock the Power of LLM - Explore These Datasets to Train Your Own ChatGPT!",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "awesome-datasets-for-llms",
-      "name": "Awesome-Datasets-For-Llms",
-      "url": "https://github.com/upbit/awesome-datasets-for-LLMs",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Awesome training/finetuning datasets for LLMs",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
       ],
       "subcategories": [],
       "bestFor": [],
@@ -20633,90 +20269,6 @@
       "verified": false,
       "trustScore": 0,
       "description": "Paper list and datasets for the paper - A Survey on Data Selection for LLM Instruction Tuning",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "awesome-llm-human-preference-datasets",
-      "name": "Awesome-Llm-Human-Preference-Datasets",
-      "url": "https://github.com/glgh/awesome-llm-human-preference-datasets",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A curated list of Human Preference Datasets for LLM fine-tuning, RLHF, and eval",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "awesome-medical-healthcare-dataset-for-llm",
-      "name": "Awesome-Medical-Healthcare-Dataset-For-Llm",
-      "url": "https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A curated list of popular Datasets, Models and Papers for LLMs in Medical/Healthcare",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "book-dataset",
-      "name": "Book-Dataset",
-      "url": "https://github.com/mahiatlinux/Book-Dataset",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A simple dataset for pre-training little LLMs",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -20857,202 +20409,6 @@
       "verified": false,
       "trustScore": 0,
       "description": "Curates a mix of datasets for llm training",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "dataset-creator-server",
-      "name": "Dataset-Creator-Server",
-      "url": "https://github.com/michaelcalvinwood/dataset-creator-server",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Nodejs Express Server for Expedited Dataset Creation for Fine Tuning LLMs",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "dataset-error-reduction",
-      "name": "Dataset-Error-Reduction",
-      "url": "https://github.com/jayantaadhikary/dataset-error-reduction",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Reducing Error in NLP Datasets using LLMs",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "dataset-generator-for-llm-finetuning",
-      "name": "Dataset-Generator-For-Llm-Finetuning",
-      "url": "https://github.com/AsadNizami/Dataset-generator-for-LLM-finetuning",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A web application that generates high-quality question-answer pairs from text documents for LLM finetuning",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "dataset-translator",
-      "name": "Dataset-Translator",
-      "url": "https://github.com/eususu/dataset-translator",
-      "verified": false,
-      "trustScore": 0,
-      "description": "translate huggingface dataset with translate api or llm",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "dataset_for_llm",
-      "name": "Dataset_For_Llm",
-      "url": "https://github.com/Dragon-hxl/dataset_for_llm",
-      "verified": false,
-      "trustScore": 0,
-      "description": "backup for some data set to test llm models",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "datasetgpt",
-      "name": "Datasetgpt",
-      "url": "https://github.com/radi-cho/datasetGPT",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A command-line interface to generate textual and conversational datasets with LLMs",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "datasette-enrichments-llm",
-      "name": "Datasette-Enrichments-Llm",
-      "url": "https://github.com/datasette/datasette-enrichments-llm",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Enrich data by prompting LLMs",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -21243,34 +20599,6 @@
       "source": "scraper-jim"
     },
     {
-      "id": "fl_llm_benchmark_dataset",
-      "name": "Fl_Llm_Benchmark_Dataset",
-      "url": "https://github.com/hazylavender/fl_llm_benchmark_dataset",
-      "verified": false,
-      "trustScore": 0,
-      "description": "This code collects congressional/parliamentary dataset across US, UK and Canada",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
       "id": "ftdatagen",
       "name": "Ftdatagen",
       "url": "https://github.com/SpingenceAI/FTDataGen",
@@ -21411,62 +20739,6 @@
       "source": "scraper-jim"
     },
     {
-      "id": "instruct-qna-fine-tuning-google-flan-t5-large-llm-qlora-peft-open-orca-dataset",
-      "name": "Instruct-Qna-Fine-Tuning-Google-Flan-T5-Large-Llm-Qlora-Peft-Open-Orca-Dataset",
-      "url": "https://github.com/shirsh10mall/Instruct-QnA-Fine-Tuning-Google-Flan-T5-Large-LLM-QLoRA-PEFT-Open-Orca-Dataset",
-      "verified": false,
-      "trustScore": 0,
-      "description": "The Open Orca dataset serves as the foundation for this project. It provides a wide array of question types, including multiple-choice, reasoning, question-and-answer, one-word answers, translation, grammar correction, and math word problems",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "instructions-tuning-across-various-llms-with-alpaca-dataset",
-      "name": "Instructions-Tuning-Across-Various-Llms-With-Alpaca-Dataset",
-      "url": "https://github.com/fatemafaria142/Instructions-Tuning-Across-Various-LLMs-with-Alpaca-Dataset",
-      "verified": false,
-      "trustScore": 0,
-      "description": "I utilized the \"Alpaca\" dataset, which comprises 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
       "id": "kaggle-llm-detect_ai_generated_text",
       "name": "Kaggle-Llm-Detect_Ai_Generated_Text",
       "url": "https://github.com/Lizhecheng02/Kaggle-LLM-Detect_AI_Generated_Text",
@@ -21501,62 +20773,6 @@
       "verified": false,
       "trustScore": 0,
       "description": "Codebase and dataset repository for the paper \"Knowledge Graph Engineering through Iterative Zero-shot LLM Prompting",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "langchaindatasetforge",
-      "name": "Langchaindatasetforge",
-      "url": "https://github.com/asokraju/LangChainDatasetForge",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Generating artificial datasets using langchain and finetuning the LLMs on these datasets",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "lex-fridman-dataset-llm",
-      "name": "Lex-Fridman-Dataset-Llm",
-      "url": "https://github.com/JasonFengGit/Lex-Fridman-Dataset-LLM",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Lex Fridman Podcast transcripts for LLM training",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -21635,62 +20851,6 @@
       "source": "scraper-jim"
     },
     {
-      "id": "llm-audio-dataset-process",
-      "name": "Llm-Audio-Dataset-Process",
-      "url": "https://github.com/zhihengAI/LLM-Audio-dataset-process",
-      "verified": false,
-      "trustScore": 0,
-      "description": "many scripts for audio dataset processing",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "llm-benchmarks",
-      "name": "Llm-Benchmarks",
-      "url": "https://github.com/jimbobbennett/llm-benchmarks",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A sample Python app for investigating the LLM benchmarks dataset from Kaggle",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
       "id": "llm-chatbot",
       "name": "Llm-Chatbot",
       "url": "https://github.com/Amir-Shokrzadeh/LLM-Chatbot",
@@ -21725,90 +20885,6 @@
       "verified": false,
       "trustScore": 0,
       "description": "Datasets and code for studying LLMs and Content Moderation",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "llm-dataset-converter-examples",
-      "name": "Llm-Dataset-Converter-Examples",
-      "url": "https://github.com/waikato-llm/llm-dataset-converter-examples",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Repository with examples for the llm-dataset-converter libraries",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "llm-dataset-gen",
-      "name": "Llm-Dataset-Gen",
-      "url": "https://github.com/Brandon82/llm-dataset-gen",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Using LLMs (OpenAI API) to generate and add data to datasets",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "llm-derived-tvshowguess-dataset",
-      "name": "Llm-Derived-Tvshowguess-Dataset",
-      "url": "https://github.com/Oaklight/LLM-derived-TVShowGuess-Dataset",
-      "verified": false,
-      "trustScore": 0,
-      "description": "TVShowGuess was proposed in benchmarking language models' skill of understanding fictional characters in narrative stories",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -22005,118 +21081,6 @@
       "verified": false,
       "trustScore": 0,
       "description": "Dataset for training LLMs on OpenACC and OpenMP",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "llm_benchmarks",
-      "name": "Llm_Benchmarks",
-      "url": "https://github.com/leobeeson/llm_benchmarks",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A collection of benchmarks and datasets for evaluating LLM",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "llm_bxn_dataset",
-      "name": "Llm_Bxn_Dataset",
-      "url": "https://github.com/Davickyz/llm_bxn_dataset",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A simple dataset",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "llm_cybersecurity_datasets_uss_2025",
-      "name": "Llm_Cybersecurity_Datasets_Uss_2025",
-      "url": "https://github.com/Roohanak/LLM_Cybersecurity_datasets_USS_2025",
-      "verified": false,
-      "trustScore": 0,
-      "description": "SoK - Systematic Analysis of Cybersecurity Datasets using Large Language Models",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "llm_datasets_generators",
-      "name": "Llm_Datasets_Generators",
-      "url": "https://github.com/mpasko/llm_datasets_generators",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Simple util for automatically generating synthetic datasets for training or finetuning LLMs",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -22503,62 +21467,6 @@
       "source": "scraper-jim"
     },
     {
-      "id": "parsee-datasets",
-      "name": "Parsee-Datasets",
-      "url": "https://github.com/parsee-ai/parsee-datasets",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Datasets, case studies and benchmarks for extracting structured information from PDFs, HTML files or images, created by the Parsee.ai team",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "pdf_to_llm_datasetpy",
-      "name": "Pdf_To_Llm_Dataset.Py",
-      "url": "https://github.com/kkkarmo/pdf_to_llm_dataset.py",
-      "verified": false,
-      "trustScore": 0,
-      "description": "This project provides a Python script that converts a PDF book into a training dataset suitable for large language models (LLMs)",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
       "id": "pixel-agi",
       "name": "Pixel-Agi",
       "url": "https://github.com/oliveirabruno01/pixel-agi",
@@ -22643,34 +21551,6 @@
       "source": "scraper-jim"
     },
     {
-      "id": "rag_llm-on-customdataset",
-      "name": "Rag_Llm-On-Customdataset",
-      "url": "https://github.com/vinu0404/RAG_LLM-on-CustomDataset",
-      "verified": false,
-      "trustScore": 0,
-      "description": "The ConvoSummarizer is a Retrieval-Augmented Generation (RAG) application that uses the Hugging Face Transformers library with the google\u2026",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
       "id": "reap-llm-problem-solving",
       "name": "Reap-Llm-Problem-Solving",
       "url": "https://github.com/ryanlingo/REAP-LLM-Problem-Solving",
@@ -22705,62 +21585,6 @@
       "verified": false,
       "trustScore": 0,
       "description": "Label, clean and enrich text datasets with LLMs",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "sdp-llm-dataset",
-      "name": "Sdp-Llm-Dataset",
-      "url": "https://github.com/yilmazzey/sdp-llm-dataset",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Paper scraping from acl anthology with selenium",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "seqtoseq-dataset-creator",
-      "name": "Seqtoseq-Dataset-Creator",
-      "url": "https://github.com/michaelcalvinwood/seqtoseq-dataset-creator",
-      "verified": false,
-      "trustScore": 0,
-      "description": "React app to create datasets for seq to seq LLM training",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -22845,34 +21669,6 @@
       "verified": false,
       "trustScore": 0,
       "description": "Fine tuning an LLM by the given dataset. The dataset represents the domain knowledge that the LLM should be an expert for",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "smart-contracts-dataset-generation",
-      "name": "Smart-Contracts-Dataset-Generation",
-      "url": "https://github.com/matteo-rizzo/smart-contracts-dataset-generation",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Generating a dataset of smart contracts affected by reentrancy using LLMs",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -23035,34 +21831,6 @@
       "source": "scraper-jim"
     },
     {
-      "id": "universal-dataset-chatbot-with-llm",
-      "name": "Universal-Dataset-Chatbot-With-Llm",
-      "url": "https://github.com/AdritPal08/Universal-Dataset-Chatbot-with-LLM",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Universal Dataset Chatbot with LLM",
-      "ourReview": "",
-      "categories": [
-        "assistant"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
       "id": "upar5iv",
       "name": "Upar5Iv",
       "url": "https://github.com/veya2ztn/upar5iv",
@@ -23097,90 +21865,6 @@
       "verified": false,
       "trustScore": 0,
       "description": "This SDK generates datasets for training Video LLMs from youtube videos",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "voice-datasets",
-      "name": "Voice datasets",
-      "url": "https://github.com/jim-schwoebel/voice_datasets",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A comprehensive list of open-source datasets for voice and sound computing (95+ datasets)",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "zero-shot-automatic-annotation-using-llm-generated-datasets",
-      "name": "Zero-Shot-Automatic-Annotation-Using-Llm-Generated-Datasets",
-      "url": "https://github.com/ranzosap/Zero-Shot-Automatic-Annotation-using-LLM-Generated-Datasets",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Best.pt is the YOLO11n-seg model trained on LLM generated Images where we automatically labelled the apple masks using YOLO11-SAMv2 fusion approach on zero shot",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "accident-simulation",
-      "name": "Accident-Simulation",
-      "url": "https://github.com/chuajiesheng/accident-simulation",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Allocating resources to a accident scenario in real-time is a difficult challenge. This project aims to create a simulation playground wh\u2026",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -27235,34 +25919,6 @@
       "source": "scraper-jim"
     },
     {
-      "id": "advancedaicoursework_2",
-      "name": "Advancedaicoursework_2",
-      "url": "https://github.com/AntoineSebert/AdvancedAICoursework_2",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Essay on Explainable AI and ethics - concerns &, perspectives",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
       "id": "ai-ethics",
       "name": "Ai-Ethics",
       "url": "https://github.com/PARC/ai-ethics",
@@ -27935,34 +26591,6 @@
       "source": "scraper-jim"
     },
     {
-      "id": "ai6101-introduction-to-ai-ai-ethics",
-      "name": "Ai6101-Introduction-To-Ai-Ai-Ethics",
-      "url": "https://github.com/alfredxtan/AI6101-Introduction-to-AI-AI-Ethics",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Core modules for MSAI",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
       "id": "ai_ethics",
       "name": "Ai_Ethics",
       "url": "https://github.com/MoritzCSchmidt/ai_ethics",
@@ -28137,34 +26765,6 @@
       "verified": false,
       "trustScore": 0,
       "description": "A brief report exploring the impact of AI technologies on European citizens and the compliance challenges posed by the General Data Prote\u2026",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "aiethics-safety2020",
-      "name": "Aiethics-Safety2020",
-      "url": "https://github.com/tonyteolis/aiethics-safety2020",
-      "verified": false,
-      "trustScore": 0,
-      "description": "This collection of policies, reports, and articles on Ethics and Safety in Artificial Intelligence is the result of a desire to learn the\u2026",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -28579,68 +27179,12 @@
       "source": "scraper-jim"
     },
     {
-      "id": "csc2541-f19",
-      "name": "Csc2541-F19",
-      "url": "https://github.com/ecreager/csc2541-f19",
-      "verified": false,
-      "trustScore": 0,
-      "description": "CSC 2541F - AI and Ethics - Mathematical Foundations and Algorithms Fall, 2019",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
       "id": "cse582-final-project",
       "name": "Cse582-Final-Project",
       "url": "https://github.com/andre-ye/cse582-final-project",
       "verified": false,
       "trustScore": 0,
       "description": "Code for CSE 582 - AI Ethics final project - Representing the Discursive Construction of Morality",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "csi5195-ethicsinai-finalreport",
-      "name": "Csi5195-Ethicsinai-Finalreport",
-      "url": "https://github.com/SharuGitHubSpace/CSI5195-EthicsinAI-FinalReport",
-      "verified": false,
-      "trustScore": 0,
-      "description": "CSI 5195 - Ethics in Artificial intelligence - Final report - Supporting Document 1",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -28893,34 +27437,6 @@
       "verified": false,
       "trustScore": 0,
       "description": "An interactive educational platform designed to make learning Artificial Intelligence (AI) ethics fun and easily accessible for universit\u2026",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "ethical-ai-courses",
-      "name": "Ethical-Ai-Courses",
-      "url": "https://github.com/snehilsanyal/ethical-ai-courses",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A list of courses on Ethics in AI for self-learning",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -29260,34 +27776,6 @@
       "ourReview": "",
       "categories": [
         "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "ethics-simulation-server-client",
-      "name": "Ethics-Simulation-Server-Client",
-      "url": "https://github.com/mlund2k/Ethics-Simulation-Server-Client",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Project Assets for academic project simulating an AI ethics problem using object oriented programming, and json servers",
-      "ourReview": "",
-      "categories": [
-        "research"
       ],
       "subcategories": [],
       "bestFor": [],
@@ -29699,62 +28187,6 @@
       "source": "scraper-jim"
     },
     {
-      "id": "global-ai-dynamics-mapping-the-ai-utilization-across-nations",
-      "name": "Global-Ai-Dynamics-Mapping-The-Ai-Utilization-Across-Nations-",
-      "url": "https://github.com/eevamehra/Global-AI-Dynamics-Mapping-the-AI-Utilization-across-Nations-",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Analyzing AI across nations - Investment, Policies, Industry Adoption, Talent Development, Tech Advancements, Ethics, and Collaboration of\u2026",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "global_ai_ethics_conference_official_website-dubai",
-      "name": "Global_Ai_Ethics_Conference_Official_Website--Dubai",
-      "url": "https://github.com/mokshadewmini/Global_AI_Ethics_Conference_Official_Website--Dubai",
-      "verified": false,
-      "trustScore": 0,
-      "description": "This repository contains the source code for the official website of the Global AI Ethics Conference 2024, held in Dubai",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
       "id": "goal",
       "name": "Goal",
       "url": "https://github.com/schizyfos/Goal",
@@ -29951,68 +28383,12 @@
       "source": "scraper-jim"
     },
     {
-      "id": "intro-to-ai-ethics-free-course-kaggle",
-      "name": "Intro-To-Ai-Ethics-Free-Course-Kaggle",
-      "url": "https://github.com/afondiel/Intro-to-AI-Ethics-Free-Course-Kaggle",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Explore practical tools to guide the moral design of AI systems",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
       "id": "introtoaiethics-kaggle",
       "name": "Introtoaiethics-Kaggle",
       "url": "https://github.com/mariammarques/IntroToAIEthics-Kaggle",
       "verified": false,
       "trustScore": 0,
       "description": "Notebooks developed during the Intro to AI Ethics course, offered by Kaggle (https://www.kaggle.com/learn/intro-to-ai-ethics)",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "kaggle-courses-intro-to-ai-ethics",
-      "name": "Kaggle-Courses-Intro-To-Ai-Ethics",
-      "url": "https://github.com/grapestone5321/Kaggle-Courses-Intro-to-AI-Ethics",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Kaggle-Courses-Intro-to-AI-Ethics",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -30153,90 +28529,6 @@
       "verified": false,
       "trustScore": 0,
       "description": "Science paper that does a meta-study on AI ethics to determine whether or not significant research has been done in this area",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "nft-2023",
-      "name": "Nft-2023",
-      "url": "https://github.com/HCI-Blockchain/NFT-2023",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Replication Code for - On the Mechanics of NFT Valuation - AI Ethics and Social Media",
-      "ourReview": "",
-      "categories": [
-        "social"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "nottsai-meetup-june4-2019",
-      "name": "Nottsai-Meetup-June4-2019",
-      "url": "https://github.com/Lazymindz/nottsai-meetup-june4-2019",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Ethics Guidelines for Trustworthy AI",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "ntu_msai_ai6101_introdution",
-      "name": "Ntu_Msai_Ai6101_Introdution",
-      "url": "https://github.com/AccSrd/NTU_MSAI_AI6101_Introdution",
-      "verified": false,
-      "trustScore": 0,
-      "description": "[AI6101] Introduction to AI & AI Ethics is a core course of MSAI, SCSE, NTU, Singapore. The repository corresponds to the AI6101 of Semes\u2026",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -30987,68 +29279,12 @@
       "source": "scraper-jim"
     },
     {
-      "id": "the-ethics-of-ai-navigating-complex-challenges-and-opportunities",
-      "name": "The-Ethics-Of-Ai-Navigating-Complex-Challenges-And-Opportunities",
-      "url": "https://github.com/ysyk2021/the-ethics-of-ai-navigating-complex-challenges-and-opportunities",
-      "verified": false,
-      "trustScore": 0,
-      "description": "The Ethics of AI - Navigating Complex Challenges and Opportunities",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
       "id": "tools-from-ai",
       "name": "Tools-From-Ai",
       "url": "https://github.com/sb3ly/tools-from-AI",
       "verified": false,
       "trustScore": 0,
       "description": "# This tool is designed to detect whether the email exists on the target site by trying to guess using different methods. # Make sure the\u2026",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "towards_certified_ethical_ai",
-      "name": "Towards_Certified_Ethical_Ai",
-      "url": "https://github.com/stuenofotso/Towards_Certified_Ethical_AI",
-      "verified": false,
-      "trustScore": 0,
-      "description": "This repository is about a proposal to allow the definition of ethical artificial intelligences for which ethics can be certified. The pr\u2026",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -31155,68 +29391,12 @@
       "source": "scraper-jim"
     },
     {
-      "id": "upliftingpoleai_bsc_dissertation",
-      "name": "Upliftingpoleai_Bsc_Dissertation",
-      "url": "https://github.com/oakleighw/upliftingPoleAi_BSc_dissertation",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Contains dissertation code and report for my level 3 BSc Computer Science 'Project' module. I achieved 84% in this assessment, and I am v\u2026",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
       "id": "waterlily",
       "name": "Waterlily",
       "url": "https://github.com/Lilypad-Tech/Waterlily",
       "verified": false,
       "trustScore": 0,
       "description": "A project bringing ethics back to AI",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-04",
-      "lastChecked": "2026-04-04",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "weavesphere-2022-ai-ethics",
-      "name": "Weavesphere-2022-Ai-Ethics",
-      "url": "https://github.com/spackows/WEAVESPHERE-2022-AI-Ethics",
-      "verified": false,
-      "trustScore": 0,
-      "description": "AI Ethics - The Content Design Perspective",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -32424,34 +30604,6 @@
       "ourReview": "",
       "categories": [
         "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-05",
-      "lastChecked": "2026-04-05",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "awesome-deep-learning-papers-for-search-recommendation-advertising",
-      "name": "Awesome-Deep-Learning-Papers-For-Search-Recommendation-Advertising",
-      "url": "https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Awesome Deep Learning papers for industrial Search, Recommendation and Advertisement. They focus on Embedding, Matching, Ranking (CTR/CVR\u2026",
-      "ourReview": "",
-      "categories": [
-        "ads"
       ],
       "subcategories": [],
       "bestFor": [],
@@ -33849,34 +32001,6 @@
       "verified": false,
       "trustScore": 0,
       "description": "LLM plugin for interacting with the Claude 3 family of models",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-05",
-      "lastChecked": "2026-04-05",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "llm-datasets",
-      "name": "Llm-Datasets",
-      "url": "https://github.com/malteos/llm-datasets",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A collection of datasets for language model pretraining including scripts for downloading, preprocesssing, and sampling",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -35551,34 +33675,6 @@
       "source": "scraper-jim"
     },
     {
-      "id": "yet-another-applied-llm-benchmark",
-      "name": "Yet-Another-Applied-Llm-Benchmark",
-      "url": "https://github.com/carlini/yet-another-applied-llm-benchmark",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A benchmark to evaluate language models on questions I've previously asked them to solve",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-05",
-      "lastChecked": "2026-04-05",
-      "source": "scraper-jim"
-    },
-    {
       "id": "zeus-llm-trainer",
       "name": "Zeus-Llm-Trainer",
       "url": "https://github.com/official-elinas/zeus-llm-trainer",
@@ -35588,34 +33684,6 @@
       "ourReview": "",
       "categories": [
         "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-05",
-      "lastChecked": "2026-04-05",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "advanced-prompt-engineering-techniques-3817061",
-      "name": "Advanced-Prompt-Engineering-Techniques-3817061",
-      "url": "https://github.com/LinkedInLearning/advanced-prompt-engineering-techniques-3817061",
-      "verified": false,
-      "trustScore": 0,
-      "description": "This repo is for LinkedIn Learning course - Advanced Prompt Engineering Techniques",
-      "ourReview": "",
-      "categories": [
-        "social"
       ],
       "subcategories": [],
       "bestFor": [],
@@ -35781,34 +33849,6 @@
       "verified": false,
       "trustScore": 0,
       "description": "A repo with an automated prompt engineering workflow from scratch. It leverages the OPRO technique",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-05",
-      "lastChecked": "2026-04-05",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "awesome-ai-art-image-synthesis",
-      "name": "Awesome-Ai-Art-Image-Synthesis",
-      "url": "https://github.com/altryne/awesome-ai-art-image-synthesis",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and imag\u2026",
       "ourReview": "",
       "categories": [
         "dev-tools"
@@ -37595,34 +35635,6 @@
       "source": "scraper-jim"
     },
     {
-      "id": "udemy-prompt-engineering-course",
-      "name": "Udemy-Prompt-Engineering-Course",
-      "url": "https://github.com/BrightPool/udemy-prompt-engineering-course",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Content for the Udemy Prompt Engineering Course",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-05",
-      "lastChecked": "2026-04-05",
-      "source": "scraper-jim"
-    },
-    {
       "id": "yival",
       "name": "Yival",
       "url": "https://github.com/YiVal/YiVal",
@@ -38043,34 +36055,6 @@
       "source": "scraper-jim"
     },
     {
-      "id": "airportagentsimulation-security",
-      "name": "Airportagentsimulation-Security",
-      "url": "https://github.com/Jogrohe/AirportAgentSimulation-Security",
-      "verified": false,
-      "trustScore": 0,
-      "description": "No description available",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-05",
-      "lastChecked": "2026-04-05",
-      "source": "scraper-jim"
-    },
-    {
       "id": "cartlis",
       "name": "Cartlis",
       "url": "https://github.com/Theneo-Inc/Cartlis",
@@ -38080,34 +36064,6 @@
       "ourReview": "",
       "categories": [
         "ecom"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-05",
-      "lastChecked": "2026-04-05",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "cognitive-security-ai-powered-threat-agent-evaluation-for-impact-on-assets",
-      "name": "Cognitive-Security-Ai-Powered-Threat-Agent-Evaluation-For-Impact-On-Assets.",
-      "url": "https://github.com/Gauravsbin/Cognitive-Security-AI-Powered-Threat-Agent-Evaluation-for-Impact-on-Assets",
-      "verified": false,
-      "trustScore": 0,
-      "description": "No description available",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
       ],
       "subcategories": [],
       "bestFor": [],
@@ -42551,34 +40507,6 @@
       "source": "scraper-jim"
     },
     {
-      "id": "ai-conference-deadline",
-      "name": "AI Conference Deadline",
-      "url": "https://aiconferenceddl.com",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A tracker for AI/ML conference submission deadlines, helping researchers track major CFPs, access official conference websites, and plan submissions without accounts or setup",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-05",
-      "lastChecked": "2026-04-05",
-      "source": "scraper-jim"
-    },
-    {
       "id": "ai-game-devtools",
       "name": "Ai-Game-Devtools",
       "url": "https://github.com/Yuan-ManX/ai-game-devtools",
@@ -42728,34 +40656,6 @@
       "ourReview": "",
       "categories": [
         "coding"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-05",
-      "lastChecked": "2026-04-05",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "arxivrag",
-      "name": "Arxivrag",
-      "url": "https://github.com/phitrann/arXivRAG",
-      "verified": false,
-      "trustScore": 0,
-      "description": "A comprehensive tool designed to enhance the retrieval and generation of academic content from the arXiv database, leveraging advanced Re\u2026",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
       ],
       "subcategories": [],
       "bestFor": [],
@@ -47849,34 +45749,6 @@
       "verified": false,
       "trustScore": 0,
       "description": "argo workflows",
-      "ourReview": "",
-      "categories": [
-        "dev-tools"
-      ],
-      "subcategories": [],
-      "bestFor": [],
-      "platforms": [],
-      "pricingModel": "unknown",
-      "pricingFrom": "See website",
-      "pricingNote": "",
-      "stats": {
-        "users": "N/A",
-        "keyMetric": "N/A",
-        "timeSaved": "N/A"
-      },
-      "affiliateLink": null,
-      "founded": "",
-      "addedDate": "2026-04-05",
-      "lastChecked": "2026-04-05",
-      "source": "scraper-jim"
-    },
-    {
-      "id": "arrow-user2022",
-      "name": "Arrow-User2022",
-      "url": "https://github.com/djnavarro/arrow-user2022",
-      "verified": false,
-      "trustScore": 0,
-      "description": "Larger-Than-Memory Data Workflows with Apache Arrow",
       "ourReview": "",
       "categories": [
         "dev-tools"

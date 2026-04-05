@@ -59,6 +59,22 @@ def get_category_meta(cat):
     return CATEGORIES.get(cat, {"icon": "🤖", "label": cat.title(), "desc": "AI tools."})
 
 
+def get_domain(url):
+    try:
+        from urllib.parse import urlparse
+        h = urlparse(url).hostname or ""
+        return h.replace("www.", "")
+    except Exception:
+        return ""
+
+
+def logo_img(url, css_class="card-logo"):
+    domain = get_domain(url)
+    if not domain:
+        return ''
+    return f'<img src="https://icons.duckduckgo.com/ip3/{domain}.ico" alt="" class="{css_class}" loading="lazy" onerror="this.style.visibility=\'hidden\'">'
+
+
 def shared_css():
     return """
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -106,6 +122,11 @@ h2 { font-size: 24px; font-weight: 700; margin: 40px 0 20px; }
 .card h3 { font-size: 17px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
 .card p { font-size: 14px; color: var(--text-light); line-height: 1.5; }
 .card .card-meta { font-size: 12px; color: var(--text-light); margin-top: 12px; }
+.card-head { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 8px; }
+.card-logo { width: 40px; height: 40px; border-radius: 8px; flex-shrink: 0; background: #F3F4F6; }
+.card-title-wrap { flex: 1; min-width: 0; }
+.card-rating { display: inline-block; margin-left: 8px; font-size: 13px; color: #F59E0B; }
+.tool-logo-hero { width: 64px; height: 64px; border-radius: 12px; margin-bottom: 16px; background: #F3F4F6; }
 .intro-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; margin-bottom: 32px; }
 .intro-box p { color: var(--text-light); font-size: 16px; line-height: 1.6; }
 .reviews-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
@@ -216,7 +237,7 @@ def tool_page_html(agent, all_agents):
             r_cat = r["categories"][0] if r["categories"] else "dev-tools"
             r_cat_label = get_category_meta(r_cat)["label"]
             cards.append(f"""<a href="/tools/{esc(r['id'])}" class="card">
-  <h3>{esc(r['name'])}</h3>
+  <div class="card-head">{logo_img(r['url'])}<div class="card-title-wrap"><h3>{esc(r['name'])}</h3></div></div>
   <p>{esc(r['description'][:120])}{"..." if len(r['description']) > 120 else ""}</p>
   <div class="card-meta">{esc(r_cat_label)} · {esc(r.get('pricingFrom', 'See website'))}</div>
 </a>""")
@@ -269,6 +290,7 @@ def tool_page_html(agent, all_agents):
   </div>
   <div class="tool-header">
     <div class="tool-main">
+      {logo_img(agent['url'], 'tool-logo-hero')}
       <h1>{name}</h1>
       <div class="tags">{cat_tags}</div>
       <p class="tool-desc">{desc}</p>
@@ -339,9 +361,9 @@ def category_page_html(cat, agents_in_cat):
     cards = []
     for a in agents_in_cat:
         cards.append(f"""<a href="/tools/{esc(a['id'])}" class="card">
-  <h3>{esc(a['name'])}</h3>
+  <div class="card-head">{logo_img(a['url'])}<div class="card-title-wrap"><h3>{esc(a['name'])}</h3></div></div>
   <p>{esc(a['description'][:140])}{"..." if len(a['description']) > 140 else ""}</p>
-  <div class="card-meta">{esc(a.get('pricingFrom', 'See website'))} · {esc(a.get('pricingNote', '')) if a.get('pricingNote') else 'Visit site'}</div>
+  <div class="card-meta">{esc(a.get('pricingFrom', 'See website'))}{' · ' + esc(a.get('pricingNote', '')) if a.get('pricingNote') else ''}</div>
 </a>""")
 
     return f"""<!DOCTYPE html>
@@ -437,6 +459,17 @@ def main():
     # Create dirs
     TOOLS_DIR.mkdir(exist_ok=True)
     CATEGORY_DIR.mkdir(exist_ok=True)
+
+    # Remove orphaned tool pages (agents that no longer exist)
+    valid_ids = {a['id'] for a in agents}
+    deleted = 0
+    if TOOLS_DIR.exists():
+        for f in TOOLS_DIR.glob('*.html'):
+            if f.stem not in valid_ids:
+                f.unlink()
+                deleted += 1
+    if deleted:
+        print(f"Removed {deleted} orphaned tool pages")
 
     # Generate tool pages
     print(f"\nGenerating tool pages in {TOOLS_DIR}/...")

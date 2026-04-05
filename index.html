@@ -210,6 +210,20 @@ nav {
 .filter-tab.active, .filter-tab:hover {
   background: var(--accent); color: white; border-color: var(--accent);
 }
+.controls-bar { display: flex; gap: 20px; align-items: flex-end; margin-bottom: 24px; flex-wrap: wrap; padding: 16px 20px; background: white; border: 1px solid var(--border); border-radius: var(--radius); }
+.control-group { display: flex; flex-direction: column; gap: 4px; }
+.control-group label { font-size: 12px; color: var(--text-light); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+.control-group select { padding: 8px 12px; border: 1px solid var(--border); border-radius: 8px; font-size: 14px; background: white; cursor: pointer; min-width: 140px; font-family: inherit; }
+.control-group select:focus { outline: none; border-color: var(--accent); }
+.result-count { font-size: 13px; color: var(--text-light); padding-bottom: 8px; }
+.pagination { display: flex; gap: 8px; justify-content: center; margin-top: 32px; flex-wrap: wrap; }
+.page-btn { padding: 8px 14px; border-radius: 8px; border: 1px solid var(--border); background: white; font-size: 14px; cursor: pointer; font-weight: 500; min-width: 40px; font-family: inherit; }
+.page-btn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+.page-btn.active { background: var(--accent); color: white; border-color: var(--accent); }
+.page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+.agent-logo { width: 40px; height: 40px; border-radius: 8px; background: #F3F4F6; flex-shrink: 0; }
+.agent-card-header { gap: 12px; }
+.agent-rating-inline { display: inline-flex; align-items: center; gap: 4px; font-size: 13px; color: #F59E0B; margin-left: 8px; }
 
 .agent-grid {
   display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 20px;
@@ -346,7 +360,7 @@ footer a:hover { color: var(--accent); }
 <section class="hero">
   <div class="hero-badge" id="heroBadge">🚀 Curating the best AI tools for your business</div>
   <h1>Find the perfect AI agent for your business</h1>
-  <p>Search 200+ AI tools across 17 categories. Find exactly what your business needs — no jargon, no overwhelm.</p>
+  <p id="heroSubtitle">Search AI tools across 17 categories. Find exactly what your business needs — no jargon, no overwhelm.</p>
 
   <div class="search-container">
     <input type="text" class="search-box" id="searchInput" placeholder="Try: &quot;I need help growing my Instagram&quot; or &quot;automate my sales follow-ups&quot;">
@@ -394,14 +408,38 @@ footer a:hover { color: var(--accent); }
 <!-- AGENT LISTINGS -->
 <section class="listings" id="agents">
   <div class="listings-header">
-    <h2>All Tools</h2>
-    <div class="filter-tabs" id="filterTabs">
-      <!-- Populated by JS -->
+    <h2 id="listingsTitle">All Tools</h2>
+  </div>
+  <div class="filter-tabs" id="filterTabs" style="margin-bottom:16px;">
+    <!-- Category tabs populated by JS -->
+  </div>
+  <div class="controls-bar">
+    <div class="control-group">
+      <label>Price</label>
+      <select id="priceFilter" onchange="applyFilters()">
+        <option value="all">Any price</option>
+        <option value="free">Free / Freemium</option>
+        <option value="under20">Under $20/mo</option>
+        <option value="under50">Under $50/mo</option>
+      </select>
+    </div>
+    <div class="control-group">
+      <label>Sort by</label>
+      <select id="sortBy" onchange="applyFilters()">
+        <option value="name">Name (A–Z)</option>
+        <option value="rating">Top rated</option>
+        <option value="newest">Recently added</option>
+        <option value="reviewed">Most reviewed</option>
+      </select>
+    </div>
+    <div class="control-group" style="margin-left:auto;">
+      <span id="resultCount" class="result-count"></span>
     </div>
   </div>
   <div class="agent-grid" id="agentGrid">
     <!-- Populated by JS -->
   </div>
+  <div class="pagination" id="pagination"></div>
 </section>
 
 <!-- HOW IT WORKS -->
@@ -471,32 +509,68 @@ const CAT_META = {
   research: { icon: '🔬', label: 'Research', color: '#F3E8FF', desc: 'Web research, academic search, and data extraction.' },
 };
 
+let ratings = {};  // { tool_id: { avg: 4.5, count: 12 } }
+let currentCategory = 'all';
+let currentPage = 1;
+const PER_PAGE = 48;
+
 function transformAgent(a) {
   return {
     id: a.id, name: a.name, desc: a.description, tags: a.categories,
     stats: { users: a.stats.users, growth: a.stats.keyMetric, time: a.stats.timeSaved },
     pricing: a.pricingFrom, pricingNote: a.pricingNote, url: a.url,
-    bestFor: a.bestFor, platforms: a.platforms
+    bestFor: a.bestFor, platforms: a.platforms, addedDate: a.addedDate
   };
+}
+
+function getDomain(url) {
+  try { return new URL(url).hostname.replace(/^www\./, ''); } catch (e) { return null; }
+}
+
+function parsePrice(str) {
+  if (!str) return Infinity;
+  const lower = str.toLowerCase();
+  if (lower.includes('free') && !lower.match(/\$\d/)) return 0;
+  const m = str.match(/\$?([\d,]+(?:\.\d+)?)/);
+  return m ? parseFloat(m[1].replace(/,/g, '')) : Infinity;
+}
+
+function isFreeOrFreemium(a) {
+  const p = (a.pricing || '').toLowerCase();
+  const n = (a.pricingNote || '').toLowerCase();
+  return p.includes('free') || n.includes('free');
 }
 
 async function loadAgents() {
   try {
-    const resp = await fetch('agents.json');
+    const resp = await fetch('/agents.json');
     const data = await resp.json();
     agents = data.agents.map(transformAgent);
   } catch (e) {
     console.log('Could not load agents.json, using fallback');
     agents = [
-      { name: "Buffer", desc: "Social media management with AI content suggestions and scheduling.", tags: ["social"], stats: { users: "140K+", growth: "10+ platforms", time: "AI assistant" }, pricing: "$5/channel/mo", pricingNote: "Free plan" },
-      { name: "Apollo.io", desc: "AI sales platform with 210M+ contacts and outreach sequences.", tags: ["sales"], stats: { users: "N/A", growth: "210M+ contacts", time: "AI email" }, pricing: "$49/user/mo", pricingNote: "Free tier" },
-      { name: "Gorgias", desc: "Ecommerce helpdesk with AI handling 60% of support tickets.", tags: ["ecom"], stats: { users: "N/A", growth: "60% automated", time: "Unlimited seats" }, pricing: "$10/mo", pricingNote: "Ticket-based" },
+      { id: 'buffer', name: "Buffer", desc: "Social media management with AI content suggestions and scheduling.", tags: ["social"], stats: {}, pricing: "$5/channel/mo", pricingNote: "Free plan", url: "https://buffer.com" },
     ];
   }
   updateStats();
   renderCategories();
   renderFilterTabs();
-  renderAgents();
+  loadRatings();  // async, will re-render when done
+  applyFilters();
+}
+
+async function loadRatings() {
+  try {
+    const SUPABASE_URL = 'https://vadwseqcxwaucfuryyao.supabase.co';
+    const KEY = 'sb_publishable_2IWtWSi5gvMYWyTYrI3fUw_oMVazwQm';
+    const resp = await fetch(`${SUPABASE_URL}/rest/v1/tool_ratings?select=tool_id,avg_rating,review_count`, {
+      headers: { apikey: KEY, Authorization: `Bearer ${KEY}` }
+    });
+    if (!resp.ok) return;
+    const rows = await resp.json();
+    rows.forEach(r => { ratings[r.tool_id] = { avg: r.avg_rating, count: r.review_count }; });
+    applyFilters();
+  } catch (e) {}
 }
 
 function getCatCounts() {
@@ -507,11 +581,13 @@ function getCatCounts() {
 
 function updateStats() {
   const countEl = document.getElementById('agentCount');
-  if (countEl) countEl.textContent = agents.length;
+  if (countEl) countEl.textContent = agents.length.toLocaleString();
   const cats = new Set();
   agents.forEach(a => a.tags.forEach(t => cats.add(t)));
   const catCountEl = document.getElementById('catCount');
   if (catCountEl) catCountEl.textContent = cats.size;
+  const subtitle = document.getElementById('heroSubtitle');
+  if (subtitle) subtitle.textContent = `Search ${agents.length.toLocaleString()} AI tools across ${cats.size} categories. Find exactly what your business needs — no jargon, no overwhelm.`;
 }
 
 function renderCategories() {
@@ -550,22 +626,80 @@ function tagColor(t) {
   return CAT_META[t]?.color || '#F3F4F6';
 }
 
-function renderAgents(filter = 'all') {
-  const grid = document.getElementById('agentGrid');
-  const filtered = filter === 'all' ? agents : agents.filter(a => a.tags.includes(filter));
+function applyFilters() {
+  const priceFilter = document.getElementById('priceFilter')?.value || 'all';
+  const sortBy = document.getElementById('sortBy')?.value || 'name';
 
-  grid.innerHTML = filtered.map(a => {
-    const hasStats = a.stats && (a.stats.users !== 'N/A' || a.stats.growth !== 'N/A' || a.stats.time !== 'N/A');
-    const statItems = [];
-    if (a.stats.users && a.stats.users !== 'N/A') statItems.push(`<span class="agent-stat"><strong>${a.stats.users}</strong> users</span>`);
-    if (a.stats.growth && a.stats.growth !== 'N/A') statItems.push(`<span class="agent-stat"><strong>${a.stats.growth}</strong></span>`);
-    if (a.stats.time && a.stats.time !== 'N/A') statItems.push(`<span class="agent-stat"><strong>${a.stats.time}</strong></span>`);
+  // 1. Filter by category
+  let filtered = currentCategory === 'all' ? agents.slice() : agents.filter(a => a.tags.includes(currentCategory));
+
+  // 2. Filter by price
+  if (priceFilter === 'free') {
+    filtered = filtered.filter(a => isFreeOrFreemium(a));
+  } else if (priceFilter === 'under20') {
+    filtered = filtered.filter(a => parsePrice(a.pricing) < 20 || isFreeOrFreemium(a));
+  } else if (priceFilter === 'under50') {
+    filtered = filtered.filter(a => parsePrice(a.pricing) < 50 || isFreeOrFreemium(a));
+  }
+
+  // 3. Sort
+  if (sortBy === 'name') {
+    filtered.sort((a, b) => a.name.localeCompare(b.name));
+  } else if (sortBy === 'rating') {
+    filtered.sort((a, b) => {
+      const ra = ratings[a.id]?.avg || 0;
+      const rb = ratings[b.id]?.avg || 0;
+      return rb - ra || a.name.localeCompare(b.name);
+    });
+  } else if (sortBy === 'newest') {
+    filtered.sort((a, b) => (b.addedDate || '').localeCompare(a.addedDate || ''));
+  } else if (sortBy === 'reviewed') {
+    filtered.sort((a, b) => {
+      const ra = ratings[a.id]?.count || 0;
+      const rb = ratings[b.id]?.count || 0;
+      return rb - ra || a.name.localeCompare(b.name);
+    });
+  }
+
+  // Reset to page 1 when filters change
+  if (window._lastFilterState !== JSON.stringify([currentCategory, priceFilter, sortBy])) {
+    currentPage = 1;
+    window._lastFilterState = JSON.stringify([currentCategory, priceFilter, sortBy]);
+  }
+
+  renderAgents(filtered);
+  renderPagination(filtered.length);
+
+  // Update result count
+  const rc = document.getElementById('resultCount');
+  if (rc) rc.textContent = `${filtered.length.toLocaleString()} tool${filtered.length !== 1 ? 's' : ''}`;
+}
+
+function renderAgents(filtered) {
+  const grid = document.getElementById('agentGrid');
+  const start = (currentPage - 1) * PER_PAGE;
+  const page = filtered.slice(start, start + PER_PAGE);
+
+  if (page.length === 0) {
+    grid.innerHTML = '<p style="grid-column:1/-1;text-align:center;color:var(--text-light);padding:48px;">No tools match these filters.</p>';
+    return;
+  }
+
+  grid.innerHTML = page.map(a => {
+    const domain = getDomain(a.url);
+    const logo = domain ? `<img src="https://icons.duckduckgo.com/ip3/${domain}.ico" alt="" class="agent-logo" onerror="this.style.display='none'">` : '';
+    const r = ratings[a.id];
+    const ratingHtml = r && r.count > 0
+      ? `<span class="agent-rating-inline">★ ${r.avg} <span style="color:var(--text-light);font-weight:400;">(${r.count})</span></span>`
+      : '';
     return `
     <div class="agent-card">
       <div class="agent-card-header">
-        <div>
+        ${logo}
+        <div style="flex:1;min-width:0;">
           <div class="agent-name-row">
             <a href="/tools/${a.id}" class="agent-name" style="text-decoration:none;color:inherit;">${a.name}</a>
+            ${ratingHtml}
           </div>
         </div>
       </div>
@@ -573,10 +707,9 @@ function renderAgents(filter = 'all') {
       <div class="agent-tags">
         ${a.tags.map(t => `<span class="agent-tag tag-${t}">${tagLabel(t)}</span>`).join('')}
       </div>
-      ${statItems.length > 0 ? `<div class="agent-stats-row">${statItems.join('')}</div>` : ''}
       <div class="agent-footer">
         <div class="agent-pricing">
-          <strong>${a.pricing}</strong> <span>· ${a.pricingNote}</span>
+          <strong>${a.pricing}</strong> ${a.pricingNote ? `<span>· ${a.pricingNote}</span>` : ''}
         </div>
         <a href="/tools/${a.id}" class="agent-cta">View →</a>
       </div>
@@ -584,10 +717,42 @@ function renderAgents(filter = 'all') {
   }).join('');
 }
 
-function filterAgents(filter) {
+function renderPagination(total) {
+  const container = document.getElementById('pagination');
+  if (!container) return;
+  const pages = Math.ceil(total / PER_PAGE);
+  if (pages <= 1) { container.innerHTML = ''; return; }
+
+  const buttons = [];
+  buttons.push(`<button class="page-btn" onclick="goToPage(${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''}>← Prev</button>`);
+
+  // Show page numbers: first, last, current ± 2
+  const show = new Set([1, pages, currentPage, currentPage - 1, currentPage + 1, currentPage - 2, currentPage + 2]);
+  let lastShown = 0;
+  for (let p = 1; p <= pages; p++) {
+    if (!show.has(p)) continue;
+    if (p - lastShown > 1) buttons.push(`<span style="padding:8px 4px;color:var(--text-light);">…</span>`);
+    buttons.push(`<button class="page-btn ${p === currentPage ? 'active' : ''}" onclick="goToPage(${p})">${p}</button>`);
+    lastShown = p;
+  }
+
+  buttons.push(`<button class="page-btn" onclick="goToPage(${currentPage + 1})" ${currentPage === pages ? 'disabled' : ''}>Next →</button>`);
+  container.innerHTML = buttons.join('');
+}
+
+function goToPage(p) {
+  currentPage = p;
+  applyFilters();
+  document.getElementById('agents').scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+function filterAgents(cat) {
+  currentCategory = cat;
+  currentPage = 1;
   document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
-  event?.target?.classList?.add('active');
-  renderAgents(filter);
+  if (event?.target) event.target.classList.add('active');
+  document.getElementById('listingsTitle').textContent = cat === 'all' ? 'All Tools' : `${CAT_META[cat]?.label || cat} Tools`;
+  applyFilters();
 }
 
 function fillSearch(text) {

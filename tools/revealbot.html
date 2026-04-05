@@ -62,6 +62,11 @@ h2 { font-size: 24px; font-weight: 700; margin: 40px 0 20px; }
 .card h3 { font-size: 17px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
 .card p { font-size: 14px; color: var(--text-light); line-height: 1.5; }
 .card .card-meta { font-size: 12px; color: var(--text-light); margin-top: 12px; }
+.card-head { display: flex; gap: 12px; align-items: flex-start; margin-bottom: 8px; }
+.card-logo { width: 40px; height: 40px; border-radius: 8px; flex-shrink: 0; background: #F3F4F6; }
+.card-title-wrap { flex: 1; min-width: 0; }
+.card-rating { display: inline-block; margin-left: 8px; font-size: 13px; color: #F59E0B; }
+.tool-logo-hero { width: 64px; height: 64px; border-radius: 12px; margin-bottom: 16px; background: #F3F4F6; }
 .intro-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; margin-bottom: 32px; }
 .intro-box p { color: var(--text-light); font-size: 16px; line-height: 1.6; }
 .reviews-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
@@ -101,6 +106,7 @@ footer a:hover { color: var(--accent); }
   </div>
   <div class="tool-header">
     <div class="tool-main">
+      <img src="https://icons.duckduckgo.com/ip3/revealbot.com.ico" alt="" class="tool-logo-hero" loading="lazy" onerror="this.style.visibility='hidden'">
       <h1>Revealbot</h1>
       <div class="tags"><a href="/category/ads" class="tag">📣 Advertising</a></div>
       <p class="tool-desc">Ad automation platform for Facebook, Google, TikTok, and Snapchat with rule-based optimization and reporting.</p>
@@ -123,21 +129,17 @@ footer a:hover { color: var(--accent); }
   </section>
   <h2>Related tools</h2>
 <div class="grid"><a href="/tools/adespresso" class="card">
-  <h3>AdEspresso</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/adespresso.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>AdEspresso</h3></div></div>
   <p>Facebook, Instagram, and Google Ads management platform with AI optimization and A/B testing.</p>
   <div class="card-meta">Advertising · $49/mo</div>
 </a><a href="/tools/madgicx" class="card">
-  <h3>Madgicx</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/madgicx.com.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Madgicx</h3></div></div>
   <p>AI-powered ad optimization platform for Meta and Google Ads with automated bidding and creative insights.</p>
   <div class="card-meta">Advertising · $31/mo</div>
 </a><a href="/tools/albert-ai" class="card">
-  <h3>Albert AI</h3>
+  <div class="card-head"><img src="https://icons.duckduckgo.com/ip3/albert.ai.ico" alt="" class="card-logo" loading="lazy" onerror="this.style.visibility='hidden'"><div class="card-title-wrap"><h3>Albert AI</h3></div></div>
   <p>Autonomous AI platform that runs and optimizes digital ad campaigns across Google, Facebook, and more.</p>
   <div class="card-meta">Advertising · Custom pricing</div>
-</a><a href="/tools/awesome-deep-learning-papers-for-search-recommendation-advertising" class="card">
-  <h3>Awesome-Deep-Learning-Papers-For-Search-Recommendation-Advertising</h3>
-  <p>Awesome Deep Learning papers for industrial Search, Recommendation and Advertisement. They focus on Embedding, Matching,...</p>
-  <div class="card-meta">Advertising · See website</div>
 </a></div>
 </main>
 <footer>
