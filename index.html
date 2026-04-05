@@ -437,6 +437,7 @@ footer a:hover { color: var(--accent); }
     <div class="control-group">
       <label>Sort by</label>
       <select id="sortBy" onchange="applyFilters()">
+        <option value="popular">🔥 Popular</option>
         <option value="name">Name (A–Z)</option>
         <option value="rating">Top rated</option>
         <option value="newest">Newest</option>
@@ -656,7 +657,7 @@ function daysAgo(dateStr) {
 function applyFilters() {
   const maxPrice = parseInt(document.getElementById('priceSlider')?.value || '101');
   const ageFilter = document.getElementById('ageFilter')?.value || 'all';
-  const sortBy = document.getElementById('sortBy')?.value || 'name';
+  const sortBy = document.getElementById('sortBy')?.value || 'popular';
 
   // 1. Filter by category
   let filtered = currentCategory === 'all' ? agents.slice() : agents.filter(a => a.tags.includes(currentCategory));
@@ -678,7 +679,15 @@ function applyFilters() {
   }
 
   // 4. Sort
-  if (sortBy === 'name') {
+  if (sortBy === 'popular') {
+    filtered.sort((a, b) => {
+      const ra = ratings[a.id];
+      const rb = ratings[b.id];
+      const sa = ra ? (ra.count * 2 + ra.avg * ra.count) : 0;
+      const sb = rb ? (rb.count * 2 + rb.avg * rb.count) : 0;
+      return sb - sa || a.name.localeCompare(b.name);
+    });
+  } else if (sortBy === 'name') {
     filtered.sort((a, b) => a.name.localeCompare(b.name));
   } else if (sortBy === 'rating') {
     filtered.sort((a, b) => {
