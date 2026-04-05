@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T00:50:54.628338+00:00",
+  "lastUpdated": "2026-04-05T06:35:05.267587+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -37013,6 +37013,5606 @@
       "verified": false,
       "trustScore": 0,
       "description": "ChatGPT Prompt Engineering for Developers Jupyter Notebook. \u300a\u7ed9\u5f00\u53d1\u8005\u7684 ChatGPT \u63d0\u793a\u5de5\u7a0b\u300b\u5b66\u4e60\u7b14\u8bb0\u3002 #ChatGPT #Prompt #Prompts #Prompt-Engineering #Prompts",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "prompt-engineering-toolkit",
+      "name": "Prompt-Engineering-Toolkit",
+      "url": "https://github.com/teknium1/Prompt-Engineering-Toolkit",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The Prompt Engineering Tool is a web-based application designed to help users experiment with and optimize prompts for various large language models (LLMs)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "prompt-engineering-tutior",
+      "name": "Prompt-Engineering-Tutior",
+      "url": "https://github.com/ConnectAI-E/Prompt-Engineering-Tutior",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83c\udfa1 Pompt \u63d0\u793a\u8bcd\u5de5\u7a0b\u5e08\u5165\u95e8\u6307\u5357 ~\u89c6\u9891\u5b57\u5e55+\u4ee3\u7801\u8d44\u6599 [( Python\u3001Golang\u3001NodeJs ) x ( \u4e2d\u6587\u3001\u82f1\u6587 )]",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "prompt-engineering-with-anthropic-claude-v-3",
+      "name": "Prompt-Engineering-With-Anthropic-Claude-V-3",
+      "url": "https://github.com/aws-samples/prompt-engineering-with-anthropic-claude-v-3",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This course is intended to provide you with a comprehensive step-by-step understanding of how to engineer optimal prompts within Claude, using Bedrock",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "prompt-enhancer",
+      "name": "Prompt-Enhancer",
+      "url": "https://github.com/lim-hyo-jeong/Prompt-Enhancer",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Prompt Engineering at Your Fingertips!",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "prompt-hacker-collections",
+      "name": "Prompt-Hacker-Collections",
+      "url": "https://github.com/yunwei37/prompt-hacker-collections",
+      "verified": false,
+      "trustScore": 0,
+      "description": "prompt attack-defense, prompt Injection, reverse engineering notes and examples | \u63d0\u793a\u8bcd\u5bf9\u6297\u3001\u7834\u89e3\u4f8b\u5b50\u4e0e\u7b14\u8bb0",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "prompt-in-context-learning",
+      "name": "Prompt-In-Context-Learning",
+      "url": "https://github.com/EgoAlpha/prompt-in-context-learning",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Awesome resources for in-context learning and prompt engineering - Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "prompt_engineering",
+      "name": "Prompt_Engineering",
+      "url": "https://github.com/NirDiamant/Prompt_Engineering",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundam\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "promptbase",
+      "name": "Promptbase",
+      "url": "https://github.com/microsoft/promptbase",
+      "verified": false,
+      "trustScore": 0,
+      "description": "All things prompt engineering",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "promptbreeder",
+      "name": "Promptbreeder",
+      "url": "https://github.com/vaughanlove/PromptBreeder",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Google Deepmind's PromptBreeder for automated prompt engineering implemented in langchain expression language",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "promptengineering",
+      "name": "Promptengineering",
+      "url": "https://github.com/MrGladiator14/PromptEngineering",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Prompt Engineering Toolkit",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "promptengineering4devs",
+      "name": "Promptengineering4Devs",
+      "url": "https://github.com/yandex-datasphere/PromptEngineering4Devs",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Prompt Engineering for Developers",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "promptengineeringwithdalle",
+      "name": "Promptengineeringwithdalle",
+      "url": "https://github.com/jennifermarsman/PromptEngineeringWithDalle",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Learn prompt engineering by iterating over image prompts with the DALL-E model",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "promptgpt",
+      "name": "Promptgpt",
+      "url": "https://github.com/howard9192/Promptgpt",
+      "verified": false,
+      "trustScore": 0,
+      "description": "PromptGPT is an opensource framework that enables users to automatically generate high-quality prompts with zero installations, coding ne\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "promptify",
+      "name": "Promptify",
+      "url": "https://github.com/promptslab/Promptify",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Prompt Engineering | Prompt Versioning | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engin\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "promptimize",
+      "name": "Promptimize",
+      "url": "https://github.com/preset-io/promptimize",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Promptimize is a prompt engineering evaluation and testing toolkit",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "promptpet",
+      "name": "Promptpet",
+      "url": "https://github.com/hamutama/PromptPET",
+      "verified": false,
+      "trustScore": 0,
+      "description": "PromptPET - A comprehensive toolkit for Prompt Engineering, offering advanced tools for crafting, refining, and optimizing prompts and flow \u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "sammo",
+      "name": "Sammo",
+      "url": "https://github.com/microsoft/sammo",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A library for prompt engineering and optimization (SAMMO = Structure-aware Multi-Objective Metaprompt Optimization)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "software-dev-prompt-library",
+      "name": "Software-Dev-Prompt-Library",
+      "url": "https://github.com/codingthefuturewithai/software-dev-prompt-library",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Prompt library containing tested reusable gen AI prompts for common software engineering task",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "story-prompt",
+      "name": "Story-Prompt",
+      "url": "https://github.com/CommonPaper/story-prompt",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Challenge project for engineering candidates",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "tanukipy",
+      "name": "Tanuki.Py",
+      "url": "https://github.com/Tanuki/tanuki.py",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Prompt engineering for developers",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "udemy-prompt-engineering-course",
+      "name": "Udemy-Prompt-Engineering-Course",
+      "url": "https://github.com/BrightPool/udemy-prompt-engineering-course",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Content for the Udemy Prompt Engineering Course",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "yival",
+      "name": "Yival",
+      "url": "https://github.com/YiVal/YiVal",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Your Automatic Prompt Engineering Assistant for GenAI Applications",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "aip-identity",
+      "name": "Aip-Identity",
+      "url": "https://github.com/the-nexus-guard/aip",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Agent Identity Protocol (AIP) provides cryptographic identity (Ed25519/DID), vouch-based trust graphs, and end-to-end encrypted messaging for AI agents. CLI and Python SDK available on PyPI (`pip install aip-identity`)  |  |",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agent-repoguardian",
+      "name": "Agent-Repoguardian",
+      "url": "https://github.com/flexigpt/agent-repoguardian",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An AI agent that does security scans and vulnerability analysis of code",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agentic_security",
+      "name": "Agentic_Security",
+      "url": "https://github.com/msoedov/agentic_security",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Agentic LLM Vulnerability Scanner / AI red teaming kit",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agentictrust",
+      "name": "Agentictrust",
+      "url": "https://github.com/lab101-ai/agentictrust",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Observability, DevTool and Security Platfrom for AI Agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agentshield",
+      "name": "AgentShield",
+      "url": "https://github.com/elliotllliu/agent-shield",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source security scanner for AI agent skills, MCP servers, and plugins. 30 rules, AST analysis, cross-file tracking, 5-dimension scoring. Zero install, 100% offline, MIT licensed.  |",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agriaid",
+      "name": "Agriaid",
+      "url": "https://github.com/shamspias/AgriAid",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AgriAid is an AI-powered tool for farmers & agricultural agents in Bangladesh, offering plant disease forecasting & identification. Using\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-agent-security",
+      "name": "Ai-Agent-Security",
+      "url": "https://github.com/SecurityLab-UCD/ai-agent-security",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repository contains source code for the demos and attacks we present in our paper Security of AI Agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-agent-solving-security-challenges",
+      "name": "Ai-Agent-Solving-Security-Challenges",
+      "url": "https://github.com/theowni/AI-Agent-Solving-Security-Challenges",
+      "verified": false,
+      "trustScore": 0,
+      "description": "No description available",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-agent-wallet",
+      "name": "Ai-Agent-Wallet",
+      "url": "https://github.com/0xcrypto2024/ai-agent-wallet",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This framework provides a secure, headless wallet solution designed for integration with frontend applications. It prioritizes security b\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-powered-security-agent",
+      "name": "Ai-Powered-Security-Agent",
+      "url": "https://github.com/AIBotTeachesAI/AI-Powered-Security-Agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "No description available",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-security-demos",
+      "name": "Ai-Security-Demos",
+      "url": "https://github.com/shaialon/ai-security-demos",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83e\udd2f AI Security EXPOSED! Live Demos Showing Hidden Risks of \ud83e\udd16 Agentic AI Flows: \ud83d\udc89Prompt Injection, \u2623\ufe0f Data Poisoning. Watch the recorded se\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai_buddy_guard",
+      "name": "Ai_Buddy_Guard",
+      "url": "https://github.com/gpsandhu23/ai_buddy_guard",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Prototype AI agent to test how well AI can help us find and fix security problems",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai_security_agent",
+      "name": "Ai_Security_Agent",
+      "url": "https://github.com/SoumilB7/AI_Security_Agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Freelance Project with Armur AI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "airmageddon",
+      "name": "Airmageddon",
+      "url": "https://github.com/RamonBeast/airmageddon",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AIrmageddon is a home security AI Agent",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "airportagentsimulation-security",
+      "name": "Airportagentsimulation-Security",
+      "url": "https://github.com/Jogrohe/AirportAgentSimulation-Security",
+      "verified": false,
+      "trustScore": 0,
+      "description": "No description available",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "cartlis",
+      "name": "Cartlis",
+      "url": "https://github.com/Theneo-Inc/Cartlis",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The AI-Powered API Governance Agent enforces rules in real-time, seamlessly integrating with infrastructures and auto-patching violations\u2026",
+      "ourReview": "",
+      "categories": [
+        "ecom"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "cognitive-security-ai-powered-threat-agent-evaluation-for-impact-on-assets",
+      "name": "Cognitive-Security-Ai-Powered-Threat-Agent-Evaluation-For-Impact-On-Assets.",
+      "url": "https://github.com/Gauravsbin/Cognitive-Security-AI-Powered-Threat-Agent-Evaluation-for-Impact-on-Assets",
+      "verified": false,
+      "trustScore": 0,
+      "description": "No description available",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "council-of-ai",
+      "name": "Council-Of-Ai",
+      "url": "https://github.com/seanpixel/council-of-ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Security measure for agentic LLMs using a council of AIs moderted by a veto system. The council judges an agent's actions outputs based o\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "cyber-security-llm-agents",
+      "name": "Cyber-Security-Llm-Agents",
+      "url": "https://github.com/NVISOsecurity/cyber-security-llm-agents",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A collection of agents that use Large Language Models (LLMs) to perform tasks common on our day to day jobs in cyber security",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "eng-security-review-agent",
+      "name": "Eng-Security-Review-Agent",
+      "url": "https://github.com/lume-cory/eng-security-review-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI agentic app that helps security teams respond to security questions and security reviews from engineering",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "fast-llm-security-guardrails",
+      "name": "Fast-Llm-Security-Guardrails",
+      "url": "https://github.com/ZenGuard-AI/fast-llm-security-guardrails",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The fastest && easiest LLM security guardrails for AI Agents and applications",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "fetchai",
+      "name": "Fetchai",
+      "url": "https://github.com/Harshpreetkaur98/FetchAI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "uAgents is a Python library by Fetch.ai for creating autonomous AI agents. It supports easy agent management, blockchain connectivity, an\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "hauth",
+      "name": "Hauth",
+      "url": "https://github.com/vaniiiii/hAUTH",
+      "verified": false,
+      "trustScore": 0,
+      "description": "hAUTH is a security middleware solution that provides human oversight for AI agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "invariant",
+      "name": "Invariant",
+      "url": "https://github.com/invariantlabs-ai/invariant",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Helps you build better AI agents through debuggable unit testing",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "kevlar-anti-leak-system-prompts",
+      "name": "Kevlar-Anti-Leak-System-Prompts",
+      "url": "https://github.com/CyberAlbSecOP/KEVLAR-Anti-Leak-System-Prompts",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Bullet-proof your custom GPT system prompt security with KEVLAR, the ultimate prompt protector against rules extraction, prompt injection\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "linux-security-agent",
+      "name": "Linux-Security-Agent",
+      "url": "https://github.com/microaisecurity/linux-security-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Micro AI security agent",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llm_agents_security",
+      "name": "Llm_Agents_Security",
+      "url": "https://github.com/johnny22245/llm_agents_security",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This LLM agents deals with establishing AI security and safety",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "minotaur_impossible_gpt_security_challenge",
+      "name": "Minotaur_Impossible_Gpt_Security_Challenge",
+      "url": "https://github.com/CyberAlbSecOP/MINOTAUR_Impossible_GPT_Security_Challenge",
+      "verified": false,
+      "trustScore": 0,
+      "description": "MINOTAUR: The STRONGEST Secure Prompt EVER! Prompt Security Challenge, Impossible GPT Security, Prompts Cybersecurity, Prompting Vulnerab\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "onecli",
+      "name": "OneCLI",
+      "url": "https://github.com/onecli/onecli",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source credential vault for AI agents. A Rust HTTP gateway intercepts agent requests and injects API credentials transparently, so agents never handle raw keys",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "moa-groq-langchain-securityspecialist",
+      "name": "Moa-Groq-Langchain-Securityspecialist",
+      "url": "https://github.com/TheJ-Erk400/moa-groq-langchain-securityspecialist",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Mixture-of-Agents using Groq This Streamlit",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "multi-agent-secops-llm",
+      "name": "Multi-Agent-Secops-Llm",
+      "url": "https://github.com/tegridydev/multi-agent-secops-llm",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This project is a multi-agent security framework that utilizes multiple LLM models to analyze and generate comprehensive security briefs",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "multi-ai-agents",
+      "name": "Multi-Ai-Agents",
+      "url": "https://github.com/erndck/Multi-AI-Agents",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The Multi-AI Agent is a groundbreaking integration of artificial intelligence and blockchain technology, designed to provide unparalleled\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "netsecgame",
+      "name": "Netsecgame",
+      "url": "https://github.com/stratosphereips/NetSecGame",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An environment simulation for networks security tasks for development and testing AI based agents. Part of AI Dojo project",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "owasp-agentic-ai",
+      "name": "Owasp-Agentic-Ai",
+      "url": "https://github.com/precize/OWASP-Agentic-AI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "OWASP Top 10 for Agentic AI (AI Agent Security) - Pre-release version",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "policylayer",
+      "name": "PolicyLayer",
+      "url": "https://github.com/PolicyLayer/PolicyLayer",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Non-custodial spending controls for AI agents with crypto wallets. Enforces daily spending limits, per-transaction caps, recipient whitelists, and rate limiting without holding private keys. Prevents wallet drains from bugs, prompt injection, or infinite loops.  |",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "rgs",
+      "name": "Rgs",
+      "url": "https://github.com/MangelZabalaDevelop/RGS",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Report Generative Security Tool developed for the Generative AI Agents Developer Contest organized by NVIDIA and LangChain",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "secad",
+      "name": "Secad",
+      "url": "https://github.com/gideonaina/secad",
+      "verified": false,
+      "trustScore": 0,
+      "description": "SECAD is an agentic, AI-powered security workflow augmentation application",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "security-ai-agent-brama",
+      "name": "Security-Ai-Agent-Brama",
+      "url": "https://github.com/oborys/security-ai-agent-brama",
+      "verified": false,
+      "trustScore": 0,
+      "description": "No description available",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "sim-security-data",
+      "name": "Sim-Security-Data",
+      "url": "https://github.com/Sim-Security/Sim-Security-Data",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Where I collect and process data for AI agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "web_scrape_agent_ai",
+      "name": "Web_Scrape_Agent_Ai",
+      "url": "https://github.com/rxslice/Web_Scrape_Agent_AI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Enterprise-Quality Autonomous Agent complete with relevant tools, master prompt, additional optional AI services, API compatible, basic s\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "evoagentx",
+      "name": "EvoAgentX",
+      "url": "https://github.com/EvoAgentX/EvoAgentX",
+      "verified": false,
+      "trustScore": 0,
+      "description": "EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "open-rag-eval",
+      "name": "Open-RAG-Eval",
+      "url": "https://github.com/vectara/open-rag-eval",
+      "verified": false,
+      "trustScore": 0,
+      "description": "an open source RAG evaluation framework that does not require golden answers, and can be used to evaluate performance of RAG tools connected to an AI Agent (Agentic RAG)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "voice-lab",
+      "name": "Voice Lab",
+      "url": "https://github.com/saharmor/voice-lab",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A comprehensive testing and evaluation framework for voice agents across language models, prompts, and agent personas",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ab-agent",
+      "name": "Ab-Agent",
+      "url": "https://github.com/bassimeledath/ab-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Agents automating A/B test design and inference",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "adtestpro",
+      "name": "Adtestpro",
+      "url": "https://github.com/AnanyaP-WDW/AdTestPro",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open Source Tool To Preemptively Test Ad Creatives Against Synthetic Target Audiences",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agent-ai-test",
+      "name": "Agent-Ai-Test",
+      "url": "https://github.com/Praagnya/agent-ai-test",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Testing finance agent",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agent-evaluation",
+      "name": "Agent-Evaluation",
+      "url": "https://github.com/awslabs/agent-evaluation",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A generative AI-powered framework for testing virtual agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agent-smith-e2e-test",
+      "name": "Agent-Smith-E2E-Test",
+      "url": "https://github.com/dangoddard-trilogy/agent-smith-e2e-test",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI-powered E2E testing tool",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agent-solarpanels-tutorial",
+      "name": "Agent-Solarpanels-Tutorial",
+      "url": "https://github.com/Pairrot-Lore/agent-solarpanels-tutorial",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repository contains an AI agent built with LangGraph to calculate energy savings for solar panels. The project is designed for use w\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agentacc-batch-test",
+      "name": "Agentacc-Batch-Test",
+      "url": "https://github.com/Hehua-Fan/AgentAcc-Batch-Test",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A application to test the AI agent accuracy, powered by Streamlit",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agentai_testing_repo",
+      "name": "Agentai_Testing_Repo",
+      "url": "https://github.com/SUGUMAR-S/agentAI_testing_repo",
+      "verified": false,
+      "trustScore": 0,
+      "description": "it used for testing purpose",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agents",
+      "name": "Agents",
+      "url": "https://github.com/culurciello/agents",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A collection of AI agents to test AI capabilities, and to be used as tutorials and demonstrations",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-agency",
+      "name": "Ai-Agency",
+      "url": "https://github.com/Garcluca/AI-Agency",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Testing Bed for AI Agents and Orchestration",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-agent-design-for-iq-tests",
+      "name": "Ai-Agent-Design-For-Iq-Tests",
+      "url": "https://github.com/tex216/AI-Agent-Design-for-IQ-Tests",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Designed an AI agent to pass Raven\u2019s Progressive Matrices tests, details see the Final-Project-Report",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-agent-playground",
+      "name": "Ai-Agent-Playground",
+      "url": "https://github.com/Wei1024/AI-Agent-Playground",
+      "verified": false,
+      "trustScore": 0,
+      "description": "test repo to develop an AI agent framework for office workers",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-agent-teams",
+      "name": "Ai-Agent-Teams",
+      "url": "https://github.com/AdamHHart/AI-Agent-Teams",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A playground for testing deiffent AI Agent Teams with AutoGen, CrewAI, and Langchain",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-agent-test",
+      "name": "Ai-Agent-Test",
+      "url": "https://github.com/bjoernzosel/ai-agent-test",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An AI-generated portfolio website for a freelance web designer",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-agents-tool-dev",
+      "name": "Ai-Agents-Tool-Dev",
+      "url": "https://github.com/aydinfer/ai-agents-tool-dev",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Multi-agent AI development system for automated tool creation and testing",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-api-testing",
+      "name": "Ai-Api-Testing",
+      "url": "https://github.com/CarlosVecina/ai-api-testing",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83d\udc26AI test generator for APIs and agentic workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-code-gen",
+      "name": "Ai-Code-Gen",
+      "url": "https://github.com/Farelart/Ai-code-gen",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An ai agent to generate python unit test",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-dev-agent-test",
+      "name": "Ai-Dev-Agent-Test",
+      "url": "https://github.com/eventstubsol/ai-dev-agent-test",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A test repository created by AI Dev Agent",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-gpt-agent",
+      "name": "Ai-Gpt-Agent",
+      "url": "https://github.com/pedrogritter/ai-gpt-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A simple agent to test OpenAI's GPT API",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-pacman-classification",
+      "name": "Ai-Pacman-Classification",
+      "url": "https://github.com/AmzAust/AI-Pacman-Classification",
+      "verified": false,
+      "trustScore": 0,
+      "description": "In this project, you will design three classifiers: a perceptron classifier, a large-margin (MIRA) classifier, and a slightly modified pe\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-project-plannerenvironment",
+      "name": "Ai-Project-Plannerenvironment",
+      "url": "https://github.com/MircoT/AI-Project-PlannerEnvironment",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An environment to test a planner agent, created for a college course",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-project-vacuumenvironment",
+      "name": "Ai-Project-Vacuumenvironment",
+      "url": "https://github.com/MircoT/AI-Project-VacuumEnvironment",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An environment to test a vacuum agent, created for a college course",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-reinforcement-learning",
+      "name": "Ai-Reinforcement-Learning",
+      "url": "https://github.com/abhinavcreed13/ai-reinforcement-learning",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This project will implement value iteration and Q-learning. It will first test agents on Gridworld (from class), then apply them to a sim\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-smartclassroom",
+      "name": "Ai-Smartclassroom",
+      "url": "https://github.com/adv-11/AI-SmartClassroom",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Undergrad Final Year Project. A step up from Google Classroom by integrating Agentic AI, RAG, Reinforcement Learning and advance concepts\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-testing-agent",
+      "name": "Ai-Testing-Agent",
+      "url": "https://github.com/furudo-erika/ai-testing-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Testing Agent: Open Source AI Agent for Software Testing",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-wallet-agent-test",
+      "name": "Ai-Wallet-Agent-Test",
+      "url": "https://github.com/vish2396/AI-wallet-agent-test",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Sample Ai wallet agent using coinbase sdk",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai_agent",
+      "name": "Ai_Agent",
+      "url": "https://github.com/IbrahimaBailoDIALLO/AI_Agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "I will put all ai agent on this repos when i finish to develop and test it",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai_agent_computer_vision",
+      "name": "Ai_Agent_Computer_Vision",
+      "url": "https://github.com/SamTaubman/AI_Agent_Computer_Vision",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Agent designed to solve Raven's Progressive Matrices IQ Test",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai_agent_crewai",
+      "name": "Ai_Agent_Crewai",
+      "url": "https://github.com/Ronin-117/Ai_Agent_CrewAI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "testing CrewAI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai_apps",
+      "name": "Ai_Apps",
+      "url": "https://github.com/huneyk/AI_Apps",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Agent Test with CrewAI framework",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai_brainstorming_team_agents",
+      "name": "Ai_Brainstorming_Team_Agents",
+      "url": "https://github.com/jkalonji/AI_Brainstorming_Team_Agents",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Test your ideas by consulting a series of experts",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai_devs3",
+      "name": "Ai_Devs3",
+      "url": "https://github.com/bgrzywinski/ai_devs3",
+      "verified": false,
+      "trustScore": 0,
+      "description": "agent building, prompts testing, task solutions",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai_tools",
+      "name": "Ai_Tools",
+      "url": "https://github.com/chineseflava/AI_tools",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Testing AI tools and building agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "aiagents_test",
+      "name": "Aiagents_Test",
+      "url": "https://github.com/prad-human-007/AIAgents_test",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Test Playground for AI agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "aiconversationflow",
+      "name": "Aiconversationflow",
+      "url": "https://github.com/TonySimonovsky/AIConversationFlow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Conversation Flow provides a framework to create anti-agents to build complex non-linear LLM conversation flows, that are composable, \u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "aigent",
+      "name": "Aigent",
+      "url": "https://github.com/automators-com/aigent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Generate tests for you application using an autonomous AI agent",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ailoveragent",
+      "name": "Ailoveragent",
+      "url": "https://github.com/caizhuoyue77/AILoverAgent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Some testing for AILover's agent implementation",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "aimultiagents",
+      "name": "Aimultiagents",
+      "url": "https://github.com/hesamjafarian/AiMultiAgents",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This is a repository for testing ai algorithms using game simulation. It is used for python 2.7",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "aiq-poa",
+      "name": "Aiq-Poa",
+      "url": "https://github.com/xvado00/AIQ-POA",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Policy Optimisation Agents module fort the AIQ Test",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "amazon-bedrock-agent-test-ui",
+      "name": "Amazon-Bedrock-Agent-Test-Ui",
+      "url": "https://github.com/acwwat/amazon-bedrock-agent-test-ui",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A generic Streamlit UI for testing generative AI agents built using Agents for Amazon Bedrock",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "anythingllm_agentsample",
+      "name": "Anythingllm_Agentsample",
+      "url": "https://github.com/stoneskin/AnythingLLM_AgentSample",
+      "verified": false,
+      "trustScore": 0,
+      "description": "test the AnythignLLM custom agent",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "api-ai-agent-test",
+      "name": "Api-Ai-Agent-Test",
+      "url": "https://github.com/texascloud/api-ai-agent-test",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This is where all my commits for two pickle files will live to serve as an example of submodule usage for api-ai-versioning tool",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "attendone",
+      "name": "Attendone",
+      "url": "https://github.com/mariamkhaled99/attendone",
+      "verified": false,
+      "trustScore": 0,
+      "description": "ai generted agent test 1",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "autogen-and-crewai-agenttests",
+      "name": "Autogen-And-Crewai-Agenttests",
+      "url": "https://github.com/TMJ97/AutoGen-and-CrewAI-AgentTests",
+      "verified": false,
+      "trustScore": 0,
+      "description": "No description available",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "autonoma",
+      "name": "Autonoma",
+      "url": "https://github.com/Sebasbo/Autonoma",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Autonoma: Agentic AI-powered framework for autonomous code modification, analysis, and testing, streamlining software development workflo\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "autospec",
+      "name": "Autospec",
+      "url": "https://github.com/zachblume/autospec",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Autospec is an open-source AI agent that takes a web app URL and autonomously QAs it, and saves its passing specs as E2E test code",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "b4-agent-test-06",
+      "name": "B4-Agent-Test-06",
+      "url": "https://github.com/b4ke/b4-agent-test-06",
+      "verified": false,
+      "trustScore": 0,
+      "description": "b4-agent-test-06: cloudflare ai tool test",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "backtesteragent",
+      "name": "Backtesteragent",
+      "url": "https://github.com/The-Swarm-Corporation/BackTesterAgent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An enterprise-grade AI-powered backtesting framework built on the Swarms framework for automated trading strategy validation and optimiza\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "baseline-agent",
+      "name": "Baseline-Agent",
+      "url": "https://github.com/Bloodrock-AI/baseline-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This is a simple AI Agent used to test the Bloodrock CORE Benchmark",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "botsharp-ui",
+      "name": "Botsharp-Ui",
+      "url": "https://github.com/SciSharp/BotSharp-UI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Build, test and manage your AI Agents in the central place",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "card_games_for_mcts-ann_ai",
+      "name": "Card_Games_For_Mcts-Ann_Ai",
+      "url": "https://github.com/symbol-zy/Card_Games_for_MCTS-ANN_AI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A simpified version of card game like bridge, made for testing MCTS+ANN Agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "chat_agent",
+      "name": "Chat_Agent",
+      "url": "https://github.com/YangShyrMing/Chat_Agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "knowledge and intelligence of a human. Now this should pass the turning test of AI i.e. we all know an AI is the best if it can pass \u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "claude-html-test",
+      "name": "Claude-Html-Test",
+      "url": "https://github.com/SivaramAdi/claude-html-test",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A repository showcasing information about AI Agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "connect4_ai",
+      "name": "Connect4_Ai",
+      "url": "https://github.com/cumason123/connect4_ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Testing various agents against each other",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "crew-news",
+      "name": "Crew-News",
+      "url": "https://github.com/rokbenko/crew-news",
+      "verified": false,
+      "trustScore": 0,
+      "description": "CrewNews is an AI news generator that delivers an unbiased version of the news for a given topic, using Streamlit for the GUI, Llama 3.1 \u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "crewai-101",
+      "name": "Crewai-101",
+      "url": "https://github.com/Reyzenello/CrewAI-101",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Testing around framework using multi-agent",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "crewai-test",
+      "name": "Crewai-Test",
+      "url": "https://github.com/Buddog/CrewAI-Test",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Multi Agent AI Test",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "crewaiknowledgetest",
+      "name": "Crewaiknowledgetest",
+      "url": "https://github.com/NanGePlus/CrewAIKnowledgeTest",
+      "verified": false,
+      "trustScore": 0,
+      "description": "CrewAI\u65b0\u7248\u672c\u652f\u6301\u4f7f\u7528Knowledge\u5c5e\u6027\u5c06txt\u3001PDF\u3001CSV\u3001Excel\u3001JSON\u7b49\u591a\u79cd\u6570\u636e\u683c\u5f0f\u5185\u5bb9\u53ca\u591a\u6587\u4ef6\u6df7\u5408\u4f5c\u4e3a\u77e5\u8bc6\u589e\u5f3a\u77e5\u8bc6\u5e93\u63d0\u4f9b\u7ed9Crew\u4e2d\u7684Agent\u4f7f\u7528",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "de-bench",
+      "name": "De-Bench",
+      "url": "https://github.com/ArdentAI1/DE-Bench",
+      "verified": false,
+      "trustScore": 0,
+      "description": "DE Bench: Can Agents Solve Real-World Data Engineering Problems? Built to test Ardent's AI Data Engineer",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "debugai",
+      "name": "Debugai",
+      "url": "https://github.com/Open-IDE/DebugAI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An A.I. Agent that assists in Testing & Debugging!",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "dev-swarm",
+      "name": "Dev-Swarm",
+      "url": "https://github.com/kyegomez/dev-swarm",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A swarm of LLM agents that will help you test, document, and productionize your code!",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "dravid",
+      "name": "Dravid",
+      "url": "https://github.com/vysakh0/dravid",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI powered cli coding agent that monitors your dev/test server and fixes errors and adds features",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "explorer",
+      "name": "Explorer",
+      "url": "https://github.com/invariantlabs-ai/explorer",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A better way of testing, inspecting, and analyzing AI Agent traces",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "frontend-agent",
+      "name": "Frontend-Agent",
+      "url": "https://github.com/qodex-ai/frontend-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-Source AI-Powered QA Tool for Automated UI Testing and Navigation",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "generative_ai",
+      "name": "Generative_Ai",
+      "url": "https://github.com/gabrielpreda/generative_ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Kaggle Notebooks, Utility Scripts using Generative AI tools to check new models, fine tune models, test with various prompts, create Retr\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "goingbig",
+      "name": "Goingbig",
+      "url": "https://github.com/tshurden16/goingbig",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Test AI Agent",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "hacksynth",
+      "name": "Hacksynth",
+      "url": "https://github.com/aielte-research/HackSynth",
+      "verified": false,
+      "trustScore": 0,
+      "description": "LLM Agent and Evaluation Framework for Autonomous Penetration Testing",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "health-ai",
+      "name": "Health-Ai",
+      "url": "https://github.com/sj-data/health-ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Testing grounds for health ai agent",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "instrukt",
+      "name": "Instrukt",
+      "url": "https://github.com/blob42/Instrukt",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Integrated AI environment in the terminal. Build, test and instruct agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "intelligent-agent",
+      "name": "Intelligent-Agent",
+      "url": "https://github.com/balaaagi/Intelligent-Agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repository contains an AI agent that can pass a human intelligence test",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "java-ai-sbus-test",
+      "name": "Java-Ai-Sbus-Test",
+      "url": "https://github.com/abhikt48/java-ai-sbus-test",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Codeless Agent test with Azure ServiceBus",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "jest-ai",
+      "name": "Jest-Ai",
+      "url": "https://github.com/dreamcatcher-tech/jest-ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Agent testing suites",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "langchaintest",
+      "name": "Langchaintest",
+      "url": "https://github.com/JohnBreth/LangChainTest",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Agents in LangGraph Course",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "mario-playability-test",
+      "name": "Mario-Playability-Test",
+      "url": "https://github.com/zhihanyang2022/mario-playability-test",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Run a simple agent through user-defined super-mario chunks and determine the playability proportion",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "mazerunner",
+      "name": "Mazerunner",
+      "url": "https://github.com/CollinsEM/MazeRunner",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Framework for testing AI agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "mb-nothing",
+      "name": "Mb-Nothing",
+      "url": "https://github.com/0xAsten/mb-nothing",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Testing with Cartridge Controller and AI Agent",
+      "ourReview": "",
+      "categories": [
+        "ecom"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "mcts-agent-cythonized",
+      "name": "Mcts-Agent-Cythonized",
+      "url": "https://github.com/masouduut94/MCTS-agent-cythonized",
+      "verified": false,
+      "trustScore": 0,
+      "description": "MONTE Carlo Tree Search (MCTS) is a method for finding optimal decisions in a given domain by taking random samples in the decision space\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "mcts-agent-python",
+      "name": "Mcts-Agent-Python",
+      "url": "https://github.com/masouduut94/MCTS-agent-python",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Monte Carlo Tree Search (MCTS) is a method for finding optimal decisions in a given domain by taking random samples in the decision space\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "megaminer-tinyarena",
+      "name": "Megaminer-Tinyarena",
+      "url": "https://github.com/drusepth/Megaminer-Tinyarena",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A tiny arena for testing Megaminer AI agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "metasploit-gym",
+      "name": "Metasploit-Gym",
+      "url": "https://github.com/phreakAI/metasploit-gym",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An environment for testing AI agents against networks using Metasploit",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "multiagentworkflow",
+      "name": "Multiagentworkflow",
+      "url": "https://github.com/zachnoel/multiAgentWorkflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A sample Multi AI agent workflow for testing out AI agent frameworks",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "n8ntest",
+      "name": "N8Ntest",
+      "url": "https://github.com/habib-049/n8nTest",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repo is for testing n8n AI agent",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "networkattacksimulator",
+      "name": "Networkattacksimulator",
+      "url": "https://github.com/Jjschwartz/NetworkAttackSimulator",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An environment for testing AI pentesting agents against a simulated network",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "nexus",
+      "name": "Nexus",
+      "url": "https://github.com/cxbxmxcx/Nexus",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Agent Nexus is an open-source platform for developing, testing, and hosting AI Agents, built with Streamlit and Gradio. It offers a us\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "o1_agent_test",
+      "name": "O1_Agent_Test",
+      "url": "https://github.com/alexmoses/o1_Agent_Test",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Building a multi-agent AI program",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "orchestrai",
+      "name": "Orchestrai",
+      "url": "https://github.com/samshapley/OrchestrAI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A framework for building and testing custom autonomous agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "othello-fx",
+      "name": "Othello-Fx",
+      "url": "https://github.com/EudyContreras/Othello-FX",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Othello game framework made with JavaFX which can be use for testing Othello AI Agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "pentesting-ai",
+      "name": "Pentesting-Ai",
+      "url": "https://github.com/Lstalet04/Pentesting-AI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Multi agent penetration testing AI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "pydantic-ai",
+      "name": "Pydantic-AI",
+      "url": "https://github.com/pydantic/pydantic-ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Agent framework / shim to use Pydantic with LLMs, useful for ensuring LLM inputs/outputs have type safety  |",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "plark_ai_public",
+      "name": "Plark_Ai_Public",
+      "url": "https://github.com/montvieux/plark_ai_public",
+      "verified": false,
+      "trustScore": 0,
+      "description": "provide a basis for more extensive, long-term, and cutting edge research. The test bed can be used as a basis to research the limits of",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "rag-system",
+      "name": "Rag-System",
+      "url": "https://github.com/thetom42/rag-system",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Test Project with Replit AI Agent",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "raven-test-ai",
+      "name": "Raven-Test-Ai",
+      "url": "https://github.com/dhurng/Raven-Test-AI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An AI agent that can solve Raven Tests, visual iq tests",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "reverse_turing_test",
+      "name": "Reverse_Turing_Test",
+      "url": "https://github.com/nicomanzonelli/reverse_turing_test",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Can you outsmart the LLM-based AI agents?",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ricai_unittestgen_tool",
+      "name": "Ricai_Unittestgen_Tool",
+      "url": "https://github.com/AutoDevTestAgent/ricai_unittestgen_tool",
+      "verified": false,
+      "trustScore": 0,
+      "description": "(lablab.ai Autonomous Agents 2023 hackathon) RicAI unit test generation tool",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "rlerewolf",
+      "name": "Rlerewolf",
+      "url": "https://github.com/GeorgeVelikov/RLereWolf",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A framework for playing Werewolf & developing and testing AI agents for Werewolf",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "rpm-ai-agent",
+      "name": "Rpm-Ai-Agent",
+      "url": "https://github.com/teldridge11/RPM-AI-Agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI Agent for solving Raven's Progressive Matrices as a test of general intelligence",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "sam",
+      "name": "Sam",
+      "url": "https://github.com/vishalmysore/sam",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Autonomous Agent or Large Action Model Implementation in Java. Selenium and AI integration, AI based validations for tests. UI Validation\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "snakeai-test",
+      "name": "Snakeai-Test",
+      "url": "https://github.com/maxolib/SnakeAI-Test",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI learning game using ML-agents for Unity",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "stock_forecast_ai_agent",
+      "name": "Stock_Forecast_Ai_Agent",
+      "url": "https://github.com/john2408/stock_forecast_ai_agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This is a small app to test the AI Agents functionallity for forecasting purposes. Mainly focusing on function calling",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "swarmgo",
+      "name": "Swarmgo",
+      "url": "https://github.com/prathyushnallamothu/swarmgo",
+      "verified": false,
+      "trustScore": 0,
+      "description": "SwarmGo is a Go package that allows you to create AI agents capable of interacting, coordinating, and executing tasks. Inspired by OpenAI\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "tago",
+      "name": "Tago",
+      "url": "https://github.com/TwilledWave/Tago",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Langchain agent test platform / AI Assistant Tago",
+      "ourReview": "",
+      "categories": [
+        "assistant"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "test-agent",
+      "name": "Test-Agent",
+      "url": "https://github.com/GDT502/Test-Agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Developing AI tools for testing",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "test-ai-agent-ideas",
+      "name": "Test-Ai-Agent-Ideas",
+      "url": "https://github.com/AbhiPat123/test-ai-agent-Ideas",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A small palyground to test free models - maybe will look into using paid ones later",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "testai",
+      "name": "Testai",
+      "url": "https://github.com/dhiraj-inti/TestAI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An agentic AI application to automate the testsuite creation, execution and reporting",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "testai-agent",
+      "name": "Testai-Agent",
+      "url": "https://github.com/khanzzirfan/TestAI-Agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "write a test ai agent to write automated tests on PR requests",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "testdriverai",
+      "name": "Testdriverai",
+      "url": "https://github.com/testdriverai/testdriverai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Next generation autonomous AI agent for end-to-end testing of web & desktop",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "testzeus-hercules",
+      "name": "Testzeus-Hercules",
+      "url": "https://github.com/test-zeus-ai/testzeus-hercules",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Welcome to Hercules, the world's first open-source testing agent that's here to lift your testing burdens with the strength of a mytholog\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "theagentsgameai",
+      "name": "Theagentsgameai",
+      "url": "https://github.com/ZelunGlenn/TheAgentsGameAI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI testing system for The Agents Game logic, using decision tree",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "tic-tac-toe",
+      "name": "Tic-Tac-Toe",
+      "url": "https://github.com/OmerCinal/Tic-Tac-Toe",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Search and AI algorithms testing game. Big Tic Tac Toe",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "travel_agent",
+      "name": "Travel_Agent",
+      "url": "https://github.com/gowthaml15/travel_agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repo is for testing crew_ai and trying a travel agent usecase",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "vacuum-agents",
+      "name": "Vacuum-Agents",
+      "url": "https://github.com/hholb/vacuum-agents",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A Simulated Robot Vaccuum for testing different AI algorithms",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "vercel_ai_test",
+      "name": "Vercel_Ai_Test",
+      "url": "https://github.com/pixelknit/vercel_ai_test",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Test for webgl ai agent",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "vital-chat-ui-streamlit",
+      "name": "Vital-Chat-Ui-Streamlit",
+      "url": "https://github.com/vital-ai/vital-chat-ui-streamlit",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Part of the Vital Agent Ecosystem, Simple UI for Testing Agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "voice_agent",
+      "name": "Voice_Agent",
+      "url": "https://github.com/drhammed/voice_agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Test app for the AI Voice Agent Project",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "voxprobe",
+      "name": "Voxprobe",
+      "url": "https://github.com/voxos-ai/voxprobe",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A python package for automated testing and evaluation for voice ai agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "walking-ai",
+      "name": "Walking-Ai",
+      "url": "https://github.com/AleCamara/walking-ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Test to make an AI walk using Unity ML-Agents plugin",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "webtestagenticai",
+      "name": "Webtestagenticai",
+      "url": "https://github.com/tvalentius/WebTestAgenticAI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Web test Agent AI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "whiteboxing-unitymlagents",
+      "name": "Whiteboxing-Unitymlagents",
+      "url": "https://github.com/ActiveNick/Whiteboxing-UnityMLAgents",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Experimental testbed where I test various Machine Learning & AI concepts using Unity ML Agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "windowsagentarena",
+      "name": "Windowsagentarena",
+      "url": "https://github.com/microsoft/WindowsAgentArena",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Windows Agent Arena (WAA) \ud83e\ude9f is a scalable OS platform for testing and benchmarking of multi-modal AI agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "worldai",
+      "name": "Worldai",
+      "url": "https://github.com/nschaetti/WorldAI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "World AI is a simulator designed for research purposes. It can be used to simulate worlds, logical and ethical problems for AI agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "cortex",
+      "name": "Cortex",
+      "url": "https://github.com/SKULLFIRE07/cortex-memory",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. Free",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "3gpp-requirements-tools",
+      "name": "3Gpp-Requirements-Tools",
+      "url": "https://github.com/Adrian2901/3gpp-requirements-tools",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Tools for retrieving 3GPP standards and LLM-powered requirement elicitiation",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "acm",
+      "name": "Acm",
+      "url": "https://github.com/dnanhkhoa/acm",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A dead-simple AI-powered CLI tool for effortlessly crafting meaningful Git commit messages",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agent-manager-skill",
+      "name": "Agent-Manager-Skill",
+      "url": "https://github.com/fractalmind-ai/agent-manager-skill",
+      "verified": false,
+      "trustScore": 0,
+      "description": "tmux + Python agent lifecycle manager for running multiple CLI AI agents (start/stop/monitor/assign) with cron-friendly scheduling",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "acte",
+      "name": "Acte",
+      "url": "https://github.com/j66n/acte",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A framework to build GUI-like Agent Tools, enhancement to Function Calling of LLM AI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agentcloud",
+      "name": "Agentcloud",
+      "url": "https://github.com/rnadigital/agentcloud",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260\u2026",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agentgpt-llm-tools",
+      "name": "Agentgpt-Llm-Tools",
+      "url": "https://github.com/GautamSharda/AgentGPT-LLM-Tools",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AgentGPT allows you to configure and deploy Autonomous AI agents. Name your own custom AI and have it embark on any goal imaginable",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agentguard",
+      "name": "Agentguard",
+      "url": "https://github.com/bmdhodl/agent47",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Zero-dependency runtime guardrails for AI agents with loop detection, budget enforcement, cost tracking, and deterministic replay.  |",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agentools",
+      "name": "Agentools",
+      "url": "https://github.com/JoongWonSeo/agentools",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Essentials for LLM-based assistants and agents using OpenAI and function tools",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "agentwatch",
+      "name": "AgentWatch",
+      "url": "https://github.com/nicofains1/agentwatch",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Multi-agent observability library with cascade failure detection, heartbeat-based liveness monitoring, cross-agent correlation, and forensic replay. Provides fleet-level monitoring above per-agent tracing tools  |",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-agents-directory",
+      "name": "Ai-Agents-Directory",
+      "url": "https://github.com/0xmetaschool/AI-Agents-Directory",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Find and get started with the best AI Agents and AI Automation tools on the Internet. Start building your own AI Agents powered workforce\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-anime-art-generator",
+      "name": "Ai-Anime-Art-Generator",
+      "url": "https://github.com/enterwiz/ai-anime-art-generator",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI-driven cutting-edge tool for anime arts creation, perfect for beginners to easily create stunning anime art without any prior experience",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-conference-deadline",
+      "name": "AI Conference Deadline",
+      "url": "https://aiconferenceddl.com",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A tracker for AI/ML conference submission deadlines, helping researchers track major CFPs, access official conference websites, and plan submissions without accounts or setup",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ai-game-devtools",
+      "name": "Ai-Game-Devtools",
+      "url": "https://github.com/Yuan-ManX/ai-game-devtools",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Here we will keep track of the latest AI Game Development Tools, including LLM, Agent, Code, Writer, Image, Texture, Shader, 3D Model, An\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "aiat",
+      "name": "Ai.At",
+      "url": "https://github.com/blue-codes-yep/AI.AT",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI-Powered Text-To-Speech Video Generator This web application uses AI to generate captivating and informative video scripts based on use\u2026",
       "ourReview": "",
       "categories": [
         "dev-tools"

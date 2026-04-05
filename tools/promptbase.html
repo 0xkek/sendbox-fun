@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Promptbase — Developer Tools AI Tool | sendbox.fun</title>
+<meta name="description" content="All things prompt engineering">
+<link rel="canonical" href="https://sendbox.fun/tools/promptbase">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Promptbase — Developer Tools AI Tool | sendbox.fun">
+<meta property="og:description" content="All things prompt engineering">
+<meta property="og:url" content="https://sendbox.fun/tools/promptbase">
+<meta property="og:site_name" content="sendbox.fun">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Promptbase — Developer Tools AI Tool | sendbox.fun">
+<meta name="twitter:description" content="All things prompt engineering">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Promptbase", "description": "All things prompt engineering", "applicationCategory": "BusinessApplication", "url": "https://github.com/microsoft/promptbase"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://sendbox.fun"}, {"@type": "ListItem", "position": 2, "name": "Developer Tools", "item": "https://sendbox.fun/category/dev-tools"}, {"@type": "ListItem", "position": 3, "name": "Promptbase", "item": "https://sendbox.fun/tools/promptbase"}]}</script>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: #FAFAF9; --card: #FFF; --text: #1A1A2E; --text-light: #6B7280;
+  --accent: #7C3AED; --accent-light: #EDE9FE; --accent-hover: #6D28D9;
+  --border: #E5E7EB; --radius: 16px;
+  --shadow-lg: 0 10px 25px rgba(0,0,0,0.08);
+}
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+nav { position: sticky; top: 0; z-index: 100; background: rgba(250,250,249,0.85); backdrop-filter: blur(20px); border-bottom: 1px solid var(--border); padding: 0 24px; }
+.nav-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; height: 72px; }
+.logo { font-size: 22px; font-weight: 800; color: var(--accent); text-decoration: none; display: flex; align-items: center; gap: 10px; }
+.logo img { height: 48px; width: 48px; border-radius: 10px; }
+.nav-links { display: flex; gap: 24px; align-items: center; }
+.nav-links a { color: var(--text-light); font-size: 15px; font-weight: 500; text-decoration: none; }
+.nav-links a:hover { color: var(--accent); }
+main { max-width: 1200px; margin: 0 auto; padding: 48px 24px 80px; }
+.breadcrumbs { font-size: 14px; color: var(--text-light); margin-bottom: 24px; }
+.breadcrumbs a { color: var(--text-light); }
+.breadcrumbs a:hover { color: var(--accent); }
+.breadcrumbs span { margin: 0 8px; }
+h1 { font-size: clamp(32px, 5vw, 48px); font-weight: 800; margin-bottom: 16px; line-height: 1.2; }
+h2 { font-size: 24px; font-weight: 700; margin: 40px 0 20px; }
+.tool-header { display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; margin-bottom: 32px; padding-bottom: 32px; border-bottom: 1px solid var(--border); }
+.tool-main { flex: 1; min-width: 280px; }
+.tool-desc { font-size: 18px; color: var(--text-light); margin-bottom: 24px; }
+.tool-sidebar { min-width: 280px; background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 24px; }
+.meta-row { display: flex; justify-content: space-between; padding: 12px 0; border-bottom: 1px solid var(--border); font-size: 14px; }
+.meta-row:last-child { border-bottom: none; }
+.meta-label { color: var(--text-light); }
+.meta-value { font-weight: 600; }
+.btn-primary { display: inline-block; background: var(--accent); color: white; padding: 14px 24px; border-radius: 99px; font-weight: 700; text-decoration: none; text-align: center; width: 100%; margin-top: 20px; transition: background 0.2s; }
+.btn-primary:hover { background: var(--accent-hover); text-decoration: none; }
+.tags { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; }
+.tag { font-size: 13px; padding: 4px 12px; border-radius: 99px; background: var(--accent-light); color: var(--accent); font-weight: 600; text-decoration: none; }
+.tag:hover { background: var(--accent); color: white; text-decoration: none; }
+.platform-list, .bestfor-list { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px; }
+.chip { font-size: 13px; padding: 4px 10px; border-radius: 99px; background: #F3F4F6; color: var(--text); }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; margin-top: 24px; }
+.card { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 24px; transition: all 0.2s; text-decoration: none; color: inherit; display: block; }
+.card:hover { box-shadow: var(--shadow-lg); transform: translateY(-2px); text-decoration: none; border-color: var(--accent); }
+.card h3 { font-size: 17px; font-weight: 700; margin-bottom: 8px; color: var(--text); }
+.card p { font-size: 14px; color: var(--text-light); line-height: 1.5; }
+.card .card-meta { font-size: 12px; color: var(--text-light); margin-top: 12px; }
+.intro-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; margin-bottom: 32px; }
+.intro-box p { color: var(--text-light); font-size: 16px; line-height: 1.6; }
+footer { border-top: 1px solid var(--border); padding: 32px 24px; max-width: 1200px; margin: 48px auto 0; color: var(--text-light); font-size: 14px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16px; }
+footer a { color: var(--text-light); text-decoration: none; }
+footer a:hover { color: var(--accent); }
+.footer-links { display: flex; gap: 20px; flex-wrap: wrap; }
+@media (max-width: 640px) { .nav-links { display: none; } .tool-header { flex-direction: column; } .tool-sidebar { width: 100%; } }
+</style>
+</head>
+<body>
+<nav>
+  <div class="nav-inner">
+    <a href="/" class="logo"><img src="/logo.png" alt="sendbox"> sendbox.fun</a>
+    <div class="nav-links">
+      <a href="/#categories">Categories</a>
+      <a href="/#agents">All Tools</a>
+      <a href="/#how">How It Works</a>
+    </div>
+  </div>
+</nav>
+<main>
+  <div class="breadcrumbs">
+    <a href="/">Home</a><span>›</span>
+    <a href="/category/dev-tools">Developer Tools</a><span>›</span>
+    <span>Promptbase</span>
+  </div>
+  <div class="tool-header">
+    <div class="tool-main">
+      <h1>Promptbase</h1>
+      <div class="tags"><a href="/category/dev-tools" class="tag">🛠️ Developer Tools</a></div>
+      <p class="tool-desc">All things prompt engineering</p>
+      <a href="https://github.com/microsoft/promptbase" target="_blank" rel="noopener nofollow" class="btn-primary" style="max-width:240px;">Visit Promptbase →</a>
+    </div>
+    <aside class="tool-sidebar">
+      <div class="meta-row"><span class="meta-label">Pricing</span><span class="meta-value">See website</span></div>
+      
+      
+      
+      
+      <a href="https://github.com/microsoft/promptbase" target="_blank" rel="noopener nofollow" class="btn-primary">Visit website →</a>
+    </aside>
+  </div>
+  <h2>Related tools</h2>
+<div class="grid"><a href="/tools/langchain" class="card">
+  <h3>LangChain</h3>
+  <p>Framework for building LLM-powered applications with chains, agents, and memory. Python and JS.</p>
+  <div class="card-meta">Developer Tools · Free (open source)</div>
+</a><a href="/tools/llamaindex" class="card">
+  <h3>LlamaIndex</h3>
+  <p>Data framework for building LLM applications with RAG, structured data, and agents.</p>
+  <div class="card-meta">Developer Tools · Free (open source)</div>
+</a><a href="/tools/crewai" class="card">
+  <h3>CrewAI</h3>
+  <p>Framework for orchestrating role-playing autonomous AI agents to tackle complex tasks together.</p>
+  <div class="card-meta">Developer Tools · Free (open source)</div>
+</a><a href="/tools/autogen" class="card">
+  <h3>AutoGen</h3>
+  <p>Microsoft&#x27;s framework for building multi-agent AI applications with conversation patterns.</p>
+  <div class="card-meta">Developer Tools · Free</div>
+</a><a href="/tools/langgraph" class="card">
+  <h3>LangGraph</h3>
+  <p>LangChain&#x27;s framework for building stateful, multi-actor agent workflows with graphs.</p>
+  <div class="card-meta">Developer Tools · Free (open source)</div>
+</a><a href="/tools/openai-assistants-api" class="card">
+  <h3>OpenAI Assistants API</h3>
+  <p>OpenAI&#x27;s API for building AI assistants with tools, code interpreter, and file search.</p>
+  <div class="card-meta">Developer Tools · Pay-as-you-go</div>
+</a></div>
+</main>
+<footer>
+  <div>© 2026 sendbox.fun — The search engine for AI agents</div>
+  <div class="footer-links">
+    <a href="/">Home</a>
+    <a href="/#agents">All Tools</a>
+    <a href="/sitemap.xml">Sitemap</a>
+  </div>
+</footer>
+</body>
+</html>
