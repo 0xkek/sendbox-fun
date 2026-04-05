@@ -9,3 +9,10 @@ AgentFinder-Concept-V2.docx
 
 # Source assets (logo.png is the deployed copy)
 Friendly robot peeking from box.png
+
+# Python
+__pycache__/
+*.pyc
+
+# OG template (og-image.png is the deployed copy)
+og-image-template.html
