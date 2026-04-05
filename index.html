@@ -215,6 +215,12 @@ nav {
 .control-group label { font-size: 12px; color: var(--text-light); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
 .control-group select { padding: 8px 12px; border: 1px solid var(--border); border-radius: 8px; font-size: 14px; background: white; cursor: pointer; min-width: 140px; font-family: inherit; }
 .control-group select:focus { outline: none; border-color: var(--accent); }
+.slider-group { min-width: 220px; }
+.slider-group label { display: flex; justify-content: space-between; font-size: 12px; color: var(--text-light); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+.slider-group label span { color: var(--accent); text-transform: none; letter-spacing: normal; font-weight: 700; }
+input[type="range"] { -webkit-appearance: none; appearance: none; width: 100%; height: 6px; border-radius: 99px; background: var(--border); outline: none; margin: 8px 0 0; }
+input[type="range"]::-webkit-slider-thumb { -webkit-appearance: none; appearance: none; width: 20px; height: 20px; border-radius: 50%; background: var(--accent); cursor: pointer; border: 2px solid white; box-shadow: 0 1px 3px rgba(0,0,0,0.2); }
+input[type="range"]::-moz-range-thumb { width: 20px; height: 20px; border-radius: 50%; background: var(--accent); cursor: pointer; border: 2px solid white; box-shadow: 0 1px 3px rgba(0,0,0,0.2); }
 .result-count { font-size: 13px; color: var(--text-light); padding-bottom: 8px; }
 .pagination { display: flex; gap: 8px; justify-content: center; margin-top: 32px; flex-wrap: wrap; }
 .page-btn { padding: 8px 14px; border-radius: 8px; border: 1px solid var(--border); background: white; font-size: 14px; cursor: pointer; font-weight: 500; min-width: 40px; font-family: inherit; }
@@ -414,13 +420,18 @@ footer a:hover { color: var(--accent); }
     <!-- Category tabs populated by JS -->
   </div>
   <div class="controls-bar">
+    <div class="control-group slider-group">
+      <label>Max price: <span id="priceValue">Any</span></label>
+      <input type="range" id="priceSlider" min="0" max="101" value="101" step="1" oninput="onPriceChange()">
+    </div>
     <div class="control-group">
-      <label>Price</label>
-      <select id="priceFilter" onchange="applyFilters()">
-        <option value="all">Any price</option>
-        <option value="free">Free / Freemium</option>
-        <option value="under20">Under $20/mo</option>
-        <option value="under50">Under $50/mo</option>
+      <label>Age</label>
+      <select id="ageFilter" onchange="applyFilters()">
+        <option value="all">Any age</option>
+        <option value="week">Added this week</option>
+        <option value="month">Added this month</option>
+        <option value="quarter">Last 3 months</option>
+        <option value="year">This year</option>
       </select>
     </div>
     <div class="control-group">
@@ -428,7 +439,8 @@ footer a:hover { color: var(--accent); }
       <select id="sortBy" onchange="applyFilters()">
         <option value="name">Name (A–Z)</option>
         <option value="rating">Top rated</option>
-        <option value="newest">Recently added</option>
+        <option value="newest">Newest</option>
+        <option value="oldest">Oldest</option>
         <option value="reviewed">Most reviewed</option>
       </select>
     </div>
@@ -625,23 +637,47 @@ function tagColor(t) {
   return CAT_META[t]?.color || '#F3F4F6';
 }
 
+function onPriceChange() {
+  const v = parseInt(document.getElementById('priceSlider').value);
+  const label = document.getElementById('priceValue');
+  if (v >= 101) label.textContent = 'Any';
+  else if (v === 0) label.textContent = 'Free only';
+  else label.textContent = '$' + v + '/mo';
+  applyFilters();
+}
+
+function daysAgo(dateStr) {
+  if (!dateStr) return Infinity;
+  const d = new Date(dateStr);
+  if (isNaN(d)) return Infinity;
+  return (Date.now() - d.getTime()) / (1000 * 60 * 60 * 24);
+}
+
 function applyFilters() {
-  const priceFilter = document.getElementById('priceFilter')?.value || 'all';
+  const maxPrice = parseInt(document.getElementById('priceSlider')?.value || '101');
+  const ageFilter = document.getElementById('ageFilter')?.value || 'all';
   const sortBy = document.getElementById('sortBy')?.value || 'name';
 
   // 1. Filter by category
   let filtered = currentCategory === 'all' ? agents.slice() : agents.filter(a => a.tags.includes(currentCategory));
 
-  // 2. Filter by price
-  if (priceFilter === 'free') {
-    filtered = filtered.filter(a => isFreeOrFreemium(a));
-  } else if (priceFilter === 'under20') {
-    filtered = filtered.filter(a => parsePrice(a.pricing) < 20 || isFreeOrFreemium(a));
-  } else if (priceFilter === 'under50') {
-    filtered = filtered.filter(a => parsePrice(a.pricing) < 50 || isFreeOrFreemium(a));
+  // 2. Filter by price (slider)
+  if (maxPrice === 0) {
+    filtered = filtered.filter(a => isFreeOrFreemium(a) && parsePrice(a.pricing) === 0);
+  } else if (maxPrice < 101) {
+    filtered = filtered.filter(a => {
+      const p = parsePrice(a.pricing);
+      return p <= maxPrice || isFreeOrFreemium(a);
+    });
   }
 
-  // 3. Sort
+  // 3. Filter by age
+  if (ageFilter !== 'all') {
+    const maxDays = { week: 7, month: 30, quarter: 90, year: 365 }[ageFilter];
+    filtered = filtered.filter(a => daysAgo(a.addedDate) <= maxDays);
+  }
+
+  // 4. Sort
   if (sortBy === 'name') {
     filtered.sort((a, b) => a.name.localeCompare(b.name));
   } else if (sortBy === 'rating') {
@@ -652,6 +688,8 @@ function applyFilters() {
     });
   } else if (sortBy === 'newest') {
     filtered.sort((a, b) => (b.addedDate || '').localeCompare(a.addedDate || ''));
+  } else if (sortBy === 'oldest') {
+    filtered.sort((a, b) => (a.addedDate || '9999').localeCompare(b.addedDate || '9999'));
   } else if (sortBy === 'reviewed') {
     filtered.sort((a, b) => {
       const ra = ratings[a.id]?.count || 0;
@@ -661,15 +699,15 @@ function applyFilters() {
   }
 
   // Reset to page 1 when filters change
-  if (window._lastFilterState !== JSON.stringify([currentCategory, priceFilter, sortBy])) {
+  const filterKey = JSON.stringify([currentCategory, maxPrice, ageFilter, sortBy]);
+  if (window._lastFilterState !== filterKey) {
     currentPage = 1;
-    window._lastFilterState = JSON.stringify([currentCategory, priceFilter, sortBy]);
+    window._lastFilterState = filterKey;
   }
 
   renderAgents(filtered);
   renderPagination(filtered.length);
 
-  // Update result count
   const rc = document.getElementById('resultCount');
   if (rc) rc.textContent = `${filtered.length.toLocaleString()} tool${filtered.length !== 1 ? 's' : ''}`;
 }
