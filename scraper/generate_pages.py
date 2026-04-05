@@ -416,6 +416,7 @@ def generate_sitemap(agents):
     """Generate sitemap.xml listing all pages."""
     urls = [
         {"loc": f"{BASE_URL}/", "changefreq": "daily", "priority": "1.0"},
+        {"loc": f"{BASE_URL}/compare/", "changefreq": "weekly", "priority": "0.7"},
     ]
     # Category pages
     cats_seen = set()
@@ -427,6 +428,13 @@ def generate_sitemap(agents):
     # Tool pages
     for a in agents:
         urls.append({"loc": f"{BASE_URL}/tools/{a['id']}", "changefreq": "weekly", "priority": "0.6", "lastmod": a.get("lastChecked", TODAY)})
+    # Comparison pages
+    compare_dir = ROOT / "compare"
+    if compare_dir.exists():
+        for f in compare_dir.glob("*.html"):
+            if f.stem == "index":
+                continue
+            urls.append({"loc": f"{BASE_URL}/compare/{f.stem}", "changefreq": "monthly", "priority": "0.7"})
 
     xml_lines = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for u in urls:
@@ -498,6 +506,14 @@ def main():
         out = CATEGORY_DIR / f"{c}.html"
         out.write_text(page, encoding="utf-8")
     print(f"  Wrote {len(cats)} category pages")
+
+    # Generate comparison pages
+    print("\nRunning comparison page generator...")
+    try:
+        import generate_compare
+        generate_compare.main()
+    except Exception as e:
+        print(f"  (skipped: {e})")
 
     # Generate sitemap.xml
     print("\nGenerating sitemap.xml...")
