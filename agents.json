@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T12:19:54.165825+00:00",
+  "lastUpdated": "2026-04-05T18:17:23.333323+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -46105,6 +46105,5606 @@
       "addedDate": "2026-04-05",
       "lastChecked": "2026-04-05",
       "source": "scraper-jim"
+    },
+    {
+      "id": "bioinformatics",
+      "name": "Bioinformatics",
+      "url": "https://github.com/jumphone/Bioinformatics",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Bioinformatics Workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "bktask",
+      "name": "Bktask",
+      "url": "https://github.com/Backelite/BkTask",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An asynchronous workflows library for iOS",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "captain",
+      "name": "Captain",
+      "url": "https://github.com/harbur/captain",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Captain - Convert your Git workflow to Docker \ud83d\udc33 containers",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "celery-director",
+      "name": "Celery-Director",
+      "url": "https://github.com/ovh/celery-director",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Simple and rapid framework to build workflows with Celery",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "chatgpt-api",
+      "name": "ChatGPT API",
+      "url": "https://platform.openai.com/",
+      "verified": false,
+      "trustScore": 0,
+      "description": "OpenAI's API for integrating GPT models into applications",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ci-gha-workflow",
+      "name": "Ci-Gha-Workflow",
+      "url": "https://github.com/opencv/ci-gha-workflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "GitHub Actions workflows for OpenCV project",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "classifai",
+      "name": "Classifai",
+      "url": "https://github.com/10up/classifai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Supercharge WordPress Content Workflows and Engagement with Artificial Intelligence",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "comfyui-workflows",
+      "name": "Comfyui-Workflows",
+      "url": "https://github.com/xiwan/comfyUI-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "store my pixel or any interesting comfyui workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "comfyui-workflows-zho",
+      "name": "Comfyui-Workflows-Zho",
+      "url": "https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\u6211\u7684 ComfyUI \u5de5\u4f5c\u6d41\u5408\u96c6 | My ComfyUI workflows collection",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "comfyui-workspace-manager",
+      "name": "Comfyui-Workspace-Manager",
+      "url": "https://github.com/11cafe/comfyui-workspace-manager",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A ComfyUI workflows and models management extension to organize and manage all your workflows, models in one place. Seamlessly switch bet\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "comfyui-yolain-workflows",
+      "name": "Comfyui-Yolain-Workflows",
+      "url": "https://github.com/yolain/ComfyUI-Yolain-Workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "comfyui_examples",
+      "name": "Comfyui_Examples",
+      "url": "https://github.com/comfyanonymous/ComfyUI_examples",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Examples of ComfyUI workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "comfyui_workflows",
+      "name": "Comfyui_Workflows",
+      "url": "https://github.com/cubiq/ComfyUI_Workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A repository of well documented easy to follow workflows for ComfyUI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "comfyuimini",
+      "name": "Comfyuimini",
+      "url": "https://github.com/ImDarkTom/ComfyUIMini",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A mobile-friendly WebUI to run ComfyUI workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "configs",
+      "name": "Configs",
+      "url": "https://github.com/nf-core/configs",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Config files used to define parameters specific to compute environments at different Institutions",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "confluent-kubernetes-examples",
+      "name": "Confluent-Kubernetes-Examples",
+      "url": "https://github.com/confluentinc/confluent-kubernetes-examples",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Example scenario workflows for Confluent for Kubernetes",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "corewf",
+      "name": "Corewf",
+      "url": "https://github.com/UiPath/CoreWF",
+      "verified": false,
+      "trustScore": 0,
+      "description": "WF runtime ported to work on .NET 6",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "couler",
+      "name": "Couler",
+      "url": "https://github.com/couler-proj/couler",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Unified Interface for Constructing and Managing Workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Ap\u2026",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "create-actionsprs",
+      "name": "Create-Actionsprs",
+      "url": "https://github.com/jhutchings1/Create-ActionsPRs",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repository creates pull requests to push a GitHub Actions workflow to a collection of workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "crewai-examples",
+      "name": "Crewai-Examples",
+      "url": "https://github.com/crewAIInc/crewAI-examples",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A collection of examples that show how to use CrewAI framework to automate workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "cuda-quantum",
+      "name": "Cuda-Quantum",
+      "url": "https://github.com/NVIDIA/cuda-quantum",
+      "verified": false,
+      "trustScore": 0,
+      "description": "C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "cylc-flow",
+      "name": "Cylc-Flow",
+      "url": "https://github.com/cylc/cylc-flow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Cylc - a workflow engine for cycling systems",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "cylc-ui",
+      "name": "Cylc-Ui",
+      "url": "https://github.com/cylc/cylc-ui",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Web app for monitoring and controlling Cylc workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "cypress-realworld-app",
+      "name": "Cypress-Realworld-App",
+      "url": "https://github.com/cypress-io/cypress-realworld-app",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "d6tflow",
+      "name": "D6Tflow",
+      "url": "https://github.com/d6t/d6tflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Python library for building highly effective data science workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "darktable",
+      "name": "Darktable",
+      "url": "https://github.com/darktable-org/darktable",
+      "verified": false,
+      "trustScore": 0,
+      "description": "darktable is an open source photography workflow application and raw developer",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "data-engineering",
+      "name": "Data-Engineering",
+      "url": "https://github.com/GokuMohandas/data-engineering",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Construct a modern data stack and orchestration the workflows to create high quality data for analytics and ML applications",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "datadog",
+      "name": "Datadog",
+      "url": "https://github.com/masci/datadog",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Send Datadog metrics and events from GitHub workflows",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "deepl-alfred-workflow2",
+      "name": "Deepl-Alfred-Workflow2",
+      "url": "https://github.com/AlexanderWillner/deepl-alfred-workflow2",
+      "verified": false,
+      "trustScore": 0,
+      "description": "DeepL Alfred Workflow",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "deploy-pages",
+      "name": "Deploy-Pages",
+      "url": "https://github.com/actions/deploy-pages",
+      "verified": false,
+      "trustScore": 0,
+      "description": "GitHub Action to publish artifacts to GitHub Pages for deployments",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "design_diagrams",
+      "name": "Design_Diagrams",
+      "url": "https://github.com/iam-veeramalla/design_diagrams",
+      "verified": false,
+      "trustScore": 0,
+      "description": "flowcharts, workflows and diagrams",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "docker-compose-laravel",
+      "name": "Docker-Compose-Laravel",
+      "url": "https://github.com/aschmelyun/docker-compose-laravel",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A docker-compose workflow for local Laravel development",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "docker-compose-wordpress",
+      "name": "Docker-Compose-Wordpress",
+      "url": "https://github.com/aschmelyun/docker-compose-wordpress",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A docker-compose workflow for local WordPress development",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "docker-wordpress",
+      "name": "Docker-Wordpress",
+      "url": "https://github.com/paulczar/docker-wordpress",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Demostrating dev workflow ... vagrant -> docker -> openstack",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "dolphinscheduler",
+      "name": "Dolphinscheduler",
+      "url": "https://github.com/apache/dolphinscheduler",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code",
+      "ourReview": "",
+      "categories": [
+        "automation"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ds-workflows-r",
+      "name": "Ds-Workflows-R",
+      "url": "https://github.com/posit-conf-2024/ds-workflows-r",
+      "verified": false,
+      "trustScore": 0,
+      "description": "posit::conf(2024) workshop - Data Science Workflows with Posit Tools \u2014 R Focus",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "earth2studio",
+      "name": "Earth2Studio",
+      "url": "https://github.com/NVIDIA/earth2studio",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source deep-learning framework for exploring, building and deploying AI weather/climate workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "elodie",
+      "name": "Elodie",
+      "url": "https://github.com/jmathai/elodie",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An EXIF-based photo assistant, organizer and workflow automation tool",
+      "ourReview": "",
+      "categories": [
+        "automation"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "elsa-core",
+      "name": "Elsa-Core",
+      "url": "https://github.com/elsa-workflows/elsa-core",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A .NET workflows library",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ephemeris",
+      "name": "Ephemeris",
+      "url": "https://github.com/galaxyproject/ephemeris",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Library for managing Galaxy plugins - tools, index data, and workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ert-runnerel",
+      "name": "Ert-Runner.El",
+      "url": "https://github.com/rejeep/ert-runner.el",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Opinionated Ert testing workflow",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "extension-ci-tools",
+      "name": "Extension-Ci-Tools",
+      "url": "https://github.com/duckdb/extension-ci-tools",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Repository containing reusable workflows / actions for building DuckDB extensions",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "extractthinker",
+      "name": "Extractthinker",
+      "url": "https://github.com/enoch3712/ExtractThinker",
+      "verified": false,
+      "trustScore": 0,
+      "description": "ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "fastshell",
+      "name": "Fastshell",
+      "url": "https://github.com/HosseinKarami/fastshell",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Fiercely quick front-end boilerplate and workflows, HTML5, Gulp, Sass",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "fireshell",
+      "name": "Fireshell",
+      "url": "https://github.com/toddmotto/fireshell",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Fiercely quick front-end boilerplate and workflows, HTML5, Grunt, Sass",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "fireworks",
+      "name": "Fireworks",
+      "url": "https://github.com/materialsproject/fireworks",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The Fireworks Workflow Management Repo",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "flask-app",
+      "name": "Flask-App",
+      "url": "https://github.com/brennv/flask-app",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Example app for demonstrating CI/CD workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "floki",
+      "name": "Floki",
+      "url": "https://github.com/Cyb3rWard0g/floki",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Agentic Workflows Made Simple",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "flux-core",
+      "name": "Flux-Core",
+      "url": "https://github.com/flux-framework/flux-core",
+      "verified": false,
+      "trustScore": 0,
+      "description": "core services for the Flux resource management framework",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "flyte",
+      "name": "Flyte",
+      "url": "https://github.com/ExpediaGroup/flyte",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Flyte binds together the tools you use into easily defined, automated workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "fogworkflowsim",
+      "name": "Fogworkflowsim",
+      "url": "https://github.com/ISEC-AHU/FogWorkflowSim",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An Environment for Simulation and Performance Evaluation of Workflows in Fog Computing",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "funflow",
+      "name": "Funflow",
+      "url": "https://github.com/tweag/funflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Functional workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "gatk4-rnaseq-germline-snps-indels",
+      "name": "Gatk4-Rnaseq-Germline-Snps-Indels",
+      "url": "https://github.com/gatk-workflows/gatk4-rnaseq-germline-snps-indels",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Workflows for processing RNA data for germline short variant discovery with GATK v4 and related tools",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "gatk4-somatic-cnvs",
+      "name": "Gatk4-Somatic-Cnvs",
+      "url": "https://github.com/gatk-workflows/gatk4-somatic-cnvs",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repo is archived, these workflows will be housed in the GATK repository under the scripts directory. These workflows are also organi\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "gdoc-downloader",
+      "name": "Gdoc-Downloader",
+      "url": "https://github.com/uid/gdoc-downloader",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Downloads Google Docs as text files, which enables workflows such as simultaneous LaTeX editing",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "generativeaiexamples",
+      "name": "Generativeaiexamples",
+      "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ghat",
+      "name": "Ghat",
+      "url": "https://github.com/fregante/ghat",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83d\uded5 Reuse GitHub Actions workflows across repositories",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "git-collaboration",
+      "name": "Git-Collaboration",
+      "url": "https://github.com/jduckles/git-collaboration",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A repository to demonstrate collaboration workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "git-guppy",
+      "name": "Git-Guppy",
+      "url": "https://github.com/therealklanni/git-guppy",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Simple git-hook integration for your gulp workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "git-octopus",
+      "name": "Git-Octopus",
+      "url": "https://github.com/lesfurets/git-octopus",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The continuous merge workflow",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "git-practice",
+      "name": "Git-Practice",
+      "url": "https://github.com/awesome-academy/git-practice",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Practice about Git workflow",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "git-smart",
+      "name": "Git-Smart",
+      "url": "https://github.com/geelen/git-smart",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Add some smarts to your git workflow",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "github-action-gitflow-release-workflow",
+      "name": "Github-Action-Gitflow-Release-Workflow",
+      "url": "https://github.com/thomaseizinger/github-action-gitflow-release-workflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Example workflows for automated releases in a GitFlow-style project using GitHub actions",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "github-actions",
+      "name": "Github-Actions",
+      "url": "https://github.com/FuelLabs/github-actions",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Reusable Actions workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "github-actions-flutter-workflows",
+      "name": "Github-Actions-Flutter-Workflows",
+      "url": "https://github.com/zgosalvez/github-actions-flutter-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Opinionated GitHub Action workflows for Flutter projects",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "github-script",
+      "name": "Github-Script",
+      "url": "https://github.com/actions/github-script",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Write workflows scripting the GitHub API in JavaScript",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "gitwash",
+      "name": "Gitwash",
+      "url": "https://github.com/matthew-brett/gitwash",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Workflow using git",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "global-workflow",
+      "name": "Global-Workflow",
+      "url": "https://github.com/NOAA-EMC/global-workflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Global Superstructure/Workflow supporting the Global Forecast System (GFS)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "graphql-cli",
+      "name": "Graphql-Cli",
+      "url": "https://github.com/Urigo/graphql-cli",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83d\udcdf Command line tool for common GraphQL development workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "graphql-playground",
+      "name": "Graphql-Playground",
+      "url": "https://github.com/graphql/graphql-playground",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83c\udfae GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "gulp",
+      "name": "Gulp",
+      "url": "https://github.com/gulpjs/gulp",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A toolkit to automate & enhance your workflow",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "hawk-projects",
+      "name": "Hawk-Projects",
+      "url": "https://github.com/ferventdesert/Hawk-Projects",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Project configurations of Hawk and etlpy. xml-format workflow define",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "helm-secrets",
+      "name": "Helm-Secrets",
+      "url": "https://github.com/jkroepke/helm-secrets",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A helm plugin that help manage secrets with Git workflow and store them anywhere",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "idseq-workflows",
+      "name": "Idseq-Workflows",
+      "url": "https://github.com/chanzuckerberg/idseq-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Portable WDL workflows for IDseq production pipelines",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "inker",
+      "name": "Inker",
+      "url": "https://github.com/posabsolute/inker",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Evolved email development & delivery workflow",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "isaac_perceptor",
+      "name": "Isaac_Perceptor",
+      "url": "https://github.com/NVIDIA-ISAAC-ROS/isaac_perceptor",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Perception workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "jira-connect-orb",
+      "name": "Jira-Connect-Orb",
+      "url": "https://github.com/CircleCI-Public/jira-connect-orb",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Display the status of CircleCI workflows and deployments in Jira!",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "keras-cv",
+      "name": "Keras-Cv",
+      "url": "https://github.com/keras-team/keras-cv",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Industry-strength Computer Vision workflows with Keras",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ketrew",
+      "name": "Ketrew",
+      "url": "https://github.com/hammerlab/ketrew",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Keep Track of Experimental Workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "konfig",
+      "name": "Konfig",
+      "url": "https://github.com/KusionStack/konfig",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Shared repository of application models and components, and CI suite for GitOps workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "kuroko2",
+      "name": "Kuroko2",
+      "url": "https://github.com/cookpad/kuroko2",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Kuroko2 is a web-based job scheduler / workflow engine",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "laraadmin-crm",
+      "name": "Laraadmin-Crm",
+      "url": "https://github.com/dwijitsolutions/laraadmin-crm",
+      "verified": false,
+      "trustScore": 0,
+      "description": "LaraAdmin is a Open source CRM for quick-start Admin based applications with features like Advanced CRUD Generation, Schema Manager and W\u2026",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "laravel-4-generators",
+      "name": "Laravel-4-Generators",
+      "url": "https://github.com/dahabit/Laravel-4-Generators",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Rapidly speed up your Laravel 4 workflow with generators",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "lexikworkflowbundle",
+      "name": "Lexikworkflowbundle",
+      "url": "https://github.com/lexik/LexikWorkflowBundle",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Simple workflow bundle for Symfony2",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "libmolgrid",
+      "name": "Libmolgrid",
+      "url": "https://github.com/gnina/libmolgrid",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Comprehensive library for fast, GPU accelerated molecular gridding for deep learning workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "linker",
+      "name": "Linker",
+      "url": "https://github.com/m-reda/linker",
+      "verified": false,
+      "trustScore": 0,
+      "description": "workflow editor library",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "livebook",
+      "name": "Livebook",
+      "url": "https://github.com/livebook-dev/livebook",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Automate code & data workflows with interactive Elixir notebooks",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "llmstack",
+      "name": "Llmstack",
+      "url": "https://github.com/trypromptly/LLMStack",
+      "verified": false,
+      "trustScore": 0,
+      "description": "No-code multi-agent framework to build LLM Agents, workflows and applications with your data",
+      "ourReview": "",
+      "categories": [
+        "automation"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "luigi",
+      "name": "Luigi",
+      "url": "https://github.com/spotify/luigi",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, vis\u2026",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "machine-learning-examples",
+      "name": "Machine-Learning-Examples",
+      "url": "https://github.com/aaronkub/machine-learning-examples",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repository contains various examples of machine learning workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "marmot",
+      "name": "Marmot",
+      "url": "https://github.com/google/marmot",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Marmot workflow execution engine",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "metropolis-nim-workflows",
+      "name": "Metropolis-Nim-Workflows",
+      "url": "https://github.com/NVIDIA/metropolis-nim-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Collection of reference workflows for building intelligent agents with NIMs",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "modin",
+      "name": "Modin",
+      "url": "https://github.com/modin-project/modin",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Modin - Scale your Pandas workflows by changing a single line of code",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "molecule-action",
+      "name": "Molecule-Action",
+      "url": "https://github.com/gofrolist/molecule-action",
+      "verified": false,
+      "trustScore": 0,
+      "description": "GitHub Action for running molecule as part of your workflows!",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "n8n-workflows",
+      "name": "N8N-Workflows",
+      "url": "https://github.com/reorx/n8n-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "My workflows for n8n automation",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "nactivity",
+      "name": "Nactivity",
+      "url": "https://github.com/zhangzihan/nactivity",
+      "verified": false,
+      "trustScore": 0,
+      "description": "workflow engine activity activiti",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ngx-i18nsupport",
+      "name": "Ngx-I18Nsupport",
+      "url": "https://github.com/martinroob/ngx-i18nsupport",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Some tooling to be used for Angular i18n workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "nipype",
+      "name": "Nipype",
+      "url": "https://github.com/nipy/nipype",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Workflows and interfaces for neuroimaging packages",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "notion-search-alfred-workflow",
+      "name": "Notion-Search-Alfred-Workflow",
+      "url": "https://github.com/wrjlewis/notion-search-alfred-workflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An Alfred workflow to search Notion with instant results",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ollamanvim",
+      "name": "Ollama.Nvim",
+      "url": "https://github.com/nomnivore/ollama.nvim",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A plugin for managing and integrating your ollama workflows in neovim",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "oozie-examples",
+      "name": "Oozie-Examples",
+      "url": "https://github.com/dbist/oozie-examples",
+      "verified": false,
+      "trustScore": 0,
+      "description": "sample oozie workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "open-workflows",
+      "name": "Open-Workflows",
+      "url": "https://github.com/amiaopensource/open-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "List of open workflows and resources for A/V archiving",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "optix-toolkit",
+      "name": "Optix-Toolkit",
+      "url": "https://github.com/NVIDIA/optix-toolkit",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Set of utilities supporting workflows common in GPU raytracing applications",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "organization-workflows",
+      "name": "Organization-Workflows",
+      "url": "https://github.com/SvanBoxel/organization-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Need to centrally manage and run Actions workflows across multiple repositories? This app does it for you",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "perl-workflow",
+      "name": "Perl-Workflow",
+      "url": "https://github.com/perl-workflow/perl-workflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Workflow - simple, flexible system to implement workflows/state machines",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "pimcore-workflow-gui",
+      "name": "Pimcore-Workflow-Gui",
+      "url": "https://github.com/YouweGit/pimcore-workflow-gui",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Adds a nice GUI to Pimcore Workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "pipeline",
+      "name": "Pipeline",
+      "url": "https://github.com/myntra/pipeline",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Pipeline is a package to build multi-staged concurrent workflows with a centralized logging output",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "pipenv",
+      "name": "Pipenv",
+      "url": "https://github.com/pypa/pipenv",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Python Development Workflow for Humans",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "pitagora-cwl",
+      "name": "Pitagora-Cwl",
+      "url": "https://github.com/pitagora-network/pitagora-cwl",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Common Workflow Language tools and workflows by Pitagora-Network",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "pr-harmony",
+      "name": "Pr-Harmony",
+      "url": "https://github.com/monitorjbl/pr-harmony",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Extra pull request workflows for Stash",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "prefabworkflows_spiderrobots",
+      "name": "Prefabworkflows_Spiderrobots",
+      "url": "https://github.com/UnityTechnologies/PrefabWorkflows_SpiderRobots",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Demo Project showing the new Prefab Workflows - Prefab Mode, Editing and Nesting!",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "process-enginejs",
+      "name": "Process-Engine.Js",
+      "url": "https://github.com/oliverzy/process-engine.js",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Node.js Business Process/Workflow Engine",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "publish-packages",
+      "name": "Publish-Packages",
+      "url": "https://github.com/skills/publish-packages",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Use GitHub Actions to publish your project to a Docker image",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "puppet-git-hooks",
+      "name": "Puppet-Git-Hooks",
+      "url": "https://github.com/adrienthebo/puppet-git-hooks",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Various and sundry git hooks for puppet workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "purchase-workflow",
+      "name": "Purchase-Workflow",
+      "url": "https://github.com/OCA/purchase-workflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Odoo Purchases, Workflow and Organization",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "pyspur",
+      "name": "Pyspur",
+      "url": "https://github.com/PySpur-Dev/pyspur",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Graph-Based Editor for LLM Workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "pyzeebe",
+      "name": "Pyzeebe",
+      "url": "https://github.com/camunda-community-hub/pyzeebe",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Python client for Zeebe workflow engine",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ramp-workflow",
+      "name": "Ramp-Workflow",
+      "url": "https://github.com/paris-saclay-cds/ramp-workflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Toolkit for building predictive workflows on top of pydata (pandas, scikit-learn, pytorch, keras, etc.)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "rasflow",
+      "name": "Rasflow",
+      "url": "https://github.com/zhxiaokang/RASflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "RNA-Seq analysis workflow",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "rayder",
+      "name": "Rayder",
+      "url": "https://github.com/devanshbatham/rayder",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A lightweight tool for orchestrating and organizing your bug hunting recon / pentesting command-line workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "reaflow",
+      "name": "Reaflow",
+      "url": "https://github.com/reaviz/reaflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83c\udfaf React library for building workflow editors, flow charts and diagrams. Maintained by @goodcodeus",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "redmine_workflow_enhancements",
+      "name": "Redmine_Workflow_Enhancements",
+      "url": "https://github.com/dr-itz/redmine_workflow_enhancements",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Redmine workflow enhancements. UNMAINTAINED",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "redux-user-auth",
+      "name": "Redux-User-Auth",
+      "url": "https://github.com/Chinwike1/redux-user-auth",
+      "verified": false,
+      "trustScore": 0,
+      "description": "User Authentication workflow made with the MERN stack",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "repo-file-sync-action",
+      "name": "Repo-File-Sync-Action",
+      "url": "https://github.com/BetaHuhn/repo-file-sync-action",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83d\udd04 GitHub Action to keep files like Action workflows or entire directories in sync between multiple repositories",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "reusable-workflows",
+      "name": "Reusable-Workflows",
+      "url": "https://github.com/actions/reusable-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Reusable workflows for developing actions",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "rexpect",
+      "name": "Rexpect",
+      "url": "https://github.com/rust-cli/rexpect",
+      "verified": false,
+      "trustScore": 0,
+      "description": "github/workflows/ci.yml",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "rhessysworkflows",
+      "name": "Rhessysworkflows",
+      "url": "https://github.com/selimnairb/RHESSysWorkflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "RHESSysWorkflows provides Python scripts for building RHESSys models",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "row-oriented-workflows",
+      "name": "Row-Oriented-Workflows",
+      "url": "https://github.com/jennybc/row-oriented-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Row-oriented workflows in R with the tidyverse",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "ruote-kit",
+      "name": "Ruote-Kit",
+      "url": "https://github.com/kennethkalmer/ruote-kit",
+      "verified": false,
+      "trustScore": 0,
+      "description": "RESTish wrapper for ruote workflow engine",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "rust-build",
+      "name": "Rust-Build",
+      "url": "https://github.com/esp-rs/rust-build",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Installation tools and workflows for deploying/building Rust fork esp-rs/rust with Xtensa and RISC-V support",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "sage",
+      "name": "Sage",
+      "url": "https://github.com/roots/sage",
+      "verified": false,
+      "trustScore": 0,
+      "description": "WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and a modern development workflow",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "sale-workflow",
+      "name": "Sale-Workflow",
+      "url": "https://github.com/OCA/sale-workflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Odoo Sales, Workflow and Organization",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "search-alfred-workflows",
+      "name": "Search-Alfred-Workflows",
+      "url": "https://github.com/Acidham/search-alfred-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Search Alfred Workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "seargesdxl",
+      "name": "Seargesdxl",
+      "url": "https://github.com/SeargeDP/SeargeSDXL",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Custom nodes and workflows for SDXL in ComfyUI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "serverless-workflows",
+      "name": "Serverless-Workflows",
+      "url": "https://github.com/rhdhorchestrator/serverless-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A selected set of serverless workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "setup-jfrog-cli",
+      "name": "Setup-Jfrog-Cli",
+      "url": "https://github.com/jfrog/setup-jfrog-cli",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Set up JFrog CLI in your GitHub Actions workflow",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "shadcn-next-workflows",
+      "name": "Shadcn-Next-Workflows",
+      "url": "https://github.com/nobruf/shadcn-next-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Interactive workflow builder using React Flows, Next.js, and Shadcnui. Create, connect, and validate custom nodes easily",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "shimmering-obsidian",
+      "name": "Shimmering-Obsidian",
+      "url": "https://github.com/chrisgrieser/shimmering-obsidian",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Alfred Workflow with dozens of features for controlling your Obsidian vault",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "slashbase-go",
+      "name": "Slashbase-Go",
+      "url": "https://github.com/slashbase/slashbase-go",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Modern database IDE for your dev & data workflows. Supports MySQL, PostgreSQL & MongoDB",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "slickflow",
+      "name": "Slickflow",
+      "url": "https://github.com/besley/Slickflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "NET Open Source Workflow Engine, .NET \u5f00\u6e90\u5de5\u4f5c\u6d41",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "smriprep",
+      "name": "Smriprep",
+      "url": "https://github.com/nipreps/smriprep",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Structural MRI PREProcessing (sMRIPrep) workflows for NIPreps (NeuroImaging PREProcessing tools)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "sos",
+      "name": "Sos",
+      "url": "https://github.com/vatlab/sos",
+      "verified": false,
+      "trustScore": 0,
+      "description": "SoS workflow system for daily data analysis",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "spiffworkflow",
+      "name": "Spiffworkflow",
+      "url": "https://github.com/sartography/SpiffWorkflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A powerful workflow engine implemented in pure Python",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "spreads",
+      "name": "Spreads",
+      "url": "https://github.com/DIYBookScanner/spreads",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Modular workflow assistant for book digitization",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "starter-workflows",
+      "name": "Starter-Workflows",
+      "url": "https://github.com/actions/starter-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Accelerating new GitHub Actions workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "step-functions-workflows-collection",
+      "name": "Step-Functions-Workflows-Collection",
+      "url": "https://github.com/aws-samples/step-functions-workflows-collection",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Step Functions Workflows. Learn more at the website - https://serverlessland.com/workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "streamflow",
+      "name": "Streamflow",
+      "url": "https://github.com/lmco/streamflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "StreamFlow\u2122 is a stream processing tool designed to help build and monitor processing workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "super-table",
+      "name": "Super-Table",
+      "url": "https://github.com/verbb/super-table",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Super-charge your Craft workflow using Super Table",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "swiftcurrent",
+      "name": "Swiftcurrent",
+      "url": "https://github.com/wwt/SwiftCurrent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A library for managing complex workflows in Swift",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "t2t-polish",
+      "name": "T2T-Polish",
+      "url": "https://github.com/arangrhie/T2T-Polish",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Evaluation and polishing workflows for T2T genome assemblies",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "tactic",
+      "name": "Tactic",
+      "url": "https://github.com/Southpaw-TACTIC/TACTIC",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open source remote collaboration platform used for configuring and deploying enterprise Workflow solutions",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "tangelo",
+      "name": "Tangelo",
+      "url": "https://github.com/sandbox-quantum/Tangelo",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A python package for exploring end-to-end chemistry workflows on quantum computers and simulators",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "terraform-with-circleci-example",
+      "name": "Terraform-With-Circleci-Example",
+      "url": "https://github.com/fedekau/terraform-with-circleci-example",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This is an example of automatic deployments of your infrastructure using terraform and CircleCI 2.0 workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "texera",
+      "name": "Texera",
+      "url": "https://github.com/Texera/texera",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Collaborative Machine-Learning-Centric Data Analytics Using Workflows",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "tfc-workflows-tooling",
+      "name": "Tfc-Workflows-Tooling",
+      "url": "https://github.com/hashicorp/tfc-workflows-tooling",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Tooling to automate HCP Terraform API Runs",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "tideflow",
+      "name": "Tideflow",
+      "url": "https://github.com/tideflow-io/tideflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Building extensible automation. Tideflow is a Realtime, open source workflows execution and monitorization web application",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "trailblazer-activity",
+      "name": "Trailblazer-Activity",
+      "url": "https://github.com/trailblazer/trailblazer-activity",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Model business workflows and run them",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "txtai",
+      "name": "Txtai",
+      "url": "https://github.com/neuml/txtai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83d\udca1 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows",
+      "ourReview": "",
+      "categories": [
+        "research"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "user_guide",
+      "name": "User_Guide",
+      "url": "https://github.com/common-workflow-language/user_guide",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The CWL v1.0 - v1.2 user guide",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "vanilla-parcel-boilerplate",
+      "name": "Vanilla-Parcel-Boilerplate",
+      "url": "https://github.com/bradtraversy/vanilla-parcel-boilerplate",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Simple starter workflow for building vanilla js apps with Parcel",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "vault-config-operator",
+      "name": "Vault-Config-Operator",
+      "url": "https://github.com/redhat-cop/vault-config-operator",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An operator to support Haschicorp Vault configuration workflows from within Kubernetes",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "vector-vein",
+      "name": "Vector-Vein",
+      "url": "https://github.com/AndersonBY/vector-vein",
+      "verified": false,
+      "trustScore": 0,
+      "description": "No-code AI workflow. Drag and drop workflow nodes and use your workflow with your AI agents",
+      "ourReview": "",
+      "categories": [
+        "automation"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "venture",
+      "name": "Venture",
+      "url": "https://github.com/ksassnowski/venture",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Venture allows you to create and manage complex, async workflows in your Laravel apps",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "viewflow",
+      "name": "Viewflow",
+      "url": "https://github.com/viewflow/viewflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Reusable workflow library for Django",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "vivliostyle-cli",
+      "name": "Vivliostyle-Cli",
+      "url": "https://github.com/vivliostyle/vivliostyle-cli",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\u2692 Supercharge command-line publication workflow",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "vscode-tips-tricks",
+      "name": "Vscode-Tips-Tricks",
+      "url": "https://github.com/ahmadawais/VSCode-Tips-Tricks",
+      "verified": false,
+      "trustScore": 0,
+      "description": "VSCode-Tips-Tricks Examples and Workflows to help you become a Visual Studio Code Power User \u2192",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "vue-vscode-snippets",
+      "name": "Vue-Vscode-Snippets",
+      "url": "https://github.com/sdras/vue-vscode-snippets",
+      "verified": false,
+      "trustScore": 0,
+      "description": "These snippets were built to supercharge my workflow in the most seamless manner possible",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "waveterm",
+      "name": "Waveterm",
+      "url": "https://github.com/wavetermdev/waveterm",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An open-source, cross-platform terminal for seamless workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "windmill",
+      "name": "Windmill",
+      "url": "https://github.com/windmill-labs/windmill",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x\u2026",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "with",
+      "name": "With",
+      "url": "https://github.com/mchav/with",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Command prefixing for continuous workflow using a single tool",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "wordpressify",
+      "name": "Wordpressify",
+      "url": "https://github.com/luangjokaj/wordpressify",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83c\udf88 Automate your WordPress development workflow",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "workflow",
+      "name": "Workflow",
+      "url": "https://github.com/inveniosoftware-contrib/workflow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Simple Pythonic Workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "workflow-dispatch",
+      "name": "Workflow-Dispatch",
+      "url": "https://github.com/benc-uk/workflow-dispatch",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A GitHub Action for triggering workflows, using the `workflow_dispatch` event",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "workflow-reactjs",
+      "name": "Workflow-Reactjs",
+      "url": "https://github.com/fdaciuk/workflow-reactjs",
+      "verified": false,
+      "trustScore": 0,
+      "description": "My workflow with ReactJS + Webpack 3+",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "workflows",
+      "name": "Workflows",
+      "url": "https://github.com/warpdotdev/workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Workflows make it easy to browse, search, execute and share commands (or a series of commands)--without needing to leave your terminal",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "workflows-samples",
+      "name": "Workflows-Samples",
+      "url": "https://github.com/GoogleCloudPlatform/workflows-samples",
+      "verified": false,
+      "trustScore": 0,
+      "description": "This repository contains samples for Cloud Workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "workflows_and_package_management",
+      "name": "Workflows_And_Package_Management",
+      "url": "https://github.com/eanbit-rt/Workflows_and_package_management",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Reproducibility and package management  - workflow languages (CWL, Snakemake, Conda)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "yeoman",
+      "name": "Yeoman",
+      "url": "https://github.com/yeoman/yeoman",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Yeoman - a set of tools for automating development workflow",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "youtrack-workflows",
+      "name": "Youtrack-Workflows",
+      "url": "https://github.com/JetBrains/youtrack-workflows",
+      "verified": false,
+      "trustScore": 0,
+      "description": "YouTrack Custom Workflow Repository",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "zorow",
+      "name": "Zorow",
+      "url": "https://github.com/openmainframeproject/zorow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "z/OS Open Repository of Workflows (zorow), is an open source community dedicated to contributing and collaborating on z/OSMF workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-jim"
+    },
+    {
+      "id": "claudeclaw",
+      "name": "ClaudeClaw",
+      "url": "https://github.com/sbusso/claudeclaw",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Persistent agent orchestrator as a Claude Code plugin. Multi-channel routing (Slack, WhatsApp, Telegram), OS-level sandbox isolation, composable extension system",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "transformers-agents",
+      "name": "Transformers Agents",
+      "url": "https://huggingface.co/docs/transformers/transformers_agents",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Provides a natural language API on top of transformers",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "ag2",
+      "name": "AG2",
+      "url": "https://github.com/ag2ai/ag2",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AG2 (from AutoGen creators) is an open-source programming framework for building AI agents and facilitating cooperation among multiple agents to solve tasks",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "ailoy",
+      "name": "Ailoy",
+      "url": "https://github.com/brekkylab/ailoy",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A comprehensive framework for building AI agents that run anywhere, with full local-AI and WASM support",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "agentfield",
+      "name": "AgentField",
+      "url": "https://github.com/Agent-Field/agentfield",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source infrastructure for AI backends. Kubernetes for orchestration, Okta for identity\u2014production-ready from day one",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "cortex-memory",
+      "name": "Cortex Memory",
+      "url": "https://github.com/sopaco/cortex-mem",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A complete solution for agent memory, from extraction and vector search to automated optimization, with a REST API, MCP, CLI, and insights dashboard out-of-the-box",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "loongflow",
+      "name": "LoongFlow",
+      "url": "https://github.com/baidu-baige/LoongFlow",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A Evolve Agent Development Framework. From atomic components and development frameworks to core scenario Agents",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "agentset",
+      "name": "Agentset",
+      "url": "https://github.com/agentset-ai/agentset",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source production-ready RAG platform with built-in agentic reasoning, hybrid search, and multimodal support",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "pilot-protocol",
+      "name": "Pilot Protocol",
+      "url": "https://github.com/TeoSlayer/pilotprotocol",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An overlay network stack that gives AI agents virtual addresses, encrypted UDP tunnels, NAT traversal, and mutual trust. Zero dependencies, written in Go",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "hcom",
+      "name": "hcom",
+      "url": "https://github.com/aannoo/hcom",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "nanobot",
+      "name": "nanobot",
+      "url": "https://github.com/HKUDS/nanobot",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Ultra-lightweight personal AI assistant framework (~4,000 lines of Python). Supports MCP, 9+ chat channels, and extensible skills system",
+      "ourReview": "",
+      "categories": [
+        "assistant"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "openclaw",
+      "name": "OpenClaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source AI agent framework that turns LLMs into persistent, proactive personal AI agents with multi-channel messaging (Signal, Telegram, Discord, WhatsApp), cron scheduling, memory systems, MCP integration, skill plugins, sub-agent spawning, and browser automation",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "awesome-openclaw-agents",
+      "name": "Awesome OpenClaw Agents",
+      "url": "https://github.com/mergisi/awesome-openclaw-agents",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Curated collection of 100+ production-ready SOUL.md agent templates for OpenClaw, covering productivity, development, marketing, and business automation",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "hive",
+      "name": "Hive",
+      "url": "https://github.com/aden-hive/hive",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source AI agent framework for building goal-driven, self-improving autonomous agents. Define outcomes in natural language and auto-generate agent graphs with built-in evolution loops, MCP integration, and 100+ tools",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "connectonion",
+      "name": "ConnectOnion",
+      "url": "https://github.com/openonion/connectonion",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Simple Python framework for production-ready AI agents \u2014 2-line creation, functions as tools, 12 lifecycle hooks, plugin system, multi-agent networking with trust",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "avp-agent-vector-protocol",
+      "name": "AVP: Agent Vector Protocol",
+      "url": "https://github.com/VectorArc/avp-python",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Agents communicate via KV-cache and hidden states instead of text \u2014 2x faster, 56% fewer tokens. Supports HuggingFace, vLLM, llama.cpp, Ollama",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "arize-phoenix",
+      "name": "Arize-Phoenix",
+      "url": "https://github.com/Arize-ai/phoenix",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Arize-Phoenix is an open source library for agent testing, evaluation and observability",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "voicetest",
+      "name": "voicetest",
+      "url": "https://github.com/voicetestdev/voicetest",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source test harness for voice agents with support for Retell, VAPI, Bland, and LiveKit. Run autonomous simulations and evaluate with LLM judges",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "manifest",
+      "name": "Manifest",
+      "url": "https://github.com/mnfst/manifest",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source, real-time cost observability platform for AI agents. Track tokens, costs, messages, and model usage with a local-first dashboard. Supports 28+ LLM models, OTLP ingestion, self-hosted",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "ai-evaluation",
+      "name": "ai-evaluation",
+      "url": "https://github.com/future-agi/ai-evaluation",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source Python/TypeScript SDK for evaluating LLM agents with 50+ local metrics, LLM-as-Judge augmentation, guardrail scanners (jailbreak, PII, injection), streaming assessment, and AutoEval pipelines with CI/CD support",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-05",
+      "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
     }
   ]
 }
