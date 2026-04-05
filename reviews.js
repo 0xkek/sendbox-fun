@@ -10,12 +10,18 @@ supabaseScript.src = 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/
 supabaseScript.onload = initReviews;
 document.head.appendChild(supabaseScript);
 
-let supabase = null;
+let sb = null;
 let currentUser = null;
 let currentToolId = null;
 
 async function initReviews() {
-  supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+  // The UMD bundle exposes `supabase` as a global with .createClient()
+  const lib = window.supabase || (typeof supabase !== 'undefined' ? supabase : null);
+  if (!lib || !lib.createClient) {
+    console.error('Supabase library not loaded');
+    return;
+  }
+  sb = lib.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
   // Detect tool ID from URL (/tools/<id>)
   const match = window.location.pathname.match(/\/tools\/([^\/]+)/);
@@ -23,11 +29,11 @@ async function initReviews() {
   currentToolId = match[1].replace(/\.html$/, '');
 
   // Check for auth session
-  const { data: { session } } = await supabase.auth.getSession();
+  const { data: { session } } = await sb.auth.getSession();
   currentUser = session?.user || null;
 
   // Listen for auth changes
-  supabase.auth.onAuthStateChange((event, session) => {
+  sb.auth.onAuthStateChange((event, session) => {
     currentUser = session?.user || null;
     renderReviewBox();
   });
@@ -39,7 +45,7 @@ async function initReviews() {
 async function loadReviews() {
   if (!currentToolId) return;
 
-  const { data: reviews, error } = await supabase
+  const { data: reviews, error } = await sb
     .from('reviews')
     .select('rating, review_text, user_email, created_at')
     .eq('tool_id', currentToolId)
@@ -146,7 +152,7 @@ window.sendMagicLink = async function() {
   }
   status.textContent = 'Sending...';
   status.style.color = 'var(--text-light)';
-  const { error } = await supabase.auth.signInWithOtp({
+  const { error } = await sb.auth.signInWithOtp({
     email,
     options: { emailRedirectTo: window.location.href }
   });
@@ -160,7 +166,7 @@ window.sendMagicLink = async function() {
 };
 
 window.signOut = async function() {
-  await supabase.auth.signOut();
+  await sb.auth.signOut();
   currentUser = null;
   renderReviewBox();
 };
@@ -176,7 +182,7 @@ window.submitReview = async function() {
   status.textContent = 'Submitting...';
   status.style.color = 'var(--text-light)';
 
-  const { error } = await supabase.from('reviews').upsert({
+  const { error } = await sb.from('reviews').upsert({
     tool_id: currentToolId,
     user_id: currentUser.id,
     user_email: currentUser.email,
