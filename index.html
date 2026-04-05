@@ -434,6 +434,12 @@ footer a:hover { color: var(--accent); }
         <option value="year">This year</option>
       </select>
     </div>
+    <div class="control-group">
+      <label>Sort by</label>
+      <select id="sortBy" onchange="applyFilters()">
+        <option value="popular">🔥 Popular</option>
+      </select>
+    </div>
     <div class="control-group" style="margin-left:auto;">
       <span id="resultCount" class="result-count"></span>
     </div>
