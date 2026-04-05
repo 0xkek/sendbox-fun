@@ -64,6 +64,17 @@ h2 { font-size: 24px; font-weight: 700; margin: 40px 0 20px; }
 .card .card-meta { font-size: 12px; color: var(--text-light); margin-top: 12px; }
 .intro-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 28px; margin-bottom: 32px; }
 .intro-box p { color: var(--text-light); font-size: 16px; line-height: 1.6; }
+.reviews-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
+.reviews-section h2 { font-size: 24px; font-weight: 700; margin-bottom: 8px; }
+.rating-summary { margin: 12px 0 32px; font-size: 16px; }
+.review-box { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); padding: 24px; margin-bottom: 24px; }
+.review-box h3 { font-size: 18px; font-weight: 700; margin-bottom: 8px; }
+.reviews-list { display: flex; flex-direction: column; gap: 16px; }
+.review-item { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 16px 20px; }
+.review-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; font-size: 14px; }
+.review-stars { color: #F59E0B; font-size: 16px; }
+.review-meta { color: var(--text-light); font-size: 13px; }
+.review-text { color: var(--text); font-size: 14px; line-height: 1.5; margin: 0; }
 footer { border-top: 1px solid var(--border); padding: 32px 24px; max-width: 1200px; margin: 48px auto 0; color: var(--text-light); font-size: 14px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16px; }
 footer a { color: var(--text-light); text-decoration: none; }
 footer a:hover { color: var(--accent); }
@@ -104,6 +115,12 @@ footer a:hover { color: var(--accent); }
       <a href="https://github.com/j3bruins/agent-accelerator" target="_blank" rel="noopener nofollow" class="btn-primary">Visit website →</a>
     </aside>
   </div>
+  <section class="reviews-section">
+    <h2>Ratings & Reviews</h2>
+    <div id="rating-summary" class="rating-summary"><span style="color:var(--text-light);font-size:14px;">Loading...</span></div>
+    <div id="review-box" class="review-box"></div>
+    <div id="reviews-list" class="reviews-list"></div>
+  </section>
   <h2>Related tools</h2>
 <div class="grid"><a href="/tools/langchain" class="card">
   <h3>LangChain</h3>
@@ -139,5 +156,6 @@ footer a:hover { color: var(--accent); }
     <a href="/sitemap.xml">Sitemap</a>
   </div>
 </footer>
+<script src="/reviews.js"></script>
 </body>
 </html>
