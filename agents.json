@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T18:17:23.333323+00:00",
+  "lastUpdated": "2026-04-06T00:50:25.447639+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -51704,6 +51704,482 @@
       "founded": "",
       "addedDate": "2026-04-05",
       "lastChecked": "2026-04-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "traceai",
+      "name": "traceAI",
+      "url": "https://github.com/future-agi/traceAI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source OpenTelemetry-native tracing framework that auto-instruments 20+ AI frameworks and LLM providers (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock) capturing prompts, tokens, latency, and errors out of the box",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-06",
+      "lastChecked": "2026-04-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "air-blackbox",
+      "name": "AIR Blackbox",
+      "url": "https://github.com/airblackbox/gateway",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. HMAC-SHA256 tamper-evident audit chains, PII detection, prompt injection blocking, and risk classification. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-06",
+      "lastChecked": "2026-04-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "agency",
+      "name": "Agency",
+      "url": "https://github.com/neurocult/agency",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-06",
+      "lastChecked": "2026-04-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "taskweaver",
+      "name": "TaskWeaver",
+      "url": "https://github.com/microsoft/TaskWeaver",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A code-first agent framework for seamlessly planning and executing data analytics tasks",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-06",
+      "lastChecked": "2026-04-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "opencode",
+      "name": "OpenCode",
+      "url": "https://github.com/sst/opencode",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The AI coding agent built for the terminal",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-06",
+      "lastChecked": "2026-04-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "stakpak",
+      "name": "Stakpak",
+      "url": "https://github.com/stakpak/agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source DevOps agent to help you secure, deploy, and maintain production-ready infrastructure",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-06",
+      "lastChecked": "2026-04-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "reviewcerberus",
+      "name": "ReviewCerberus",
+      "url": "https://github.com/Kirill89/reviewcerberus",
+      "verified": false,
+      "trustScore": 0,
+      "description": "100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-06",
+      "lastChecked": "2026-04-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "hivemoot-colony",
+      "name": "Hivemoot Colony",
+      "url": "https://github.com/hivemoot/colony",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An autonomous agent governance platform where AI agents vote on features, review code, and ship releases without human intervention. Includes a live governance dashboard",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-06",
+      "lastChecked": "2026-04-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "dorothy",
+      "name": "Dorothy",
+      "url": "https://github.com/Charlie85270/Dorothy",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source desktop app to orchestrate multiple AI CLI agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, remote control, and MCP servers",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-06",
+      "lastChecked": "2026-04-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "vibegrid",
+      "name": "VibeGrid",
+      "url": "https://github.com/jcanizalez/vibegrid",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Terminal manager for AI coding agents with multi-agent grid, task queues, workflow automation, headless execution, inline diff review, and Claude Code hooks",
+      "ourReview": "",
+      "categories": [
+        "automation"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-06",
+      "lastChecked": "2026-04-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "greywall",
+      "name": "Greywall",
+      "url": "https://github.com/GreyhavenHQ/greywall",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Deny-by-default command sandbox for AI coding agents with filesystem isolation, network control via transparent proxy, built-in profiles for agents like Claude Code or OpenCode, and learning mode for auto-generating configs",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-06",
+      "lastChecked": "2026-04-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "aide",
+      "name": "AIDE",
+      "url": "https://github.com/WecoAI/aideml",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI-Driven Exploration \u2014 ML engineering agent that uses tree search to automate experiment design, code generation, and evaluation against any metric",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-06",
+      "lastChecked": "2026-04-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "hindsight",
+      "name": "Hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "verified": false,
+      "trustScore": 0,
+      "description": "State-of-the-art long-term memory for AI agents by Vectorize. Open source, self-hostable, with integrations for LangChain, CrewAI, LlamaIndex, Vercel AI SDK, MCP, and more",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-06",
+      "lastChecked": "2026-04-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "llama-agents",
+      "name": "llama-agents",
+      "url": "https://github.com/run-llama/llama-agents",
+      "verified": false,
+      "trustScore": 0,
+      "description": "llama-agents is an async-first framework for building, iterating, and productionizing multi-agent systems, including multi-agent communication, distributed tool execution, human-in-the-loop, and more",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-06",
+      "lastChecked": "2026-04-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "untether",
+      "name": "Untether",
+      "url": "https://github.com/littlebearapps/untether",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Telegram bridge for AI coding agents \u2014 remote task control with progress streaming, interactive permissions, voice input, and cost tracking. Supports Claude Code, Codex, OpenCode, Pi, Gemini CLI, and Amp",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-06",
+      "lastChecked": "2026-04-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "swiftautogui",
+      "name": "SwiftAutoGUI",
+      "url": "https://github.com/NakaokaRei/SwiftAutoGUI",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A Swift library for macOS automation with a built-in AI agent that autonomously observes the screen, reasons, and executes actions using the ReAct pattern. Also provides programmatic mouse, keyboard, screenshot, and image recognition APIs",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-06",
+      "lastChecked": "2026-04-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "steel-browser",
+      "name": "Steel Browser",
+      "url": "https://github.com/steel-dev/steel-browser",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source browser infrastructure for AI agents with session-backed automation, extraction, screenshots/PDFs, an AI-native CLI, and a reusable steel-browser skill",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-06",
+      "lastChecked": "2026-04-06",
       "source": "scraper-kyrolabs"
     }
   ]
