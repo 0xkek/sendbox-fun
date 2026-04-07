@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T00:48:58.859364+00:00",
+  "lastUpdated": "2026-04-07T06:41:05.368076+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52180,6 +52180,34 @@
       "founded": "",
       "addedDate": "2026-04-06",
       "lastChecked": "2026-04-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "kitaru",
+      "name": "Kitaru",
+      "url": "https://github.com/zenml-io/kitaru",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Durable execution layer for AI agents. Checkpoints, replay, resume, wait, and memory primitives that make agent workflows persistent and replayable \u2014 no graph DSL required",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-07",
+      "lastChecked": "2026-04-07",
       "source": "scraper-kyrolabs"
     }
   ]
