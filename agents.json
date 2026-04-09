@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T00:41:05.005411+00:00",
+  "lastUpdated": "2026-04-09T06:42:42.239691+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52208,6 +52208,34 @@
       "founded": "",
       "addedDate": "2026-04-07",
       "lastChecked": "2026-04-07",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "maestro-orchestrate",
+      "name": "Maestro Orchestrate",
+      "url": "https://github.com/josstei/maestro-orchestrate",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Multi-agent development orchestration platform coordinating 22 specialized AI agents through 4-phase workflows with native parallel execution, persistent sessions, and least-privilege security tiers. Runs on Gemini CLI, Claude Code, and Codex",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-09",
+      "lastChecked": "2026-04-09",
       "source": "scraper-kyrolabs"
     }
   ]
