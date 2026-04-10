@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T12:25:59.204362+00:00",
+  "lastUpdated": "2026-04-10T18:26:01.601060+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52264,6 +52264,34 @@
       "founded": "",
       "addedDate": "2026-04-09",
       "lastChecked": "2026-04-09",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "amux",
+      "name": "amux",
+      "url": "https://github.com/mixpeek/amux",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source agent multiplexer for running dozens of parallel Claude Code sessions with a web dashboard, self-healing watchdog, kanban board, agent-to-agent REST API, and mobile PWA. Python 3 + tmux",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-10",
+      "lastChecked": "2026-04-10",
       "source": "scraper-kyrolabs"
     }
   ]
