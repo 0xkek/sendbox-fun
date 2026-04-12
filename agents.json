@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T00:52:56.621272+00:00",
+  "lastUpdated": "2026-04-12T06:41:13.560135+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52292,6 +52292,34 @@
       "founded": "",
       "addedDate": "2026-04-10",
       "lastChecked": "2026-04-10",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "hermes-agent",
+      "name": "Hermes Agent",
+      "url": "https://github.com/nousresearch/hermes-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The agent that grows with you",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-12",
+      "lastChecked": "2026-04-12",
       "source": "scraper-kyrolabs"
     }
   ]

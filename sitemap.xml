@@ -10752,6 +10752,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sendbox.fun/tools/hermes-agent</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sendbox.fun/compare/windsurf-vs-claude-code</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
