@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T12:32:42.688521+00:00",
+  "lastUpdated": "2026-04-14T18:34:12.235941+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52320,6 +52320,34 @@
       "founded": "",
       "addedDate": "2026-04-12",
       "lastChecked": "2026-04-12",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "swarmclaw",
+      "name": "SwarmClaw",
+      "url": "https://github.com/swarmclawai/swarmclaw",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Self-hosted AI runtime for multi-agent orchestration with heartbeats, schedules, delegation, memory, and runtime skills across OpenClaw, Claude Code, Codex, Gemini CLI, and major LLM providers. Ships as a desktop app (Electron) and CLI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-14",
+      "lastChecked": "2026-04-14",
       "source": "scraper-kyrolabs"
     }
   ]
