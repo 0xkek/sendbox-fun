@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T00:48:14.409348+00:00",
+  "lastUpdated": "2026-04-18T06:35:13.124605+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52348,6 +52348,34 @@
       "founded": "",
       "addedDate": "2026-04-14",
       "lastChecked": "2026-04-14",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "agentsmesh",
+      "name": "AgentsMesh",
+      "url": "https://github.com/AgentsMesh/AgentsMesh",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The AI Agent Workforce Platform. Remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, multi-agent collaboration via channels and pod bindings, built-in Kanban with MR/PR integration. Per-pod MCP server for Claude Code / Cursor integration. Self-hosted Go runners with BYOK...",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-18",
+      "lastChecked": "2026-04-18",
       "source": "scraper-kyrolabs"
     }
   ]
