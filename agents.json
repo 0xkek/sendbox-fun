@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T18:32:28.620950+00:00",
+  "lastUpdated": "2026-04-22T00:50:24.797707+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52376,6 +52376,34 @@
       "founded": "",
       "addedDate": "2026-04-18",
       "lastChecked": "2026-04-18",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "smolagents",
+      "name": "smolagents",
+      "url": "https://github.com/huggingface/smolagents",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source Python library designed to make it extremely easy to build and run agents using just a few lines of code",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-22",
+      "lastChecked": "2026-04-22",
       "source": "scraper-kyrolabs"
     }
   ]
