@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T00:54:52.616436+00:00",
+  "lastUpdated": "2026-04-23T06:49:16.290923+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52404,6 +52404,34 @@
       "founded": "",
       "addedDate": "2026-04-22",
       "lastChecked": "2026-04-22",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "open-multi-agent",
+      "name": "open-multi-agent",
+      "url": "https://github.com/JackChen-me/open-multi-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "TypeScript multi-agent framework. One `runTeam()` call decomposes a goal into a task DAG via one LLM call and runs tasks in parallel. Three runtime dependencies, Node.js 18+",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-23",
+      "lastChecked": "2026-04-23",
       "source": "scraper-kyrolabs"
     }
   ]

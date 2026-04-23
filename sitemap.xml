@@ -10776,32 +10776,23 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/compare/windsurf-vs-claude-code</loc>
+    <loc>https://sendbox.fun/tools/open-multi-agent</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/surfer-seo-vs-clearscope</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/compare/github-copilot-vs-claude-code</loc>
+    <loc>https://sendbox.fun/compare/buffer-vs-metricool</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/compare/klaviyo-vs-privy</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/langchain-vs-llamaindex</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/boltnew-vs-lovable</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/zapier-vs-n8n</loc>
+    <loc>https://sendbox.fun/compare/cursor-vs-claude-code</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10811,37 +10802,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/compare/buffer-vs-feedhive</loc>
+    <loc>https://sendbox.fun/compare/firefliesai-vs-fathom</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/compare/cursor-vs-windsurf</loc>
+    <loc>https://sendbox.fun/compare/runway-vs-pika</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/compare/buffer-vs-later</loc>
+    <loc>https://sendbox.fun/compare/buffer-vs-hootsuite</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/compare/midjourney-vs-dall-e-3</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/aider-vs-cline</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/surfer-seo-vs-clearscope</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/hubspot-crm-vs-pipedrive</loc>
+    <loc>https://sendbox.fun/compare/boltnew-vs-lovable</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10851,12 +10827,37 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/compare/claude-vs-perplexity</loc>
+    <loc>https://sendbox.fun/compare/zapier-vs-make</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/compare/openrouter-vs-litellm</loc>
+    <loc>https://sendbox.fun/compare/hubspot-crm-vs-pipedrive</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/midjourney-vs-leonardoai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/mailchimp-vs-beehiiv</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/klaviyo-vs-privy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/make-vs-n8n</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/instantly-vs-lemlist</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10871,36 +10872,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/compare/gorgias-vs-intercom</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/runway-vs-pika</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/gorgias-vs-tidio</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/apollo-io-vs-zoominfo</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/claude-vs-gemini</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/firefliesai-vs-fathom</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/compare/chatgpt-vs-claude</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -10911,82 +10882,22 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/compare/mailchimp-vs-beehiiv</loc>
+    <loc>https://sendbox.fun/compare/langchain-vs-llamaindex</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/compare/buffer-vs-metricool</loc>
+    <loc>https://sendbox.fun/compare/zapier-vs-n8n</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/compare/pipedrive-vs-freshsales</loc>
+    <loc>https://sendbox.fun/compare/metricool-vs-hootsuite</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://sendbox.fun/compare/crewai-vs-autogen</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/ahrefs-vs-semrush</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/buffer-vs-hootsuite</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/zapier-vs-make</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/chatgpt-vs-gemini</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/opus-clip-vs-descript</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/apollo-io-vs-seamlessai</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/convertkit-vs-beehiiv</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/descript-vs-riverside</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/synthesia-vs-heygen</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/tabnine-vs-codeium</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/cursor-vs-claude-code</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/compare/instantly-vs-lemlist</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11001,17 +10912,112 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/compare/metricool-vs-hootsuite</loc>
+    <loc>https://sendbox.fun/compare/aider-vs-cline</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/compare/midjourney-vs-leonardoai</loc>
+    <loc>https://sendbox.fun/compare/chatgpt-vs-gemini</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/compare/make-vs-n8n</loc>
+    <loc>https://sendbox.fun/compare/cursor-vs-windsurf</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/opus-clip-vs-descript</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/pipedrive-vs-freshsales</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/midjourney-vs-dall-e-3</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/tabnine-vs-codeium</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/claude-vs-gemini</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/claude-vs-perplexity</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/windsurf-vs-claude-code</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/apollo-io-vs-zoominfo</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/gorgias-vs-tidio</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/descript-vs-riverside</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/github-copilot-vs-claude-code</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/apollo-io-vs-seamlessai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/buffer-vs-feedhive</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/buffer-vs-later</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/openrouter-vs-litellm</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/gorgias-vs-intercom</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/ahrefs-vs-semrush</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/convertkit-vs-beehiiv</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/compare/synthesia-vs-heygen</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -11021,27 +11027,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/blog/best-assistant-ai-tools-2026</loc>
+    <loc>https://sendbox.fun/blog/best-design-ai-tools-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/blog/best-coding-ai-tools-2026</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/blog/best-productivity-ai-tools-2026</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/blog/best-customer-service-ai-tools-2026</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/blog/best-analytics-ai-tools-2026</loc>
+    <loc>https://sendbox.fun/blog/best-social-ai-tools-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -11056,6 +11047,16 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sendbox.fun/blog/best-email-ai-tools-2026</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/blog/best-sales-ai-tools-2026</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sendbox.fun/blog/best-dev-tools-ai-tools-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -11066,32 +11067,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/blog/best-design-ai-tools-2026</loc>
+    <loc>https://sendbox.fun/blog/best-research-ai-tools-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/blog/best-content-ai-tools-2026</loc>
+    <loc>https://sendbox.fun/blog/new-ai-tools-week-2026-17</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/blog/best-sales-ai-tools-2026</loc>
+    <loc>https://sendbox.fun/blog/best-analytics-ai-tools-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/blog/best-email-ai-tools-2026</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/blog/best-social-ai-tools-2026</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/blog/best-seo-ai-tools-2026</loc>
+    <loc>https://sendbox.fun/blog/best-coding-ai-tools-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -11101,12 +11092,27 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/blog/best-research-ai-tools-2026</loc>
+    <loc>https://sendbox.fun/blog/best-productivity-ai-tools-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/blog/new-ai-tools-week-2026-17</loc>
+    <loc>https://sendbox.fun/blog/best-seo-ai-tools-2026</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/blog/best-assistant-ai-tools-2026</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/blog/best-customer-service-ai-tools-2026</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/blog/best-content-ai-tools-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
