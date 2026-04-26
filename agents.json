@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T12:25:03.389532+00:00",
+  "lastUpdated": "2026-04-26T18:22:37.759751+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52432,6 +52432,118 @@
       "founded": "",
       "addedDate": "2026-04-23",
       "lastChecked": "2026-04-23",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "kubestellar-console",
+      "name": "KubeStellar Console",
+      "url": "https://github.com/kubestellar/console",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Multi-cluster Kubernetes dashboard with AI-powered operations agent (kc-agent) providing MCP tools for managing workloads across edge and cloud clusters. CNCF project",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-26",
+      "lastChecked": "2026-04-26",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "enclave",
+      "name": "Enclave",
+      "url": "https://github.com/yuanzui0728/enclave",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Self-hosted single-owner AI social world; each instance is populated by autonomous AI residents with personalities, schedules and relationships who chat, form group conversations, post to a social feed and proactively message the owner",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-26",
+      "lastChecked": "2026-04-26",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "screenpipe",
+      "name": "Screenpipe",
+      "url": "https://github.com/screenpipe/screenpipe",
+      "verified": false,
+      "trustScore": 0,
+      "description": "24/7 local screen + microphone recording with OCR, audio transcription, and semantic search. Gives AI agents long-term context of everything you've seen, said, or heard. MCP server for Claude. 100% local, MIT licensed",
+      "ourReview": "",
+      "categories": [
+        "research"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-26",
+      "lastChecked": "2026-04-26",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "osmoda",
+      "name": "osModa",
+      "url": "https://github.com/bolivian-peru/os-moda",
+      "verified": false,
+      "trustScore": 0,
+      "description": "NixOS-based AI operating system where an agent has full root access through 91 typed MCP tools across 9 Rust daemons. Hash-chained audit ledger, atomic NixOS rollback, encrypted credential store, P2P encrypted mesh between agents. Modular runtime swaps Claude Code and OpenClaw drivers per-agent v...",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-04-26",
+      "lastChecked": "2026-04-26",
       "source": "scraper-kyrolabs"
     }
   ]
