@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T01:03:42.103567+00:00",
+  "lastUpdated": "2026-05-01T07:05:19.867899+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52544,6 +52544,62 @@
       "founded": "",
       "addedDate": "2026-04-26",
       "lastChecked": "2026-04-26",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "aeon",
+      "name": "Aeon",
+      "url": "https://github.com/aaronjmars/aeon",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Autonomous agent framework that runs unattended via GitHub Actions, with self-healing skills, output quality scoring (1\u20135 via Haiku), persistent memory, and reactive triggers. 90+ built-in skills (research, dev, crypto, productivity, social), MCP + A2A integrations, fork-and-run model",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-05-01",
+      "lastChecked": "2026-05-01",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "miroshark",
+      "name": "MiroShark",
+      "url": "https://github.com/aaronjmars/MiroShark",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Universal swarm-intelligence engine \u2014 drop in a scenario and hundreds of grounded LLM agents simulate Twitter, Reddit, and a prediction market hour-by-hour, with counterfactual branching, per-agent MCP tools, and a public gallery of finished runs",
+      "ourReview": "",
+      "categories": [
+        "social"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-05-01",
+      "lastChecked": "2026-05-01",
       "source": "scraper-kyrolabs"
     }
   ]
