@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T00:54:52.116319+00:00",
+  "lastUpdated": "2026-05-05T06:56:56.795252+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52600,6 +52600,62 @@
       "founded": "",
       "addedDate": "2026-05-01",
       "lastChecked": "2026-05-01",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "openagent",
+      "name": "OpenAgent",
+      "url": "https://github.com/the-open-agent/openagent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Next-generation personal AI assistant powered by LLM, RAG and agent loops. Supports computer-use, browser-use, coding agent, 30+ model providers, visual workflow builder, and MCP tools. Self-hostable with admin dashboard",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-05-05",
+      "lastChecked": "2026-05-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "mateclaw",
+      "name": "MateClaw",
+      "url": "https://github.com/matevip/mateclaw",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source personal AI operating system on Spring Boot + Spring AI Alibaba \u2014 one JAR ships a web admin, desktop app (bundled JRE 21), embeddable widget, and 8 IM channels sharing the same agent",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-05-05",
+      "lastChecked": "2026-05-05",
       "source": "scraper-kyrolabs"
     }
   ]
