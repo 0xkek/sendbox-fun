@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09T06:53:00.139393+00:00",
+  "lastUpdated": "2026-05-09T12:29:21.933396+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52656,6 +52656,34 @@
       "founded": "",
       "addedDate": "2026-05-05",
       "lastChecked": "2026-05-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "cordum",
+      "name": "Cordum",
+      "url": "https://github.com/cordum-io/cordum",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Out-of-process governance control plane for autonomous AI agents \u2014 pre-dispatch policy enforcement, approval gates, and signed audit trails for production governance",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-05-09",
+      "lastChecked": "2026-05-09",
       "source": "scraper-kyrolabs"
     }
   ]
