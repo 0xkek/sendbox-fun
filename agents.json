@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T07:12:17.599889+00:00",
+  "lastUpdated": "2026-05-14T12:48:24.375629+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52684,6 +52684,62 @@
       "founded": "",
       "addedDate": "2026-05-09",
       "lastChecked": "2026-05-09",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "ctop",
+      "name": "ctop",
+      "url": "https://github.com/aakashadesara/ctop",
+      "verified": false,
+      "trustScore": 0,
+      "description": "htop for AI coding agents. Monitor Claude Code and Codex CLI sessions with real-time CPU, memory, token usage, context window tracking, and cost estimates. Zero dependencies, pure Node.js",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-05-14",
+      "lastChecked": "2026-05-14",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "invisible-playwright",
+      "name": "invisible-playwright",
+      "url": "https://github.com/feder-cr/invisible_playwright",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Playwright wrapper for a stealth-patched Firefox 150 binary. Drop-in replacement returning native Playwright Browser objects, fingerprint spoofing in the C++ source",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-05-14",
+      "lastChecked": "2026-05-14",
       "source": "scraper-kyrolabs"
     }
   ]
