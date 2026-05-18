@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T01:06:08.314333+00:00",
+  "lastUpdated": "2026-05-18T07:38:44.120401+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52740,6 +52740,34 @@
       "founded": "",
       "addedDate": "2026-05-14",
       "lastChecked": "2026-05-14",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "frontman",
+      "name": "Frontman",
+      "url": "https://www.github.com/frontman-ai/frontman",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source AI coding agent that lives in your browser, hooks into your dev server, sees the live DOM, component tree, CSS, routes, and logs, then edits the actual source files with instant hot reload",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-05-18",
+      "lastChecked": "2026-05-18",
       "source": "scraper-kyrolabs"
     }
   ]
