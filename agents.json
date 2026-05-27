@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T07:39:32.882660+00:00",
+  "lastUpdated": "2026-05-27T13:25:39.440680+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52768,6 +52768,34 @@
       "founded": "",
       "addedDate": "2026-05-18",
       "lastChecked": "2026-05-18",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "piia-engram",
+      "name": "piia-engram",
+      "url": "https://github.com/Patdolitse/piia-engram",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Cross-tool persistent memory for AI agents. Local-first identity and knowledge layer that works across Claude Code, Cursor, Codex, and any MCP-compatible client",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-05-27",
+      "lastChecked": "2026-05-27",
       "source": "scraper-kyrolabs"
     }
   ]
