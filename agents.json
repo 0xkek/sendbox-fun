@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03T01:20:19.481434+00:00",
+  "lastUpdated": "2026-06-03T07:55:51.488043+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52796,6 +52796,34 @@
       "founded": "",
       "addedDate": "2026-05-27",
       "lastChecked": "2026-05-27",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "memclaw",
+      "name": "MemClaw",
+      "url": "https://github.com/caura-ai/caura-memclaw",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source governed shared memory for AI agent fleets with cross-agent recall, permissions, audit trails, and persistent memory",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-06-03",
+      "lastChecked": "2026-06-03",
       "source": "scraper-kyrolabs"
     }
   ]
