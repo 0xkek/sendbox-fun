@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T01:11:02.280645+00:00",
+  "lastUpdated": "2026-06-05T07:42:14.263990+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52824,6 +52824,34 @@
       "founded": "",
       "addedDate": "2026-06-03",
       "lastChecked": "2026-06-03",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "statewave",
+      "name": "Statewave",
+      "url": "https://github.com/smaramwbc/statewave",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source memory runtime for AI agents that transforms events into structured memories, enabling memory evolution, consolidation, supersession, and long-term context management across agent workflows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-06-05",
+      "lastChecked": "2026-06-05",
       "source": "scraper-kyrolabs"
     }
   ]

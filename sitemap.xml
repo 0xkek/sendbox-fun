@@ -10866,6 +10866,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sendbox.fun/tools/statewave</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sendbox.fun/compare/make-vs-n8n</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
