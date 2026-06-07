@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T07:35:14.961319+00:00",
+  "lastUpdated": "2026-06-07T12:42:55.284764+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52852,6 +52852,34 @@
       "founded": "",
       "addedDate": "2026-06-05",
       "lastChecked": "2026-06-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "agent-qa",
+      "name": "agent-qa",
+      "url": "https://github.com/vostride/agent-qa",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Self-improving agentic QA harness for web and mobile tests. Write tests in natural language, use memory to adapt to UI changes, and catch regressions before releases ship",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-06-07",
+      "lastChecked": "2026-06-07",
       "source": "scraper-kyrolabs"
     }
   ]
