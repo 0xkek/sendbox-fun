@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T13:24:17.015682+00:00",
+  "lastUpdated": "2026-06-10T19:03:34.583352+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52880,6 +52880,62 @@
       "founded": "",
       "addedDate": "2026-06-07",
       "lastChecked": "2026-06-07",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "trpc-agent-go",
+      "name": "trpc-agent-go",
+      "url": "https://github.com/trpc-group/trpc-agent-go",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-06-10",
+      "lastChecked": "2026-06-10",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "cate",
+      "name": "Cate",
+      "url": "https://github.com/0-AI-UG/cate",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source desktop IDE on an infinite zoomable canvas. Editors, terminals, browsers, and Claude Code agent panels float in spatial workspace instead of tabs; panels can dock or detach into separate windows. Electron + React + TypeScript, layout persists per project",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-06-10",
+      "lastChecked": "2026-06-10",
       "source": "scraper-kyrolabs"
     }
   ]
