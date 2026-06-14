@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T18:38:05.915376+00:00",
+  "lastUpdated": "2026-06-14T01:16:25.111582+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52936,6 +52936,34 @@
       "founded": "",
       "addedDate": "2026-06-10",
       "lastChecked": "2026-06-10",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "nanocoder",
+      "name": "Nanocoder",
+      "url": "https://github.com/Nano-Collective/nanocoder",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Local-first, open-source CLI coding agent built with React and Ink. Bring your own model (Ollama, OpenRouter, or any OpenAI-compatible API), keep your code on your machine. Native tool calling with XML fallback, MCP integration, custom commands and tools. Built by a community collective",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-06-14",
+      "lastChecked": "2026-06-14",
       "source": "scraper-kyrolabs"
     }
   ]
