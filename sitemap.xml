@@ -10896,6 +10896,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sendbox.fun/tools/zeroshot</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sendbox.fun/compare/chatgpt-vs-claude</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -11206,6 +11212,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sendbox.fun/blog/new-ai-tools-week-2026-26</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sendbox.fun/blog/best-social-ai-tools-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -11217,11 +11228,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/blog/best-customer-service-ai-tools-2026</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/blog/new-ai-tools-week-2026-25</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

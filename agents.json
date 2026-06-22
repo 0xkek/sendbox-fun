@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T18:40:31.064467+00:00",
+  "lastUpdated": "2026-06-22T01:18:13.479564+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52964,6 +52964,34 @@
       "founded": "",
       "addedDate": "2026-06-14",
       "lastChecked": "2026-06-14",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "zeroshot",
+      "name": "zeroshot",
+      "url": "https://github.com/the-open-engine/zeroshot",
+      "verified": false,
+      "trustScore": 0,
+      "description": "CLI that orchestrates a planner, an implementer, and independent validators in isolated environments",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-06-22",
+      "lastChecked": "2026-06-22",
       "source": "scraper-kyrolabs"
     }
   ]
