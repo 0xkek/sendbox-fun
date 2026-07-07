@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T20:05:47.265231+00:00",
+  "lastUpdated": "2026-07-07T03:56:44.947947+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -52992,6 +52992,34 @@
       "founded": "",
       "addedDate": "2026-06-22",
       "lastChecked": "2026-06-22",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "h5i",
+      "name": "h5i",
+      "url": "https://github.com/h5i-dev/h5i",
+      "verified": false,
+      "trustScore": 0,
+      "description": "CLI that runs several coding agents (Claude Code, Codex) on the same task, each in its own isolated git worktree sandbox, has them peer-review each other, then a neutral verifier replays every candidate, runs the tests, and merges the one that passes. Run metadata (prompts, models, commands, logs...",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-07-07",
+      "lastChecked": "2026-07-07",
       "source": "scraper-kyrolabs"
     }
   ]

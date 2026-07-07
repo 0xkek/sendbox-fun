@@ -10902,6 +10902,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sendbox.fun/tools/h5i</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sendbox.fun/compare/chatgpt-vs-claude</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
