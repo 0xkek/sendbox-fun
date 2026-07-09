@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T09:49:38.508086+00:00",
+  "lastUpdated": "2026-07-09T15:22:09.297184+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53020,6 +53020,34 @@
       "founded": "",
       "addedDate": "2026-07-07",
       "lastChecked": "2026-07-07",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "codealmanac",
+      "name": "CodeAlmanac",
+      "url": "https://github.com/AlmanacCode/codealmanac",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Self-updating repo wiki for AI coding agents that tracks project conversations, decisions, and context locally inside the repository",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-07-09",
+      "lastChecked": "2026-07-09",
       "source": "scraper-kyrolabs"
     }
   ]
