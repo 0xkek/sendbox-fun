@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T02:52:38.738715+00:00",
+  "lastUpdated": "2026-07-15T08:23:21.336662+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53048,6 +53048,34 @@
       "founded": "",
       "addedDate": "2026-07-09",
       "lastChecked": "2026-07-09",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "agent-teams-ai",
+      "name": "Agent Teams AI",
+      "url": "https://github.com/777genius/agent-teams-ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source desktop orchestrator for autonomous coding-agent teams with task delegation, inter-agent messaging, Kanban, and code review across multiple agent runtimes",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-07-15",
+      "lastChecked": "2026-07-15",
       "source": "scraper-kyrolabs"
     }
   ]
