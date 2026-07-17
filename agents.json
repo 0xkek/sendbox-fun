@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T08:18:59.256045+00:00",
+  "lastUpdated": "2026-07-17T13:49:55.986491+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53113,6 +53113,34 @@
       "verified": false,
       "trustScore": 0,
       "description": "Deep cybersecurity research agent for your cloud, code and runtime. Read-only, sandboxed",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-07-17",
+      "lastChecked": "2026-07-17",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "agentlas-os",
+      "name": "Agentlas-OS",
+      "url": "https://github.com/agentlas-ai/Agentlas-OS",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Local-first, model-agnostic Agent Operation Environment (AOE) for building, borrowing, and orchestrating specialist agents and teams across supported LLM hosts, with owner-scoped packages and host-enforced permissions",
       "ourReview": "",
       "categories": [
         "dev-tools"
