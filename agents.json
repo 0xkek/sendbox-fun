@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T03:16:56.010441+00:00",
+  "lastUpdated": "2026-07-17T08:18:59.256045+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53076,6 +53076,62 @@
       "founded": "",
       "addedDate": "2026-07-15",
       "lastChecked": "2026-07-15",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "tura",
+      "name": "Tura",
+      "url": "https://github.com/Tura-AI/tura",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-07-17",
+      "lastChecked": "2026-07-17",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "cynative",
+      "name": "Cynative",
+      "url": "https://github.com/cynative/cynative",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Deep cybersecurity research agent for your cloud, code and runtime. Read-only, sandboxed",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-07-17",
+      "lastChecked": "2026-07-17",
       "source": "scraper-kyrolabs"
     }
   ]
