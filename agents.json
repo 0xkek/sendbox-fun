@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T19:48:59.020534+00:00",
+  "lastUpdated": "2026-07-21T03:19:44.980367+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53160,6 +53160,62 @@
       "founded": "",
       "addedDate": "2026-07-17",
       "lastChecked": "2026-07-17",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "orca",
+      "name": "Orca",
+      "url": "https://github.com/echoVic/blade-deepseek",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A DeepSeek-native terminal coding agent in Rust with OS-level sandboxing, persistent goal mode, background tasks, and verification gates",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-07-21",
+      "lastChecked": "2026-07-21",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "orkas",
+      "name": "Orkas",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Local-first multi-agent desktop application where a Commander coordinates specialist agents for research, coding, data analysis, documents, and media; MIT-licensed with bring-your-own model keys",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-07-21",
+      "lastChecked": "2026-07-21",
       "source": "scraper-kyrolabs"
     }
   ]
