@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T03:19:13.451738+00:00",
+  "lastUpdated": "2026-07-24T08:34:06.246814+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53216,6 +53216,34 @@
       "founded": "",
       "addedDate": "2026-07-21",
       "lastChecked": "2026-07-21",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "fractal",
+      "name": "fractal",
+      "url": "https://github.com/plasma-ai/fractal",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Runs Claude Code, Codex, and other coding agents as a recursive tree of autonomous loops. Each node works in its own git worktree and can delegate subtasks to child nodes, while a live terminal UI lets operators inspect and steer the tree within configurable time, cost, and depth limits",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-07-24",
+      "lastChecked": "2026-07-24",
       "source": "scraper-kyrolabs"
     }
   ]
