@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T13:41:23.982981+00:00",
+  "lastUpdated": "2026-07-26T19:18:47.899619+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53244,6 +53244,34 @@
       "founded": "",
       "addedDate": "2026-07-24",
       "lastChecked": "2026-07-24",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "iwe",
+      "name": "IWE",
+      "url": "https://github.com/iwe-org/iwe",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Markdown knowledge graph for you and your AI agents \u2014 editor LSP plus CLI and MCP server so agents can search, retrieve, and refactor plain-text notes",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-07-26",
+      "lastChecked": "2026-07-26",
       "source": "scraper-kyrolabs"
     }
   ]

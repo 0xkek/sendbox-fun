@@ -10956,6 +10956,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sendbox.fun/tools/iwe</loc>
+    <lastmod>2026-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sendbox.fun/compare/instantly-vs-lemlist</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
