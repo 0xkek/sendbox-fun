@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T19:40:44.537683+00:00",
+  "lastUpdated": "2026-07-31T03:30:19.581274+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53272,6 +53272,34 @@
       "founded": "",
       "addedDate": "2026-07-26",
       "lastChecked": "2026-07-26",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "opencodereview",
+      "name": "OpenCodeReview",
+      "url": "https://github.com/alibaba/open-code-review",
+      "verified": false,
+      "trustScore": 0,
+      "description": "An open-source hybrid code reviewer combining deterministic rules with an LLM agent (tool-use, line-level comments); self-hostable, bring-your-own model",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-07-31",
+      "lastChecked": "2026-07-31",
       "source": "scraper-kyrolabs"
     }
   ]
