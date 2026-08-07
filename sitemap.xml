@@ -10980,6 +10980,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sendbox.fun/tools/awesome-ade</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sendbox.fun/compare/instantly-vs-lemlist</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

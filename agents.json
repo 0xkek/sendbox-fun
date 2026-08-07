@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T13:15:24.916865+00:00",
+  "lastUpdated": "2026-08-07T19:03:55.208702+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53356,6 +53356,34 @@
       "founded": "",
       "addedDate": "2026-08-06",
       "lastChecked": "2026-08-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "awesome-ade",
+      "name": "Awesome ADE",
+      "url": "https://github.com/kyrolabs/awesome-ade",
+      "verified": false,
+      "trustScore": 0,
+      "description": "open-source **Agentic Development Environments**: orchestrators for running coding agents in parallel, TUI and tmux harnesses, desktop and web workspaces, worktree and container isolation",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-08-07",
+      "lastChecked": "2026-08-07",
       "source": "scraper-kyrolabs"
     }
   ]
