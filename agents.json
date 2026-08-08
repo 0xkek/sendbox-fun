@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T01:59:01.913162+00:00",
+  "lastUpdated": "2026-08-08T07:01:31.077999+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53384,6 +53384,34 @@
       "founded": "",
       "addedDate": "2026-08-07",
       "lastChecked": "2026-08-07",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "compozyos",
+      "name": "CompozyOS",
+      "url": "https://github.com/compozy/compozy",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source operating system for AI agents \u2014 plug in the agent CLIs you already use and run them as a team on loops and schedules, with shared memory, permissions and approvals",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-08-08",
+      "lastChecked": "2026-08-08",
       "source": "scraper-kyrolabs"
     }
   ]
