@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T19:08:37.284062+00:00",
+  "lastUpdated": "2026-08-12T02:23:19.047385+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53552,6 +53552,34 @@
       "founded": "",
       "addedDate": "2026-08-11",
       "lastChecked": "2026-08-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "lobu",
+      "name": "Lobu",
+      "url": "https://github.com/lobu-ai/lobu",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source context and control plane for AI agents. Connect company tools once and share permission-aware context across ChatGPT, Claude, Codex, OpenClaw and custom agents, with MCP, scoped identities, approvals and audit",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-08-12",
+      "lastChecked": "2026-08-12",
       "source": "scraper-kyrolabs"
     }
   ]
