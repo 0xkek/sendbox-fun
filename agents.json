@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T02:24:51.670597+00:00",
+  "lastUpdated": "2026-08-13T07:41:31.515676+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53580,6 +53580,62 @@
       "founded": "",
       "addedDate": "2026-08-12",
       "lastChecked": "2026-08-12",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "openprogram",
+      "name": "OpenProgram",
+      "url": "https://github.com/Fzkuji/OpenProgram",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Self-programming AI agent framework where agents create and refine their own workflows, with multi-agent orchestration, persistent sessions, sandboxed execution, and desktop and web interfaces",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-08-13",
+      "lastChecked": "2026-08-13",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "atomic-agent",
+      "name": "Atomic Agent",
+      "url": "https://github.com/AtomicBot-ai/atomic-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine via a llama.cpp fork. No account or API key required, with 56 tools (browser, filesystem, git, memory, vision), MCP support, and 5-layer local memory. macOS, Linux, and Windows",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-08-13",
+      "lastChecked": "2026-08-13",
       "source": "scraper-kyrolabs"
     }
   ]
