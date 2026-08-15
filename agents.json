@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T01:34:58.836410+00:00",
+  "lastUpdated": "2026-08-15T06:46:59.011609+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53636,6 +53636,34 @@
       "founded": "",
       "addedDate": "2026-08-13",
       "lastChecked": "2026-08-13",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "sandbase-harness",
+      "name": "SandBase Harness",
+      "url": "https://github.com/sandbaseai/sandbase-harness",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Local-first managed agent runtime with persistent sessions, sandboxed execution, MCP tools, audit, replay, and a human console",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-08-15",
+      "lastChecked": "2026-08-15",
       "source": "scraper-kyrolabs"
     }
   ]
