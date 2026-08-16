@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T01:41:38.269078+00:00",
+  "lastUpdated": "2026-08-16T06:48:12.593532+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53664,6 +53664,34 @@
       "founded": "",
       "addedDate": "2026-08-15",
       "lastChecked": "2026-08-15",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "openviking",
+      "name": "OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Self-evolving Context Database for AI Agents \u2014 unifies Agent Memory, Knowledge RAG, and Skills behind a single interface, with a portable Agent Plugins package format (agent-plugins.org)",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-08-16",
+      "lastChecked": "2026-08-16",
       "source": "scraper-kyrolabs"
     }
   ]
