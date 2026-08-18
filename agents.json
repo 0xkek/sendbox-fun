@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T01:35:04.765706+00:00",
+  "lastUpdated": "2026-08-18T06:52:12.931041+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53692,6 +53692,62 @@
       "founded": "",
       "addedDate": "2026-08-16",
       "lastChecked": "2026-08-16",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "clawmetry",
+      "name": "ClawMetry",
+      "url": "https://github.com/vivekchand/clawmetry",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source, zero-config real-time observability dashboard for AI agent runtimes (Claude Code, Codex, Cursor, Hermes and more) with sessions, token and cost analytics, and OTLP ingestion",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-08-18",
+      "lastChecked": "2026-08-18",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "keen-code",
+      "name": "Keen Code",
+      "url": "https://github.com/mochow13/keen-code",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source, context-aware terminal coding agent written in Go with multiple providers, Turn Memory for controllable cross-turn tool-output retention, skill-driven MCP integration, subagents, Agent Skills, and hashline edits",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-08-18",
+      "lastChecked": "2026-08-18",
       "source": "scraper-kyrolabs"
     }
   ]
