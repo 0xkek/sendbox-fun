@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T12:58:24.921336+00:00",
+  "lastUpdated": "2026-08-20T18:47:10.950914+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53748,6 +53748,34 @@
       "founded": "",
       "addedDate": "2026-08-18",
       "lastChecked": "2026-08-18",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "agent-swarm",
+      "name": "Agent Swarm",
+      "url": "https://github.com/desplega-ai/agent-swarm",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Self-hosted multi-agent system where a lead agent delegates tasks to specialized workers with shared memory, tools, schedules, and review gates",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-08-20",
+      "lastChecked": "2026-08-20",
       "source": "scraper-kyrolabs"
     }
   ]
