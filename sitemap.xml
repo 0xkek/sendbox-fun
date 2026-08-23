@@ -11070,6 +11070,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sendbox.fun/tools/5dive</loc>
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sendbox.fun/compare/openrouter-vs-litellm</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

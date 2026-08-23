@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T06:49:45.573059+00:00",
+  "lastUpdated": "2026-08-23T12:50:20.079160+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53776,6 +53776,34 @@
       "founded": "",
       "addedDate": "2026-08-20",
       "lastChecked": "2026-08-20",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "5dive",
+      "name": "5dive",
+      "url": "https://github.com/5dive-ai/5dive",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Run a company of AI agents on a server you own \u2014 named agents on an org chart with a shared backlog, handing off work and pinging your phone only when a human must decide",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-08-23",
+      "lastChecked": "2026-08-23",
       "source": "scraper-kyrolabs"
     }
   ]
