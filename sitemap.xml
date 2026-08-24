@@ -11346,11 +11346,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/blog/new-ai-tools-week-2026-34</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/blog/best-email-ai-tools-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -11362,6 +11357,11 @@
   </url>
   <url>
     <loc>https://sendbox.fun/blog/best-productivity-ai-tools-2026</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/blog/new-ai-tools-week-2026-35</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
