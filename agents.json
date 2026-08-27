@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T19:52:02.716755+00:00",
+  "lastUpdated": "2026-08-27T08:37:39.158002+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53804,6 +53804,34 @@
       "founded": "",
       "addedDate": "2026-08-23",
       "lastChecked": "2026-08-23",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "agent-sdk-go",
+      "name": "agent-sdk-go",
+      "url": "https://github.com/agenticenv/agent-sdk-go",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Framework for building stateful AI agents in Go",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-08-27",
+      "lastChecked": "2026-08-27",
       "source": "scraper-kyrolabs"
     }
   ]
