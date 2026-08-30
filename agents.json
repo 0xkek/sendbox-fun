@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T20:45:33.498954+00:00",
+  "lastUpdated": "2026-08-30T04:50:12.550980+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53832,6 +53832,34 @@
       "founded": "",
       "addedDate": "2026-08-27",
       "lastChecked": "2026-08-27",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "caura",
+      "name": "Caura",
+      "url": "https://github.com/caura-ai/caura",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source governed shared memory for AI agent fleets with cross-agent recall, permissions, audit trails, and persistent memory",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-08-30",
+      "lastChecked": "2026-08-30",
       "source": "scraper-kyrolabs"
     }
   ]
