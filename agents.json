@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T16:11:10.417070+00:00",
+  "lastUpdated": "2026-09-03T20:48:54.590507+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53860,6 +53860,34 @@
       "founded": "",
       "addedDate": "2026-08-30",
       "lastChecked": "2026-08-30",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "pond",
+      "name": "pond",
+      "url": "https://github.com/tenequm/pond",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Lossless storage and search for AI agent sessions across every agentic client",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-09-03",
+      "lastChecked": "2026-09-03",
       "source": "scraper-kyrolabs"
     }
   ]
