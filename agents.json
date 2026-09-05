@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T14:55:27.810067+00:00",
+  "lastUpdated": "2026-09-05T20:10:01.370441+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53888,6 +53888,34 @@
       "founded": "",
       "addedDate": "2026-09-03",
       "lastChecked": "2026-09-03",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "openhuman",
+      "name": "OpenHuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Local-first personal AI agent for the desktop: agents, workflows, MCP client, local models via Ollama",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-09-05",
+      "lastChecked": "2026-09-05",
       "source": "scraper-kyrolabs"
     }
   ]
