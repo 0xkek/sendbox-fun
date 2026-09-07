@@ -11100,6 +11100,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sendbox.fun/tools/kapso</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sendbox.fun/compare/aider-vs-cline</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -11350,17 +11356,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/blog/new-ai-tools-week-2026-36</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sendbox.fun/blog/best-assistant-ai-tools-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sendbox.fun/blog/best-design-ai-tools-2026</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/blog/new-ai-tools-week-2026-37</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

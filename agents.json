@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T20:14:46.983028+00:00",
+  "lastUpdated": "2026-09-07T03:58:16.380791+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53916,6 +53916,34 @@
       "founded": "",
       "addedDate": "2026-09-05",
       "lastChecked": "2026-09-05",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "kapso",
+      "name": "Kapso",
+      "url": "https://github.com/Leeroo-AI/kapso",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A self-improving AI software factory (for measurable objectives). \\#1 open-source on MLE-Bench; ALE-Bench; RelBench",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-09-07",
+      "lastChecked": "2026-09-07",
       "source": "scraper-kyrolabs"
     }
   ]
