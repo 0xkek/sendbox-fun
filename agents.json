@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T10:58:32.237465+00:00",
+  "lastUpdated": "2026-09-08T16:23:48.243324+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53944,6 +53944,34 @@
       "founded": "",
       "addedDate": "2026-09-07",
       "lastChecked": "2026-09-07",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "busabase",
+      "name": "Busabase",
+      "url": "https://github.com/busabase/busabase",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Local-first database and workspace for AI agents that keeps structured data, durable knowledge, documents, files, skills, and apps in one searchable place. Agents connect through MCP, OpenAPI, CLI, or coding-agent skills, and material writes can remain reviewable ChangeRequests before becoming ca...",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-09-08",
+      "lastChecked": "2026-09-08",
       "source": "scraper-kyrolabs"
     }
   ]
