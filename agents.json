@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T11:29:07.240472+00:00",
+  "lastUpdated": "2026-09-13T15:57:47.822104+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -53972,6 +53972,62 @@
       "founded": "",
       "addedDate": "2026-09-08",
       "lastChecked": "2026-09-08",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "tenuo",
+      "name": "Tenuo",
+      "url": "https://github.com/tenuo-ai/tenuo",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Per-call authorization for agent tools. Each call is checked at the argument level, and authority is traced across delegation chains",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-09-13",
+      "lastChecked": "2026-09-13",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "webcmd",
+      "name": "Webcmd",
+      "url": "https://github.com/agentrhq/webcmd",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Self-learning browser infrastructure for AI agents that records how a site is navigated, then compiles it into deterministic per-site CLI commands",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-09-13",
+      "lastChecked": "2026-09-13",
       "source": "scraper-kyrolabs"
     }
   ]
