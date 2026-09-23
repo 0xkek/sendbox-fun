@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T21:06:31.989354+00:00",
+  "lastUpdated": "2026-09-23T04:14:48.398156+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -54056,6 +54056,34 @@
       "founded": "",
       "addedDate": "2026-09-18",
       "lastChecked": "2026-09-18",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "slicc",
+      "name": "SLICC",
+      "url": "https://github.com/ai-ecoverse/slicc",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Browser-native agent runtime with a POSIX shell, virtual filesystem, git, and sandboxed parallel sub-agents, driving web apps through the browser session the user is already signed in to",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-09-23",
+      "lastChecked": "2026-09-23",
       "source": "scraper-kyrolabs"
     }
   ]
