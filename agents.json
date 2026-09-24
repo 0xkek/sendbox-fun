@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T16:53:43.864127+00:00",
+  "lastUpdated": "2026-09-24T21:21:55.285437+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -54113,6 +54113,34 @@
       "addedDate": "2026-09-24",
       "lastChecked": "2026-09-24",
       "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "hire-slava",
+      "name": "Hire Slava",
+      "url": "https://cal.com/slavakurilyak/discovery-call",
+      "verified": false,
+      "trustScore": 0,
+      "description": "\u00b7",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-09-24",
+      "lastChecked": "2026-09-24",
+      "source": "scraper-slava"
     }
   ]
 }
