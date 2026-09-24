@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T21:20:17.962789+00:00",
+  "lastUpdated": "2026-09-24T04:10:31.315155+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -54084,6 +54084,34 @@
       "founded": "",
       "addedDate": "2026-09-23",
       "lastChecked": "2026-09-23",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "socai",
+      "name": "socai",
+      "url": "https://github.com/socai-io/socai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source browser-use agent for social-media research that reuses a signed-in Chrome session to search and read posts and comments, capture media, and return structured evidence through CLI, TUI, or Desktop",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-09-24",
+      "lastChecked": "2026-09-24",
       "source": "scraper-kyrolabs"
     }
   ]
