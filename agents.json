@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T11:08:03.289644+00:00",
+  "lastUpdated": "2026-09-26T16:08:59.417213+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -54180,6 +54180,34 @@
       "ourReview": "",
       "categories": [
         "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-09-26",
+      "lastChecked": "2026-09-26",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "jev-social",
+      "name": "Jev Social",
+      "url": "https://github.com/socai-io/jev-social",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source social-media research agent where Jev selects bounded read-only operations across Instagram, TikTok, and LinkedIn; the local socai CLI collects browser evidence and the app streams posts, media, and a cited report",
+      "ourReview": "",
+      "categories": [
+        "social"
       ],
       "subcategories": [],
       "bestFor": [],
