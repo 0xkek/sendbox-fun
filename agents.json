@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T04:27:42.512500+00:00",
+  "lastUpdated": "2026-09-26T11:08:03.289644+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -54141,6 +54141,62 @@
       "addedDate": "2026-09-24",
       "lastChecked": "2026-09-24",
       "source": "scraper-slava"
+    },
+    {
+      "id": "ordewell",
+      "name": "Ordewell",
+      "url": "https://github.com/ordewell/ordewell",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Terminal CLI and TUI that turns one goal into an ordered, editable plan of coding agent tasks, then runs each task as its own session on the harness you pick per task, with its own model, mode and effort, and accepts a task as done only when its unique completion marker appears in that runner's o...",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-09-26",
+      "lastChecked": "2026-09-26",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "orbi",
+      "name": "Orbi",
+      "url": "https://github.com/orbi-build/orbi",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Self-hosted autonomous coding agent that takes a labelled GitHub Issue through implementation, an independent review session, merge of the exact reviewed head, and a tagged release",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-09-26",
+      "lastChecked": "2026-09-26",
+      "source": "scraper-kyrolabs"
     }
   ]
 }
