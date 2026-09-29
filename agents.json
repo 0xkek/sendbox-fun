@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T12:30:56.604312+00:00",
+  "lastUpdated": "2026-09-29T22:05:10.365015+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -54224,6 +54224,34 @@
       "founded": "",
       "addedDate": "2026-09-26",
       "lastChecked": "2026-09-26",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "raven",
+      "name": "Raven",
+      "url": "https://github.com/EverMind-AI/Raven",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The Harness of Harnesses, built for recursive self-improvement: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-09-29",
+      "lastChecked": "2026-09-29",
       "source": "scraper-kyrolabs"
     }
   ]
