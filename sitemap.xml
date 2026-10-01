@@ -11172,6 +11172,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sendbox.fun/tools/agent-manager</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sendbox.fun/compare/mailchimp-vs-convertkit</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

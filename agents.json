@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T12:50:40.696676+00:00",
+  "lastUpdated": "2026-10-01T22:31:37.048640+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -54252,6 +54252,34 @@
       "founded": "",
       "addedDate": "2026-09-29",
       "lastChecked": "2026-09-29",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "agent-manager",
+      "name": "agent-manager",
+      "url": "https://github.com/YoanWai/agent-manager",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Terminal UI that runs coding-agent CLIs side by side, each in its own persistent tmux session, with live status, quick prompts, git worktrees and diff review",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-01",
+      "lastChecked": "2026-10-01",
       "source": "scraper-kyrolabs"
     }
   ]
