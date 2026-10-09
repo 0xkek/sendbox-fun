@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T23:09:13.153914+00:00",
+  "lastUpdated": "2026-10-09T05:34:37.421448+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -54308,6 +54308,62 @@
       "founded": "",
       "addedDate": "2026-10-06",
       "lastChecked": "2026-10-06",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "pydantic-deep-agents",
+      "name": "Pydantic Deep Agents",
+      "url": "https://github.com/vstorm-co/pydantic-deepagents",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Python agent framework built on Pydantic AI, with planning, sub-agents, file and shell tools, MCP and optional Docker sandboxing; also ships as a terminal coding agent",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-09",
+      "lastChecked": "2026-10-09",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "wmux",
+      "name": "wmux",
+      "url": "https://github.com/openwong2kim/wmux",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Desktop workspace for running Claude Code, Codex, Gemini CLI and other CLI agents side by side on Windows and macOS, with up to 8 parallel tasks each in its own git worktree, hunk-level diff adoption, approval gates for agent tool calls, agent-to-agent channels and sessions that survive reboots",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-09",
+      "lastChecked": "2026-10-09",
       "source": "scraper-kyrolabs"
     }
   ]
