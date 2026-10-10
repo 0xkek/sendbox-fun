@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T05:18:32.107897+00:00",
+  "lastUpdated": "2026-10-10T12:13:34.767953+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -54364,6 +54364,62 @@
       "founded": "",
       "addedDate": "2026-10-09",
       "lastChecked": "2026-10-09",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "reevesagents",
+      "name": "ReevesAgents",
+      "url": "https://github.com/mertkayacs/reevesagents",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Local workspace that runs coding-agent CLIs side by side in tmux, driven from a TUI, a local Web UI, or the CLI, with an opt-in MCP server so one agent can spawn, read, and steer the others",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "research-toolkit",
+      "name": "Research Toolkit",
+      "url": "https://github.com/rrrrrredy/research-toolkit",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Research methods, workflow tools, and independent review for AI agents producing source-backed reports",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-10",
+      "lastChecked": "2026-10-10",
       "source": "scraper-kyrolabs"
     }
   ]

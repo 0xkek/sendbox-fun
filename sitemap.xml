@@ -11196,6 +11196,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sendbox.fun/tools/reevesagents</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/tools/research-toolkit</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sendbox.fun/compare/mailchimp-vs-convertkit</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
