@@ -11208,6 +11208,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sendbox.fun/tools/claude-code-local</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/tools/markus</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/tools/redamon</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sendbox.fun/compare/mailchimp-vs-convertkit</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -11463,6 +11481,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sendbox.fun/blog/new-ai-tools-week-2026-42</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sendbox.fun/blog/best-content-ai-tools-2026</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -11499,11 +11522,6 @@
   </url>
   <url>
     <loc>https://sendbox.fun/blog/best-analytics-ai-tools-2026</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sendbox.fun/blog/new-ai-tools-week-2026-41</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

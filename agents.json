@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T21:42:19.119353+00:00",
+  "lastUpdated": "2026-10-12T05:23:21.186390+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -54420,6 +54420,90 @@
       "founded": "",
       "addedDate": "2026-10-10",
       "lastChecked": "2026-10-10",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "claude-code-local",
+      "name": "Claude Code Local",
+      "url": "https://github.com/nicedreamzapp/claude-code-local",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Runs the Claude Code agent fully on-device on Apple Silicon through a local MLX server that speaks the Anthropic Messages API, with a tool-call parser for local models' output formats",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-12",
+      "lastChecked": "2026-10-12",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "markus",
+      "name": "Markus",
+      "url": "https://github.com/markus-global/markus",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source AI workforce platform for building and running AI agent teams, with role-based agents, task delegation, persistent memory, and inter-agent communication",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-12",
+      "lastChecked": "2026-10-12",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "redamon",
+      "name": "RedAmon",
+      "url": "https://github.com/samugit83/redamon",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Self-hosted AI penetration testing agent built on LangGraph that maps the attack surface into a graph, exploits it from a Kali sandbox with human approval gates, and opens pull requests with fixes",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-12",
+      "lastChecked": "2026-10-12",
       "source": "scraper-kyrolabs"
     }
   ]
