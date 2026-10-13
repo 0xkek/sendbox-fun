@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T14:59:45.125560+00:00",
+  "lastUpdated": "2026-10-13T00:26:07.263973+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -54504,6 +54504,34 @@
       "founded": "",
       "addedDate": "2026-10-12",
       "lastChecked": "2026-10-12",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "openconnector",
+      "name": "OpenConnector",
+      "url": "https://github.com/oomol-lab/open-connector",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source connector gateway for agents to discover and execute SaaS actions through MCP, HTTP, and OpenAPI, with OAuth/API-key credential management and scoped runtime tokens",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-13",
+      "lastChecked": "2026-10-13",
       "source": "scraper-kyrolabs"
     }
   ]
