@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T11:32:34.455165+00:00",
+  "lastUpdated": "2026-10-14T16:55:04.407540+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -54532,6 +54532,34 @@
       "founded": "",
       "addedDate": "2026-10-13",
       "lastChecked": "2026-10-13",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "cuga",
+      "name": "CUGA",
+      "url": "https://github.com/cuga-project/cuga-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "IBM Research's generalist agent harness built on LangGraph. Executes tasks over APIs and the web, with policy and human-in-the-loop controls, multi-agent supervision with remote A2A agents, and agent skills",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-14",
+      "lastChecked": "2026-10-14",
       "source": "scraper-kyrolabs"
     }
   ]
