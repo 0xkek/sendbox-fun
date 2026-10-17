@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T03:52:00.889088+00:00",
+  "lastUpdated": "2026-10-17T10:25:12.396091+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -54560,6 +54560,62 @@
       "founded": "",
       "addedDate": "2026-10-14",
       "lastChecked": "2026-10-14",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "omnara",
+      "name": "Omnara",
+      "url": "https://github.com/omnara-ai/omnara",
+      "verified": false,
+      "trustScore": 0,
+      "description": "The open-source managed agent platform: run durable AI agents on any model and any machine, from sandboxes to your own laptop, with MCP, skills, subagents, and human approvals. A self-hostable alternative to Claude Managed Agents and OpenAI's Agents API",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-17",
+      "lastChecked": "2026-10-17",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "station",
+      "name": "Station",
+      "url": "https://github.com/dualverse-ai/station",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source research environment where AI agents run experiments, collaborate and build a shared scientific literature",
+      "ourReview": "",
+      "categories": [
+        "research"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-17",
+      "lastChecked": "2026-10-17",
       "source": "scraper-kyrolabs"
     }
   ]
