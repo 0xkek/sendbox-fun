@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T22:11:10.872072+00:00",
+  "lastUpdated": "2026-10-20T04:20:07.862488+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -54616,6 +54616,34 @@
       "founded": "",
       "addedDate": "2026-10-17",
       "lastChecked": "2026-10-17",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "fsb-full-self-browsing",
+      "name": "FSB (Full Self Browsing)",
+      "url": "https://github.com/fullselfbrowsing/FSB",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source Chrome extension and MCP server that lets MCP clients such as Claude Code, Codex, and Cursor drive your signed-in Chromium browser by reading the live DOM, with per-agent tab routing and a credential vault the model never sees",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-20",
+      "lastChecked": "2026-10-20",
       "source": "scraper-kyrolabs"
     }
   ]
