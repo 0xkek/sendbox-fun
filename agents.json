@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T21:14:16.040761+00:00",
+  "lastUpdated": "2026-10-24T04:05:05.384026+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -54644,6 +54644,454 @@
       "founded": "",
       "addedDate": "2026-10-20",
       "lastChecked": "2026-10-20",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "lumibot",
+      "name": "LumiBot",
+      "url": "https://github.com/Lumiwealth/lumibot",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source Python framework for AI trading agents. Research agents pass findings to one trading agent, and the same strategy code runs in backtests and live trading through 12 brokers",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-24",
+      "lastChecked": "2026-10-24",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "automatos-ai",
+      "name": "Automatos AI",
+      "url": "https://github.com/AutomatosAI/automatos-ai",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Self-hosted AI agent platform (Apache-2.0): one chat routes work to a team of agents on any model or on your own Claude Code, Codex and GitHub Copilot CLI sessions, with Playbooks, multi-agent Missions, a task board, RAG and a Knowledge Graph",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-24",
+      "lastChecked": "2026-10-24",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "atomic-agents",
+      "name": "Atomic Agents",
+      "url": "https://github.com/eigenwise/atomic-agents",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Python framework for building agents from small typed parts, built on Instructor and Pydantic, with built-in OpenTelemetry tracing",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-24",
+      "lastChecked": "2026-10-24",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "future-agi",
+      "name": "Future AGI",
+      "url": "https://github.com/future-agi/future-agi",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source, self-hostable platform to evaluate, trace and guard AI agents. LLM-as-judge and code-based evals, OpenTelemetry trace ingest, and an OpenAI-compatible gateway with guardrails for PII, prompt injection and secret leaks",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-24",
+      "lastChecked": "2026-10-24",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "dex",
+      "name": "Dex",
+      "url": "https://github.com/exmergo/dex",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Analytics engineering skills for Claude Code, Codex and other agents that explore a warehouse read-only (profiles, PII flags, verified joins), author dbt models and semantic layers as reviewable diffs, and detect schema drift, with cost confirmed before any warehouse spend",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-24",
+      "lastChecked": "2026-10-24",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "crewly",
+      "name": "Crewly",
+      "url": "https://github.com/stevehuang0115/crewly",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source platform that runs a team of role-based agents (developer, QA, PM, orchestrator) on Claude Code, Codex or Gemini CLI, with task delegation, shared memory and a live web dashboard of agent terminals",
+      "ourReview": "",
+      "categories": [
+        "analytics"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-24",
+      "lastChecked": "2026-10-24",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "mixdog",
+      "name": "Mixdog",
+      "url": "https://github.com/tribgames/mixdog",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source desktop coding agent where a lead model plans and cheaper models handle search, edits and review",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-24",
+      "lastChecked": "2026-10-24",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "octomind",
+      "name": "Octomind",
+      "url": "https://github.com/muvon/octomind",
+      "verified": false,
+      "trustScore": 0,
+      "description": "CLI-first AI coding agent runtime in Rust. One binary, any model provider, MCP-native; runs interactively, piped in CI, as a daemon, over WebSocket, or as an ACP agent inside editors",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-24",
+      "lastChecked": "2026-10-24",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "oh-my-agent",
+      "name": "oh-my-agent",
+      "url": "https://github.com/first-fluke/oh-my-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source agent harness that installs into 14 coding-agent runtimes, including Claude Code, Codex CLI and Cursor, keeps its skills once in `.agents/skills/` and links them into each runtime's skill folder, and has an optional Stop hook that runs the project's typecheck, test or lint script befo...",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-24",
+      "lastChecked": "2026-10-24",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "preloop",
+      "name": "Preloop",
+      "url": "https://github.com/preloop/preloop",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source AI agent control plane and software factory: every tool and model call allowed, denied or held for a human, budgeted and recorded, and agents run from tickets, webhooks and CI in hosted containers or on your own runners, landing work as pull requests",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-24",
+      "lastChecked": "2026-10-24",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "oh-my-hermes",
+      "name": "Oh My Hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Workflow plugin for Hermes Agent adding specialist skills, project memory, and task-specific model and reasoning routing",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-24",
+      "lastChecked": "2026-10-24",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "concord-mcp",
+      "name": "Concord MCP",
+      "url": "https://github.com/Get-Concord-AI/concord-mcp",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Local-first shared work-state for coding agents: presence, claims, messaging and handoffs",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-24",
+      "lastChecked": "2026-10-24",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "lia",
+      "name": "LIA",
+      "url": "https://github.com/jgouviergmail/LIA-Assistant",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Self-hostable personal AI assistant built with LangGraph, combining email and calendar tools, persistent memory, MCP integration, and human approval flows for actions",
+      "ourReview": "",
+      "categories": [
+        "assistant"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-24",
+      "lastChecked": "2026-10-24",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "enzo",
+      "name": "ENZO",
+      "url": "https://github.com/theguysudo/ENZO",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Self-hosted AI workspace that runs entirely on your own provider keys (BYOK) \u2014 coding mode with build verification, research, agents, skills and tools (Gmail, Calendar), with a sandboxed runtime for LLM-generated code",
+      "ourReview": "",
+      "categories": [
+        "productivity"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-24",
+      "lastChecked": "2026-10-24",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "agenticos",
+      "name": "AgenticOS",
+      "url": "https://github.com/vstorm-co/agenticos",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source, self-hosted workspace for company AI agents, built on Pydantic AI, with budgets, approvals and an audit log",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-24",
+      "lastChecked": "2026-10-24",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "nanobrowser",
+      "name": "Nanobrowser",
+      "url": "https://github.com/nanobrowser/nanobrowser",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source Chrome/Edge extension where an AI agent completes web tasks in your real, logged-in browser from a side panel; runs several tasks side by side, asks before submitting or deleting anything, and works with cloud or local models",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-24",
+      "lastChecked": "2026-10-24",
       "source": "scraper-kyrolabs"
     }
   ]
