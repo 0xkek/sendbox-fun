@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T04:30:15.822617+00:00",
+  "lastUpdated": "2026-10-27T11:53:41.812063+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -55092,6 +55092,118 @@
       "founded": "",
       "addedDate": "2026-10-24",
       "lastChecked": "2026-10-24",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "speakeasy-control-plane",
+      "name": "Speakeasy control plane",
+      "url": "https://github.com/speakeasy-api/gram",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI control plane for connecting agents to MCP tools through an identity-aware gateway, with role-based access, per-action security policies, and audit logs",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-27",
+      "lastChecked": "2026-10-27",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "omk",
+      "name": "OMK",
+      "url": "https://github.com/dmae97/omk",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source multi-agent coding CLI for the terminal (TypeScript, MIT). Switch models mid-session; finish goals only when your test passes",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-27",
+      "lastChecked": "2026-10-27",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "shibaclaw",
+      "name": "ShibaClaw",
+      "url": "https://github.com/RikyZ90/ShibaClaw",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Self-hosted personal AI agent with a built-in WebUI, persistent memory, MCP tools, sub-agent delegation, scheduled automations, and support for local or cloud models",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-27",
+      "lastChecked": "2026-10-27",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "lazymind",
+      "name": "LazyMind",
+      "url": "https://github.com/LazyAGI/LazyMind",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source AI Skill Runtime combining reusable knowledge, executable skills, and observable workflows with human review checkpoints and editable artifacts for multi-step tasks",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-27",
+      "lastChecked": "2026-10-27",
       "source": "scraper-kyrolabs"
     }
   ]
