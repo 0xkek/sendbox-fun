@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T22:24:28.871288+00:00",
+  "lastUpdated": "2026-10-29T05:14:37.908738+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -55204,6 +55204,62 @@
       "founded": "",
       "addedDate": "2026-10-27",
       "lastChecked": "2026-10-27",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "kane-cli",
+      "name": "Kane CLI",
+      "url": "https://github.com/LambdaTest/kane-cli",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source AI test agent CLI by TestMu AI that turns requirements into end-to-end tests and runs them on desktop web, Android and iOS, with every test linked to the acceptance criteria it covers",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-29",
+      "lastChecked": "2026-10-29",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "shelly",
+      "name": "Shelly",
+      "url": "https://github.com/RYOITABASHI/Shelly",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source AI terminal and agent runtime for Android with a native PTY, bash/git/Python/Node bundled in the APK (no Termux, no PC), the Codex CLI built in, scheduled on-device agents, local LLMs and an MCP server",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-29",
+      "lastChecked": "2026-10-29",
       "source": "scraper-kyrolabs"
     }
   ]
