@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T22:37:10.538122+00:00",
+  "lastUpdated": "2026-10-30T05:14:17.357117+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -55260,6 +55260,90 @@
       "founded": "",
       "addedDate": "2026-10-29",
       "lastChecked": "2026-10-29",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "nodecode",
+      "name": "nodecode",
+      "url": "https://github.com/nodecode-ai/nodecode",
+      "verified": false,
+      "trustScore": 0,
+      "description": "A living agent organism in Lisp. It becomes yours and evolves over time",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-30",
+      "lastChecked": "2026-10-30",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "satori",
+      "name": "Satori",
+      "url": "https://github.com/MetcalfSolutions/Satori",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source wisdom companion (Apache 2.0) for coding agents and web chat, built to be outgrown: one lens per turn, a local SQLite memory vault, and trigger discipline that defers during coding tasks",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-30",
+      "lastChecked": "2026-10-30",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "mnemosyne",
+      "name": "Mnemosyne",
+      "url": "https://github.com/28naem-del/mnemosyne",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Local-first memory for AI agents in one SQLite file. Each memory keeps its source evidence, and correcting a source retires the memories recorded as depending on it, with exact replay and bisect in the 3.0 pre-release. TypeScript SDK, stdio MCP server, CLI and HTTP API",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-10-30",
+      "lastChecked": "2026-10-30",
       "source": "scraper-kyrolabs"
     }
   ]

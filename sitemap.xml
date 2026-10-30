@@ -11388,6 +11388,24 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sendbox.fun/tools/nodecode</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/tools/satori</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sendbox.fun/tools/mnemosyne</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sendbox.fun/compare/outreach-vs-salesloft</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
