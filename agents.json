@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T05:26:16.809268+00:00",
+  "lastUpdated": "2026-11-02T15:18:42.130427+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -55344,6 +55344,90 @@
       "founded": "",
       "addedDate": "2026-10-30",
       "lastChecked": "2026-10-30",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "most-capable-agent-system-prompt",
+      "name": "Most Capable Agent System Prompt",
+      "url": "https://github.com/fainir/most-capable-agent-system-prompt",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Copy-paste system prompt that has a coding agent build a file-based, self-improving agent system with task graphs, verification, memory, evals and approvals",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-02",
+      "lastChecked": "2026-11-02",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "uncut",
+      "name": "UNCUT",
+      "url": "https://github.com/Balanov/uncut",
+      "verified": false,
+      "trustScore": 0,
+      "description": "MIT-licensed lossless, headless coding agent harness that keeps complete conversation history, preserves full tool output, and resumes append-only JSONL sessions",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-02",
+      "lastChecked": "2026-11-02",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "hyperresearch",
+      "name": "hyperresearch",
+      "url": "https://github.com/jordan-gibbs/hyperresearch",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source CLI (MIT) that turns Claude Code or Codex into a deep research harness: wide-then-deep source gathering, a persistent markdown vault, and a citation check of every cited claim before the report ships",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-02",
+      "lastChecked": "2026-11-02",
       "source": "scraper-kyrolabs"
     }
   ]
