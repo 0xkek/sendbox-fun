@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T00:47:49.136072+00:00",
+  "lastUpdated": "2026-11-03T13:55:36.801333+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -55428,6 +55428,34 @@
       "founded": "",
       "addedDate": "2026-11-02",
       "lastChecked": "2026-11-02",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "happier",
+      "name": "Happier",
+      "url": "https://github.com/happier-dev/happier",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source, end-to-end encrypted, cross-device app to orchestrate Claude Code, Codex and other coding agents on your own machines from desktop, phone and web",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-03",
+      "lastChecked": "2026-11-03",
       "source": "scraper-kyrolabs"
     }
   ]
