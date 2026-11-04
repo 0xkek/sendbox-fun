@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T23:03:43.927916+00:00",
+  "lastUpdated": "2026-11-04T05:44:06.545831+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -55456,6 +55456,62 @@
       "founded": "",
       "addedDate": "2026-11-03",
       "lastChecked": "2026-11-03",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "career-ops",
+      "name": "career-ops",
+      "url": "https://github.com/career-ops-hq/career-ops",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AI job search agent for AI coding CLIs that scans company career pages, scores each job against your CV, tailors an ATS-friendly resume and tracks applications; you review and send every application yourself",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-04",
+      "lastChecked": "2026-11-04",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "esp32-iphone-agent",
+      "name": "ESP32 iPhone Agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Lets AI agents see and operate a real iPhone through an ESP32-S3 board that mirrors the screen over AirPlay and acts as a USB mouse and keyboard, with a CLI, MCP server and agent skill. No jailbreak",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-04",
+      "lastChecked": "2026-11-04",
       "source": "scraper-kyrolabs"
     }
   ]
