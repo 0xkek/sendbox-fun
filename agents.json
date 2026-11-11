@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T05:38:16.972623+00:00",
+  "lastUpdated": "2026-11-11T13:54:19.799290+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -55512,6 +55512,538 @@
       "founded": "",
       "addedDate": "2026-11-04",
       "lastChecked": "2026-11-04",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "sandbox-sdk",
+      "name": "Sandbox SDK",
+      "url": "https://github.com/opencoredev/sandbox-sdk",
+      "verified": false,
+      "trustScore": 0,
+      "description": "One TypeScript API for running agent code in sandboxes. Write it once and run it on E2B, Daytona, Vercel Sandbox, Docker and more",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "ava",
+      "name": "AVA",
+      "url": "https://github.com/antvis/AVA",
+      "verified": false,
+      "trustScore": 0,
+      "description": "AntV's TypeScript framework for AI agents to query files and databases, reuse business definitions, and generate interactive charts with inspectable queries and results",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "argus",
+      "name": "Argus",
+      "url": "https://github.com/gy15901580825/Argus",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source red-team testing for AI agents through chat endpoints, browsers, MCP tools and mock payments, with findings mapped to OWASP LLM Top 10, MITRE ATLAS and NIST AI RMF and SARIF output for CI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "nightshift",
+      "name": "Nightshift",
+      "url": "https://github.com/orwa-mahmoud/nightshift",
+      "verified": false,
+      "trustScore": 0,
+      "description": "MIT plugin for Claude Code, Codex and Cursor that runs long coding work as a shift: a persistent punch list, a Stop-hook gate that rejects premature clock-out, parked decisions in place of blocking questions, recovery of failed sessions, and a receipt per item",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "commonly",
+      "name": "Commonly",
+      "url": "https://github.com/Team-Commonly/commonly",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source pods where a software team and each person's own coding agents (Claude Code, Codex) share chat and one task board",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "agenc-core",
+      "name": "AgenC Core",
+      "url": "https://github.com/tetsuo-ai/agenc-core",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Turn any model into a stronger agent. Open source and built to outperform",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "codeaf",
+      "name": "CodeAF",
+      "url": "https://github.com/Agent-Field/CodeAF",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source software factory for coding with open models, written in Go. Work is split into tasks that run in parallel in separate copies of the repo, get checked, and merge when they pass; one window covers every project",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "prismor",
+      "name": "Prismor",
+      "url": "https://github.com/PrismorSec/prismor",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source runtime security for AI coding agents (Claude Code, Codex, Cursor and more). Hooks check every tool call against policy before it runs, mask secrets, block risky packages and egress, front MCP servers with a scanning gateway, and keep an audit trail",
+      "ourReview": "",
+      "categories": [
+        "coding"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "alysis-code",
+      "name": "Alysis Code",
+      "url": "https://github.com/AlysisAi/AlysisCode",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source, model-agnostic agent for coding and everyday computer work with sandboxed shell, MCP, skills and scheduled tasks",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "orchestrator",
+      "name": "Orchestrator",
+      "url": "https://github.com/OrchestratorInc/agent-orchestrator",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source (Apache-2.0) desktop app for macOS, Windows and Linux where an orchestrator agent splits work across 38 coding-agent harnesses (Claude Code, Codex, Cursor and more), each in its own git worktree, with a Kanban board that tracks every PR through CI and review and iOS/Android apps for r...",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "agent-standup",
+      "name": "Agent Standup",
+      "url": "https://github.com/Atoll92/agent-standup",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source viewer that shows the Claude Code, Codex and Mistral Vibe sessions on a computer, sub-agents included, as a live animated team call: who is working, who is stuck on a long command, who waits on another agent, who needs you. Reads only the session files the agents already write; VS Cod...",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "academic-commercialization-agent",
+      "name": "Academic Commercialization Agent",
+      "url": "https://github.com/shuxiachai/academic-commercialization-agent",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Multi-agent CrewAI pipeline that turns a research paper or topic into a cited commercialization screening report (technology readiness, manufacturing, patents, market); code freezes a validated source registry, the agents cite only from it, and the score is computed in code",
+      "ourReview": "",
+      "categories": [
+        "sales"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "opendraft",
+      "name": "OpenDraft",
+      "url": "https://github.com/federicodeponte/opendraft",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source agent system that researches and writes papers, literature reviews and thesis drafts, keeping only citations whose DOI is held by at least two of CrossRef, OpenAlex and Semantic Scholar",
+      "ourReview": "",
+      "categories": [
+        "research"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "kwant",
+      "name": "kwant",
+      "url": "https://github.com/alexsergivan/kwant",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Open-source self-hosted team of AI bots in one Rust binary \u2014 spaces, @mention handoffs, routines, approvals, any model including local. Alternative to Grok Bot, Claude Duet and OpenAI dots",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "zizkadb",
+      "name": "ZizkaDB",
+      "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Auditable memory for AI agents. Every agent step goes into a tamper-evident, hash-chained audit trail linked to the step that caused it, so you can ask why a decision was made, replay any past state and feed relevant memory into the next run. Python and TypeScript SDKs, LangChain, LangGraph and C...",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "deja-vu",
+      "name": "deja-vu",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Local searchable memory over the session transcripts 44 coding agents (Claude Code, Codex, Cursor, OpenCode, Gemini CLI, and more) already write to disk, with MCP tools, hooks, and history from before it was installed",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "xerj",
+      "name": "XERJ",
+      "url": "https://github.com/xerj-org/xerj",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Search engine for AI agents in one Rust binary. Indexes local code, docs, specs and logs, returns cited passages via BM25, vector and hybrid search, and keeps agent memory; local stdio MCP server included",
+      "ourReview": "",
+      "categories": [
+        "seo"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "memosync",
+      "name": "MemoSync",
+      "url": "https://github.com/SLEEPYBQ/MemoSync",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Local workbench for Claude Code, Codex, Pi and OpenCode that puts agent memory under user review: memory changes wait for approval, you pick what each turn uses, replies cite the memories they use, and a check afterwards reports which were followed",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "buddy",
+      "name": "Buddy",
+      "url": "https://github.com/ghorbelhamdi/buddy-android",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Android AI assistant in a floating bubble that lets Claude Code, Codex, OpenCode, Antigravity or Grok read the screen, tap and type on the phone, with approval cards for risky actions. No root, adb or PC",
+      "ourReview": "",
+      "categories": [
+        "assistant"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-11",
+      "lastChecked": "2026-11-11",
       "source": "scraper-kyrolabs"
     }
   ]
