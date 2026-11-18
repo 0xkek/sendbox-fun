@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T00:48:25.632407+00:00",
+  "lastUpdated": "2026-11-18T15:26:19.192370+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -56044,6 +56044,34 @@
       "founded": "",
       "addedDate": "2026-11-11",
       "lastChecked": "2026-11-11",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "spider",
+      "name": "Spider",
+      "url": "https://github.com/spider-rs/spider",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Web crawler and scraper written in Rust that agents use to fetch pages as markdown, text or HTML, with headless Chrome rendering and an MCP server",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "source": "scraper-kyrolabs"
     }
   ]
