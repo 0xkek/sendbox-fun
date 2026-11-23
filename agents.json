@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T19:17:25.374769+00:00",
+  "lastUpdated": "2026-11-23T06:54:57.615698+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -56072,6 +56072,34 @@
       "founded": "",
       "addedDate": "2026-11-18",
       "lastChecked": "2026-11-18",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "quarterdeck",
+      "name": "Quarterdeck",
+      "url": "https://github.com/shannonbay/Quarterdeck",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Persistent goals for Claude Code agents: standing objectives that run on a schedule in a background subagent, propose actions for human approval, and keep memory, work items and run history in local SQLite",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "source": "scraper-kyrolabs"
     }
   ]

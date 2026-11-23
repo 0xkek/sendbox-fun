@@ -11562,6 +11562,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sendbox.fun/tools/quarterdeck</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sendbox.fun/compare/apollo-io-vs-zoominfo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -11842,7 +11848,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sendbox.fun/blog/new-ai-tools-week-2026-47</loc>
+    <loc>https://sendbox.fun/blog/new-ai-tools-week-2026-48</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
