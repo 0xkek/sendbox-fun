@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-28T07:13:05.515620+00:00",
+  "lastUpdated": "2026-11-28T19:47:17.161881+00:00",
   "agents": [
     {
       "id": "buffer",
@@ -56100,6 +56100,34 @@
       "founded": "",
       "addedDate": "2026-11-23",
       "lastChecked": "2026-11-23",
+      "source": "scraper-kyrolabs"
+    },
+    {
+      "id": "graymatter",
+      "name": "GrayMatter",
+      "url": "https://github.com/angelnicolasc/graymatter",
+      "verified": false,
+      "trustScore": 0,
+      "description": "Local persistent memory layer, Go library, and MCP server for AI agents. Single static binary with hybrid retrieval, deterministic decay, self-building knowledge graph, Claude Code hooks, and terminal TUI",
+      "ourReview": "",
+      "categories": [
+        "dev-tools"
+      ],
+      "subcategories": [],
+      "bestFor": [],
+      "platforms": [],
+      "pricingModel": "unknown",
+      "pricingFrom": "See website",
+      "pricingNote": "",
+      "stats": {
+        "users": "N/A",
+        "keyMetric": "N/A",
+        "timeSaved": "N/A"
+      },
+      "affiliateLink": null,
+      "founded": "",
+      "addedDate": "2026-11-28",
+      "lastChecked": "2026-11-28",
       "source": "scraper-kyrolabs"
     }
   ]
